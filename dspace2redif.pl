@@ -1,3 +1,4 @@
+# source: https://ideas.repec.org/c/rpc/script/dspace2redif.html
 #!/usr/bin/perl
 # massage AgeconSearch OAI  XML files
 # based on OAIsloan2.pl written by Kit Baum

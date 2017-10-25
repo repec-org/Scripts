@@ -1,0 +1,10 @@
+﻿
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:scn
+Name: Электронные коллекции материалов по экономическим наукам из Соционета
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Description: Архив русскоязычных коллекций с материалами по
+	экономическим наукам из Соционета, приведенный к формату ReDIF
+URL: ftp://socionet.ru/REDIF/scn
+

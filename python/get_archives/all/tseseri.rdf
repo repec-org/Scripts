@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: TSE Working Papers
+Provider-Name: Toulouse School of Economics (TSE)
+Provider-Institution: RePEc:edi:tsetofr
+Maintainer-Email: com@tse-fr.eu
+Type: ReDIF-Paper
+Handle: RePEc:tse:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: IAST Working Papers
+Provider-Name: Institute for Advanced Study in Toulouse (IAST)
+Provider-Institution: RePEc:edi:iasttfr
+Maintainer-Email: com@tse-fr.eu
+Type: ReDIF-Paper
+Handle: RePEc:tse:iastwp
+

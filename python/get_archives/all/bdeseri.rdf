@@ -1,0 +1,102 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: The Working Paper Series seeks to disseminate original research in economics and finance. As from 2003, all papers have been anonymously refereed. By publishing these papers, the Banco de España aims to contribute to economic analysis and, in particular, to knowledge of the Spanish economy and its international environment
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Working Papers Homepage
+Provider-Homepage: http://www.bde.es/bde/en/secciones/informes/Publicaciones_se/docs/
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Name: María Beiro. Electronic Dissemination of Information Unit. Research Department. Banco de España
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Paper
+Handle: RePEc:bde:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional Papers
+Description: The Occasional Paper Series seeks to disseminate work conducted at the Banco de España in the performance of its functions that may be of general interest
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Occasional Papers Homepage
+Provider-Homepage: http://www.bde.es/bde/en/secciones/informes/Publicaciones_se/Documentos_Ocasi/
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Name: María Beiro. Electronic Dissemination of Information Unit. Research Department. Banco de España
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Paper
+Handle: RePEc:bde:opaper
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Bulletin
+Description: This quarterly publication contains the Quarterly Report on the Spanish Economy, Analytical Articles and Economic Notes. 
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Economic Bulletin Homepage
+Provider-Homepage: http://www.bde.es/bde/en/secciones/informes/boletines/Boletin_economic/
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Name: María Beiro. Electronic Dissemination of Information Unit. Research Department. Banco de España
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Article
+Handle: RePEc:bde:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Boletín Económico
+Description: Publicación trimestral. Consta de: Informes trimestrales de la economía española, Artículos Analíticos y Notas Económicas 
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Boletín Económico Homepage
+Provider-Homepage: http://www.bde.es/bde/es/secciones/informes/boletines/Boletin_economic/
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Name: María Beiro. Electronic Dissemination of Information Unit. Research Department. Banco de España
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Article
+Handle: RePEc:bde:joures
+
+Template-type: ReDIF-Series 1.0
+Name: Estudios de Historia Económica
+Description: La serie Estudios de Historia Económica pretende facilitar la difusión de estudios que contribuyan al mejor conocimiento de la economía española del pasado, con atención particular hacia sus aspectos cuantitativos
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Estudios de Historia Económica Homepage
+Provider-Homepage: http://www.bde.es/bde/es/secciones/informes/Publicaciones_se/Estudios_de_Hist/
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Name: María Beiro. Electronic Dissemination of Information Unit. Research Department. Banco de España
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Book
+Handle: RePEc:bde:esheco
+
+Template-type: ReDIF-Series 1.0
+Name: Estudios Económicos
+Description: La serie Estudios Económicos pretende facilitar la difusión de estudios de interés que contribuyan al mejor conocimiento de la economía española
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Estudios Económicos Homepage
+Provider-Homepage: http://www.bde.es/bde/es/secciones/informes/Publicaciones_se/Estudios_Economi/
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Name: María Beiro. Electronic Dissemination of Information Unit. Research Department. Banco de España
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Book
+Handle: RePEc:bde:esteco
+
+Template-type: ReDIF-Series 1.0
+Name: Other publications
+Description: Non-periodical. Miscellaneous Editions
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Other publications Homepage
+Provider-Homepage: http://www.bde.es/bde/en/secciones/informes/
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Name: María Beiro. Electronic Dissemination of Information Unit. Research Department. Banco de España
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Chapter
+Handle: RePEc:bde:otherp
+
+Template-type: ReDIF-Series 1.0
+Name: Statistical and Econometrics Software
+Description: Programs for statistical analysis of time series data
+Provider-Name: Banco de España
+Provider-Homepage: http://www.bde.es/
+Provider-Name: Statistical and Econometrics Software Homepage
+Provider-Homepage: http://www.bde.es/bde/en/secciones/servicios/Profesionales/Programas_estadi/Programas_estad_d9fa7f3710fd821.html
+Provider-Institution: RePEc:edi:bdegves
+Maintainer-Email: edicionydifusion@bde.es
+Type: ReDIF-Software
+Handle: RePEc:bde:sfware

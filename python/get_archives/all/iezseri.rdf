@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: The Institute of Economics, Zagreb
+Provider-Homepage: http://www.eizg.hr
+Provider-Institution: RePEc:edi:eizgghr
+Maintainer-Name: Doris Banicevic
+Maintainer-Email: dbanicevic@eizg.hr
+Type: ReDIF-Paper
+Handle: RePEc:iez:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Croatian Economic Survey 
+Provider-Name: The Institute of Economics, Zagreb
+Provider-Homepage: http://www.eizg.hr
+Provider-Institution: RePEc:edi:eizgghr
+Maintainer-Name: Doris Banicevic
+Maintainer-Email: dbanicevic@eizg.hr
+Type: ReDIF-Article
+Handle: RePEc:iez:survey
+

@@ -1,0 +1,2124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html><head><title></title>
+
+<link rev="made" href="mailto:WoPEc@netec.mcc.ac.uk">
+</head>
+<body>
+
+<hr>
+
+<h1></h1>
+<h2><h1>ReDIF version 1</h1><h3>
+Current maintainer: 
+<a href="http://gretel.econ.surrey.ac.uk/">Thomas Krichel</a>.
+</h3></h2>
+<h2><h4></h2>
+
+This document contains 
+contributions by <a href="http://www.uv.es/~barrueco/">Jos&eacute; Manuel Barrueco Cruz</a>, 
+<a href="http://fmwww.bc.edu/ec-v/baum.fac.html">Christopher Baum</a>,
+<a href="http://www.hhs.se/personal/SuneK/">Sune Karlsson</a>,
+ <a href="http://gretel.econ.surrey.ac.uk/%7eivan/">Ivan
+Kurmanov</a>
+and <a href="http://www.er.uqam.ca/nobel/r14160/">Christian Zimmermann</a>.
+</h4>
+<p><a name="l1"></a>
+<h2>1: Introduction</h2> 
+<p>This document describes version 1 of the Research Documents Information
+Format (ReDIF). ReDIF is a metadata format to describe the output aspects
+of academic disciplines. But that we mean the scientific documents that are
+produced, the channels through which they are made public, the authors that
+produce the papers and the editors that control the output channels, etc as
+well as the institutions that support this process. Subsequent versions
+will extend the capabilities of version 1. Data of version 1 will still be
+able to be understood by processing software that will implement future
+versions.
+<p>This document is outdated.  It is available in PDF format for
+<a href="http://openlib.org/acmes/root/docu/.papers/redif_1_1999-12.letter.pdf">US letter size
+paper</a>
+and for <a href="http://openlib.org/acmes/root/docu/.papers/redif_1_1999-12.a4.pdf">A4 size
+paper</a>
+. 
+The current versions are available in PDF format for
+<a href="http://openlib.org/acmes/root/docu/.papers/redif_1.letter.pdf">US letter size
+paper</a>
+and for <a href="http://openlib.org/acmes/root/docu/.papers/redif_1.a4.pdf">A4 size
+paper</a>
+.  All versions
+are  in the public domain. You are encouraged to distribute it to your
+friends and colleages.  We hope that the collection of data that are
+encoded using ReDIF will also be in the public domain.  Get in touch
+with the maintainer if wish to use ReDIF. Working together is more fun
+and more productive than working on your own.
+<p>ReDIF is shipped with software that allows to validate the syntax of its
+argument. For example, any date has to be of the form
+<em>yyyy-mm-dd</em>. "1999-07" is a valid date, whereas "Juillet 1999" is
+not a valid date. Therefore ReDIF is well suited for the decentralized
+maintenance of metadata.
+<p>In principle, ReDIF should be syntax independent; and we are working on a
+way to express ReDIF in a completely syntax independent way. 
+The verison 1 is not
+syntax independent.  In this document we only describe a template syntax
+for ReDIF.  This is a simple "<em>field</em>: <em>value</em>" data format inspired
+from the IAFA templates. A primitive nesting structure syntax is enabled
+through the use of clusters of fields. The default character set for ReDIF
+is ISO-8859-1. This is close to what is called Latin-1 on most machines and
+close enough to the standard Windows character set. It is also the
+character set that is used in the Hypetext Transfer Protocol (http).
+<p>ReDIF is a relational metadata format. Each record has an identifier, also
+called a "handle". Elements in one record may use the identifier of
+another record. This allows elements to refer to other elements. A simple
+example should be sufficient. An author may have written several papers. She
+would like to have her email available within the data for each
+paper. But if the phone number changes, there are changes required to all
+the records for all papers that the author has written. That is
+cumbersome. Instead, it is better to group all the personal data into one
+record, and use the handle of that record whenever personal data is
+required. The email address then only needs to be changed at one
+place. ReDIF explicitly allows for that. 
+<p>Note that examples in this document are mostly fictitious. All
+similarity with the real world should be understood as a coincidence.
+<p><a name="l2"></a>
+<h2>2: The ReDIF templates</h2>
+<p><a name="l3"></a>
+<h3>2.1: The template types</h3>
+<p>ReDIF allows to describe things in the world that are important
+to the work of an academic discipline. We will use the word
+"item" to refer to any such things. ReDIF
+allows to catalogue the following types of item. 
+<p>
+<p><center><table width=ll% border=0>
+<tr> 
+
+<td align=left> <em>item name</em> </td> 
+
+<td align=left> <em>concern</em> <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> ReDIF-paper </td> 
+
+<td align=left> a research report that is not formally published <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> ReDIF-article </td> 
+
+<td align=left> a research report in a scientific journal <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> ReDIF-chapter </td> 
+
+<td align=left> a research report in a book <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> book </td> 
+
+<td align=left> a book <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> software </td> 
+
+<td align=left> an executable software or a software script <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> series </td> 
+
+<td align=left> describes a series of templates of the items above <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> institution </td> 
+
+<td align=left> an institution, e.g. a reseach centre <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> person </td> 
+
+<td align=left> a person, who could be an editor of a paper, editor
+of a journal etc. <br></td> 
+
+ 
+</tr> 
+
+ 
+<br>
+</table></center> 
+
+<p>In addition, ReDIF knows about a number of templates that
+are internal to its operation. 
+<p>The ReDIF format splits all the information concerning a document into
+a set of data elements. By data element we mean an elementary piece of
+information that we do not wish to split further. The whole set of
+data elements that describe an object forms the bibliographic record
+or "template" of this object. "Attribute" and "field" are two synonyms
+for a data element. "Record" is a synonym for a template.
+<p>Templates or records are stored in files. Each file can contain one or
+more templates. But one template cannot be separated into several
+files.
+<p>The ReDIF templates aim to compromise between human and machine
+readability. The general syntax for a field is
+<p><em>data_element_name</em><code>:  </code><em>data element value</em>
+<p>where <em>data_element_name</em> would for example be
+<code>Author-Workplace-Phone</code> and the data element value would be
+<code>+44 1483 876958</code>.  Of course we could split the telephone
+number into an international dialling code, a city code and a local
+code, but that would go beyond what our data is actually needed for.
+The field name must be separated from the field value by a colon and
+optional whitespace. By a whitespace we mean a space character or a
+tabulation character or any combination of those.
+<p>Any field value may be continued (or even started) on the next line by
+adding a whitespace at the beginning of the continuing
+line. Multi-line data element values are delimited by the first line
+which does not have a whitespace character in the first position, or
+is blank. Thus all lines containing data element names should have no
+whitespace characters in the beginning of the line.
+<p>As a general rule, all whitespace characters that intends to signal
+the continuation of a field value are to be collapsed into a blank
+space character by processing software.
+For example,<pre>
+Title: Ecological outcomes
+       of economic progress of
+       mankind in last 100 years.
+       Critical review.
+</pre>
+
+is a correct.
+<p>All data element names may contain only alphanumeric characters, the
+hyphen ("-") and hash sign ("#"). No embedded spaces are allowed. All
+data element names are case insensitive. For readability we prefer
+that the initial letters are capitalised for better human
+readability).
+<p>Any attribute that starts with <code>X-</code> is considered to be local,
+and generally may be ignored by anyone.
+It may be used by template writers to store any additional information. 
+<p>
+<p>Many attributes may be repeated within one record, 
+but repetitions are discouraged and for some fields they are
+prohibited. But for example, here is a person that works in two places:
+<pre>
+Author-Name: Sturm, J.F.
+Author-Workplace-Name: Erasmus University Rotterdam,
+       Econometric Institute 
+Author-Workplace-Name: Center for Economic Policy Research
+</pre>
+
+But again, please avoid repeating attributes.
+<p><a name="l4"></a>
+<h3>2.2: Order of attributes in the template</h3>
+<p>The ReDIF format requires some ordering requirements on the attributes
+within the templates.  Some information has to be kept together. In that
+case of several authors, each having different affiliations, the
+affiliation of each author have to be kept with the author
+information. More generally, some data elements have to be 
+kept together. We call such a group of data elements a
+cluster and discuss it in <a href="redif_1_1999-12.html#clusters">Section <a href="redif_1_1999-12.html#clusters">3</a></a>.
+Each cluster has to start with a specific field. Similarly
+each template has to start with a Template-Type declaration.
+<p><a name="l5"></a>
+<h3>2.3: Template Types</h3>
+<p>All ReDIF templates must start with the <strong>Template-type</strong> field.  The
+value of this field has important meaning - it indicates what type of
+resource will be described by this template. Therefore, set of
+expected fields in the template itself depends on that value. The
+following are allowed at the moment.
+<p>
+<p><center><table width=lcl% border=0>
+<tr> 
+
+<td align=left> <em>Name</em> </td> 
+
+<td align=center> <em>Version</em> </td> 
+
+<td align=left> <em>used for</em> <br></td> 
+
+ 
+</tr> 
+
+
+<p><tr> 
+
+<td align=left> ReDIF-Paper </td> 
+
+<td align=center> <em>1.0</em> </td> 
+
+<td align=left> individual documents <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> ReDIF-Article </td> 
+
+<td align=center> <em>1.0</em> </td> 
+
+<td align=left> documents in a journal <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> ReDIF-Chapter </td> 
+
+<td align=center> <em>1.0</em> </td> 
+
+<td align=left> documents in a book <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> ReDIF-Series </td> 
+
+<td align=center> <em>1.0</em> </td> 
+
+<td align=left> series of documents <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> ReDIF-Archive </td> 
+
+<td align=center> <em>1.0</em> </td> 
+
+<td align=left> archives of series of documents <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> ReDIF-Mirror </td> 
+
+<td align=center> <em>1.0</em> </td> 
+
+<td align=left> mirrors of archives of series of documents <br></td> 
+
+ 
+</tr> 
+
+ 
+<br>
+</table></center> 
+
+<p>Each template type has also a version number. That version 
+number must be quoted after the template type. The version
+number will make it easier to implement changes to ReDIF.
+At the moment all template types are in version 1.0. 
+<p>Use: <pre>
+Template-Type: ReDIF-Archive 1.0
+...
+
+</pre>
+
+<p>Any data that does not start with a correct <strong>Template-Type</strong>:
+declaration will be ignored.
+<p><a name="l6"></a>
+<h2>3: Clusters</h2> <a name="clusters"></a>
+<p>There are some sets of data elements in all template types, which are
+common in several cases.  For example each file on the Internet has
+it's URL (Internet-address), it's content is presented in some
+specific format, and several different files can represent different
+parts the whole document.  For example, each person mentioned in any
+template may have a phone number, postal address, and probably works
+for some organizations and so on.  Similarly, each organization has
+it's specific name, address, phone number etc.
+<p>We decided that these three cases (persons, organisations
+and files) are more or less universal, so we
+use the concept of "clusters of attributes" for these cases. 
+<p>A cluster of attributes is a set of logically tied
+fields in a template about one particular subject or object. Clusters
+are in fact like small templates, which can be used inside real
+(bigger) templates. For example, if we have a template of type
+"ReDIF-Paper 1.0", it usually would contain a cluster (or several
+clusters) with information about the author(s) of the paper, and one
+or several clusters with information about the files of the paper,
+available on the Internet (if there are any). 
+<p>Each type of clusters has it's own structure (attributes). Like
+templates, clusters must always start with one particular field, "key"
+field. Each cluster has it's own key field.  The use of the key field
+is independent on which template the cluster is used in. It is also
+independent from the place where cluster is used in.  We say that it
+is independent on the context.
+<p>A cluster cannot be mixed with other attributes, which do not relate
+to this particular cluster. So you should always keep one cluster's
+attributes together. You can however nest clusters, for example
+start an organisation cluster to describe the organisation an
+author is affiliated with, within the cluster of this particular
+author. 
+<p>In fact, it's all not so complicated as it may seem. Let's look at
+some examples to make things clear. Here is a simple cluster of type
+"Person" which describes an author
+<p><pre>
+Author-Name: Joe Smith
+Author-Email: JoeSmith@some.uni.edu
+Author-Postal: PO Box 123, Smith Street, Somewhere In The, Universe, 987654 
+Author-Phone: +99 456-321123
+Author-Homepage: http://www.some.where.edu/~JoeSmith
+</pre>
+
+<p>Here is a cluster of type "Organization" describing a provider of a series
+of papers:
+<pre>
+Provider-Name: Central Publishing House
+Provider-Phone: ...
+Provider-Fax: ...
+Provider-Homepage: http://...
+</pre>
+
+<p>When we want to show you that you can use some cluster type a
+template, we will use a syntax like <strong>Author-(PERSON*)</strong>,
+<strong>Provider-(ORGANIZATION*)</strong>, <strong>File-(FILE*)</strong> etc. 
+<p>Thus the clusters below in this document often join an attribute
+prefix, e.g. "Author-", with a  cluster type name, e.g. "(PERSON*)",
+between parenthesis. 
+<p>When writing clusters you should always remember about 
+putting the key field first. For example,
+if you write 
+<pre>
+Template-Type: ReDIF-Paper 1.0
+Title: The Capital
+Author-Email: K.Marx@highgate.london.uk
+Author-Name: Karl Marx
+Author-Phone: ...
+</pre>
+
+<p>the <strong>Author-Email</strong>: attribute is not recognised,
+because at that
+point the <strong>Author-(PERSON*)</strong> cluster has not yet started.
+This will  result
+in an error message or in your template being ignored.
+ But the <strong>Author-Name</strong>: field that follows will start the cluster,
+because "Name" is the key field of the PERSON cluster. Hence
+<strong>Author-Phone</strong>: field will be correctly processed.
+<p>Another example of potential mistakes is a case, when there are
+several objects to be described by a cluster type. Imagine
+that we have  two
+editors for a series
+<pre>
+Editor-Name: Adam Smith
+Editor-Name: David Ricardo
+Editor-Email: Adam.Smith@classical.econ.org
+Editor-Email: David.Ricardo@classical.econ.org
+Editor-Workplace-Name: Institute of Classical Economics
+</pre>
+
+<p>Looking at this data you can easily find out that Smith's email
+address is <code>Adam.Smith@classical.econ.org</code> and that he
+probably works for the Institute of Classical Economics as Ricardo
+does. But computer wouldn't.
+For the computer, the line <code>Editor-Name: David Ricardo</code> has started
+a new <strong>PERSON</strong> cluster, so it will eventually contain all the rest
+information you gave, including the email address of Smith. 
+This mistake will not be identified as by any software only 
+a human can find this mistake. 
+<p>We believe that it's enough for you to understand the general
+principles of clusters.  We will fill in the details now.
+<p><a name="l7"></a>
+<h3>3.1: The ORGANIZATION and PERSON clusters</h3>
+<p>The <strong>ORGANIZATION</strong> cluster is defined by the following attributes:
+<p><center><table width=ll% border=0>
+<p><tr> 
+
+<td align=left> <em>Name</em> </td> 
+
+<td align=left> <em>Description</em> <br></td> 
+
+ 
+</tr> 
+
+
+<p><tr> 
+
+<td align=left> Name </td> 
+
+<td align=left> Name of organization, <strong>the key</strong> <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Name-English </td> 
+
+<td align=left> English translation of the name of organization <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Postal </td> 
+
+<td align=left> Postal Address of organization <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Location </td> 
+
+<td align=left> Name of place where organisation is based, e.g. "Harare" <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Email </td> 
+
+<td align=left> Electronic mail address(es) of organization <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Phone </td> 
+
+<td align=left> Telephone number(s) of organization <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Fax </td> 
+
+<td align=left> Fax number(s) of organization <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Homepage </td> 
+
+<td align=left> URL of organisation's home page <br></td> 
+
+ 
+</tr> 
+
+
+ 
+<br>
+</table></center> 
+
+<p><strong>Name</strong> is the key attribute of the organization cluster. It should
+always be put first. 
+<p>If you need example of organization cluster (where the
+organisation is in fact a provider): 
+<pre>
+Provider-Name:  Board of Governors of the Federal Reserve System 
+Provider-Homepage: http://www.bog.frb.fed.us/pubs/feds/1996/ 
+Provider-Email: fedspapers@frb.gov 
+
+</pre>
+
+<p>The <strong>PERSON</strong> cluster is used to describe Homo Sapiens.
+<p>
+<p><center><table width=ll% border=0>
+
+<tr> 
+
+<td align=left> <em>Name</em> </td> 
+
+<td align=left> <em>Description</em> <br></td> 
+
+ 
+</tr> 
+
+
+<p><tr> 
+
+<td align=left> Name </td> 
+
+<td align=left> Name of person, <strong>the key</strong> <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Workplace-(ORGANIZATION*) </td> 
+
+<td align=left> Organization in which person works <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Email </td> 
+
+<td align=left> Electronic mail address(es) of person <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Fax </td> 
+
+<td align=left> Fax number(s) of person <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Postal </td> 
+
+<td align=left> Postal address of person <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Phone </td> 
+
+<td align=left> Telephone contact information <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Homepage </td> 
+
+<td align=left> URL of person's home page <br></td> 
+
+ 
+</tr> 
+
+
+ 
+<br>
+</table></center> 
+
+<p><strong>Name</strong> is the key attribute of the person cluster. It should
+always be put first. 
+<p>Clusters can be nested, e.g., the  (PERSON*) cluster
+can have a Workplace-(ORGANIZATION*) cluster inside it, as
+we illustrated in the Adam Smith example earlier. 
+<p><a name="l8"></a>
+<h3>3.2: The FILE cluster</h3><a name="filecluster"></a>
+The <strong>FILE*</strong> cluster is used to describe a file that contains
+the resource that is being described, or a part of it. 
+<p><center><table width=ll% border=0>
+
+<tr> 
+
+<td align=left> <em>Name</em> </td> 
+
+<td align=left> <em>Description</em> <br></td> 
+
+ 
+</tr> 
+
+
+<p><tr> 
+
+<td align=left> URL </td> 
+
+<td align=left> Uniform Resource Locator of file, <strong>the key</strong> <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Format </td> 
+
+<td align=left> The format, e.g. "application/pdf" for PDF files, <strong>mandatory</strong> <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Function </td> 
+
+<td align=left> explains the function of file within the resource <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Size </td> 
+
+<td align=left> The file size, by default in kilobytes <br></td> 
+
+ 
+</tr> 
+
+<p><tr> 
+
+<td align=left> Restriction </td> 
+
+<td align=left> A restriction placed on accessing the file <br></td> 
+
+ 
+</tr> 
+
+<p>
+ 
+<br>
+</table></center> 
+
+<p>These attributes may be not so trivial as in previous clusters, so
+we'll describe each of them now.
+<p><strong>URL</strong>: This is the Uniform Resource Locator (URL) of the file on the
+Internet. The URL identifies an access protocol and a code that this
+protocol can use to retrieve the resource. Please refer to
+<a href="http://src.doc.ic.ac.uk/rfc/rfc1738.txt">http://src.doc.ic.ac.uk/rfc/rfc1738.txt</a> when composing a URL. 
+Any whitespace in
+the URL will be ignored. Following RFC1783 any whitespace that follows
+a dash character '-' is considered to be a mistake, because it is
+likely to have been introduced by word processing software. The 
+URL can be written over several lines, but do not break it after a
+dash.  Use: <pre>
+File-URL:
+  http://www.hhs.se/research/wpecofi/papers/wp0121.pdf.zip ...
+File-URL: ftp://crefe.dse.uqam.ca/pub/cahiers/cah44.ps
+</pre>
+
+<p>This is the key attribute of the file cluster. It should
+always be put first. 
+<p><strong>Format</strong>:  The contents of this field (all valid values) is restricted by
+a controlled 
+vocabulary, with the MIME Multipurpose Internet Mail 
+Extensions types. 
+These types are specified in the
+RFC1521 at <a href="http://src.doc.ic.ac.uk/rfc/rfc1521.ps.gz">http://src.doc.ic.ac.uk/rfc/rfc1521.ps.gz</a>.
+<a href="ftp://venera.isi.edu/in-notes/iana/assignments/media-types/media-types">One complete and up to date list of these types is maintained by the IANA 
+Internet Assigning Number Authority</a>.
+But we have added some more types to the list since MIME does not cover all the formats that we have in the database. The format of this field's value is: 
+<p><code>File-Format: </code><strong>type</strong><code>/</code><strong>subtype</strong>[<code>/</code><em>subsubtype1</em>][<code>/</code><em>subsubtype2</em>]
+<p>Here square brackets indicate that the expression inside is optional.  
+<p><strong>type</strong>:  The type will be one of <code>text</code>, <code>application</code> or <code>image</code>.
+<p><strong>subtype</strong>: The subtype is related to the type. 
+When <strong>type</strong> is <strong>text</strong> we have:<pre>
+text/plain 
+text/html 
+text/tex 
+text/latex 
+text/bibtex
+</pre>
+
+When the  the <strong>type</strong> is <code>application</code> we have: <pre>
+application/pdf 
+application/postscript 
+application/msword 
+application/wordperfect 
+application/dvi 
+application/lotus 
+application/chiwriter 
+application/gauss 
+application/amipro 
+application/mathematica 
+application/rtf
+application/envoy
+application/quattropro
+application/eps
+application/vnd.ms-excel
+application/hp
+application/fortran
+application/bin
+application/prn
+</pre>
+
+When the <strong>type</strong> is <code>image</code> we have: <pre>
+image/jpeg
+image/gif
+image/tiff
+</pre>
+
+<p>They are open lists that will be completed when documents with new formats 
+will appear. If you wish to use a new type, please mail to the current
+author of this document. 
+<p><code>/</code><em>subsubtype1</em> &amp; <em>subsubtype2</em>: To enumerate if the file is
+compressed and/or taped in some way. If one version is compressed and
+taped the file format will need two subsubtype parts. The
+<em>subsubtype</em> is optional. All files must have one type and subtype,
+but they may not have a subsubtype. The subsubtypes can be:
+<p><code>zipped</code>: zip files are the most popular compressed files 
+on the Internet. Usually they have the
+extension .zip
+<p><code>gnuzipped</code>: This is a gzip (GNU zip) file format. zip and gzip are two 
+different programmes, although the actual compression and decompression 
+sources were written by the same people. zip is an archiver: it compresses 
+several files into a single archive file. gzip is a simple compressor: each 
+file is compressed separately. On Unix, gzip is mostly useful in combination
+with tar. Usually they have the extension .gz. 
+<p><code>unixcompressed</code>:  Compressed with the standard  Unix compress utility;
+usually they have the extension .Z. 
+<p><code>taped</code>: an archive produced by the Unix <code>tar</code> utility.  Tar is not
+a compression programme. It is used in Unix machines and provides a
+way to store many files in a single archive, which can be kept in
+another Unix file. Usually the archive has the extension .tar.
+<p>The subsubtypes can be combined: 
+<pre>
+ .../zipped 
+.../gnuzipped 
+.../gnuzipped/taped 
+.../unixcompressed 
+.../mac-binhex40
+.../unixcompressed/taped
+</pre>
+
+<p>The attribute <strong>Format</strong>: is not repeatable and is case-insensitive.
+<p><strong>Function</strong>: This is the function of the file. It should be used when a file 
+represents only some part of the whole document (or resource). And the field
+value indicates what particular part of the document is represented. For
+example, use:
+<pre>
+File-Function: Appendix 1
+...
+File-Function: Main text 
+...
+File-Function: Example programme 
+</pre>
+
+If the file is a complete rendering of the resource, the <code>File-Function</code>
+field should not be used. The field is not repeatable within the 
+description of the same file. 
+<p><strong>Size</strong>: The file size, by default in kilobytes. 
+This attribute is not repeatable. Use: 
+<pre>
+File-Size: 48
+...
+File-Size: 1788984 bytes
+</pre>
+
+<p><strong>Restriction</strong>: A restriction on the retrieval of a file. If the
+file can be retrieved by anybody with Internet access without
+any preliminary payment or registration, you should
+<strong>not</strong> use that field at all. Please do not use the field to make
+recommendations of the type "please use outside working hours", since
+as soon as there is a restriction on the file many services will be
+assuming that there is no public access to the file. If all files
+of a document are restricted, please use the field <strong>Restriction</strong>: in the
+template of the resource, rather than repeating it for each file
+of the resource.
+<p>Two examples for a complete file cluster
+<pre>
+File-URL: http://rich.com/papers/d_duck.abs
+File-Format: text/plain 
+File-Function: Abstract
+
+File-URL: http://rich.com/papers/d_duck.wp
+File-Format: application/wordperfect 
+File-Function: Main text
+File-Size: 13982 bytes
+</pre>
+
+<p><a name="l9"></a>
+<h2>4: The ReDIF-Paper Template</h2>
+<p>This template concerns all papers that are 
+not published as part of a journal. We will be a bit more
+verbose here than in <a href="redif_1_1999-12.html#sitetemplates">Section <a href="redif_1_1999-12.html#sitetemplates">5</a></a>
+where we describe other templates.
+<p><a name="l10"></a>
+<h3>4.1: The elements of the ReDIF-Paper template</h3>
+<p><strong>Author-(PERSON*)</strong>: This cluster-field is used to describe the 
+person(s) that has
+created the document and is  mainly responsible for its intellectual
+content. We recommend the name of the author(s) should be given in
+normalised format like "Lastname, Firstname" but the direct order is
+also acceptable.
+<p>Omit titles, honours and others. If there are several authors, the
+information should be repeated for each author. This field  is
+mandatory.  That means that you should give at least one
+<strong>Author-Name</strong>: field with some value in each ReDIF-Paper template. Other
+information about the author is optional. Please do not overload the
+templates with author information. Use:<pre>
+Author-Name: Lang, William 
+Author-Email: wlang@lsuvm.sncc.lsu.edu 
+Author-Workplace-Name: Center for Economic Performance
+Author-Name: Sturm, J.F.
+Author-Workplace-Name: Erasmus University Rotterdam, 
+       Econometric Institute 
+Author-Workplace-Postal: P.O. Box 1738, NL- 3000 DR 
+       Rotterdam, The Netherlands 
+Author-Workplace-Homepage: http://www.eur.nl/few/ei/indexuk.html 
+Author-Workplace-Email: eb-webmaster@few.eur.nl 
+Author-Homepage: http://www.eur.nl/few/ei/stu.html
+</pre>
+
+<p>
+<p><strong>Contact-Email</strong>: This field is used to describe the 
+a person that is a contact for the paper. This does not
+need to the be the author's email. You should not supply
+this field if you already have the author email. In some
+cases where the author does not wish her email to be
+in the paper information, this field should be used.
+Use:<pre>
+Contact-Email: Economics_Secretariat@hicks.gross-uni.yy
+</pre>
+
+<p><strong>Title</strong>: The name of the document being catalogued. This includes any 
+subtitles. This is a required field. Use: <pre>
+Title: A Theory of Gradual Trade Liberalisation
+</pre>
+
+<p><strong>Abstract</strong>: This is the abstract of the document. Although we do
+not require to have an abstract, but we strongly recommend to
+provide a detailed abstract, because it increases the chance of users
+finding your document within a full-text database. 
+If you have a long abstract that has several paragraphs please
+split the paragraphs by the html <code>&lt;p&gt;</code>
+sequence or repeat the  <strong>Abstract</strong>: field for each paragraph.
+<p>
+<p><strong>Classification-</strong><em>scheme</em>: 
+This is the classification number associated with the document. The
+<strong>scheme</strong> is a code for a  classification scheme. Allowed (registered)
+classification schemes and codes are listed in 
+<a href="redif_1_1999-12.html#claschemes">Section
+<a href="redif_1_1999-12.html#claschemes">10.1</a></a>.
+If you have documents, classified with some other scheme, just email us your
+suggestion, and we will register your scheme. 
+<p>If there are several
+classification numbers of the same classification scheme, they will be
+separated by a semicolon. This attribute is not repeatable, unless
+there are multiple schemes used. Example:<pre>
+
+Classification-JEL: C12; C30
+</pre>
+
+<p><strong>Keywords[-</strong><em>scheme</em><strong>]</strong>: These are keywords associated with the
+text. If there are several keywords they will be separated by a
+semicolon.  <em>Scheme</em> is the keywords scheme's code but it can also
+be empty, to say that the
+keywords do not follow 
+a scheme. <strong>Keywords</strong>: should be used in that case.  If you have
+some keywords schemes, we will register it for you in 
+<a href="redif_1_1999-12.html#keyschemes">Section
+<a href="redif_1_1999-12.html#keyschemes">10.2</a></a>.
+<p>Example: <pre>
+Keywords: Competition; Consumer economics; Ethics; Philosophy of economics
+
+Keywords: Accounting theory; Accounting principles; Financial accounting
+</pre>
+
+<p>
+<p><strong>Note</strong>: Any other information that is relevant for the document. This 
+can be its relation to other documents, a word or two about the history of 
+the document etc. Use: 
+<pre>
+Note: This was an invited paper to a special issue of the Polish... 
+
+Note: This paper was written 5 years ago and we haven't... 
+</pre>
+
+<p><strong>Length</strong>: The length of a printed version of the 
+document, usually in pages. This attribute is not repeatable.
+Use: <pre>
+Length: 29 pages
+</pre>
+
+<p><strong>Series</strong>: This is the series of the document. You can simply name
+the series here. In any case series
+information may also be extracted from the series templates of the
+core template files. This attribute is not repeatable.
+<p><strong>Number</strong>: The number of the paper within the series. This attribute
+is not repeatable.
+<p><strong>Availability</strong>: This field can be used to state if a paper is out of
+print. If the paper is on the net it should not be used. It can also
+be used to say how the get hold of the copy of the paper.  This
+attribute is not repeatable.  Use: <pre>
+Availability: out of print
+</pre>
+
+<p><strong>Creation-Date</strong>: The date at which the original document was created. The
+format should be as similar to the <em>ISO 8601:1988 Data elements and
+interchange formats -- Information interchange -- Representation of
+dates and times</em>
+ as possible. This is <em>yyyy[-mm[-dd]]</em> where <em>yyyy</em> is the year, <em>mm</em> is
+the month and <em>dd</em> is the day. The notation <em>yyyy[dd[mm]]</em> may also be used.
+Note that the field should only contain the date of the creation,
+no other information. This field is not repeatable. Use:
+<pre>
+Creation-Date: 1995-06-30 
+</pre>
+
+<p><strong>Revision-Date</strong>: A date at which the document was changed.
+See previous paragraph for value format of this field - it is the same 
+as in <strong>Creation-Date</strong>. This field may be repeated. 
+<pre>
+Revision-Date: 1995-06-30
+</pre>
+
+<p><strong>Price</strong>: That refers to the price of a printed copy of the document,
+when ordered through the ordering channels specified in the 
+series template.  
+Use: 
+<pre>
+Price: $3.00 Surface, $4.00 Air (U.S. $)
+Price: 15 guilders by mail, free by ftp 
+</pre>
+
+<p><strong>Publication-Status</strong>: This can be used 
+ to say if a modified version of the document exists, has been
+forthcoming, etc. in a commercial journal, book or other type of
+formal publication. It should always start with the word "published"
+or the word "forthcoming" (case insensitive). Use: 
+<pre>
+ Publication-Status: Forthcoming in
+  Computational Statistics and Data 
+Publication-Status: Published in Journal of Artificial Intelligence
+   Research, Vol.3 
+Publication-Status: Published in American Journal of Agricultural Economics,
+  1995, vol. 77, no. 1. pp. 120-134.
+Publication-Status: Published by University of Arizona Press 
+</pre>
+
+<p><strong>Handle</strong>: This is a required field in all cases. It's really important. 
+The <strong>Handle</strong> field content starts with the name of the 
+authority (organization), for example RePEc. 
+The next element is a : and after that
+follows the code of the archive, then code of the series finally the number
+of the paper. All these parts are : separated. Note that this
+field may not contain whitespace. If the <em>Handle</em> is written over
+several lines, the processing software will eliminate 
+the whitespace characters on the lines boundaries. Use: 
+<pre>
+Handle: RePEc:bon:bonnsf:a452 
+Handle: RePEc:die:calsdi:9338 
+Handle: RePEc:wop:censes:90-1
+Handle: RePEc:wop:comadt:08 
+Handle: RePEc:wop:fedhbs:_007
+</pre>
+
+<p>Each electronic document, described in RePEc system will have it's own
+unique handle, which will allow to identify it (if we now the type
+of the document, e.g. Paper).
+<p><em>template_type</em><strong>-Handle</strong>: This attribute cannot
+be used until we develop and introduce more template types
+for different document types. But we will explain you idea for the future.
+If there is a different version of a document and this new version
+has been described using the ReDIF templates in some system (may be RePEc or
+may be not), it is possible to provide a reference to this another 
+variant of the document by use of this field. You just need to specify a 
+template-type in the field and give a handle. For a example, imagine
+that we have defined the ReDIF-Book template and we have a template of
+a paper, which was later published as a book. And this book also got
+to be described in a ReDIF template. Then just can include <strong>Book-Handle</strong>
+field into the ReDIF-Paper template and supply the handle (value of the field
+<strong>Handle</strong>) of the book. Restrictions on value of this field are the same like
+in case of bh(Handle).
+Use:
+<pre>
+Article-Handle: RePEc:chgooe:957701a
+Book-Handle: RePEc:aripr038
+</pre>
+
+The resolution process of these handles is not yet clear. 
+<p><strong>Notification</strong>: to specify how new versions of the paper are
+announced.
+<p><strong>Restriction</strong>: A restriction on the retrieval of a paper. This is
+similar to the field of the same name in the File cluster. If the 
+paper can be retrieved by anybody with internet access, you should
+not use that field at all. Please do not use the field to make
+recommendations of the type "please use outside working hours", since
+as soon as there is a restriction on a paper many services will be
+assuming that there is no public access to it.  If not all 
+of the files that make up the paper are restricted, mention the
+restriction only in the <strong>FILE</strong> cluster of the restricted. 
+<p><a name="l11"></a>
+<h3>4.2: Examples for paper templates</h3>
+<p>Below there are several examples of ReDIF templates of type "ReDIF-Paper 1.0".
+This is a simple document available only in PostScript format. 
+<p><pre>
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  David Currie
+Author-Name:  Paul Levine
+Author-Email:  p.levine@surrey.ac.uk
+Author-Name:  Joeseph Pearlman
+Author-Name:  Michael Chui
+Title:  Phases of Imitation and Innovation in a North-South Endogenous Growth
+        Model
+Abstract:  In this paper, we develop a North-South endogenous growth model to
+  examine three phases of development in the South: imitation of Northern
+  products, imitation and innovation and finally, innovation only.
+  In particular, the model has the features of catching up (and
+  potentially overtaking) which are of particular relevance to the Pacific Rim
+  economies.  We show that the possible equilibria 
+  depend on cross-country assimilation effects and the ease of
+  imitation.  We then apply the model to analyse the impact of R&amp;D
+  subsidies.  There are some clear global policy implications which emerge
+  from our analysis.  Firstly, because subsidies to Southern innovation
+  benefit the North as well, it is beneficial to the North to pay for some of
+  these subsidies.  Secondly, because the ability of the South to assimilate
+  Northern knowledge and innovate depends on Southern skills levels, the
+  consequent spillover benefits on growth make the subsidising
+  of Southern education by the North particularly attractive.
+Length:  26 pages
+Creation-Date:  199607
+File-URL: ftp://ftp.surrey.ac.uk/pub/econ/WorkingPapers/surrec9602.ps
+File-Format: Application/postscript
+Handle: RePEc:wop:surrec:9602
+</pre>
+
+<p>This example from the Washington University Working Paper Archive. The
+paper has six different formats (postscript, postscript
+unixcompressed, pdf and so on). It's author is Francisco F. R. Ramos
+from the Faculty of Economic, University of Porto. The original
+document was prepared using Microsoft Word as it said in the <strong>Note</strong>
+field.
+<p><pre>
+Template-Type: ReDIF-Paper: 1.0
+Title: Forecasting market shares using VAR and BVAR models: A comparison of
+        their forecasting performance
+Author-Name: Francisco F. R. Ramos
+Author-Email: framos@fep.up.pt
+Author-Workplace-Name: Faculty of Economic, University of Porto
+Note: Type of original Document - Winword 2.0; prepared on IBM PC; to print
+        on HP/Epson; figures: included. Word document submitted by ftp
+Length: 41 pages
+Keywords: Automobile market; BVAR models; Forecast accuracy; Impulse
+        response analysis; Marketing decision variables; Specification of
+        marketing priors; variance decomposition; VAR models
+Classification-JEL: C11; C32; M31
+Abstract: This paper develops a Bayesian vector autoregressive model (BVAR)
+        for the leader of the Portuguese car market to forecast the market
+        share. The model includes five marketing decision variables.The
+        Bayesian prior is selected on the basis of the accuracy of the out-
+        of-sample forecasts. We find that our BVAR models generally produce
+        more accurate forecasts of market share. The out-of-sample accuracy
+        of the BVAR forecasts is also compared with that of forecasts from
+        an unrestricted VAR model and of benchmark forecasts produced from
+        univariate (e.g., Box- Jenkins ARIMA) models. Additionally,
+        competitive dynamics of the market place are revealed through
+        variance decompositions and impulse response analysis. 
+Creation-Date: 19960123
+File-URL: http://econwpa.wustl.edu/econ-wp/em/papers/9601/9601003.ps
+File-Format: Application/PostScript
+File-URL: http://econwpa.wustl.edu/econ-wp/em/papers/9601/9601003.ps.Z
+File-Format: application/postscript/unixcompressed
+File-URL: http://econwpa.wustl.edu/econ-wp/em/papers/9601/9601003.pdf.Z
+File-Format: Application/pdf/unixcompressed
+File-URL: http://econwpa.wustl.edu/econ-wp/em/papers/9601/9601003.pdf.zip
+File-Format: Application/pdf/zipped
+File-URL: http://econwpa.wustl.edu/econ-wp/em/papers/9601/9601003.pdf.gz
+File-Format: application/pdf/gnuzipped
+File-URL: http://econwpa.wustl.edu/econ-wp/em/papers/9601/9601003.pdf
+File-Format: application/pdf
+Handle: RePEc:bob:wuwpem:9601001
+</pre>
+
+<p>This is an example of a document from the banking structure conference 1994 
+at the Federal Reserve Bank of Chicago. Although there is no published 
+working paper series of that kind, we have created a imaginary series 
+with code "fedhbs". The document is available as PostScript in two parts, or
+as a zipped PostScript file.
+<p><pre>
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Joseph P.Huges
+Author-Name: William Lang
+Author-Name: Loretta J. Mester
+Author-Name: Choon-Geol Moon
+Title: Recovering Techonologies That Account for Generalized
+        Managerial Preferences: An Application to Non-Risk-
+        Neutral Banks
+File-URL: ftp://test.frbchi.org/pub/bsc/doc13a.ps
+File-Format: Application/PostScript
+File-Function: Main Text
+File-URL: ftp://test.frbchi.org/pub/bsc/doc13b.ps
+File-Format: Application/PostScript 
+File-Function: Chart
+File-URL: ftp://test.frbchi.org/pub/bsc/doc13ps.zip
+File-Format: Application/Postscript/zipped
+File-Function: Archive of Main text and chart
+Handle: RePEc:wop:fedhbs:_013
+</pre>
+
+<p>Note that only Author-Name, Title and the Handle
+are mandatory in a template. It is however highly
+recommended that you should also give a Creation-Date,
+Abstract, Classification and/or Keywords. 
+<p><a name="l12"></a>
+<h2>5: The Core templates</h2><a name="sitetemplates"></a>
+<p>Core templates are templates that describe archives,
+mirrors and services. 
+<p><a name="l13"></a>
+<h3>5.1: The Archive template</h3>
+<p><strong>Template-type:</strong> <code>ReDIF-Archive 1.0 </code>
+Each archive template must start with this declaration.
+<p><strong>Handle</strong>: This is the archive handle. The handle of the archive is
+the name of the authority (for example <code>RePEc</code>), a <code>:</code> and then
+the <em>archive_identifier</em>.  The archive identifier has 3 letters. It
+should not have semantic contents.  The archive identifier is proposed
+by the archive administrator and awarded by the authority.
+<p>This field must not contain whitespace.
+<p><strong>Name</strong>: The name of the archive. This is a mandatory field.
+<p><strong>URL</strong>:  url for the archive directory. This is a mandatory field.
+The URL should either point to a http of ftp site and should
+and with the three letter archive code. 
+<p><strong>Homepage</strong>: the url of the archive's homepage. This should 
+point to a location that an end user may be interested in. 
+<p><strong>Description</strong>: a description of the archive's contents
+<p><strong>Maintainer-Email</strong>: the email of somebody 
+in charge of the archive (mandatory)
+<p><strong>Maintainer-Phone</strong>: phone number of some person
+in charge of the archive 
+<p><strong>Maintainer-Fax</strong>: phone number of some person
+in charge of the archive 
+<p><strong>Maintainer-Name</strong>: the name of a person that is
+in charge of the archive
+<p><strong>Classification-</strong><em>scheme</em>: Subject information for the archive, if
+applicable. Consult the same attribute in the Paper template and
+Appendix A for description.
+<p><strong>Notification</strong>: To specify how new papers in the archive are
+announced.
+<p><strong>Restriction</strong>: A restriction on the retrieval of all series in the
+archive. Similar to the same field in the paper template and in the
+file cluster. If the series can be retrieved by anybody with internet
+access, you should not use that field at all. If not all of the series
+that make up the archive are restricted, mention the restriction only
+in the series templates of the restricted series.
+<p>Templates examples:
+<pre>
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:bob
+Name: Economics Working Paper Archive at WUSTL
+Maintainer-Email: bparks@wuecona.wustl.edu
+URL: ftp://econwpa.wustl.edu/bob
+
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:wop
+Name: WoPEc Project
+Maintainer-Email: WoPEc@netec.mcc.ac.uk
+Description: This archive collects information about holding of
+ papers on those sites that have not (yet) joined RePEc.
+URL: ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/wop
+URL: http://netec.mcc.ac.uk/RePEc/wop/
+</pre>
+
+<p>The archive template must be kept in a file called <em>???</em><code>arch.rdf</code>
+where <em>???</em> is the <em>archive_identifier</em> of the archive.  Note
+the slash that ends the last URL! 
+<p><a name="l14"></a>
+<h3>5.2: The Series template</h3>
+<p><strong>Template-type</strong>: <code>ReDIF-Series 1.0 </code>
+Each series template must start with this attribute. 
+<p><strong>Name</strong>: The name of the series is a mandatory field.
+<p><strong>Type</strong>: Each series may only contain one type of templates. This
+rule is called "Baum's principle". The <strong>Type</strong>: field is used to
+indicate the type.  The default type is "ReDIF-Paper". Other legal series
+types are "ReDIF-Software", "ReDIF-Article", and "ReDIF-Book".
+<p><strong>Description</strong>: This should be
+a short description of the series' content. Advertise
+your series here! 
+<p><strong>Classification-</strong><em>scheme</em> Subject for the series according
+to scheme <em>scheme</em>. Consult the same attribute in the Paper template and
+Appendix A for description.
+<p><strong>Keywords[-</strong><em>scheme<strong>]</strong></em>: Keywords for the series according
+ to scheme <em>scheme</em>. Consult the same attribute in the Paper template and
+Appendix A for description.
+<p><strong>Editor-(PERSON*)</strong>: This is the person responsible for the contents of the
+ series
+<p><strong>Provider-(ORGANIZATION*)</strong>: This is the organisation that supports the series.
+<p><strong>Publisher-(ORGANIZATION*)</strong>: This is a synonym for "provider". It is 
+valid for historical reasons. 
+<p><strong>Notification</strong>: To specify how new papers in the series are
+announced.
+<p><strong>ISSN</strong>: The International Standard Serial Number for the series,
+if available. 
+<p><strong>Maintainer-Email</strong>: the email address person in charge of the series' files
+ but not necessarily of its contents. Note that this field is mandatory,
+the maintainer will receive mail alerting her of any errors discovered.
+<p><strong>Maintainer-Phone</strong>: phone number of some person
+ in charge of the series 
+<p><strong>Maintainer-Fax</strong>: phone number of some person
+ in charge of the series 
+<p><strong>Maintainer-Name</strong>: the name of a person that is
+in charge of the series
+<p><strong>Order-Email</strong>: email address where to send ordering requests to
+<p><strong>Order-Homepage</strong>: http URL of a screen where orders can be placed
+<p><strong>Order-Postal</strong>: Snail mail address where to order the paper
+<p><strong>Price</strong>: Price for all papers in the series when ordered. 
+ Can be overwritten by a separate <strong>Price</strong>: field in the paper
+<p><strong>Restriction</strong>: A restriction on the retrieval of all papers in the
+series. It has the same meaning as in File cluster and as in Paper
+template, but related to all the files of all the documents in that
+particular series.
+<p><strong>Handle</strong>: The handle of the series is the name of the authority (in
+our case <code>RePEc</code>, a <code>:</code> the handle of the archive, a <code>:</code> and
+then the <em>series_identifier</em>.  This attribute must not contain
+whitespace.  The <em>series_identifier</em> is a six letter code. It should
+not have semantic contents. The series code is awarded by the archive.
+<p><strong>Direct-Handle</strong>: The handle of another series that offers
+a better service about the papers in a series. This should be
+used if you have a large collection that comprises data about
+papers by institutions that directly supply data to us. In 
+that case you wish to signal that this direct data may be available.
+Processing software should check if the data for the direct
+series is available before dropping material from the series. 
+<p>Example:
+<p><pre>
+Template-type: ReDIF-Series 1.0
+Name: Computational Economics
+Description: This is a series for economists who are computer nerds. You
+ can not get more of an anorak than that. 
+Maintainer-Name: Bob Parks
+Maintainer-Email: bparks@wuecona.wustl.edu
+Handle: RePEc:bob:wuwpco
+
+Template-type: ReDIF-Series 1.0
+Name: Departmental Working Papers
+Provider-Name: East Carolina University, Department of Economics
+Provider-Homepage: http://ecuvax.cis.ecu.edu/~ecrothma/wp.htm 
+Maintainer-Email: ecrothma@ecuvax.cis.ecu.edu
+Handle: RePEc:wop:eakjkl
+</pre>
+
+<p><a name="l15"></a>
+<h2>6: ReDIF templates for other publications</h2>
+<p>If a paper has been published in a journal, as a book or as a chapter
+in a book, you may wish to indicate that in the
+<strong>Publication-Status</strong>: field of the ReDIF-Paper template.  The
+templates that follow are provided for archives that wish to provide
+more detailed information of the manifestations of a paper.  We only
+give a summary of the meaning of the fields.  Most of the fields are
+the same as in the ReDIF-Paper template and thus need no further
+explanation.
+<p>The templates in this section are considered draft templates.
+<p><a name="l16"></a>
+<h3>6.1: The ReDIF-Article Template</h3>
+<p>An article is something that appeared in a journal or is forthcoming
+in a journal. This is a draft template for such publications.
+<p><strong>Template-Type: ReDIF-Article 1.0</strong>   The template must start
+with this field
+<p>Other fields are like the paper template except that the
+following are not valid: 
+<p><strong>Length</strong>: <strong>Series</strong>: <strong>Availability</strong>: <strong>Price</strong>:
+<strong>Revision-Date</strong>: <strong>Article-Handle</strong>:. Of course <strong>Paper-Handle</strong>: is
+valid.
+<p>There are the following extra fields that the ReDIF-Article field has
+that are not in the ReDIF-Paper template. These are listed here.
+<p><strong>Journal</strong>: Name of the journal, non-repeatable
+<p><strong>Year</strong>: Year of publication,  non-repeatable
+<p><strong>Pages</strong>: Pages in journal, non-repeatable
+<p><strong>Volume</strong>: Volume article appears in, non-repeatable
+<p><strong>Month</strong>: Month journal issue is published, non-repeatable
+<p><strong>Handle</strong>: Handle of journal article. required.
+<p>It is of the form
+<p>RePEc:<em>archive_identifier</em>:<em>series_identifier</em>:<em>article_code</em>
+<p>where <em>archive_identifier</em> is the 3 letter archive identifier,
+<em>series_identifier</em> is the six letter identifier of a
+series and :<em>article_code</em> is the article code. The archive
+identifier should be the archive where the information is kept,
+if that is not known put "jou".
+<p>As far as the series identifier is concerned, only series of articles
+are admissible here. In fact as far as ReDIF is concerned, a journal
+is a nothing else than a series of articles. It therefore has a series
+code like a paper series. It can be refereed to as a "journal code" in
+casual language, but the reader should keep in mind that as far as the
+structure of ReDIF is concerned the journal is nothing else than
+a series. 
+<p>The <em>article_code</em> is a concatenation of qualifiers, separated
+by the colon character. Each qualifier is an  <em>attribute</em>:<em>value</em>
+pair. The <em>attribute</em> is represented by one letter only
+This is best understood by an example. 
+<p>RePEc:xxx:joinec:v:19:y:1985:i:Q1:p:67-84
+<p>The qualifiers currently defined are the following. We list
+a name for the qualifier, the letter of the qualifier,
+a description of values and a perl regular expression that
+that can be used to verify the syntax of the qualifier, as
+well as an optional additional check.
+<p>Name: volume<br>
+Letter: v<br>
+Value: any sequence of digits<br>
+RegEx: v[1-9][0-9]*<br>
+<p>Name: issue<br>
+Letter: i<br>
+Value: any sequence of digits<br>
+RegEx: i[1-9][0-9]*<br>
+<p>Name: year<br>
+Letter: y<br>
+Value: any sequence of four digits<br>
+RegEx: y:([1-9][0-9]{3})<br>
+Check: warn if $1 is higher then current year or earlier than 1500<br>
+<p>Name: pages <br><br>
+Value: number of page where article starts - number of page where <br>
+article ends<br>
+RegEx: p:S*([1-9][0-9]*)-S*([1-9][0-9]*)<br>
+Check: $1 should be smaller than $2<br>
+<p>here the S stands for "supplement", just in case that the 
+paper has not been published in the main issue. 
+<p>Name: issue<br>
+Value: which issue within the year. If the issue is a month, then
+  we give the English three letter start of the month: JAN, FEB
+  MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC. The numbers of the
+  months are also allowed here, but that is discouraged. If the issue is a
+  quarter, we use Q1, Q2 etc. If the issue has a start
+  date, put that date like 04-01 for 1 April. Note that you need
+  to put the - separator here because the date is otherwise mistaken
+  to be the number of the issue.There is no need to put an end date
+  for this issue. You can repeat the issue qualifier
+  if the physical issue covers several logical issues. SPE can be
+  added to say it is a special editions, and S can be 
+  postponed for a supplement. 
+RegEx: i:(($months\d*)($season[S]*)(Q[1234])(\d+)(\d\d-\d\d))
+  where $monthe="(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)"
+  and $season="(spr|sum|aut|win|spe)" 
+<p>Example:<pre>
+Template-Type: ReDIF-Article 1.0
+Title: Productivity Spillovers from FDI in the Uruguayan
+   Manufacturing Sector
+Author-Name: Kokko, Ari
+Author-Workplace-Name: Dept. of Economics, Stockholm School
+   of Economics
+Author-Workplace-Postal: Stockholm School of Economics,
+   P.O. Box 6501, 113 83 Stockholm, Sweden
+Author-Name: Tansini, Ruben
+Author-Name: Zejan, Mario
+Author-Workplace-Name: Dept. of Economics, Stockholm School
+   of Economics
+Author-Workplace-Postal: Stockholm School of Economics,
+   P.O. Box 6501, 113 83 Stockholm, Sweden
+Journal: Journal of Development Studies
+Pages: 602-611
+Volume: 32
+Year: 1996
+Publication-Status: Published
+Handle: RePEc:jou:devstu:v:32:y:1996:i:Q1:p:602-611
+
+</pre>
+ 
+What happens if you wish to provide data about the 
+formal publication, i.e., within a journal, of a paper for
+which you have ReDIF-Paper information. This is called Sune's
+problem. The basic status is that it is not possible for you
+to provide information about an article that you have published
+in a journal. It is for the journal or some agent of the journal
+to provide that information, because all the information about
+all the articles has to be kept together in once directory. However,
+you can give the Article handle, and a ReDIF literate individual
+should be able to find the information.
+<p><a name="l17"></a>
+<h3>6.2: The ReDIF-book Template</h3>
+<p>This is a drafter template 
+<p><code>Template-Type: ReDIF-Book 1.0</code>      The template must start
+with this field.
+<p><strong>Title</strong>: Title of book, required, non-repeatable
+<p><strong>Author-(PERSON*)</strong>: Person cluster for each author, at least
+one cluster is required.
+<p><strong>Abstract</strong>: Abstract.
+<p><strong>Classification-</strong><em>scheme</em>: non-repeatable
+<p><strong>Keywords[-</strong><em>scheme</em><strong>]</strong>: non-repeatable
+<p><strong>Publisher-(ORGANIZATION*)</strong>: Organization cluster for
+Publisher, required.
+<p><strong>Year</strong>: Year of publication, required for published books,
+non-repeatable
+<p><strong>Month</strong>: Month of publication, non-repeatable.
+<p><strong>Volume</strong>: Volume in multi-volume works, non-repeatable
+<p><strong>Edition</strong>: 2nd, 3rd etc., non-repeatable.
+<p><strong>Series</strong>: If the book is part of a series, non-repeatable.
+For example
+Series: Springer Lecture Notes in Mathematics, volume 234
+<p><strong>Editor-(PERSON*)</strong>: Editor of series.
+<p><strong>ISBN</strong>: ISBN of the book, non-repeatable.
+<p><strong>Publication-Status</strong>: One of 'Published' or 'Forthcoming',
+non-repeatable, Published is assumed if field is not
+present.
+<p><strong>Note</strong>: Any additional information
+<p><em>template</em><strong>-Handle</strong>: Handle of Paper, Article or Chapter template if
+published in several places.
+<p><strong>Handle</strong>: Required. See comment for Handle: in Article
+template. Sune Karlsson has suggested the naming scheme 
+RePEc:Archive:Series:boknnnn.
+<p>Required fields are <strong>Title</strong>:, <strong>Author-Name</strong>:, <strong>Handle</strong>: and
+<strong>Publisher-Name</strong>:. For published (as opposed to forthcoming) papers
+<strong>Year</strong>: is also required.
+<p><a name="l18"></a>
+<h3>6.3: The ReDIF-Chapter Template</h3>
+<p>This template is for chapters with individual authors in a
+collection of papers. Examples are papers published in
+conference proceedings, reprint volumes and Festschrifts.
+<p><strong>Template-Type</strong>: ReDIF-Chapter 1.0   The template must start
+with this field
+<p><strong>Title</strong>: Title of chapter, required, non-repeatable.
+<p><strong>Author-(PERSON*)</strong>: Person cluster for each author, at least
+one cluster is required.
+<p><strong>Abstract</strong>: Abstract.
+<p><strong>Classification-</strong><em>scheme</em>: non-repeatable
+<p><strong>Keywords[-</strong><em>scheme</em><strong>]</strong>: non-repeatable
+<p>
+<p><strong>Book-Title</strong>: Title of volume, required, non-repeatable.
+<p><strong>Editor-(PERSON*)</strong>: Editor cluster for each editor, at least
+one cluster is required.
+<p><strong>Year</strong>: Year of publication, required for published papers,
+non-repeatable.
+<p><strong>Month</strong>: Month of publication, non-repeatable.
+<p><strong>Pages</strong>: Pages in volume, non-repeatable.
+<p><strong>Chapter</strong>: Chapter in volume, non-repeatable.
+<p><strong>Volume</strong>: For multi-volume works, non-repeatable.
+<p><strong>Edition</strong>: 2nd, 3rd etc, non-repeatable.
+<p><strong>Series</strong>: Series that volume is part of, non-repeatable.
+<p><strong>ISBN</strong>: ISBN of volume, non-repeatable.
+<p><strong>Publication-Status</strong>: One of 'Published' or 'Forthcoming',
+non-repeatable, Published is assumed if field is not
+present.
+<p><strong>Note</strong>: Any additional information.
+<p><strong>Paper-Handle</strong>: Handle of working paper template, non-
+repeatable
+<p><strong>&lt;template&gt;-Handle</strong>: Handle of Article, Book or Chapter
+handle if published in several places.
+<p><strong>Handle</strong>: Required. Suggested scheme:
+RePEc:Archive:Series:chpnnn.
+<p>Required fields are <strong>Title</strong>:, <strong>Author-Name</strong>:, <strong>Book-Title</strong>:,
+<strong>Editor-Name</strong>:, <strong>Handle</strong>: and <strong>Provider-Name</strong>: or 
+<strong>Sponsor-Name</strong>:.
+For published papers <strong>Year</strong>: is also required.
+<p>Example:<pre>
+Template-Type: ReDIF-Chapter 1.0
+Title: Modelling Economic Relationships with Smooth
+   Transition Regressions
+Author-Name: Ter&auml;svirta, Timo
+Author-Workplace-Name: Department of Economic Statistics
+Author-Workplace-Postal: Stockholm School of Economics, Box
+   6501, 113 83 Stockholm, Sweden
+Book-Title: Handbook of Applied Economic Statistics
+Editor-Name: Giles, D.E.A.
+Editor-Name: Ullah, A.
+Publisher-Name: Dekker
+Publication-Status: Forthcoming
+Paper-Handle: RePEc:hhs:hastef:0131
+Handle: RePEc:hhs:hastef:chp0131
+</pre>
+
+<p><a name="l19"></a>
+<h3>6.4: The ReDIF-Software Template</h3>
+<p>This is a draft template.
+<p><strong>Template-Type: ReDIF-Software 1.0</strong> The template must start
+with this field
+<p><strong>Title</strong>: Name of the software, required, non-repeatable
+<p><strong>Programming-Language</strong>: this is a controlled vocabulary identifier
+for the language used. At the moment the only allowed value are
+"stata", "Mathematica", "RATS", "GAUSS", "MATLAB", "FORTRAN", "C", "Ox" and
+"perl". All these identifiers are case insensitive.
+<p><strong>Author-(PERSON*)</strong>: Person cluster for each author, at least
+one cluster is required.
+<p><strong>Abstract</strong>: Abstract to describe the principal function of the
+  software. 
+<p><strong>Number</strong>: The version number of the software
+<p><strong>Keywords</strong>:  keywords for the software, 
+<p><strong>Size</strong>: size of software, usually the number of lines of code
+<p><strong>Creation-Date</strong>: The date at which the original code was
+created. The format should be as similar to the <em>ISO 8601:1988 Data
+elements and interchange formats -- Information interchange --
+Representation of dates and times</em>
+ as possible. This is <em>yyyy[-mm[-dd]]</em> where <em>yyyy</em> is the year, <em>mm</em> is
+the month and <em>dd</em> is the day. The notation <em>yyyy[dd[mm]]</em> may also be used.
+Note that the field should only contain the date of the creation,
+no other information. This field is not repeatable. Use:
+<pre>
+Creation-Date: 1995-06-30 
+</pre>
+
+<p><strong>Revision-Date</strong>: A date at which the document was changed.
+See previous paragraph for value format of this field - it is the same 
+as in <strong>Creation-Date</strong>. This field may be repeated. 
+<pre>
+Revision-Date: 1995-06-30
+</pre>
+
+<p><strong>Note</strong>: additional information
+<p><strong>Requires</strong>:  indicates that a certain
+  package version, compiler, or operating environment is needed.
+<p><strong>Handle</strong>: Handle, of the form RePEc:Archive:Series:Number
+<p>Required fields are <strong>Title</strong>:, <strong>Author-Name</strong>: <strong>Programming-Language</strong>:
+ and <strong>Handle</strong>:.
+<p>Example:<pre>
+Template-Type: ReDIF-Software 1.0
+Title: MKSTRSN: Stata modules to format Social Security number variables
+Author-Name: William Gould
+Author-WorkPlace-Name: Stata Corporation
+Author-WorkPlace-Postal: Stata Corporation, 702 University Drive East,
+  College Station, Texas 77840 USA
+Author-Email: wgould@stata.com
+Programming-Language: Stata
+Abstract: mkstrsn and mkdashsn make string variables (without and with
+ dashes,respectively) from a nine-digit variable containing a Social 
+ Security number.   The commands have the syntax mkstrsn newvar oldvar
+  and mkdashsn newvar oldvar.
+Series: Statistical Software Components
+Number: S328601
+Creation-Date: 19971212
+Length: 39 lines
+Classification-JEL: C87
+File-URL: ftp://ftp.bc.edu/pub/user/baum/statal/mkstrsn.ado
+File-Format: text/plain
+File-Function: program code
+File-URL: ftp://ftp.bc.edu/pub/user/baum/statal/mkdashsn.ado
+File-Format: text/plain
+File-Function: program code
+Handle: RePEc:boc:bocode:S328601
+
+</pre>
+
+<p><a name="l20"></a>
+<h2>7: ReDIF templates for physical entities</h2>
+<p><a name="l21"></a>
+<h3>7.1: The ReDIF-Institution template</h3>
+<p>This template concerns information about institutions. This information
+can be used in the other templates by a call to the appropriate
+institution handle. The template has to be in a directory called inst.
+<p>The elements of the ReDIF-Institution template
+<p>There are three types of clusters: Primary, Secondary and Tertiary. This
+is to take account of some institutions being subdivision of others.
+Examples are: University of London/London School of Economics/Financial
+Markets Group, Federal Reserve Bank of Minneapolis/Research Department,
+Government of Zambia/Ministry of Finance. These three clusters are
+organized like the ORGANIZATION cluster described in section 3.1, with
+the addition of Location and Name-English elements. An example is:<pre>
+
+Primary-Name: Universite des Grands Espoirs
+Primary-Name-English: University of Grand Hopes
+Primary-Location: Panava-les-Flots
+Secondary-Name: Departement d'Economie
+Secondary-Name-English: Department of Economics
+Secondary-Email: eco@uge.edu
+Secondary-Homepage: http://www.eco.uge.edu/
+Secondary-Phone: (+567)3466356
+
+</pre>
+
+<p>An additional element is:
+<p><strong>Handle</strong>: This has to be a 7 letter handle, the last two characters being
+the ISO 3166 country codes (us for the United States, ea foe associations
+and societies). Archive edi (EDIRC) already has a lot of institutional
+information. For updating information about an institution already listed
+in EDIRC, please use the same handle! Information at other
+archives overrides the information of the edi archive. Examples:<pre>
+
+Handle: RePEc:edi:imfffus
+Handle: RePEc:edi:mofgvzm
+Handle: RePEc:fmg:fmlseuk
+ 
+</pre>
+
+Complete templates may therefore read:<pre>
+
+Template-Type: ReDIF-Institution 1.0
+Primary-Name: Government of Bahrain
+Primary-Location: Manama
+Secondary-Name: Bahrain Monetary Agency
+Secondary-Homepage: http://www.bma.gov.bh/
+Handle: RePEc:edi:bmagvbh
+ 
+</pre>
+
+<p><a name="l22"></a>
+<h2>8: The administrative templates</h2><a name="admintemplates"></a>
+<p>These templates are not intended for the providers of 
+archives. 
+<p><a name="l23"></a>
+<h3>8.1: The Mirror template</h3>
+<p>The mirror template describes what kind of mirror you are running on
+your machine. You are allowed to mirror any series and archive you
+wish. What you are mirroring is described in the mirror template.  It
+contains information that is read by the scripts that build your
+mirror.
+<p><strong>Template-type:</strong> <code>ReDIF-Mirror 1.0 </code> Each mirror template must
+start with this declaration.
+<p><strong>Archive-Handle</strong>: This is the archive identifier of your
+archive. This is a mandatory field. Each mirror must belong to
+an archive. 
+<p><strong>User</strong>: For Unix machines only. This is the name the user that that
+owns the archive. We recommend that you give that you use the name
+"adrepec". This is also the default username.  Why the "ad" stands in
+front of the "repec" is a long story that does not really belong here.
+<p><strong>Group</strong>: For Unix machines only.
+The name of the group of the user that that owns the archive.
+The  default is "adrepec". 
+<p><strong>Directory</strong>: The path for the directory of the mirror on your
+machine, i.e. the place where the
+directories of the archives live. The path can either be the full path
+or a relative path from home of the user that owns the archive. Note
+that this directory is not the RePEc directory where your own archive
+lives, but the place where a series of remote archive directory lives.
+We recommend that this path ends with <code>/remo</code>.
+<p><strong>Description</strong>: any description that you may add to the information
+about the mirror
+<p><strong>Maintainer-Email</strong>: the email of somebody in charge of the mirror
+(mandatory)
+<p><strong>Maintainer-Phone</strong>: phone number of some person
+ in charge of the mirror 
+<p><strong>Maintainer-Fax</strong>: fax number of some person
+ in charge of the mirror 
+<p><strong>Maintainer-Name</strong>: the name of a person that is
+in charge of the mirror.
+<p><strong>Machine</strong>: The DNS name or number on which the mirror is running. This
+is a mandatory field. 
+<p>The next four fields should be handled with care. At most one
+of them may appear. 
+<p><strong>Archives-Included</strong>: a list of archives handles that are included in
+the mirror. The list may be separated by any character except letters
+and colons.  If this field does not appear, the mirror will include
+all archives known to RePEc. If it appears, the mirror will include
+only the series listed. Thus for example, if you leave that
+attribute blank, the mirror will mirror nothing.
+<p><strong>Archives-Excluded</strong>: a list of archives handles that are excluded in
+the mirror. The list may be separated by any character except letters
+and colons.  If this field does not appear, the mirror will include
+all archives known to RePEc. If it appears, the mirror will exclude
+the archives that are listed. Thus for example, if you leave that
+attribute blank, the mirror will mirror everything. 
+<p><strong>Series-Included</strong>: a list of series handles that are included in
+the mirror. The list may be separated by any character except letters
+and colons.  If this field does not appear, the mirror will include
+all series known to RePEc. If it appears, the mirror will include
+only the series listed. Thus for example, if you leave that
+attribute blank, the mirror will mirror nothing. 
+<p><strong>Series-Excluded</strong>: a list of series handles that are excluded in
+the mirror. The list may be separated by any character except letters
+and colons.  If this field does not appear, the mirror will include
+all archives known to RePEc. If it appears, the mirror will exclude
+the archives that are listed only the series listed. Thus for example,
+if you leave that attribute blank, the mirror will mirror everything. 
+<p><strong>ReDIF-only</strong>: This field may be used to tell mirroring 
+software only to mirror files with the extension tt.rdf). 
+The value of the field will be ignored. If you wish to 
+mirror everything in an archive please do not use this field.
+<p>Examples
+<pre>
+Template-type: ReDIF-Mirror 1.0
+Archive-Handle: RePEc:jkb
+Machine: ftp.play.edu
+User: adrepec
+Group: users
+Directory: RePEc/remo
+Location: Southern Playland
+Description: Small mirror of two game theory series
+Maintainer-Email: J.von.Neumann@smart.edu
+Series-Included: RePEc:bon:bonsfa RePEc:bob:wuwpga 
+ 
+Template-type: ReDIF-Mirror 1.0
+Archive-Handle: RePEc:sur
+Machine: gretel.econ.surrey.ac.uk
+Description: A full mirror on a private machine 
+User: adrepec
+Group: users
+Directory: /usr/local/ftp/pub/RePEc/remo
+Location: Guildford, Surrey, England
+Maintainer-Name: Thomas Krichel 
+Maintainer-Email: T.Krichel@surrey.ac.uk
+</pre>
+
+<p><a name="l24"></a>
+<h3>8.2: The authority template</h3>
+<p>This is a draft template.
+<p><strong>Template-type:</strong> <code>ReDIF-Mirror 1.0 </code> Each authority template must
+start with this declaration.
+<p><strong>Url</strong>: The url where the authority is based. Required
+<p><strong>Handle</strong>: The handle of the authority. Required
+<p>Examples
+<pre>
+Template-type: ReDIF-Authority 1.0
+Url: http://netec.mcc.ac.uk/pub/RePEc
+Handle: RePEc
+
+</pre>
+
+<p>
+<p> 
+<p><a name="l25"></a>
+<h2>9: Data on secondary instances</h2> 
+<p>Some metadata relating to preprints contain information on where the paper
+has been published.  If a complete record for this instance is provided by
+the publisher of the formal channel, a link to that record may be included
+in the paper. However in most cases only partial and non-authoritative
+information about this instance in available. If that data is just a chain
+of characters, the <strong>Publication-Status</strong> field can be used. If that data
+is itself fielded, the MANIFESTATION cluster should be used.
+<p><a name="l26"></a>
+<h3>9.1: The MANIFESTATION cluster</h3>
+<p>Any instance where the resource or something very similar is formally
+published is called a manifestation of the resource. The manifestation
+cluster is used to deal with that.
+<p><strong>Type:</strong> Each manifestation template must
+start with this field. This field has a controlled vocabulary.
+It can take the following values. 
+<p><center><table width=ll% border=0>
+<tr> 
+
+<td align=left> <em>value</em> </td> 
+
+<td align=left> <em>explanation</em> <br></td> 
+
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>prar</code> </td> 
+
+<td align=left>  Published refereed journal article <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>puar</code> </td> 
+
+<td align=left>  Published unrefereed journal article <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>pboc</code> </td> 
+
+<td align=left>  Published book chapter <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>pcpa</code> </td> 
+
+<td align=left>  Published conference paper <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>pcpo</code> </td> 
+
+<td align=left>  Published conference poster <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>frar</code> </td> 
+
+<td align=left>  Refereed journal article in press <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>fboc</code> </td> 
+
+<td align=left>  Book chapter in press <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>fcpa</code> </td> 
+
+<td align=left>  Refereed conference paper in press <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>aupa</code> </td> 
+
+<td align=left>  Author archived Unrefereed paper <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>dupa</code> </td> 
+
+<td align=left>  Departmental archive unrefereed report <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>cupa</code> </td> 
+
+<td align=left>  Unpublished conference paper <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>cupo</code> </td> 
+
+<td align=left>  Unpublished conference poster <br></td> 
+ 
+</tr> 
+
+<tr> 
+
+<td align=left> <code>pnew</code> </td> 
+
+<td align=left>  Published Newspaper/magazine article <br></td> 
+ 
+</tr> 
+
+ 
+<br>
+</table></center> 
+
+ 
+<p><strong>Date</strong>: 
+A date associated with the manifestation
+<p><strong>Title</strong>: 
+The title of the manifestation. This should be similar to
+but not necessarily identical with the title of the resource. 
+<p><strong>Pages</strong>:
+The pagination of the manifestation, of the form 
+<em>number of the first page - number of the last page</em>.
+<p><strong>Publisher-ORGANIZATION</strong>:
+The publisher of the manifestation, an organization cluster.
+<p><strong>Conference-Date</strong>: 
+the date of the conference where the manifestation was presented. It must
+be of the form <em>yyyy-mm-dd</em>-<em>yyyy-mm-dd</em>. Dates may be of a simpler
+form like "1999", only the first <em>yyyy</em> is required.
+<p><strong>Conference-Title</strong>:
+The title of the conference. 
+<p><strong>Conference-Location</strong>
+The location of the conference. 
+<p><strong>Conference-Editor-PERSON</strong>: A person cluster for each
+editor of the conference proceedings.
+<p><strong>Journal-Title</strong>:
+The title of the journal in which the manifestation appeared. 
+<p><strong>Journal-Volume</strong>:
+The volume of the journal in which the manifestation appeared. 
+<p><strong>Journal-Year</strong>:
+The volume of the journal in which the manifestation appeared. 
+<p><strong>Journal-editor-PERSON</strong>:
+Personal data for the editor of the journal where the 
+manifestation appeared.
+<p><strong>Book-Chapter</strong>: 
+a free text indication about the chapter in the book the
+manifestation corresponds to. 
+<p><strong>Book-Volume</strong>
+The volume of the book, independly if the manifestation
+is a chapter in the book or the book itself
+<p><strong>Book-Editor-PERSON</strong>:
+This is personal data for the editor of the book where the
+chapter was produced. 
+<p><a name="l27"></a>
+<h2>10: Appendix Classification and keywords schemes</h2>
+<p><a name="l28"></a>
+<h3>10.1: Classification scheme(s)</h3><a name="claschemes"></a>
+<p><strong>Classification-Ila</strong>: The classification scheme 
+proposed in <a href="http://techreports.larc.nasa.gov/ltrs/PDF/1998/tm/NASA-98-tm208955.pdf">the NASA TechReport TM-1998-208955</a>.
+<p><strong>Classification-JEL</strong>: The classification system of Journal of Economic 
+Literature. It's usually used to classify economics texts. For more
+info see <a href="http://www.aeaweb.org/journal/elclasjn.html">http://www.aeaweb.org/journal/elclasjn.html</a>. Several
+code may be given separated by colon, semi-colon or blanks. 
+<p><strong>Classification-ACM-1998</strong>: The classification scheme used by the
+<a href="http://www.acm.org">Association for Computing Machinery</a>, in its
+<a href="http://www.acm.org/class/1998">version of 1998</a>.
+Several codes may be given separated by colon, semi-colon or blanks.
+<p><strong>Classification-ACM-1991</strong>: The classification scheme used by the
+<a href="http://www.acm.org">Association for Computing Machinery</a>, in its
+<a href="http://www.acm.org/class/1991">version of 1991</a>. Several codes may be
+given separated by colon, semi-colon or blanks.
+<p><strong>Classification-ACM-1964</strong>: The classification scheme used by the
+<a href="http://www.acm.org">Association for Computing Machinery</a>, in its
+<a href="http://www.acm.org/class/1964">version of 1964</a>.  Several codes may be
+given separated by colon, semi-colon or blanks.
+<p><strong>Classification-MSC-1991</strong>: The Mathematics classification scheme devised
+by the <a href="http://www.ams.org">American Mathematical Society</a>, in its
+<a href="http://math-doc.ujf-grenoble.fr/MSC1991/msc.txt">version of 1991</a>. 
+Several codes may be given
+separated by colon, semi-colon or blanks.
+<p><strong>Classification-MSC-2000</strong>: The Mathematics classification scheme devised
+by the <a href="http://www.ams.org">American Mathematical Society</a>, in its
+<a href="http://www.ams.org/mathweb/msc2000.html">version of 2000</a>.
+Several codes may be given separated by colon, semi-colon or blanks. 
+<p><a name="l29"></a>
+<h3>10.2: Keywords scheme(s)</h3><a name="keyschemes"></a>
+<p><strong>Attent</strong>: This is a thesaurus (list of controlled keywords) which was
+used for a database "Attent: Research Memoranda". This database, as
+well as the thesaurus, is produced and maintained by Tilburg University
+Library.  "Attent: Research Memoranda" only includes economic working
+papers.  The thesaurus includes economic and mathematical keywords.
+For further details contact Corry Stuyts &lt;C.Styuts@kub.nl&gt;.
+<p><HR>
+<address>
+maintained on 
+<a href="http://openlib.org">http://openlib.org</a>,
+mail &lt<a href=dq(mailto:openlib@openlib.org)>
+mailto:openlib@openlib.org</a>&gt 
+</address> 
+<p></body>
+</html>

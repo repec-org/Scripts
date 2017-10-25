@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Brooks World Poverty Institute Working Paper Series
+Description:  Brooks World Poverty Institute Working Paper Series at The University of Manchester
+Provider-Name: BWPI, The University of Manchester
+Provider-Homepage: http://www.gdi.manchester.ac.uk/
+Provider-Institution: RePEc:edi:wpmanuk
+Maintainer-Name: Rowena Harding
+Maintainer-Email: bwpi@manchester.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:bwp:bwppap
+
+Template-type: ReDIF-Series 1.0
+Name: Effective States and Inclusive Development Working Paper Series
+Description:  Brooks World Poverty Institute Working Paper Series at The University of Manchester
+Provider-Name: BWPI, The University of Manchester
+Provider-Homepage: http://www.gdi.manchester.ac.uk/
+Provider-Institution: RePEc:edi:wpmanuk
+Maintainer-Name: Clare Degenhardt
+Maintainer-Email: esid@manchester.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:bwp:esidwp

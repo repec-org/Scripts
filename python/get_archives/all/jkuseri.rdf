@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics working papers
+Description: Working papers of the Department of Economics, Johannes Kepler University Linz, Austria
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, Johannes Kepler University Linz, Austria
+Provider-Institution: RePEc:edi:vlinzat
+Maintainer-Name: Ren&eacute; B&ouml;heim
+Maintainer-Email: Rene.Boeheim@jku.at
+Handle: RePEc:jku:econwp
+
+Template-type: ReDIF-Series 1.0
+Name: NRN working papers
+Description: Working papers of the The Austrian Center for Labor Economics and the Analysis of the Welfare State, Johannes Kepler University Linz, Austria
+Type: ReDIF-Paper
+Provider-Name: The Austrian Center for Labor Economics and the Analysis of the Welfare State, Johannes Kepler University Linz, Austria
+Provider-Institution: RePEc:edi:aclawat
+Maintainer-Name: Ren&eacute; B&ouml;heim
+Maintainer-Email: Rene.Boeheim@jku.at
+Handle: RePEc:jku:nrnwps
+
+
+Template-type: ReDIF-Series 1.0
+Name: CDL Aging, Health, Labor working papers
+Description: Working papers of the Christian Doppler (CD) Laboratory Aging, Health, and the Labor Market, Johannes Kepler University Linz, Austria
+Type: ReDIF-Paper
+Provider-Name: The Christian Doppler (CD) Laboratory Aging, Health, and the Labor Market, Johannes Kepler University Linz, Austria
+Provider-Institution: RePEc:edi:vlinzat
+Maintainer-Name: Ren&eacute; B&ouml;heim
+Maintainer-Email: Rene.Boeheim@jku.at
+Handle: RePEc:jku:cdlwps
+
+
+
+
+

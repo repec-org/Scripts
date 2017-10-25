@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Laboratoire de Recherche sur l'Industrie et l'Innovation. ULCO / Research Unit on Industry and Innovation
+Provider-Homepage: http://riifr.univ-littoral.fr/
+Provider-Institution: RePEc:edi:rilitfr
+Maintainer-Name: Philippe Chagnon
+Maintainer-Email: chagnon@univ-littoral.fr
+Type: ReDIF-Paper
+Handle:RePEc:rii:riidoc
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Réseau de Recherche sur l’Innovation. / Research Network on Innovation 
+Provider-Homepage: http://rrifr.univ-littoral.fr/
+Provider-Institution: RePEc:edi:rilitfr
+Maintainer-Name: Alexandre UZUNIDIS
+Maintainer-Email: alexandre.uzunidis@wanadoo.fr
+Type: ReDIF-Paper
+Handle:RePEc:rii:rridoc

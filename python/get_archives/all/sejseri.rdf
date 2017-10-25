@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: Southern Economic Journal
+Description: This is the official journal of the Southern Economic Association
+Provider-Name: Southern Economic Association
+Provider-Homepage: http://www.southerneconomic.org/
+Provider-Institution: RePEc:edi:seaaaea
+Maintainer-Name: Laura Razzolini
+Maintainer-Email: sej@vcu.edu
+Editor-Name: Laura Razzolini
+Editor-Email: sej@vcu.edu
+Type: ReDIF-Article
+Handle: RePEc:sej:ancoec

@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Tuzla, Faculty of Economics
+Provider-Homepage: http://www.ef.untz.ba
+Provider-Institution: RePEc:edi:efutzba
+Maintainer-Name: Senad Celikovic
+Maintainer-Email: senad.celikovic@untz.ba
+Type: ReDIF-Paper
+Handle: RePEc:tuz:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Review: Journal of Economics and Business
+Description: This is the official journal of Faculty of Economics
+Provider-Name: University of Tuzla, Faculty of Economics
+Provider-Institution: RePEc:edi:efutzba
+Maintainer-Name: Senad Celikovic
+Maintainer-Email: senad.celikovic@untz.ba
+Editor-Name: Zijad Dzafic
+Editor-Email: zijad.dzafic@untz.ba
+Type: ReDIF-Article
+Handle: RePEc:tuz:journl

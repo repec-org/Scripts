@@ -1,0 +1,53 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Type: ReDIF-Paper
+Provider-Name: CEPII research center
+Provider-Institution: RePEc:edi:cepiifr
+Provider-Homepage: http://www.cepii.fr
+Maintainer-Email: cepiiweb@cepii.fr
+Handle: RePEc:cii:cepidt
+
+Template-Type: ReDIF-Series 1.0
+Name:  CEPII Policy Brief
+Type: ReDIF-Paper
+Provider-Name: CEPII research center
+Provider-Institution: RePEc:edi:cepiifr
+Provider-Homepage: http://www.cepii.fr
+Maintainer-Email: cepiiweb@cepii.fr
+Handle: RePEc:cii:cepipb
+
+Template-Type: ReDIF-Series 1.0
+Name:  Panorama du CEPII
+Type: ReDIF-Article
+Provider-Name: CEPII research center
+Provider-Institution: RePEc:edi:cepiifr
+Provider-Homepage: http://www.cepii.fr
+Maintainer-Email: cepiiweb@cepii.fr
+Handle: RePEc:cii:cepipa
+
+Template-Type: ReDIF-Series 1.0
+Name:  La Lettre du CEPII
+Type: ReDIF-Article
+Provider-Name: CEPII research center
+Provider-Institution: RePEc:edi:cepiifr
+Provider-Homepage: http://www.cepii.fr
+Maintainer-Email: cepiiweb@cepii.fr
+Handle: RePEc:cii:cepill
+
+Template-Type: ReDIF-Series 1.0
+Name:  International Economics
+Type: ReDIF-Article
+Provider-Name: CEPII research center
+Provider-Institution: RePEc:edi:cepiifr
+Provider-Homepage: http://www.cepii.fr
+Maintainer-Email: cepiiweb@cepii.fr
+Handle: RePEc:cii:cepiie
+
+Template-Type: ReDIF-Series 1.0
+Name:  Economie Internationale
+Type: ReDIF-Article
+Provider-Name: CEPII research center
+Provider-Institution: RePEc:edi:cepiifr
+Provider-Homepage: http://www.cepii.fr
+Maintainer-Email: cepiiweb@cepii.fr
+Handle: RePEc:cii:cepiei

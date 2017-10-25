@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name:Business School Working Papers
+Type: ReDIF-Paper
+Provider-Name:Universidad Torcuato Di Tella
+Provider-Institution: RePEc:edi:eeutdar
+Provider-Homepage:http://www.utdt.edu/listado_contenidos.php?id_item_menu=4994
+Maintainer-Name:Nicolás Del Ponte
+Maintainer-Email:ndelponte@utdt.edu
+Handle: RePEc:udt:wpbsdt
+
+Template-type: ReDIF-Series 1.0
+Name:Department of Economics Working Papers
+Type: ReDIF-Paper
+Provider-Name:Universidad Torcuato Di Tella
+Provider-Institution: RePEc:edi:deutdar
+Provider-Homepage:http://www.utdt.edu/ver_contenido.php?id_contenido=439&id_item_menu=568
+Maintainer-Name:Martin Cecilia Lafuente
+Maintainer-Email:economia@utdt.edu
+Handle: RePEc:udt:wpecon
+

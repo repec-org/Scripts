@@ -1,0 +1,40 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Economic Alternatives
+Provider-Name: University of National and World Economy, Sofia, Bulgaria
+Provider-Homepage: http://www.unwe.bg/ 
+Provider-Institution: RePEc:edi:unweebg
+Maintainer-Name: Vanya Lazarova
+Maintainer-Email: vlazarova@unwe.bg
+Type: ReDIF-Article
+Handle: RePEc:nwe:eajour
+
+Template-Type: ReDIF-Series 1.0
+Name:  Ikonomiceski i Sotsialni Alternativi
+Provider-Name: University of National and World Economy, Sofia, Bulgaria
+Provider-Homepage: http://www.unwe.bg/ 
+Provider-Institution: RePEc:edi:unweebg
+Maintainer-Name: Vanya Lazarova
+Maintainer-Email: vlazarova@unwe.bg
+Type: ReDIF-Article
+Handle: RePEc:nwe:iisabg
+
+Template-Type: ReDIF-Series 1.0
+Name:  Nauchni trudove
+Provider-Name: University of National and World Economy, Sofia, Bulgaria
+Provider-Homepage: http://www.unwe.bg/ 
+Provider-Institution: RePEc:edi:unweebg
+Maintainer-Name: Vanya Lazarova
+Maintainer-Email: vlazarova@unwe.bg
+Type: ReDIF-Article
+Handle: RePEc:nwe:natrud
+
+Template-Type: ReDIF-Series 1.0
+Name:  Godishnik na UNSS
+Provider-Name: University of National and World Economy, Sofia, Bulgaria
+Provider-Homepage: http://www.unwe.bg/ 
+Provider-Institution: RePEc:edi:unweebg
+Maintainer-Name: Vanya Lazarova
+Maintainer-Email: vlazarova@unwe.bg
+Type: ReDIF-Article
+Handle: RePEc:nwe:godish
+

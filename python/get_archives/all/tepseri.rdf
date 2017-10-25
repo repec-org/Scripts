@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: TEPP Research Report
+Type: ReDIF-Paper
+Provider-Name: TEPP
+Provider-Institution: RePEc:edi:teppnfr
+Maintainer-Name: Sylvain
+Maintainer-Email: sylvain.chareyron@univ-paris-est.fr
+Handle: RePEc:tep:tepprr
+
+Template-type: ReDIF-Series 1.0
+Name: TEPP Working Paper
+Type: ReDIF-Paper
+Provider-Name: TEPP
+Provider-Institution: RePEc:edi:teppnfr
+Maintainer-Name: Sylvain
+Maintainer-Email: sylvain.chareyron@univ-paris-est.fr
+Handle: RePEc:tep:teppwp
+

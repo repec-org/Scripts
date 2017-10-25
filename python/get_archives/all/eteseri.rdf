@@ -1,0 +1,92 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Department of Accounting, Finance and Insurance (AFI) 
+Provider-Name: KU Leuven, Faculty of Economics and Business, Department of Accounting, Finance and Insurance (AFI)
+Provider-Homepage: http://feb.kuleuven.be/AFI
+Maintainer-Name: library EBIB
+Maintainer-Email: ebib@kuleuven.be
+Type: ReDIF-Paper
+Handle: RePEc:ete:afiper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Department of Economics 
+Provider-Name: KU Leuven, Faculty of Economics and Business, Department of Economics 
+Provider-Homepage: http://feb.kuleuven.be/Economics/
+Maintainer-Name: library EBIB 
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:ceswps
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Department of Managerial Economics, Strategy and Innovation (MSI)
+Provider-Name: KU Leuven, Faculty of Economics and Business, Department of Managerial Economics, Strategy and Innovation (MSI)
+Provider-Homepage: http://feb.kuleuven.be/MSI
+Maintainer-Name: library EBIB 
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:msiper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Department of Decision Sciences and Information Management
+Provider-Name: KU Leuven, Faculty of Economics and Business, Department of Decision Sciences and Information Management
+Provider-Homepage: http://feb.kuleuven.be/KBI
+Maintainer-Name: library EBIB 
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:kbiper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Department of Marketing and Organisation Studies (MO)
+Provider-Name: KU Leuven, Faculty of Economics and Business, Department of Marketing and Organisation Studies (MO)
+Provider-Homepage: http://feb.kuleuven.be/drc/mo
+Maintainer-Name: library EBIB 
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:mopapr
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers VIVES Research Centre for Regional Economics
+Provider-Name: KU Leuven, Faculty of Economics and Business, VIVES Research Centre for Regional Economics
+Provider-Homepage: https://feb.kuleuven.be/VIVES/vivesenglish/general/
+Maintainer-Name: library EBIB 
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:vivwps
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Centre for Economics and Ethics
+Provider-Name: KU Leuven, Faculty of Economics and Business, Centre for Economics and Ethics
+Provider-Homepage: http://www.kuleuven.be/cee
+Maintainer-Name: library EBIB 
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:ceeper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers LICOS Centre for Institutions and Economic Performance 
+Provider-Name: KU Leuven, Faculty of Economics and Business, LICOS Centre for Institutions and Economic Performance 
+Provider-Homepage: http://feb.kuleuven.be/LICOS
+Maintainer-Name: library EBIB 
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:licosp
+
+Template-type: ReDIF-Series 1.0
+Name: Review of Business and Economic Literature
+Provider-Name: KU Leuven, Faculty of Economics and Business, Review of Business and Economic Literature
+Provider-Homepage: http://feb.kuleuven.be/rebel
+Provider-Institution: RePEc:edi:fekulbe
+Maintainer-Name: library EBIB
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Article
+Handle: RePEc:ete:revbec
+
+Template-type: ReDIF-Series 1.0
+Name: Energy, Transport and Environment Working Papers Series
+Provider-Name: KU Leuven, Department of Economics - Research Group Energy, Transport and Environment
+Provider-Homepage: http://feb.kuleuven.be/Economics
+Provider-Institution: RePEc:edi:etkulbe
+Maintainer-Name: library EBIB
+Maintainer-Email: ebib@kuleuven.be 
+Type: ReDIF-Paper
+Handle: RePEc:ete:etewps
+

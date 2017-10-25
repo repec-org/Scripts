@@ -1,0 +1,19 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Open Access publications
+Provider-Name: Research Repository, University College Dublin
+Provider-Homepage: http://researchrepository.ucd.ie
+Maintainer-Name: Joseph Greene
+Maintainer-Email: joseph.greene@ucd.ie
+Type: ReDIF-Paper
+Handle: RePEc:rru:oapubs
+
+
+Template-type: ReDIF-Series 1.0
+Name: Centre for Financial Markets Working Papers
+Provider-Name: Research Repository, University College Dublin
+Provider-Homepage: http://researchrepository.ucd.ie
+Provider-Institution: RePEc:edi:cfucdie
+Maintainer-Name: Joseph Greene
+Maintainer-Email: joseph.greene@ucd.ie
+Type: ReDIF-Paper
+Handle: RePEc:rru:cfmwps

@@ -1,0 +1,55 @@
+Template-type: ReDIF-Series 1.0
+Name: Lecturas de Economía
+Provider-Name: Universidad de Antioquia, Departamento de Economía
+Provider-Homepage: http://economia.udea.edu.co
+Provider-Institution: RePEc:edi:deantco
+Maintainer-Name: Carlos Andrés Vasco Correa
+Maintainer-Email: carlosvasco@gmail.com
+Editor-Name: Catalina Granda-Carvajal
+Editor-Email: revistalecturas@udea.edu.co
+Order-Postal:  Lecturas de Economía, Departamento de Economía, Calle 67, 53-108, Medellin 050010, Colombia.
+ISSN: 0120-2596
+Description: Lecturas de Economía is edited by the Centro de Investigaciones  y Consultorías -CIC- and by the Department of Economics at Universidad de Antioquia. Since 1980 these institutions have supported and projected the journal both nationally and internationally so that it could reach a broader readership. In consequence, these efforts have led it to publish not only in Spanish but also in English and French. The journal is published twice a year.
+Type: ReDIF-Article
+Handle: RePEc:lde:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Coyuntura
+Provider-Name: Universidad de Antioquia, Departamento de Economía
+Provider-Homepage: http://economia.udea.edu.co
+Provider-Institution: RePEc:edi:deantco
+Maintainer-Name: Carlos Andrés Vasco Correa
+Maintainer-Email: carlosvasco@gmail.com
+Editor-Name: Ramon Javier Mesa
+Editor-Email: rjmesa@udea.edu.co
+Order-Postal: Apartado Aéreo 1226, Medellín - Colombia
+Description: Documentos de Coyuntura is edited by the Centro de Investigaciones  y Consultorías -CIC- and by the Department of Economics at Universidad de Antioquia. 
+Type: ReDIF-Paper
+Handle: RePEc:lde:coyunt
+
+
+Template-type: ReDIF-Series 1.0
+Name: Grupo Microeconomía Aplicada
+Provider-Name: Universidad de Antioquia, Departamento de Economía
+Provider-Homepage: http://www.udea.edu.co/portal/page/portal/portal/A.InformacionInstitucional/H.UnidadesAcademicas/A.Facultades/CienciasEconomicas
+Provider-Institution: RePEc:edi:deantco
+Maintainer-Name: Carlos Andrés Vasco Correa
+Maintainer-Email: carlosvasco@gmail.com
+Editor-Name: David Tobón Orozco	
+Editor-Email: davidtobon@gmail.com
+Order-Postal: Apartado Aéreo 1226, Medellín - Colombia
+Description: A collection of working papers with the research advances of Grupo Microeconomía Aplicada
+Type: ReDIF-Paper
+Handle: RePEc:lde:grupom
+
+Template-type: ReDIF-Series 1.0
+Name: Libros del Grupo Microeconomía Aplicada
+Provider-Name: Universidad de Antioquia, Departamento de Economía
+Provider-Homepage: http://www.udea.edu.co/portal/page/portal/portal/A.InformacionInstitucional/H.UnidadesAcademicas/A.Facultades/CienciasEconomicas
+Provider-Institution: RePEc:edi:deantco
+Maintainer-Name: Carlos Andrés Vasco Correa
+Maintainer-Email: carlosvasco@gmail.com
+Order-Postal: Apartado Aéreo 1226, Medellín - Colombia
+Description: A collection of books with the research advances of Grupo Microeconomía Aplicada
+Type: ReDIF-Book
+Handle: RePEc:lde:bookgm

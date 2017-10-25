@@ -1,0 +1,72 @@
+Template-type: ReDIF-Series 1.0
+Name: FEP Working Papers
+Description: Economic-wide range papers
+Provider-Name: Universidade do Porto, Faculdade de Economia do Porto
+Provider-Institution: RePEc:edi:fepuppt
+Maintainer-Name: 
+Maintainer-Email: wps@fep.up.pt
+Type: ReDIF-Paper
+Handle: RePEc:por:fepwps
+
+Template-type: ReDIF-Series 1.0
+Name: CEF.UP Working Papers
+Description: Economic-wide range papers
+Provider-Name: Universidade do Porto, Faculdade de Economia do Porto
+Provider-Institution: RePEc:edi:fepuppt
+Maintainer-Name: Ana Bonanca
+Maintainer-Email: abonanca@fep.up.pt
+Type: ReDIF-Paper
+Handle: RePEc:por:cetedp
+
+Template-type: ReDIF-Series 1.0
+Name: Economics and Management Research Projects: An International Journal
+Description: A double-blind peer-reviewed journal
+ISSN: 2184-0309
+Provider-Name: Open Access International Journals
+Provider-Homepage: http://webapps.fep.up.pt/oaij/
+Provider-Institution: RePEc:edi:fepuppt
+Maintainer-Name: Pedro Cosme C Vieira
+Maintainer-Email: pcosme@fep.up.pt
+Editor-Name: Pedro Cosme C Vieira
+Editor-Email: pcosme@fep.up.pt
+Type: ReDIF-Article
+Handle: RePEc:por:emrpij
+
+Template-type: ReDIF-Series 1.0
+Name: SMEs Case Studies: An International Journal
+Description: A double-blind peer-reviewed journal
+ISSN: 2182-0503
+Provider-Name: Open Access International Journals
+Provider-Homepage: http://webapps.fep.up.pt/oaij/
+Provider-Institution: RePEc:edi:fepuppt
+Maintainer-Name: Aurora A C Teixeira
+Maintainer-Email: ateixeira@fep.up.pt
+Editor-Name: Aurora A C Teixeira
+Editor-Email: ateixeira@fep.up.pt
+Type: ReDIF-Article
+Handle: RePEc:por:smescs
+
+Template-type: ReDIF-Series 1.0
+Name: Teses, Monografias e Livros
+Description: Obras em Economia e Gestão
+Provider-Name: Open Access International Journals
+Provider-Homepage: http://webapps.fep.up.pt/oaij/
+Provider-Institution: RePEc:edi:fepuppt
+Maintainer-Name: Pedro Cosme C Vieira
+Maintainer-Email: pcosme@fep.up.pt
+Type: ReDIF-Book
+Handle: RePEc:por:temoli
+
+Template-type: ReDIF-Series 1.0
+Name: OBEGEF Working Papers
+Description: Economic-wide range papers
+Provider-Name: OBEGEF - Observatório de Economia e Gestão de Fraude
+Provider-Name: OBEGEF Working Papers on Fraud and Corruption
+Provider-Homepage: http://www.gestaodefraude.eu/
+Provider-Institution: RePEc:edi:fepuppt
+Maintainer-Name: Rui Henrique Alves
+Maintainer-Email: rhalves@fep.up.pt
+Editor-Name: Rui Henrique Alves
+Editor-Email: rhalves@fep.up.pt
+Type: ReDIF-Paper
+Handle: RePEc:por:obegef

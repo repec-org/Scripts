@@ -1,0 +1,32 @@
+Template-type: ReDIF-Series 1.0
+Name: DQE Working Papers
+Description: This working paper series is provided by the Department of Quantitative Economics at the University of Freiburg/Fribourg (Switzerland).
+Type: ReDIF-Paper
+Provider-Name: Department of Quantitative Economics, University of Freiburg/Fribourg Switzerland
+Provider-Homepage: http://www.unifr.ch/ses/
+Provider-Phone: +41 26 300 8200
+Provider-Postal: Bd de Pérolles 90, CH-1700 Fribourg
+Provider-Location: Fribourg/Freiburg, Switzerland
+Provider-Fax: +41 26 300 9725
+Provider-Email: decanat-ses@unifr.ch
+Provider-Institution: RePEc:edi:dqefrch
+Maintainer-Name: Ivo raemy
+Maintainer-Email: Ivo.Raemy@unifr.ch
+
+Handle: RePEc:fri:dqewps
+
+Template-Type: ReDIF-Series 1.0
+Name: FSES Working Papers
+Type: ReDIF-Paper
+Provider-Name: Faculty of Economics and Social Sciences, University of Freiburg/Fribourg Switzerland
+Provider-Phone: +41 26 300 8200
+Provider-Email: decanat-ses@unifr.ch
+Provider-Fax: +41 26 300 9725
+Provider-Postal: Bd de Pérolles 90, CH-1700 Fribourg
+Provider-Homepage: http://www.unifr.ch/ses/
+Provider-Location: Fribourg/Freiburg, Switzerland
+Provider-Institution: RePEc:edi:wsffrch
+Order-Email: decanat-ses@unifr.ch
+Maintainer-Name: Ivo raemy
+Maintainer-Email: Ivo.Raemy@unifr.ch
+Handle: RePEc:fri:fribow

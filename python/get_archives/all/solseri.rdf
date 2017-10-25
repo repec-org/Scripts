@@ -1,0 +1,22 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers CEB
+Description: This series holds all working papers published by CEB
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Provider-Institution: RePEc:edi:cebulbe
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:sol:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Papers CEB
+Description: This series holds all policy papers published by CEB
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Provider-Institution: RePEc:edi:cebulbe
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:sol:ppaper
+

@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: Expert Journal of Business and Management
+Provider-Name: Sprint Investify
+Provider-Homepage: http://www.expertjournals.com/
+Maintainer-Name: Alin Opreana
+Maintainer-Email: business@expertjournals.com
+Type: ReDIF-Article
+Handle: RePEc:exp:bsness
+
+Template-type: ReDIF-Series 1.0
+Name: Expert Journal of Marketing
+Provider-Name: Sprint Investify
+Provider-Homepage: http://www.expertjournals.com/
+Maintainer-Name: Alin Opreana
+Maintainer-Email: marketing@expertjournals.com
+Type: ReDIF-Article
+Handle: RePEc:exp:mkting
+
+Template-type: ReDIF-Series 1.0
+Name: Expert Journal of Economics
+Provider-Name: Sprint Investify
+Provider-Homepage: http://www.expertjournals.com/
+Maintainer-Name: Alin Opreana
+Maintainer-Email: economics@expertjournals.com
+Type: ReDIF-Article
+Handle: RePEc:exp:econcs
+
+Template-type: ReDIF-Series 1.0
+Name: Expert Journal of Finance
+Provider-Name: Sprint Investify
+Provider-Homepage: http://www.expertjournals.com/
+Maintainer-Name: Alin Opreana
+Maintainer-Email: finance@expertjournals.com
+Type: ReDIF-Article
+Handle: RePEc:exp:finnce

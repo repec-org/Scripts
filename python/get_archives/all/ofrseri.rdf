@@ -1,0 +1,47 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Office of Financial Research, US Department of the Treasury
+Provider-Homepage: http://www.financialresearch.gov
+Provider-Institution: RePEc:edi:ofrgvus
+Maintainer-Name: Jonathan Glicoes
+Maintainer-Email: jonathan.glicoes@treasury.gov
+Editor-Name: Gregory Feldberg
+Editor-Email: gregory.feldberg@treasury.gov
+Type: ReDIF-Paper
+Handle: RePEc:ofr:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Staff Discussion Papers
+Provider-Name: Office of Financial Research, US Department of the Treasury
+Provider-Homepage: http://www.financialresearch.gov
+Provider-Institution: RePEc:edi:ofrgvus
+Maintainer-Name: Jonathan Glicoes
+Maintainer-Email: jonathan.glicoes@treasury.gov
+Editor-Name: Gregory Feldberg
+Editor-Email: gregory.feldberg@treasury.gov
+Type: ReDIF-Paper
+Handle: RePEc:ofr:discus
+
+Template-type: ReDIF-Series 1.0
+Name: Reports
+Provider-Name: Office of Financial Research, US Department of the Treasury
+Provider-Homepage: http://www.financialresearch.gov
+Provider-Institution: RePEc:edi:ofrgvus
+Maintainer-Name: Jonathan Glicoes
+Maintainer-Email: jonathan.glicoes@treasury.gov
+Editor-Name: Gregory Feldberg
+Editor-Email: gregory.feldberg@treasury.gov
+Type: ReDIF-Book
+Handle: RePEc:ofr:report
+
+Template-type: ReDIF-Series 1.0
+Name: Briefs
+Provider-Name: Office of Financial Research, US Department of the Treasury
+Provider-Homepage: http://www.financialresearch.gov
+Provider-Institution: RePEc:edi:ofrgvus
+Maintainer-Name: Jonathan Glicoes
+Maintainer-Email: jonathan.glicoes@treasury.gov
+Editor-Name: Gregory Feldberg
+Editor-Email: gregory.feldberg@treasury.gov
+Type: ReDIF-Paper
+Handle: RePEc:ofr:briefs

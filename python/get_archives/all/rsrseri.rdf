@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Romanian Statistical Review
+Provider-Name: Romanian Statistical Review
+Provider-Homepage: http://www.revistadestatistica.ro
+Provider-Institution: RePEc:edi:stagvro
+Maintainer-Name: Adrian Visoiu
+Maintainer-Email: adrian.visoiu@insse.ro
+Type: ReDIF-Article
+Handle: RePEc:rsr:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Romanian Statistical Review Supplement
+Provider-Name: Romanian Statistical Review
+Provider-Homepage: http://www.revistadestatistica.ro
+Provider-Institution: RePEc:edi:stagvro
+Maintainer-Name: Adrian Visoiu
+Maintainer-Email: adrian.visoiu@insse.ro
+Type: ReDIF-Article
+Handle: RePEc:rsr:supplm

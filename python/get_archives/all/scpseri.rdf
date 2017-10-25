@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: IEPR Working Papers
+Description: This is the working paper series of the University of Southern California Institute of Economic Policy Research.
+Provider-Name: Institute of Economic Policy Research (IEPR)
+Provider-Institution: RePEc:edi:ieuscus
+#Maintainer-Name: Farideh Motamedi
+#Maintainer-Email: fmotamed@usc.edu
+Maintainer-Email: EconPapers@oru.se
+Type: ReDIF-Paper
+Handle: RePEc:scp:wpaper

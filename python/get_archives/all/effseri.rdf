@@ -1,0 +1,120 @@
+Template-type: ReDIF-Series 1.0
+
+Name: FIP - Journal of Finance and Law
+
+Description: Effectus Universtiy College journal focused on papers in finance and law
+Classification-JEL:
+
+Restriction: no
+
+Notification:
+
+Type: ReDIF-Article
+Provider-Name: Effectus - University College for Law and Finance
+
+Provider-Homepage: http://effectus-uciliste.eu/
+
+Provider-Phone: 385989815038
+
+Provider-Postal: 10000
+
+Provider-Institution: RePEc:edi:effbshr
+
+Maintainer-Name: Neven Vidakovic
+
+Maintainer-Email: nvidakovic@vsfp.eu
+
+Editor-Name: Mira Lenardic
+
+Editor-Email: mlenardic@vsfp.eu
+
+Editor-Workplace-Name: Effectus - University College for Law and Finance
+
+Editor-Workplace-Homepage: http://www.effectus-uciliste.eu/
+
+Order-Email: nvidakovic@vsfp.eu
+
+Order-Homepage:
+Order-Postal: 10000
+
+Price:
+
+ISSN:
+Handle: RePEc:eff:journl
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Ekonomija Economics
+Description: Journal focused on economics of transiton
+Classification-JEL:
+
+Restriction: no
+
+Notification:
+
+Provider-Name: Rifin d.o.o.
+Provider-Homepage: http://www.rifin.com/
+
+Provider-Phone:
+
+Provider-Postal: 10000
+
+Provider-Fax:
+
+Maintainer-Name: Neven Vidakovic
+
+Maintainer-Email: ured@rifin.com
+Type: ReDIF-Article
+Editor-Name: Guste Santini
+
+Editor-Email: ured@rifin.com
+Editor-Workplace-Name: Rifin d.o.o.
+Editor-Workplace-Homepage: http://www.rifin.com/
+
+Order-Email: ured@rifin.com
+Order-Homepage:
+Order-Postal: 10000
+
+Price: 50 $
+ISSN: 1330-0636
+Handle: RePEc:eff:ekoeco
+
+Template-type: ReDIF-Series 1.0
+
+Name: Effectus - Working Paper Series
+
+Provider-Name: Effectus - University College for Law and Finance
+
+Provider-Homepage: http://www.effectus-uciliste.eu/
+
+Provider-Institution: RePEc:edi:effbshr
+
+Maintainer-Name: Neven Vidakovic
+
+Maintainer-Email: nvidakovic@vsfp.eu
+
+Type: ReDIF-Paper
+
+Handle: RePEc:eff:wpaper
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Effectus - Series in Finance and Law
+
+Provider-Name: Effectus - University College for Law and Finance
+
+Provider-Homepage: http://www.effectus-uciliste.eu/
+
+Provider-Institution: RePEc:edi:effbshr
+
+Maintainer-Name: Neven Vidakovic
+
+Maintainer-Email: nvidakovic@vsfp.eu
+
+Type: ReDIF-Book
+
+Handle: RePEc:eff:ebooks

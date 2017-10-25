@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Post Keynesian Economics Study Group (PKSG)
+Provider-Homepage: http://www.postkeynesian.net
+Provider-Institution: RePEc:edi:pksggea
+Maintainer-Name: Jo Michell
+Maintainer-Email: jo.michell@uwe.ac.uk
+Type: ReDIF-Book
+Handle: RePEc:pke:ecbook
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Post Keynesian Economics Study Group (PKSG)
+Provider-Homepage: http://www.postkeynesian.net
+Provider-Institution: RePEc:edi:pksggea
+Maintainer-Name: Jo Michell
+Maintainer-Email: jo.michell@uwe.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:pke:wpaper

@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics Papers from University Paris Dauphine 
+Provider-Name: Paris Dauphine University
+Provider-Homepage: http://www.dauphine.fr/en/welcome.html
+Provider-Institution: RePEc:edi:daup9fr
+Maintainer-Name: Alexandre Faure
+Maintainer-Email: alexandre.faure@dauphine.fr
+Handle: RePEc:dau:papers
+
+Template-type: ReDIF-Series 1.0
+Name: Economics Thesis from University Paris Dauphine
+Provider-Name: Paris Dauphine University
+Provider-Homepage: http://www.dauphine.fr/en/welcome.html
+Provider-Institution: RePEc:edi:daup9fr
+Type: ReDIF-Book
+Maintainer-Name: Alexandre Faure
+Maintainer-Email: alexandre.faure@dauphine.fr
+Handle: RePEc:dau:thesis

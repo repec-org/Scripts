@@ -1,0 +1,25 @@
+Template-type: ReDIF-Series 1.0
+Name:Economics Working Paper Archive
+Provider-Name:The Johns Hopkins University,Department of Economics
+Provider-Homepage:http://www.econ.jhu.edu
+Provider-Postal:3400 North Charles Street Baltimore, MD 21218
+Provider-Phone:410-516-7601
+Provider-Fax:410-516-7600
+Provider-Institution: RePEc:edi:dejhuus
+Maintainer-Name:None
+Maintainer-Email:none@jhu.edu
+Type: ReDIF-Paper
+Handle: RePEc:jhu:papers
+
+Template-type: ReDIF-Series 1.0
+Name:Economics Companion Software Archive
+Provider-Name:The Johns Hopkins University,Department of Economics
+Provider-Homepage:http://www.econ.jhu.edu
+Provider-Postal:3400 North Charles Street Baltimore, MD 21218
+Provider-Phone:410-516-7601
+Provider-Fax:410-516-7600
+Provider-Institution: RePEc:edi:dejhuus
+Maintainer-Name:None
+Maintainer-Email:none@jhu.edu
+Type: ReDIF-Software
+Handle: RePEc:jhu:softwa

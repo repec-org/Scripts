@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: RESEARCH IN POLITICAL ECONOMY
+Provider-Name: Paul Zarembka
+Provider-Homepage: http://www.acsu.buffalo.edu/~zarembka
+Provider-Institution: RePEc:edi:debufus
+Maintainer-name: Paul Zarembka
+Maintainer-email: zarembka@buffalo.edu
+Editor-Name: Paul Zarembka
+Editor-Email: zarembka@buffalo.edu
+Type: ReDIF-Book
+Handle: RePEc:rpe:volume
+
+Template-type: ReDIF-Series 1.0
+Name: RESEARCH IN POLITICAL ECONOMY
+Provider-Name: Paul Zarembka
+Provider-Homepage: http://www.acsu.buffalo.edu/~zarembka
+Provider-Institution: RePEc:edi:debufus
+Maintainer-name: Paul Zarembka
+Maintainer-email: zarembka@buffalo.edu
+Type: ReDIF-Chapter
+Handle: RePEc:rpe:chaptr

@@ -1,0 +1,54 @@
+Template-type: ReDIF-Series 1.0
+Name: Temi di discussione (Economic working papers)
+Description: Temi di discussione (Working Paper Series)
+Type: ReDIF-Paper
+Provider-Name: Bank of Italy, Economic Research and International Relations Area
+Provider-Homepage: http://www.bancaditalia.it
+Provider-Institution: RePEc:edi:bdigvit
+Maintainer-Email: angela.barbaro@bancaditalia.it
+Editor-Name: Banca d'Italia
+Handle: RePEc:bdi:wptemi
+
+Template-type: ReDIF-Series 1.0
+Name: Questioni di Economia e Finanza (Occasional Papers)
+Description: Questioni di Economia e Finanza (Occasional Paper Series)
+Type: ReDIF-Paper
+Provider-Name: Bank of Italy, Economic Research and International Relations Area
+Provider-Homepage: http://www.bancaditalia.it
+Provider-Institution: RePEc:edi:bdigvit
+Maintainer-Email: angela.barbaro@bancaditalia.it
+Editor-Name: Banca d'Italia
+Handle: RePEc:bdi:opques
+
+Template-type: ReDIF-Series 1.0
+Name: Conference Papers - provisional versions
+Description: Conference Papers
+Type: ReDIF-Paper
+Provider-Name: Bank of Italy, Economic Research and International Relations Area
+Provider-Homepage: http://www.bancaditalia.it
+Provider-Institution: RePEc:edi:bdigvit
+Maintainer-Email: angela.barbaro@bancaditalia.it
+Editor-Name: Banca d'Italia
+Handle: RePEc:bdi:confpa
+
+Template-type: ReDIF-Series 1.0
+Name: Workshop and Conferences
+Description: Workshop and Conferences Papers
+Type: ReDIF-Paper
+Provider-Name: Bank of Italy, Economic Research and International Relations Area
+Provider-Homepage: http://www.bancaditalia.it
+Provider-Institution: RePEc:edi:bdigvit
+Maintainer-Email: angela.barbaro@bancaditalia.it
+Editor-Name: Banca d'Italia
+Handle: RePEc:bdi:workpa
+
+Template-type: ReDIF-Series 1.0
+Name: Quaderni di storia economica (Economic History Working Papers)
+Description: Quaderni di storia economica (Economic History Working Papers Series)
+Type: ReDIF-Paper
+Provider-Name: Bank of Italy, Economic Research and International Relations Area
+Provider-Homepage: http://www.bancaditalia.it
+Provider-Institution: RePEc:edi:bdigvit
+Maintainer-Email: angela.barbaro@bancaditalia.it
+Editor-Name: Banca d'Italia
+Handle: RePEc:bdi:workqs

@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers on Population, Family and Welfare
+Provider-Name: Hungarian Demographic Research Institute
+Provider-Homepage: http://demografia.hu/en/
+Provider-Institution: RePEc:nki
+Maintainer-Name: Ildiko Simonfalvi
+Maintainer-Email: simonfalvi@demografia.hu
+Type: ReDIF-Paper
+Handle: RePEc:nki:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Demográfia English Edition
+Description: The annual journal of the Demographic Committee at the Hungarian Academy of Sciences and the Hungarian Demographic Research Institute. The journal has a broad scope in terms of geographic and thematic coverage. We encourage comparative analyses beyond Central and Eastern Europe about demographic processes, migration, family formation and related social phenomena.
+Provider-Name: Hungarian Demographic Research Institute
+Provider-Institution: RePEc:nki
+Maintainer-Name: Ildiko Simonfalvi
+Maintainer-Email: simonfalvi@demografia.hu
+Editor-Name: Zsolt Spéder
+Editor-Email: englishedition@demografia.hu
+Type: ReDIF-Article
+Handle: RePEc:nki:journl
+ISSN:1787-940X

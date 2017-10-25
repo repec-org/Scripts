@@ -1,0 +1,15 @@
+﻿Template-type: ReDIF-Archive 1.0
+Name: CEPREMAP Archive
+Maintainer-Name: Stéphane Adjemian
+Maintainer-Phone: +33-1-40-77-84-16
+Maintainer-Email: stepan@dynare.org
+Description: This archive provides research papers from CEPREMAP, Paris
+URL: http://www.dynare.org/RePEc/cpm/
+Homepage: http://www.cepremap.fr
+Handle: RePEc:cpm
+
+# Local Variables: 
+# paragraph-start: "[^ :]+:.*$\\|[ \\t]*$"
+# fill-prefix: " "
+# coding: utf-8-with-signature-unix
+# End:

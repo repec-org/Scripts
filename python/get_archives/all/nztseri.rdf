@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Treasury Working Paper Series
+Description: The New Zealand Treasury Working Papers series contains work in progress on 
+ a variety of economic and financial issues. The series comprises working papers written 
+ to inform policy research and discussions. 
+Type: ReDIF-Paper
+Provider-Name: New Zealand Treasury		
+Provider-Homepage: http://www.treasury.govt.nz
+Provider-Phone: +64-4-472 2733
+Provider-Postal: New Zealand Treasury, PO Box 3724, Wellington, New Zealand
+Provider-Fax: +64-4-473 0982
+Provider-Institution: RePEc:edi:tregvnz
+Maintainer-Name: Web and Publishing Team, The Treasury
+Maintainer-Email: web.publishing@treasury.govt.nz
+Editor-Name: Kelly Shen	
+Editor-Email: kelly.shen@treasury.govt.nz	
+Editor-Workplace-Name: The Treasury	
+Editor-Workplace-Homepage: http://www.treasury.govt.nz
+Handle: RePEc:nzt:nztwps

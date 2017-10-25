@@ -1,0 +1,123 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Classification-JEL:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Utah State University, Department of Economics and Finance
+Provider-Homepage: http://huntsman.usu.edu/economicsandfinance/
+Provider-Phone: 1-435-797-2314
+Provider-Postal: 3565 Old Main Hill, Logan, UT 84322-3565
+Provider-Fax: 1-435-797-2314
+Provider-Institution: RePEc:edi:deusuus
+Maintainer-Name: John Gilbert
+Maintainer-Email: jgilbert@usu.edu
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Handle: RePEc:uth:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: GAMS Models for Trade Theory
+Description: This archive contains various non-linear programs written in GAMS that are useful for teaching international trade theory.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Software
+Provider-Name: Utah State University, Department of Economics and Finance
+Provider-Homepage: http://huntsman.usu.edu/economicsandfinance/
+Provider-Phone: 1-435-797-2314
+Provider-Postal: 3565 Old Main Hill, Logan, UT 84322-3565
+Provider-Fax: 1-435-797-2314
+Provider-Institution: RePEc:edi:deusuus
+Maintainer-Name: John Gilbert
+Maintainer-Email: jgilbert@usu.edu
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:uth:sfware
+
+Template-type: ReDIF-Series 1.0
+Name: Excel Models for Trade Theory
+Description: This archive contains various non-linear programs written in Excel that are useful for teaching international trade theory.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Software
+Provider-Name: Utah State University, Department of Economics and Finance
+Provider-Homepage: http://huntsman.usu.edu/economicsandfinance/
+Provider-Phone: 1-435-797-2314
+Provider-Postal: 3565 Old Main Hill, Logan, UT 84322-3565
+Provider-Fax: 1-435-797-2314
+Provider-Institution: RePEc:edi:deusuus
+Maintainer-Name: John Gilbert
+Maintainer-Email: jgilbert@usu.edu
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:uth:exlsft
+
+Template-type: ReDIF-Series 1.0
+Name: GAMS Models from Introduction to Numerical Simulation for Trade Theory and Policy
+Description: This archive contains the complete set of GAMS programs described in Gilbert and Tower (2013) Introduction to Numerical Simulation for Trade Theory and Policy (World Scientific). Programs are organized by chapter.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Software
+Provider-Name: Utah State University, Department of Economics and Finance
+Provider-Homepage: http://huntsman.usu.edu/economicsandfinance/
+Provider-Phone: 1-435-797-2314
+Provider-Postal: 3565 Old Main Hill, Logan, UT 84322-3565
+Provider-Fax: 1-435-797-2314
+Provider-Institution: RePEc:edi:deusuus
+Maintainer-Name: John Gilbert
+Maintainer-Email: jgilbert@usu.edu
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:uth:gt2013
+
+Template-type: ReDIF-Series 1.0
+Name: Excel Models for Macroeconomics
+Description: This archive contains various non-linear programs written in Excel that are useful for teaching macroeconomics.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Software
+Provider-Name: Utah State University, Department of Economics and Finance
+Provider-Homepage: http://huntsman.usu.edu/economicsandfinance/
+Provider-Phone: 1-435-797-2314
+Provider-Postal: 3565 Old Main Hill, Logan, UT 84322-3565
+Provider-Fax: 1-435-797-2314
+Provider-Institution: RePEc:edi:deusuus
+Maintainer-Name: John Gilbert
+Maintainer-Email: jgilbert@usu.edu
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:uth:exlmac
+
+Template-type: ReDIF-Series 1.0
+Name: Excel Models for Industrial Organization
+Description: This archive contains various models written in Excel that are useful for teaching industrial organization.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Software
+Provider-Name: Utah State University, Department of Economics and Finance
+Provider-Homepage: http://huntsman.usu.edu/economicsandfinance/
+Provider-Phone: 1-435-797-2314
+Provider-Postal: 3565 Old Main Hill, Logan, UT 84322-3565
+Provider-Fax: 1-435-797-2314
+Provider-Institution: RePEc:edi:deusuus
+Maintainer-Name: John Gilbert
+Maintainer-Email: jgilbert@usu.edu
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:uth:exclio
+

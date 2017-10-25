@@ -1,0 +1,105 @@
+Template-type: ReDIF-Series 1.0 
+Type: ReDIF-Paper 
+Name: IMF Working Papers 
+Description: International Monetary Fund Working Papers 
+Maintainer-Name: Jim Beardow 
+Maintainer-Email: JBeardow@imf.org 
+Maintainer-Name: Hassan Zaidi 
+Maintainer-Email: szaidi@imf.org 
+Provider-Name: International Monetary Fund 
+Provider-Postal: International Monetary Fund, Washington, DC USA 
+Provider-Homepage: http://www.imf.org/external/pubind.htm 
+Provider-Institution: RePEc:edi:imfffus 
+Order-Homepage: http://www.imf.org/external/pubs/pubs/ord_info.htm 
+Handle: RePEc:imf:imfwpa 
+ 
+Template-type: ReDIF-Series 1.0 
+Type: ReDIF-Paper 
+Name: IMF Economic Issues 
+Description: International Monetary Fund Economic Issues 
+Maintainer-Name: Jim Beardow 
+Maintainer-Email: JBeardow@imf.org 
+Maintainer-Name: Hassan Zaidi 
+Maintainer-Email: szaidi@imf.org 
+Provider-Name: International Monetary Fund 
+Provider-Postal: International Monetary Fund, Washington, DC USA 
+Provider-Homepage: http://www.imf.org/external/pubind.htm 
+Provider-Institution: RePEc:edi:imfffus 
+Order-Homepage: http://www.imf.org/external/pubs/pubs/ord_info.htm 
+Handle: RePEc:imf:imfeci 
+ 
+Template-type: ReDIF-Series 1.0 
+Type: ReDIF-Paper 
+Name: IMF Policy Discussion Papers 
+Description: International Monetary Fund Policy Discussion Papers 
+Maintainer-Name: Jim Beardow 
+Maintainer-Email: JBeardow@imf.org 
+Maintainer-Name: Hassan Zaidi 
+Maintainer-Email: szaidi@imf.org 
+Provider-Name: International Monetary Fund 
+Provider-Postal: International Monetary Fund, Washington, DC USA 
+Provider-Homepage: http://www.imf.org/external/pubind.htm 
+Provider-Institution: RePEc:edi:imfffus 
+Order-Homepage: http://www.imf.org/external/pubs/pubs/ord_info.htm 
+Handle: RePEc:imf:imfpdp 
+ 
+Template-type: ReDIF-Series 1.0 
+Type: ReDIF-Paper 
+Name: IMF Occasional Papers 
+Description: International Monetary Fund Occasional Papers 
+Maintainer-Name: Jim Beardow 
+Maintainer-Email: JBeardow@imf.org 
+Maintainer-Name: Hassan Zaidi 
+Maintainer-Email: szaidi@imf.org 
+Provider-Name: International Monetary Fund 
+Provider-Postal: International Monetary Fund, Washington, DC USA 
+Provider-Homepage: http://www.imf.org/external/pubind.htm 
+Provider-Institution: RePEc:edi:imfffus 
+Order-Homepage: http://www.imf.org/external/pubs/pubs/ord_info.htm 
+Handle: RePEc:imf:imfocp 
+ 
+Template-type: ReDIF-Series 1.0 
+Type: ReDIF-Paper 
+Name: IMF Staff Country Reports 
+Description: International Monetary Fund Staff Country Reports 
+Maintainer-Name: Jim Beardow 
+Maintainer-Email: JBeardow@imf.org 
+Maintainer-Name: Hassan Zaidi 
+Maintainer-Email: szaidi@imf.org 
+Provider-Name: International Monetary Fund 
+Provider-Postal: International Monetary Fund, Washington, DC USA 
+Provider-Homepage: http://www.imf.org/external/pubind.htm 
+Provider-Institution: RePEc:edi:imfffus 
+Order-Homepage: http://www.imf.org/external/pubs/pubs/ord_info.htm 
+Handle: RePEc:imf:imfscr 
+ 
+Template-type: ReDIF-Series 1.0 
+Type: ReDIF-Paper 
+Name: IMF Staff Discussion Notes 
+Description: International Monetary Fund Staff Discussion Notes 
+Maintainer-Name: Jim Beardow 
+Maintainer-Email: JBeardow@imf.org 
+Maintainer-Name: Hassan Zaidi 
+Maintainer-Email: szaidi@imf.org 
+Provider-Name: International Monetary Fund 
+Provider-Postal: International Monetary Fund, Washington, DC USA 
+Provider-Homepage: http://www.imf.org/external/pubind.htm 
+Provider-Institution: RePEc:edi:imfffus 
+Order-Homepage: http://www.imf.org/external/pubs/pubs/ord_info.htm 
+Handle: RePEc:imf:imfsdn 
+ 
+ 
+Template-type: ReDIF-Series 1.0 
+Type: ReDIF-Paper 
+Name: IMF Staff Position Notes 
+Description: International Monetary Fund Staff Position Notes 
+Maintainer-Name: Jim Beardow 
+Maintainer-Email: JBeardow@imf.org 
+Maintainer-Name: Hassan Zaidi 
+Maintainer-Email: szaidi@imf.org 
+Provider-Name: International Monetary Fund 
+Provider-Postal: International Monetary Fund, Washington, DC USA 
+Provider-Homepage: http://www.imf.org/external/pubind.htm 
+Provider-Institution: RePEc:edi:imfffus 
+Order-Homepage: http://www.imf.org/external/pubs/pubs/ord_info.htm 
+Handle: RePEc:imf:imfspn

@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:jhu
+Name:Economics Working Paper Archive at Johns Hopkins University
+Maintainer-Name:Christian Zimmermann
+Maintainer-Email:zimmermann@stlouisfed.org
+#URL:http://www.econ.jhu.edu/RePEc/jhu
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/jhu/
+Homepage:http://www.econ.jhu.edu
+

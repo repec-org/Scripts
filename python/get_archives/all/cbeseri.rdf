@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Council for Budget Responsibility
+Provider-Homepage: http://www.rozpoctovarada.sk/eng/rozpocet/151/working-papers
+Provider-Institution: RePEc:edi:rrzbrsk
+Maintainer-Email: senaj@rrz.sk
+Type: ReDIF-Paper
+Handle: RePEc:cbe:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: Council for Budget Responsibility
+Provider-Homepage: http://www.rozpoctovarada.sk/eng/rozpocet/146/discussion-papers
+Provider-Institution: RePEc:edi:rrzbrsk
+Maintainer-Email: senaj@rrz.sk
+Type: ReDIF-Paper
+Handle: RePEc:cbe:dpaper

@@ -1,0 +1,53 @@
+Template-type: ReDIF-series 1.0
+Name: Working Papers
+Description: Russian authors of Working Papers on management, marketing and economics made in Russian
+Provider-Name: Department of Marketing, Marketing MBA (RSconsult)
+Provider-Homepage: http://www.marketing-mba.ru
+Provider-Institution: RePEc:edi:rsconru
+Maintainer-Name: Sidorchuk, Roman
+Maintainer-Email: info@marketing-mba.ru
+Type: ReDIF-Paper
+Handle: RePEc:mmb:wpaper
+ 
+Template-type: ReDIF-series 1.0
+Name: Annals of marketing-mba
+Description: Russian authors of articles on management, marketing and economics journals published in Russian
+Provider-Name: Department of Marketing, Marketing MBA (RSconsult)
+Provider-Institution: RePEc:edi:rsconru
+Provider-Homepage: http://www.marketing-mba.ru
+Maintainer-Name: Sidorchuk, Roman
+Maintainer-Email: info@marketing-mba.ru
+Type: ReDIF-Article
+Handle: RePEc:mmb:journl
+
+ 
+Template-type: ReDIF-series 1.0
+Name: Chapters of marketing-mba
+Description: Russian authors of articles, chapter and book on management, marketing and economics journals published in Russian
+Provider-Name: Department of Marketing, Marketing MBA (RSconsult)
+Provider-Institution: RePEc:edi:rsconru
+Provider-Homepage: http://www.marketing-mba.ru
+Maintainer-Name: Sidorchuk, Roman
+Maintainer-Email: info@marketing-mba.ru
+Type: ReDIF-Chapter
+Handle: RePEc:mmb:chapte
+
+Template-type: ReDIF-series 1.0
+Name: Books of marketing-mba
+Description: Russian authors of articles and book on management, marketing and economics journals published in Russian
+Provider-Name: Department of Marketing, Marketing MBA (RSconsult)
+Provider-Institution: RePEc:edi:rsconru
+Provider-Homepage: http://www.marketing-mba.ru
+Maintainer-Name: Sidorchuk, Roman
+Maintainer-Email: info@marketing-mba.ru
+Type: ReDIF-Book
+Handle: RePEc:mmb:bookis
+
+Template-type: ReDIF-series 1.0
+Name: Department of marketing, marketing-mba
+Description: Russian consulting and scientific research company RSconsult
+Provider-Name: Department of Marketing, Marketing MBA (RSconsult)
+Maintainer-Name: Sidorchuk, Roman
+Maintainer-Email: info@marketing-mba.ru
+Type: ReDIF-Institution
+Handle: RePEc:mmb:instit

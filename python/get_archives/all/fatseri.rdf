@@ -1,0 +1,14 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: European Journal of Economic and Political Studies
+Description: This is the official journal of the Faculty of Economics and Public Administrative Sciences at Fatih University.
+Provider-Name: Fatih University
+Provider-Institution: RePEc:edi:edfattr
+#Maintainer-Name: Yhlas Sovbetov
+#Maintainer-Email: ihlas.sovbetov@fatih.edu.tr
+Maintainer-Name: EconPapers
+Maintainer-Email: econpapers@oru.se
+Editor-Name: Ahmet Akin
+#Editor-Email: editor@ejeps.com
+ISSN: 1307-6000
+Type: ReDIF-Article
+Handle: RePEc:fat:fejeps

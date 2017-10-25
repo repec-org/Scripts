@@ -1,0 +1,206 @@
+﻿Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hituec
+Name: Discussion Paper Series
+Maintainer-Name: Hiromichi Miyake
+Maintainer-Email: network-admin@ier.hit-u.ac.jp
+Provider-Name: Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEC:edi:iehitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hitcei
+Name: CEI Working Paper Series
+Maintainer-Name: Reiko Suzuki
+Maintainer-Email: suzukicr@ier.hit-u.ac.jp
+Provider-Name: Center for Economic Institutions, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEC:edi:cehitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:econdp
+Name: Discussion Papers
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Graduate School of Economics, Hitotsubashi University
+Provider-Institution: RePEc:edi:fehitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:ccesdp
+Name: CCES Discussion Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Research on Contemporary Economic Systems, Graduate School of Economics, Hitotsubashi University
+Provider-Institution: RePEc:edi:cchitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:iirwps
+Name: IIR Working Paper
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Institute of Innovation Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:iihitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hjbswp
+Name: Working Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Japanese Business Studies (HJBS), Graduate School of Commerce and Management Hitotsubashi University
+Provider-Institution: RePEc:edi:hjhitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:piedp1
+Name: Discussion Paper
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Intergenerational Studies, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:cihitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:piedp2
+Name: Discussion Paper
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Intergenerational Studies, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:cihitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:piecis
+Name: PIE/CIS Discussion Paper
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Intergenerational Studies, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:cihitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:rrcwps
+Name: RRC Working Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Russian Research Center, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:rrhitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:ceirps
+Name: CEI Research Paper Series
+Maintainer-Name: Reiko Suzuki
+Maintainer-Email: suzukicr@ier.hit-u.ac.jp
+Provider-Name: Center for Economic Institutions, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEC:edi:cehitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:cinwps
+Name: Working Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Interfirm Network, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:cnhitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:cisdps
+Name: CIS Discussion paper series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Intergenerational Studies, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:cihitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hitjec
+Name: Hitotsubashi Journal of Economics
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Hitotsubashi University
+Provider-Institution: RePEc:edi:fehitjp
+Type: ReDIF-Article
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:ecorev
+Name: Economic Review
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Hitotsubashi University
+Provider-Institution: RePEc:edi:iehitjp
+Type: ReDIF-Article
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:rcpdwp
+Name: Research Center for Price Dynamics Working Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Research Center for Price Dynamics, Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:pdhitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:primdp
+Name: PRIMCED Discussion Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:iehitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hcfrwp
+Name: Working Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Center for Financial Research, Graduate School of Commerce and Management, Hitotsubashi University
+Provider-Institution: RePEc:edi:hchitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:remfce
+Name: HIT-REFINED Working Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Institute of Economic Research, Hitotsubashi University
+Provider-Institution: RePEc:edi:iehitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hitjcm
+Name: Hitotsubashi Journal of commerce and management
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Hitotsubashi University
+Provider-Institution: RePEc:edi:cmhitjp
+Type: ReDIF-Article
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:rcesrs
+Name: RCESR Discussion Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Research Center for Economic and Social Risks, Institute of Economic Research, Hitotsubashi University 
+Provider-Institution: RePEc:edi:eshitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hiasdp
+Name: Discussion paper series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Hitotsubashi Institute for Advanced Study, Hitotsubashi University 
+Provider-Institution: RePEc:edi:ashitjp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:hit:hmicwp
+Name: Working Paper Series
+Maintainer-Name: Digital Resources Section, Hitotsubashi University Library
+Maintainer-Email: ir-admin@lib.hit-u.ac.jp
+Provider-Name: Management Innovation Research Center, Graduate School of Commerce and Management, Hitotsubashi University
+Provider-Institution: RePEc:edi:mihitjp
+Type: ReDIF-Paper

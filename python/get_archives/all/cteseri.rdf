@@ -1,0 +1,81 @@
+Template-type: ReDIF-Series 1.0
+Name: UC3M Working papers. Economics
+Provider-Name: Universidad Carlos III de Madrid. Departamento de Economía
+Provider-Homepage: http://www.eco.uc3m.es/
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:werepe
+
+Template-type: ReDIF-Series 1.0
+Name: DE - Documentos de Trabajo. Economía. DE
+Provider-Name: Universidad Carlos III de Madrid. Departamento de Economía
+Provider-Homepage: http://www.eco.uc3m.es/
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:derepe
+
+Template-type: ReDIF-Series 1.0
+Name: DEE - Documentos de Trabajo. Economía de la Empresa. DB
+Provider-Name: Universidad Carlos III de Madrid. Departamento de Economía de la Empresa
+Provider-Homepage: http://portal.uc3m.es/portal/page/portal
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:dbrepe
+
+Template-type: ReDIF-Series 1.0
+Name: DES - Working Papers. Statistics and Econometrics. WS
+Provider-Name: Universidad Carlos III de Madrid. Departamento de Estadística
+Provider-Homepage: http://portal.uc3m.es/portal/page/portal/dpto_estadistica
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:wsrepe
+
+Template-type: ReDIF-Series 1.0
+Name: IFCS - Working Papers in Economic History.WH
+Provider-Name: Universidad Carlos III de Madrid. Instituto Figuerola
+Provider-Homepage: http://portal.uc3m.es/portal/page/portal/instituto_figuerola
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:whrepe
+
+Template-type: ReDIF-Series 1.0
+Name: DES - Documentos de Trabajo. Estadística y Econometría. DS
+Provider-Name: Universidad Carlos III de Madrid. Departamento de Estadística
+Provider-Homepage: http://portal.uc3m.es/portal/page/portal/dpto_estadistica
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:dsrepe
+
+Template-type: ReDIF-Series 1.0
+Name: IC3JM - Estudios = Working Papers
+Provider-Name: Instituto Mixto Carlos III - Juan March de Ciencias Sociales (IC3JM)
+Provider-Homepage: http://www.march.es/ceacs/
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:imrepe
+
+Template-type: ReDIF-Series 1.0
+Name: INDEM - Working Paper Business Economic Series
+Provider-Name: Instituto para el Desarrollo Empresarial (INDEM)
+Provider-Homepage: http://portal.uc3m.es/portal/page/portal/indem
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:idrepe
+
+Template-type: ReDIF-Series 1.0
+Name: DEE - Working Papers. Business Economics. WB
+Provider-Name: Universidad Carlos III de Madrid. Departamento de Economía de la Empresa
+Provider-Homepage: http://www.business.uc3m.es/es/index
+Maintainer-Name: Ana Poveda
+Maintainer-Email: biblioteca@db.uc3m.es
+Type: ReDIF-Paper
+Handle: RePEc:cte:wbrepe
+

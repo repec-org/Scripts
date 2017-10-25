@@ -1,0 +1,37 @@
+Template-type:	ReDIF-Series 1.0
+Name:		Papers on Strategic Interaction
+Description:		The Discussion Paper Series on Strategic Interaction includes papers on game theory and behavioral economics with a strong emphasis on the experimental method.
+Provider-Name:	Max Planck Institute of Economics, Strategic Interaction Group
+Provider-Institution:	RePEc:edi:mpiewde
+Order-Homepage:	http://www.econ.mpg.de/english/research/ESI/discuss.php
+Order-Email:		esipapers@econ.mpg.de
+Maintainer-Name:	Karin Richter
+Maintainer-Email:	esipapers@econ.mpg.de
+Handle:		RePEc:esi:discus
+
+Template-type: ReDIF-Series 1.0
+Name: Papers on Economics and Evolution
+Description: The Discussion Paper Series on Economics and Evolution includes papers on all subjects related to Evolutionary Economics
+Provider-Name: Philipps University Marburg, Department of Geography
+Provider-Postal: Deutschhausstrasse 10, 35032 Marburg
+Provider-Phone: 064212824257
+Provider-Fax: 064212828950
+Provider-Email: thomas.brenner@staff.uni-marburg.de
+Provider-Homepage: http://www.uni-marburg.de/fb19/
+Provider-Institution: RePEc:edi:vamarde
+Maintainer-Name: Christoph Mengs
+Maintainer-Email: Mengs@students.uni-marburg.de
+Editor-Name: Thomas Brenner
+Editor-Email: thomas.brenner@staff.uni-marburg.de
+Handle: RePEc:esi:evopap
+
+Template-type:	ReDIF-Series 1.0
+Name:		Papers on Entrepreneurship, Growth and Public Policy
+Description:		This Discussion Paper series provides an explicit focus on the economics of entrepreneurship. This research agenda consists of four aspects. The first is to identify what the role of entrepreneurship has been and how it is historically evolving. The second is concerned with those factors that shape the amount of entrepreneural activity. The third aspect focuses on the impact of entrepreneurship on economic performance. The fourth aspect involves the role of public policy.
+Provider-Name:	Max Planck Institute of Economics, Entrepreneurship, Growth and Public Policy Group
+Provider-Institution:	RePEc:edi:mpiewde
+Order-Homepage:	http://www.econ.mpg.de/english/research/EGP/discuss.php
+Order-Email:		egppapers@econ.mpg.de
+Maintainer-Name:	Kerstin Schück
+Maintainer-Email:	egppapers@econ.mpg.de
+Handle:		RePEc:esi:egpdis

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<amf xmlns="http://amf.openlib.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://amf.openlib.org http://amf.openlib.org/2001/amf.xsd">
+ <collection id="RePEc:nep">
+  <title>NEP: New Economics Papers</title>
+  <accesspoint>ftp://netec.mcc.ac.uk/pub/NetEc/WWW/NEP/amf/nep</accesspoint>
+ </collection>
+</amf>

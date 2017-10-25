@@ -1,0 +1,74 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Central Bank of Chile
+Description: The Working Paper series of the Central Bank of Chile disseminates economic research conducted by Central Bank staff or third parties under the sponsorship of the Bank. The purpose of the series is to contribute to the discussion of relevant issues and develop new analytical or empirical approaches in their analysis. The only aim of  the Working Papers is to disseminate preliminary research for its discussion and comments. Publication of Working Papers is not subject to previous approval by the members of the Board of the Central Bank. The views and conclusions presented in the papers are  exclusively those of the author(s) and do not necessarily reflect the position of the Central Bank of Chile or of the Board members. 
+Provider-Name: Central Bank of Chile 
+Provider-Homepage: http://www.bcentral.cl/ 
+Provider-Institution: RePEc:edi:bccgvcl
+Maintainer-Name: Claudio Sepulveda
+Maintainer-Email: bcch@bcentral.cl
+Type: ReDIF-Paper
+Handle: RePEc:chb:bcchwp
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Policy Papers Central Bank of Chile
+Description: The Series of Economic Policy Papers of the Central Bank of Chile presents views and analyses of the Chilean economy and the conduct of monetary policy prepared by Bank authorities. This series, aimed at the general public, disseminates and discusses topics that are relevant to the goals and operations of the Central Bank.
+Provider-Name: Central Bank of Chile 
+Provider-Homepage: http://www.bcentral.cl/ 
+Provider-Institution: RePEc:edi:bccgvcl
+Maintainer-Name: Claudio Sepulveda
+Maintainer-Email: bcch@bcentral.cl
+Type: ReDIF-Paper
+Handle: RePEc:chb:bcchep
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Statistics Series
+Description: Studies in Economic Statistics disseminates works of investigation in economic statistics carried out by professionals of the Central Bank of Chile or by specialists or external consultants. Its content is published under exclusive responsibility of its authors and it does not reflect the opinion of the Central Bank. These documents normally are definitives and are not made available in any other media such as books or magazines.
+Provider-Name: Central Bank of Chile 
+Provider-Homepage: http://www.bcentral.cl/ 
+Provider-Institution: RePEc:edi:bccgvcl
+Maintainer-Name: Claudio Sepulveda
+Maintainer-Email: bcch@bcentral.cl
+Type: ReDIF-Paper
+Handle: RePEc:chb:bcchee
+
+Template-type: ReDIF-Series 1.0
+Name: Journal Economía Chilena (The Chilean Economy)
+Description: The purpose of the journal, Economía Chilena, is to help publish the results of research, preferably that carried out by economists at the Central Bank of Chile or on request of this institution, about the Chilean economy or issues of importance to it, with significant empirical content and/or relevance to economic policy. The main areas of interest include macroeconomics, finance, international finance and economic development.
+Provider-Name: Central Bank of Chile
+Provider-Homepage: http://www.bcentral.cl/ 
+Provider-Institution: RePEc:edi:bccgvcl
+Maintainer-Name: Claudio Sepulveda
+Maintainer-Email: bcch@bcentral.cl
+Editor-Name: Roberto Alvarez
+Editor-Name: Miguel Fuentes
+Editor-Name: Claudio Raddatz 
+Editor-Email: bcch@bcentral.cl
+Type: ReDIF-Article
+Handle: RePEc:chb:bcchec
+
+Template-type: ReDIF-Series 1.0
+Name: Notas de Investigación Journal Economía Chilena (The Chilean Economy)
+Description: This section of the Journal of the Chilean Economy contains brief, peer-reviewed technical notes written by staff members of the Central Bank of Chile. It covers a wide variety of topics that are relevant for the successful implementation of economic policy. 
+Provider-Name: Central Bank of Chile 
+Provider-Homepage: http://www.bcentral.cl/ 
+Provider-Institution: RePEc:edi:bccgvcl
+Maintainer-Name: Claudio Sepulveda
+Maintainer-Email: bcch@bcentral.cl
+Editor-Name: Gonzalo Castex
+Editor-Name: Ernesto Pasten
+Editor-Name: Michael Pedersen
+Editor-Email: bcch@bcentral.cl
+Type: ReDIF-Article
+Handle: RePEc:chb:bcchni
+
+Template-type: ReDIF-Series 1.0
+Name: Central Banking, Analysis, and Economic Policies Book Series
+Provider-Name: Central Bank of Chile 
+Provider-Homepage: http://www.bcentral.cl/ 
+Provider-Institution: RePEc:edi:bccgvcl
+Maintainer-Name: Claudio Sepulveda
+Maintainer-Email: bcch@bcentral.cl
+Editor-Name: Norman Loayza 
+Editor-Name: Luis Felipe Céspedes
+Type: ReDIF-Chapter
+Handle: RePEc:chb:bcchsb

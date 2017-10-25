@@ -1,0 +1,11 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: DULBEA Working Papers
+Description: This series holds all working papers published by DULBEA
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Provider-Institution: RePEc:edi:dulbebe
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:dul:wpaper
+

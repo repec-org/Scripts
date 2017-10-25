@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers in Ecological Economics
+Description: Working Papers in Ecological Economics reports on research conducted in the Ecological Economics Program at CRES, Australian National University by academic staff, visitors, students, and invited seminar presenters between the years 1997 and 2002. The Ecological Economics Program has now been superceded by the Environment and Economy Network.
+Provider-Name: Australian National University, Centre for Resource and Environmental Studies, Ecological Economics Program
+Provider-Homepage: http://incres.anu.edu.au/EEP/wp.html
+Maintainer-Name: Jack Pezzey
+Maintainer-Email: pezzey@cres.anu.edu.au
+Handle: RePEc:anu:wpieep
+
+Template-type: ReDIF-Series 1.0
+Name: Economics and Environment Network Working Papers
+Description: Economics and Environment Network Working Papers present research carried out at ANU by staff, students, and visitors in environmental, resource, and ecological economics.
+Provider-Name: Australian National University, Economics and Environment Network
+Provider-Homepage: http://een.anu.edu.au/
+Maintainer-Name: Jack Pezzey
+Maintainer-Email: pezzey@cres.anu.edu.au
+Handle: RePEc:anu:eenwps

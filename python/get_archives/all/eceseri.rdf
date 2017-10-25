@@ -1,0 +1,40 @@
+Template-type: ReDIF-Series 1.0
+
+Name: ECE Discussion Papers Series
+
+Description: This is the discussion papers of ECE
+
+Provider-Name: UNECE
+
+Provider-Institution: RePEc:edi:eceunch
+
+Maintainer-Name: Robert Shelburne
+
+Maintainer-Email: robert.shelburne@unece.org
+
+Type: ReDIF-Paper
+
+Handle: RePEc:ece:dispap
+
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: UNECE Annual Report Economic Essays
+
+Description: Economic essays included in the UNECE Annual Report
+
+Provider-Name: UNECE
+
+Provider-Institution: RePEc:edi:eceunch
+
+Maintainer-Name: Robert Shelburne
+
+Maintainer-Email: robert.shelburne@unece.org
+
+Type: ReDIF-Paper
+
+Handle: RePEc:ece:annrep
+
+

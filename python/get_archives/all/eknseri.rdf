@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Ekonomia
+Description: Ekonomia is a general purpose journal published by the Cyprus Economic Society and the University of Cyprus
+Provider-Name: Cyprus Economic Society and University of Cyprus
+Provider-Homepage: http://www.ekonomia.ucy.ac.cy/
+Provider-Institution: RePEc:edi:cyessea
+Maintainer-Name: Managing Editor
+Maintainer-Email: ekonomia@ucy.ac.cy
+Type: ReDIF-Article
+Handle: RePEc:ekn:ekonom
+

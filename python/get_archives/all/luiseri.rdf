@@ -1,0 +1,59 @@
+Template-type: ReDIF-Series 1.0
+Name: Quaderni DEF
+Provider-Name: Dipartimento di Economia e Finanza, LUISS Guido Carli
+Provider-Homepage: http://ricerca.economiaefinanza.luiss.it/
+Provider-Institution: RePEc:edi:deluiit
+Maintainer-Name: Daniela Di Cagno
+Maintainer-Email:  economiaefinanza@luiss.it
+Type: ReDIF-Paper
+Handle: RePEc:lui:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Economia, Societa', e Istituzioni
+Provider-Name: Dipartimento di Economia e Finanza, LUISS Guido Carli
+Provider-Homepage: http://ricerca.economiaefinanza.luiss.it/
+Provider-Institution: RePEc:edi:deluiit
+Maintainer-Name: Daniela Di Cagno
+Maintainer-Email:  economiaefinanza@luiss.it
+Type: ReDIF-Article
+Handle: RePEc:lui:rivesi
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers CESARE
+Provider-Name: Dipartimento di Economia e Finanza, LUISS Guido Carli
+Provider-Homepage: http://ricerca.economiaefinanza.luiss.it/
+Provider-Institution: RePEc:edi:deluiit
+Maintainer-Name: Daniela Di Cagno
+Maintainer-Email:  economiaefinanza@luiss.it
+Type: ReDIF-Paper
+Handle: RePEc:lui:cesare
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers CELEG
+Provider-Name: Dipartimento di Economia e Finanza, LUISS Guido Carli
+Provider-Homepage: http://ricerca.economiaefinanza.luiss.it/
+Provider-Institution: RePEc:edi:deluiit
+Maintainer-Name: Paolo Giordani
+Maintainer-Email:  economiaefinanza@luiss.it
+Type: ReDIF-Paper
+Handle: RePEc:lui:celegw
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers LuissLab
+Provider-Name: Dipartimento di Economia e Finanza, LUISS Guido Carli
+Provider-Homepage: http://ricerca.economiaefinanza.luiss.it/
+Provider-Institution: RePEc:edi:deluiit
+Maintainer-Name: Giovanna Vallanti
+Maintainer-Email:  economiaefinanza@luiss.it
+Type: ReDIF-Paper
+Handle: RePEc:lui:lleewp
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers CASMEF
+Provider-Name: Dipartimento di Economia e Finanza, LUISS Guido Carli
+Provider-Homepage: http://ricerca.economiaefinanza.luiss.it/
+Provider-Institution: RePEc:edi:deluiit
+Maintainer-Name: Stefano Marzioni
+Maintainer-Email: economiaefinanza@luiss.it
+Type: ReDIF-Paper
+Handle: RePEc:lui:casmef

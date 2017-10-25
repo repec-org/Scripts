@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: IDEP Working Papers
+Description: This is a serie for IDEP Working Papers 
+Provider-Name: Institut d'economie publique (IDEP), Marseille, France
+Provider-Homepage: http://www.idep-fr.org/
+Provider-Institution: RePEc:edi:greqafr
+Maintainer-Name: Yves Doazan
+Maintainer-Email: doazan@univmed.fr
+Type: ReDIF-Paper
+Handle: RePEc:iep:wpidep
+

@@ -1,0 +1,127 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers in Economics
+Description: Discussion papers of the Department of Economics at the University of Munich
+Type: ReDIF-Paper
+Provider-Name: University of Munich, Department of Economics
+Provider-Homepage: http://www.vwl.uni-muenchen.de
+Provider-Phone: +49-(0)89-2180-3405
+Provider-Postal: Ludwigstr. 28, 80539 Munich, Germany
+Provider-Fax: +49-(0)89-2180-3510
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Tamilla Benkelberg
+Maintainer-Email: tamilla.benkelberg@econ.lmu.de
+Editor-Name: Tamilla Benkelberg
+Editor-Email: tamilla.benkelberg@econ.lmu.de
+Handle: RePEc:lmu:muenec
+
+Template-type: ReDIF-Series 1.0
+Name: Monographs in Economics
+Description: Monographs of the Department of Economics at the University of Munich
+Type: ReDIF-Book
+Provider-Name: University of Munich, Department of Economics
+Provider-Homepage: http://www.vwl.uni-muenchen.de
+Provider-Phone: +49-(0)89-2180-3405
+Provider-Postal: Ludwigstr. 28, 80539 Munich, Germany
+Provider-Fax: +49-(0)89-2180-3510
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Tamilla Benkelberg
+Maintainer-Email: tamilla.benkelberg@econ.lmu.de
+Editor-Name: Tamilla Benkelberg
+Editor-Email: tamilla.benkelberg@econ.lmu.de
+Handle: RePEc:lmu:muenbk
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters in Economics
+Description: Chapters of the Department of Economics at the University of Munich
+Type: ReDIF-Chapter
+Provider-Name: University of Munich, Department of Economics
+Provider-Homepage: http://www.vwl.uni-muenchen.de
+Provider-Phone: +49-(0)89-2180-3405
+Provider-Postal: Ludwigstr. 28,80539 Munich, Germany
+Provider-Fax: +49-(0)89-2180-3510
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Tamilla Benkelberg
+Maintainer-Email: tamilla.benkelberg@econ.lmu.de
+Editor-Name: Tamilla Benkelberg
+Editor-Email: tamilla.benkelberg@econ.lmu.de
+Handle: RePEc:lmu:muench
+
+Template-type: ReDIF-Series 1.0
+Name: Software in Economics
+Description: Software of the Department of Economics at the University of Munich
+Type: ReDIF-Software
+Provider-Name: University of Munich, Department of Economics
+Provider-Homepage: http://www.vwl.uni-muenchen.de
+Provider-Phone: +49-(0)89-2180-3405
+Provider-Postal: Ludwigstr. 28, 80539 Munich, Germany
+Provider-Fax: +49-(0)89-2180-3510
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Tamilla Benkelberg
+Maintainer-Email: tamilla.benkelberg@econ.lmu.de
+Editor-Name: Tamilla Benkelberg
+Editor-Email: tamilla.benkelberg@econ.lmu.de
+Handle: RePEc:lmu:muenso
+
+Template-type: ReDIF-Series 1.0
+Name: Munich Reprints in Economics
+Description: Munich Reprints in Economics
+Type: ReDIF-Paper
+Provider-Name: University of Munich, Department of Economics
+Provider-Homepage: http://www.vwl.uni-muenchen.de
+Provider-Phone: +49-(0)89-2180-3405
+Provider-Postal: Ludwigstr. 28, 80539 Munich, Germany
+Provider-Fax: +49-(0)89-2180-3510
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Tamilla Benkelberg
+Maintainer-Email: tamilla.benkelberg@econ.lmu.de
+Editor-Name: Tamilla Benkelberg
+Editor-Email: tamilla.benkelberg@econ.lmu.de
+Handle: RePEc:lmu:muenar
+
+Template-type: ReDIF-Series 1.0
+Name: Munich Dissertations in Economics
+Description: Munich Dissertations in Economics
+Type: ReDIF-Paper
+Provider-Name: University of Munich, Department of Economics
+Provider-Homepage: http://www.vwl.uni-muenchen.de
+Provider-Phone: +49-(0)89-2180-3405
+Provider-Postal: Ludwigstr. 28, 80539 Munich, Germany
+Provider-Fax: +49-(0)89-2180-3510
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Tamilla Benkelberg
+Maintainer-Email: tamilla.benkelberg@econ.lmu.de
+Editor-Name: Tamilla Benkelberg
+Editor-Email: tamilla.benkelberg@econ.lmu.de
+Handle: RePEc:lmu:dissen
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers in Business Administration
+Description: Discussion Papers by the Munich School of Management at the University of Munich
+Type: ReDIF-Paper
+Provider-Name: University of Munich, Munich School of Management
+Provider-Homepage: http://www.bwl.uni-muenchen.de
+Provider-Phone: +49-(0)89-2180-3888
+Provider-Postal: Ludwigstr. 28,80539 Munich, Germany
+Provider-Fax: +49-(0)89-344054
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Debbie Claassen
+Maintainer-Email: claassen@bwl.lmu.de
+Editor-Name: Debbie Claassen
+Editor-Email: claassen@bwl.lmu.de
+Handle: RePEc:lmu:msmdpa
+
+#Template-type: ReDIF-Series 1.0
+#Name: Monographs in Business Administration
+#Description: Monographs by the Munich School of Management at the University of Munich
+#Type: ReDIF-Book
+#Provider-Name: University of Munich, Munich School of Management
+#Provider-Homepage: http://www.bwl.uni-muenchen.de
+#Provider-Phone: +49-(0)89-2180-3888
+#Provider-Postal: Ludwigstr. 28, 80539 Munich, Germany
+#Provider-Fax: +49-(0)89-344054
+#Provider-Institution: RePEc:edi:vfmunde
+#Maintainer-Name: Debbie Claassen
+#Maintainer-Email: claassen@bwl.lmu.de
+#Editor-Name: Debbie Claassen
+#Editor-Email: claassen@bwl.lmu.de
+#Handle: RePEc:lmu:msmbks

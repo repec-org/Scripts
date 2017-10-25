@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers - Money, Finance & Development
+Provider-Name: Institute of Social Studies
+Provider-Homepage: http://www.iss.nl/
+Provider-Institution: RePEc:edi:issssnl
+Maintainer-Name: Saskia Scheffer
+Maintainer-Email: scheffer@iss.nl
+Type: ReDIF-Paper
+Handle: RePEc:iss:mfdwpr
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers - Women, History & Development
+Provider-Name: Institute of Social Studies
+Provider-Homepage: http://www.iss.nl/
+Provider-Institution: RePEc:edi:issssnl
+Maintainer-Name: Saskia Scheffer
+Maintainer-Email: scheffer@iss.nl
+Type: ReDIF-Paper
+Handle: RePEc:iss:whdwpr

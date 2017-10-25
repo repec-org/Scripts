@@ -1,0 +1,42 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: CEPREMAP Working Papers (Couverture Orange)
+Handle: RePEc:cpm:cepmap
+Provider-Name: CEPREMAP
+Provider-Institution: RePEc:edi:ceprefr
+Maintainer-Name: Stéphane Adjemian
+Maintainer-Phone: +33-1-40-77-84-16
+Maintainer-Email: stepan@dynare.org
+
+Template-Type: ReDIF-Series 1.0
+Name: CEPREMAP Working Papers (Docweb)
+Handle: RePEc:cpm:docweb
+Provider-Name: CEPREMAP
+Provider-Institution: RePEc:edi:ceprefr
+Maintainer-Name: Stéphane Adjemian
+Maintainer-Phone: +33-1-40-77-84-16
+Maintainer-Email: stepan@dynare.org
+
+Template-Type: ReDIF-Series 1.0
+Name: Opuscules du CEPREMAP
+Handle: RePEc:cpm:opuscl
+Type: ReDIF-Book
+Provider-Name: CEPREMAP
+Provider-Institution: RePEc:edi:ceprefr
+Maintainer-Name: Stéphane Adjemian
+Maintainer-Phone: +33-1-40-77-84-16
+Maintainer-Email: stepan@dynare.org
+
+Template-Type: ReDIF-Series 1.0
+Name: Dynare Working Papers
+Handle: RePEc:cpm:dynare
+Provider-Name: CEPREMAP
+Provider-Institution: RePEc:edi:ceprefr
+Maintainer-Name: Stéphane Adjemian
+Maintainer-Phone: +33-1-40-77-84-16
+Maintainer-Email: stepan@dynare.org
+
+# Local Variables: 
+# paragraph-start: "[^ :]+:.*$\\|[ \\t]*$"
+# fill-prefix: " "
+# coding: utf-8-with-signature-unix
+# End:

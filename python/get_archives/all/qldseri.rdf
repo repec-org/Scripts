@@ -1,0 +1,44 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers Series
+Description: University of Queensland's School of Economics Papers
+Provider-Name: School of Economics, University of Queensland, Australia
+Provider-Institution: RePEc:edi:decuqau
+Maintainer-Name: SOE IT
+Maintainer-Email: SOE-IT@economics.uq.edu.au
+Handle: RePEc:qld:uq2004
+
+Template-type: ReDIF-Series 1.0
+Name: CEPA Working Papers Series
+Description: Centre for Efficiency and Productivity Analysis - CEPA - Working Papers
+Provider-Name: School of Economics, University of Queensland, Australia
+Provider-Institution: RePEc:edi:decuqau
+Maintainer-Name: SOE IT
+Maintainer-Email: SOE-IT@economics.uq.edu.au
+Handle: RePEc:qld:uqcepa
+
+Template-type: ReDIF-Series 1.0
+Name: EAERG Discussion Paper Series
+Description: East Asia Economic Research Group - EAERG - Discussion Paper Series
+Provider-Name: School of Economics, University of Queensland, Australia
+Provider-Institution: RePEc:edi:decuqau
+Maintainer-Name: SOE IT
+Maintainer-Email: SOE-IT@economics.uq.edu.au
+Handle: RePEc:qld:uqeaer
+
+Template-type: ReDIF-Series 1.0
+Name: MRG Discussion Paper Series
+Description: Macroeconomics Research Group - MRG - Discussion Paper Series
+Provider-Name: School of Economics, University of Queensland, Australia
+Provider-Institution: RePEc:edi:decuqau
+Maintainer-Name: SOE IT
+Maintainer-Email: SOE-IT@economics.uq.edu.au
+Handle: RePEc:qld:uqmrg6
+
+Template-type: ReDIF-Series 1.0
+Name: Energy Economics and Management Group Working Papers
+Description: Examination of key economic and policy issues in energy markets
+Provider-Name: School of Economics, University of Queensland, Australia
+Provider-Institution: RePEc:edi:eemuqau
+Maintainer-Name: SOE IT
+Maintainer-Email: SOE-IT@economics.uq.edu.au
+Handle: repec:qld:uqeemg 

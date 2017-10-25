@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: SFB 649 Discussion Papers
+Provider-Name: Sonderforschungsbereich 649, Humboldt University, Berlin, Germany
+Provider-Homepage: http://sfb649.wiwi.hu-berlin.de
+Provider-Institution: RePEc:edi:sohubde
+Maintainer-Name: RDC-Team
+Maintainer-Email: rdc-team@lists.hu-berlin.de
+Type: ReDIF-Paper
+Handle: RePEc:hum:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: SFB 649 Publications
+Provider-Name: Sonderforschungsbereich 649, Humboldt University, Berlin, Germany
+Provider-Homepage: http://sfb649.wiwi.hu-berlin.de
+Provider-Institution: RePEc:edi:sohubde
+Maintainer-Name: RDC-Team
+Maintainer-Email: rdc-team@lists.hu-berlin.de
+Type: ReDIF-Article
+Handle: RePEc:hum:journl

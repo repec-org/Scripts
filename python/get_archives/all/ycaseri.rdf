@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: York University, Department of Economics
+Provider-Homepage: http://dept.econ.yorku.ca/
+Provider-Institution: RePEc:edi:dyorkca
+Maintainer-Name: Support
+Maintainer-Email: support@econ.yorku.ca
+Type: ReDIF-Paper
+Handle: RePEc:yca:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: York University, Department of Economics
+Provider-Homepage: http://dept.econ.yorku.ca/
+Provider-Institution: RePEc:edi:dyorkca
+Maintainer-Name: Support
+Maintainer-Email: support@econ.yorku.ca
+Type: ReDIF-Paper
+Handle: RePEc:yca:dpaper
+
+ 

@@ -1,0 +1,46 @@
+Template-Type: ReDIF-Series 1.0
+Name: Bank of Lithuania Working Paper Series
+Provider-Name: Bank of Lithuania
+Provider-Postal: Bank of Lithuania
+                 Gedimino pr. 6, LT-01103 Vilnius, 
+                 Lithuania
+Provider-Institution: RePEc:edi:lbanklt
+Maintainer-Name: Mihnea Constantinescu
+Maintainer-Email: mconstantinescu@lb.lt
+Editor-Name: Mihnea Constantinescu
+Editor-Email: mconstantinescu@lb.lt
+ISSN: 2029-0446 (ONLINE)
+Type: ReDIF-Paper
+Handle: RePEc:lie:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: Bank of Lithuania Discussion Paper Series
+Provider-Name: Bank of Lithuania
+Provider-Postal: Bank of Lithuania
+                 Gedimino pr. 6, LT-01103 Vilnius, 
+                 Lithuania
+Provider-Institution: RePEc:edi:lbanklt
+Maintainer-Name: Mihnea Constantinescu
+Maintainer-Email: mconstantinescu@lb.lt
+Editor-Name: Mihnea Constantinescu
+Editor-Email: mconstantinescu@lb.lt
+ISSN: 2234-0835 (ONLINE)
+Type: ReDIF-Paper
+Handle: RePEc:lie:dpaper
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Bank of Lithuania Occasional Paper Series
+Provider-Name: Bank of Lithuania
+Provider-Postal: Bank of Lithuania
+                 Gedimino pr. 6, LT-01103 Vilnius, 
+                 Lithuania
+Provider-Institution: RePEc:edi:lbanklt
+Maintainer-Name: Mihnea Constantinescu
+Maintainer-Email: mconstantinescu@lb.lt
+Editor-Name: Mihnea Constantinescu
+Editor-Email: mconstantinescu@lb.lt
+ISSN: 2424-3213 (ONLINE)
+Type: ReDIF-Paper
+Handle: RePEc:lie:opaper
+

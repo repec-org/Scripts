@@ -1,0 +1,22 @@
+﻿
+Template-type: ReDIF-Series 1.0
+Name: CeFiG Technical Papers
+Provider-Name: Center for Firms in the Global Economy
+Provider-Homepage: http://cefig.eu/
+Provider-Institution: RePEc:edi:cefighu
+Maintainer-Name: Miklós Koren
+Maintainer-Email: postmaster@cefig.eu
+Type: ReDIF-Paper
+Handle: RePEc:cfg:cfigtp
+
+Template-type: ReDIF-Series 1.0
+Name: CeFiG Working Papers
+Provider-Name: Center for Firms in the Global Economy
+Provider-Homepage: http://cefig.eu/
+Provider-Institution: RePEc:edi:cefighu
+Maintainer-Name: Miklós Koren
+Maintainer-Email: postmaster@cefig.eu
+Type: ReDIF-Paper
+Handle: RePEc:cfg:cfigwp
+
+

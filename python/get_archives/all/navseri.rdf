@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo - Lan Gaiak
+ Departamento de Economía - Universidad Pública de Navarra
+Description: This serie contains investigation works in a prepublication 
+ phase. Topics are plural, reflecting the broad spectrum of interests in 
+ a department that covers all the economic areas (Theory, Applied and 
+ History).
+Type: ReDIF-Paper
+Provider-Name: Departamento de Economía - Universidad Pública de Navarra
+Provider-Name-English: Department of Economics - Public University of Navarra   
+ 
+Provider-Homepage:http://www.econ.unavarra.es
+Provider-Phone:34 948 169340
+Provider-Postal:Campus de Arrosadía - 31006 Pamplona (Spain)
+Provider-Fax:34 948 169 721
+Maintainer-Name: Javier Puértolas
+Maintainer-Email: jpuertolas@unavarra.es
+Order-Postal: Papers are not sent in a centralized mode. You can download 
+ them with ftp, or contact the authors.
+Handle: RePEc:nav:ecupna

@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Series 1.0
+Name: Economics and Management
+Provider-Name: Faculty of Economics, SOUTH-WEST UNIVERSITY "NEOFIT RILSKI", BLAGOEVGRAD 
+Provider-Homepage: http://www.fe.swu.bg/en/
+Provider-Institution: RePEc:edi:feswubg
+Maintainer-Name: Vladislav Krustev
+Maintainer-Email: vladislav_swu@abv.bg
+Type: ReDIF-Article
+Handle: RePEc:neo:journl
+
+Template-Type: ReDIF-Series 1.0
+Name: Entrepreneurship
+Provider-Name: Faculty of Economics, SOUTH-WEST UNIVERSITY "NEOFIT RILSKI", BLAGOEVGRAD 
+Provider-Homepage: http://www.fe.swu.bg/en/
+Provider-Institution: RePEc:edi:feswubg
+Maintainer-Name: Vladislav Krustev
+Maintainer-Email: vladislav_swu@abv.bg
+Type: ReDIF-Article
+Handle: RePEc:neo:epjour

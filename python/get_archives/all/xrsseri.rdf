@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: Sonderforschungsbereich 504 Publications
+Description: SFB504 working papers
+Publisher-Name: Sonderforschungsbereich 504, University of Mannheim
+Publisher-Homepage: http://www.sfb504.uni-mannheim.de
+Provider-Name: Sonderforschungsbereich 504, Universität Mannheim
+Provider-Institution: RePEc:edi:sfmande
+Maintainer-Name: Carsten Schmidt
+Maintainer-Email: cschmidt@sfb504.uni-mannheim.de
+Order-Email: office@sfb504.uni-mannheim.de
+Handle: RePEc:xrs:sfbmaa
+
+Template-type: ReDIF-Series 1.0
+Name:GK working paper series
+Type: ReDIF-Paper
+Provider-Name: Post Graduate Programme "Allocation on Financial
+    Markets", University of Mannheim
+Provider-Homepage: http://www.vwl.uni-mannheim.de/gk
+Provider-Institution: RePEc:edi:fvmande
+Maintainer-Name: Helga Gebauer
+Maintainer-Email: cdsem@uni-mannheim.de
+Handle: RePEc:xrs:gkwopa
+

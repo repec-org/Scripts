@@ -1,0 +1,33 @@
+Template-type: ReDIF-Series 1.0
+Name: Borsa Istanbul Review
+Provider-Name: Research and Business Development Department, Borsa Istanbul 
+Provider-Homepage: http://www.borsaistanbul.com
+Provider-Institution: RePEc:edi:rdisetr
+Maintainer-Name: Ahmet Palu
+Maintainer-Email: ahmet.palu@borsaistanbul.com
+Type: ReDIF-Article
+Handle: RePEc:bor:bistre
+
+Template-type: ReDIF-Series 1.0
+Name: Istanbul Stock Exchange Review
+Provider-Name: Research and Business Development Department, Borsa Istanbul 
+Provider-Homepage: http://www.borsaistanbul.com
+Provider-Institution: RePEc:edi:rdisetr
+Maintainer-Name: Ahmet Palu
+Maintainer-Email: ahmet.palu@borsaistanbul.com
+Type: ReDIF-Article
+Handle: RePEc:bor:iserev
+
+Template-type: ReDIF-Series 1.0
+Name: BIFEC Book of Abstracts & Proceedings 
+Provider-Name: Research and Business Development Department, Borsa Istanbul 
+Provider-Homepage: http://www.borsaistanbul.com
+Provider-Institution: RePEc:edi:rdisetr
+Maintainer-Name: Ahmet Palu
+Maintainer-Email: ahmet.palu@borsaistanbul.com
+Type: ReDIF-Article
+Handle: RePEc:bor:bifeca
+
+
+
+

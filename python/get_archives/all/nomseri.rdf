@@ -1,0 +1,37 @@
+Template-type: ReDIF-Series 1.0
+Name: NUBS Malaysia Campus Research Paper Series
+Description: Nottingham University Business School Malaysia Campus Research Paper Series
+Type: ReDIF-Paper
+Provider-Name: Nottingham University Business School Malaysia Campus
+Provider-Homepage: http://www.nottingham.edu.my/nubs/
+Provider-Institution: RePEc:edi:bsnotmy
+Maintainer-Name: Rasyad A. Parinduri
+Maintainer-Email: rasyad.parinduri@nottingham.edu.my
+Order-Email: NUBS-MC.Research@nottingham.edu.my
+Handle: RePEc:nom:nubsmc
+
+
+Template-type: ReDIF-Series 1.0
+Name: CEABuR Working Papers
+Description: Working Papers by the Centre for Europe-Asia Business Research (CEABuR)
+Type: ReDIF-Paper
+Provider-Name: Centre for Europe-Asia Business Research
+Provider-Homepage: http://ampang.nottingham.edu.my/business/ceabur/
+Provider-Institution: RePEc:edi:bsnotmy
+Maintainer-Name: Bala Ramasamy
+Maintainer-Email:bala.ramasamy@nottingham.edu.my
+Order-Email:nubs-enquiries@nottingham.edu.my
+Handle: RePEc:nom:ceabur
+ 
+ 
+Template-type: ReDIF-Series 1.0
+Name: Occasional Papers
+Description: 
+Type: ReDIF-Paper
+Provider-Name: Nottingham University Business School
+Provider-Homepage:  http://ampang.nottingham.edu.my/business/
+Provider-Institution: RePEc:edi:bsnotmy
+Maintainer-Name: Robert Hoffmann
+Maintainer-Email: robert.hoffmann@nottingham.ac.uk
+Order-Email:nubs-enquiries@nottingham.edu.my
+Handle: RePEc:nom:occasi

@@ -1,0 +1,978 @@
+$REWEVERSION = '1.8';
+$AUTHORITY = 'RePEc';
+$home = $ENV{'HOME'};
+#
+# -*- LEAVE PREVIOUS LINES -*-
+#
+# -*- Config file for rewe 1.8 -*-
+#
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+#
+# NEW IN THIS VERSION (06-02-2000)
+#
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+#
+#
+# New features included in this version:
+#  
+#
+####################################
+#
+# This is the config file for rewe. Ok, may be it is a bit long and of course
+# too boring, but don't worry, you do not need to read all of it.  I hope to
+# clarify the concepts and variables as many as I can, but if you have any
+# problem, comment, suggestion, etc etc. please, don't hesitate to contact
+# me at: Jose.Barrueco@uv.es.
+#
+# rewe tries to convert ReDIF data into html. It aims to be as flexible as
+# possible to allow you to create the presentation that you like.  
+#
+# That is a very complicated task, because there can be as many different
+# presentations as people in the Earth (Humm, well, a few less). So, to start
+# I have created two elaborate presentations, that is, presentations that
+# looks like  WoPEc and  ELSE. Also there is a possibility to create your 
+# own  presentation following your taste. This is not completely flexible, but
+# I can add more flexibility on demand or following your ideas. At the moment the main
+# constraint is that the full description of a paper in all presentations can 
+# be formated only in two ways: as a cover page or a table. 
+#
+# In the first case the different attributes are presented imitating the way
+# in which they would be presented in the cover page of a book or a printed
+# paper. As a example worth more than one 1000 words check the following url:
+#
+#    http://ideas.uqam.ca/IDEAS/data/Papers/sursurrec9701.html
+#
+# In the second case, as a table, attributes will be presented following a
+# similar structure to:
+#
+#    http://netec.mcc.ac.uk/WoPEc/data/Papers/sursurrec9701.html
+#
+# I hope to avoid this constraint in the next version of rewe.
+#
+# Now, the first step is to choose the presentation you like.
+# A few notes about that. If you are creating a service with more than 500
+# papers or a service with information from many (more than two) archives,
+# the best solution would be to elaborate a presentation like WoPEc. Otherwise you 
+# should select your own presentation. 
+#
+# Good. Lets go. First thing to do will be to set up the variables needed for all
+# configurations. They live in section I. 
+# Section I.3 sets the  directory structure and I.2 sets  the general html 
+# presentation. 
+#
+# Please don't change anything. in section III.
+#
+# Several last notes: 
+#
+# + Please comment all variables in this file that you are 
+#   not using, unless stated otherwise. 
+#
+# + Rewe has been tested only in unix machines. I don't know if it works in 
+#   other Operating Systems, but you are very welcome to try it. 
+#
+# + Rewe not only creates but also deletes information in your system. So be 
+#   careful with the directories that you  specify and work in a tmp directory until you are sure that 
+#   your configuration works .
+#
+# + Note that in the rest of this file there are lines starting with #~. You
+#   should only read them if you are creating a sofisticated presentation or
+#   one with special features as for instance cgi questions. Otherwise, leave 
+#   them...
+#
+#
+# Good luck...!!
+#
+###########################################################################
+#
+# I.- Variables that need to be configured
+#
+###########################################################################
+#
+# 
+##############################
+#
+# I.1.- cgi questions
+#
+##############################
+#~ 
+#~  rewe can be used as a cgi-bin script. If you are planning to create html
+#~  pages with the presentation you like on the fly, please read this section,
+#~  otherwise go to the next one.
+#~ 
+#~  You may wish to generate html on the fly if you have a search engine such 
+#~  as wais or isearch that allows you to index the rdf files in your system.
+#~  The output produced
+#~  by rewe running in this mode is not as complete as when you have static
+#~  html pages. For example it does not contain links to related papers by
+#~  JEL classification or papers in the same series. But you can provide
+#~  that additional functionality by linking the dynamic to 
+#~  some static pages that contain a construction of a JEL tree. For
+#~  example,  it is possible to create static pages
+#~  for series, or JEL classification, and produce the decriptions of the
+#~  papers on  the fly
+#~ 
+#~  If you use the cgi facility, rewe will be run from a html form that must
+#~  include the following parameters:
+#~
+#~  <FORM ACTION=/cgi-bin/rewe METHOD=POST>
+#~  <INPUT TYPE=HIDDEN NAME=RePEc_Dir VALUE=REDIFDIR>
+#~  <INPUT TYPE=HIDDEN NAME=RePEc_Conf VALUE=REPECCONF>
+#~  <INPUT TYPE=HIDDEN NAME=Handle VALUE=HANDLE>
+#~  <INPUT TYPE=HIDDEN NAME=HANDLE VALUE=FILE>
+#~ <FORM>
+#~ 
+#~  where:
+#~  REDIFDIR -> is the content of the $REDIFDIR variable in your system
+#~  REPECCONF -> is the full path to the config file for rewe.
+#~  HANDLE -> is the paper handle of the document you wish to display
+#~  FILE -> is the name of the file containing the ReDIF template of 
+#~          the document that you wish to display. The name of the variable
+#~          should be the content of the variable Habdle. That is the handle
+#~          of the template. looks it complicated?
+#~ 
+#~ In this mode rewe may display more than one record on time. You should 
+#~ specify a record separator. That can be a gif, some html command like HR...
+#~ Yourself please...
+#$cgi_record_sep = '<IMG SRC=/images/line.gif>';
+#~
+#$rewe_cgi = 'http://netec.mcc.ac.uk/adnetec-cgi-bin/rewe-1.3';
+#$rewe_cgi_conf = '/home/adnetec/RePEc/zzz/conf/rewe.WoPEc.conf.mcc';
+#~ 
+#~  Now you will only need to configure the variables in section I.3 about
+#~  general html presentation.
+#~
+#~
+##############################
+#
+# 1.2.- Some directories ...
+# 
+##############################
+#
+##########
+#
+# 1.2.a.- Some general directories
+#
+##########
+#
+# A tmp directory in your machine to work with
+$tmp=$home.'/tmp' ;
+#
+# Log directory to place error messages and debugging data... 
+$log=$home.'/var/log' ;
+#
+#
+#********************** New
+# Note that now you can use the package ReDIF-perl wrote by Ivan Kurmanov
+# as an estand-alone software, that is, out of the main scrips distributed
+# with the RePEc:all archive. In this case you need to install the package 
+# available at: http://openlib.org/acmes/root/soft/ReDIF-perl/ in
+# your system. If you did so and wants rewe to read your own configuration, now
+# you need to indicate the directory in your system where such package lives:
+#
+$my_redif_perl = "/home/adnetec/lib/perl5/site_perl/5.6.0/";
+#
+##########
+#
+# 1.2.b.- About data input
+#
+##########
+#
+#
+# If you are NOT using the cgi-bin facility, the most important thing 
+# rewe needs to know is where the ReDIF files live in your  system. Otherwise
+# your presentation will be empty. So, please tell rewe
+# in the @directories variable where the directories containing the *rdf
+# files are. All directory names should be separated by blanks.
+#
+# Please note that since version 1.0 I'm using the rr.pm module to parse
+# rdf files. This module does not understand soft links in your systems. So
+# if you have this type of files you will need to specify an entry for each
+# file or directory in @directories.
+#
+# The "usual" value of the directories variable would be:
+# @directories= qw(your_REDIFDIR your_RePEcRemo_directory) ;
+#
+# examples:
+#
+#@directories= qw(/home/ftp/pub/RePEc/remo/cre /home/ftp/pub/RePEc/remo/boc);
+#@directories= qw/home/ftp/pub/RePEc/remo/nbr /home/ftp/pub/RePEc/remo/boc);
+@directories = qw(/home/adnetec/RePEc/remo/mon /home/adnetec/RePEc/remo/wop );
+@directories = qw(/home/adnetec/RePEc/remo );
+#
+# You can choose what type of papers to include in your service: Only papers
+# with electronic full text, only printed papers or all type of papers.
+#
+# Papers with electronic full text ==> 1
+#
+# Papers without electronic full text ==> 2
+#
+# All papers ==> 3
+#
+$p_to_i=1;
+#
+#
+#! Well, it is possible that you only want to include in your service a 
+#! concrete type of template. Only papers, only articles ... So, please
+#! specify in the next variables which type or types of templates you want
+#! include in your service.
+#!
+#! @templates = qw(Paper Article Software Book Institution);
+@templates = qw(Paper Article Person);
+#!
+#
+#~ May be you in no case want to include the series of your worse enemy. Then
+#~ specify an array of excluded series in your service:
+@excluded_series = qw(RePEc:rus);
+#
+# If you have selected Persons, do you want to inlude all persons in RePEc or 
+# just those persons with published papers
+#
+$all_persons = '0' ; # Only persons with papers
+#$all_persons = '1' ; # All persons
+#
+# It is possible also to exclude papers with some type of restriction. For 
+# instance papers that are not freely accesible, etc. Do you want to exclude 
+# restricted papers:
+#
+$restriction = 'N';
+###$restriction = 'Y';
+#
+#
+#~ But, such general rule may exclude too much stuff. May be you are interested,
+#~ by any reason, in one particular series with restrictions. Well may be it's
+#~ your departamental series for example and your boss tell you to include it
+#~ anyway. Then, tell me in this array wich series do you want to be include:
+#~
+@series_not_restricted = qw(RePEc:nbr:nberwo RePEc:nbr:nberhi RePEc:nbr:nberre
+		       RePEc:nbr:nberte );
+#
+#
+##########
+#
+# 1.2.c.- About data output
+#
+##########
+#
+#
+# In the previous variables, you have selected the input for rewe. Now It needs
+# to know where the output will be stored. At this stage, It needs only a basic thing,
+# the main directory of your web site. That is the place where you wish
+# to store the pages that describe your papers.
+#
+# Some examples:
+#
+##$wwwdir='/var/www/html/barrueco/GM';
+$wwwdir=$home.'/WWW/WoPEc';
+#$wwwdir='/home/http/html/RePEc';
+#$wwwdir='/usr/www/htdocs/myacount/WorkigPapers' ;
+#$wwwdir='/home/josema/doc';
+#
+# 
+#~  Rewe allows you to create html files on ' host 1' where the RePEc directory
+#~  lives and then copies them to 'host 2' where the http server lives.
+#~  If you wish to do that, please specify the address (in the format
+#~  user@machine) of host 2. And then make sure that all full paths
+#~  indicated are correct. Rewe needs to read ALL information from the host 1.
+#~  Please note that you must have access to write the directory in
+#~  the host 2. This uses the unix rcp and rsh command. It involves
+#~  having a file .rhost in your home directory on host 2. 
+#~ 
+#~ $remote_address = 'josema@arcano.lib.surrey.ac.uk' ;
+#~ 
+# 
+# And now, give it the relative path to the WoPEc html directory
+# as indicated in the html links. For example. If your html
+# documents are stored in the directory:
+# /home/lbs2jb/WWW 
+# of the user@machine:
+# lbs2jb@arcano.lib.surrey.ac.uk 
+# usually, the link to this papers would be:
+# http://arcano.lib.surrey.ac.uk/~lbs2jb
+# Well. In this variable, and in all following variables with the name 
+# *alias* I'm asking for the last part of this URL.
+#
+#$wwwaliasdir='/barrueco/GM' ;
+$wwwaliasdir='/WoPEc' ;
+#$wwwaliasdir='/RePEc' ;
+#$wwwaliasdir='~adnetec/test/WoPEc' ;
+#$wwwaliasdir='~lbs2jb/doc' ;
+#
+#
+# The relative URL for the directory where the images are stored. If you are
+# using some images. Same procedure as for the relative path.
+#
+#$images_dir='/RePEc/images' ;
+$images_dir='/images' ;
+$images_dir='/~adnetec/img' ;
+#$images_dir='/~lbs2jb/Projects/imgs';
+#
+#
+# The cgi-bin directory in your system. In this directory will be allocated 
+# all scripts used to download papers, send comments ... If you are not
+# implementing this features, comment this line.
+#
+#$path_url='http://lucas6.sib.uv.es/adrepec-cgi-bin/'  ;
+$path_url='http://netec.mcc.ac.uk/adnetec-cgi-bin/'  ;
+#
+# The base URL that rewe will use to construct the URL for the full text of
+# papers being mirrored in the .../remo directory. If you don't mirror the
+# full text of the papers, comment this variable.
+#
+$link_papers='ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/remo' ;
+#
+$cite_url='http://netec.ier.hit-u.ac.jp/adnetec-cgi-bin/get_data.pl?handle=';
+#
+# If you want to link the workplace institution attribute of the person template
+# to the EDIRC description, please set this variable with the base EDIRC url:
+$edirc_url='http://edirc.repec.org/data';
+#
+#
+# Now a very easy variable:
+# Do you like to be informed each time the script makes or deletes a directory?
+#
+$verbose=0; # 1 for YES (not very useful)
+#
+#~ If you plan to use rewe as cgi it will be usefull te generate now some indexes
+#~ that will help it in the future to find the templates quickly.
+#~
+$index_s = 1; # 0 for NO
+#
+#
+########################################
+#
+# I.3.- GENERAL HTML PRESENTATION
+#
+########################################
+#
+# This section is dedicated to the general presentation of your pages. You 
+# need to specify such things as colour, messages to be placed at the top and the
+# bottom of your pages, etc. etc.
+#
+# Well, let's go ...
+# 
+# The first thing to give me is the type for the full description of each 
+# paper you want. There are two types, uncomment one of them...
+#
+####$full_type = 'cover-page';
+$full_type = 'table';
+#
+# HTML Templates:
+#
+$sPersonsTemplate = $home.'/global/html/WoPEc/persons.rwt';
+$sMainSeriesPageTemplate = $home.'/global/html/WoPEc/series.rwt';
+$sSeriesPageTemplate = $home.'/global/html/WoPEc/series.rwt';
+$sDocumentsPageTemplate = $home.'/global/html/WoPEc/document.rwt';
+$sJELPageTemplate = $home.'/global/html/WoPEc/jel.rwt';
+#
+###########################
+#
+# Do you want that each paper with electronic text will be indicated by an
+# icon. If yes please specific a correct HTML syntax for that. Option useful
+# if you have selected all *rdf files before, otherwise it has not sense...
+#
+#$downicon = '<BLINK>Download it!</BLINK>' ;
+#$downicon = '<FONT COLOR=red>[Full Text]</FONT>' ;
+#$downicon = '<IMG ALT="Downloable" SRC="/images/do.gif">' ;
+#
+#
+# If you want include a download icon in the metadata of the paper, plase
+# specify it below. (That may allow you to search by downloable papers)
+#$searchdownicon = 'kkdelavaca-----------';
+#
+# This comes from Markus Kling:
+#can we improve th HTML output in a way that users are more aware of the
+#different applications they need to view some of the workingpapers.
+#Especially postscript and PDF files are often a cause of trouble because
+#users seem to think that they can open them in Win Word. Actually most
+#of the information I am asking for is contained in the link when you
+#click on _pdf_ or _ps_ on the download page. However this information is
+#a little bit hidden.
+#
+#May be we could add a sentence like that just on top of the DOWNLOAD
+#button:
+#$download_help = '
+#<p>If you experience problems downloading a file check if you have the
+#proper application to view it first. Information about this is contained
+#in the File-Formats links below. In case of further problems read
+#<a href="http://netec.mcc.ac.uk/doc/paperfaq.html">
+#http://netec.mcc.ac.uk/doc/paperfaq.html</a><p>
+#'; 
+#
+# You may specify a format for the presentation of the download information
+# for your papers. Please fill the following form with a valid html syntax.
+# As in other cases you are free to put the information you want. Just note 
+# that the words :
+#
+# FFileUrl
+# FFileFormat
+# FFileFunction
+# FFileRestriction
+# FFileSize
+#
+# will be changed by the:
+#
+# url of the paper
+# format of the file containing the paper
+# function of the file (main text ... for more info consult the ReDIF 
+# specification)
+# restriction (if exist) to download the file
+# size of the file
+#
+# !!!
+# (Please take care with the capitalising  and the initial TWO "F"s ...):
+# !!!
+#
+# This information will be repeated as many times as files has the paper.
+# (In some extreme cases, 20 times!! Some authors  dont really want to make your life a bit easyer
+#  !! (Well, you can tell me: what about this 
+# script!!! )
+#
+# If you don't like that, only comment the variable, and rewe will produce a
+# format by default.
+#
+$download_form = '
+<p><a href=FFileUrl>FFileFormat</a> (FFileFunction)<br> ';
+#$download_form = '
+#<p><a href=FFileUrl>Download </a>this Paper with format FFileFormat. Its
+#function is FFileFunction and Filesize FFileSize .';
+#
+# If you are using the previous form, there will be attribute names without an
+# attribute value. For instance, a File-URL without  a File-Size. In this case
+# previous versions of rewe put a string like 'not provided'. Now you can choose
+# the text to be put in each case. I'm sorry but by the moment there is not
+# possibility to delete the attributes names without values. May be in the 
+# future ...
+#
+$download_replace = '';
+#
+# If you don't like the html forms but still like to use a redirection script 
+# in order to download papers, plese give me its url. I will pass to it 
+# the document handle and the document url...
+$redirec = 'http://netec.mcc.ac.uk/adnetec-cgi-bin/get_doc.pl';
+#
+#
+# Now we are going with Persons...
+#
+# If you are including persons templates in your service, you should fill the
+# next variables folowing the instruction in the previous paragraph:
+$start_full_person = '<h1><center>Information about:<br><!-- name-full -->
+</center></h1><p>
+';
+#
+# Main person data
+$main_full_person = '
+<B>Name-First:</B> <!-- name-first --><BR>
+<B>Name-Last:</B> <!-- name-last --><BR>
+<B>Email:</B> <!-- EMAIL --><BR>
+<B>Homepage:</B> <!-- HOMEPAGE --><BR>
+<B>WorkPlace-Institution:</B> <!-- workplace-institution --><BR>
+<B>Postal:</B> <!-- POSTAL --><BR>
+<P>';
+#
+# Workplace data. Here we have workplace name, institution, postal, email, fax
+# and homepage. You only need to specify the way each atribute-name and 
+# atribute content will be placed in the html output:
+$workplace_full_person = '
+<B>ATRIBUTE-NAME: </B>ATRIBUTE-CONTENT<BR>';
+#
+# The same thing for links to the author's works
+$links_full_person = '
+<B>ATRIBUTE-NAME: </B>ATRIBUTE-CONTENT<BR>';
+#
+# And now the end of the file
+$end_full_person = '
+<p>This information was supplied by <!-- name-full --> in registering
+through HoPEc. If you are <!-- name-full -->, you may change this information at <A
+HREF=http://netec.mcc.ac.uk/adnetec-cgi-bin/register.cgi>HoPEc</A>. Or if
+you are not registered and would like to be listed as well, register at <A
+HREF=http://netec.mcc.ac.uk/adnetec-cgi-bin/register.cgi>HoPEc</A>. When you
+register or update your HoPEc registration, you may identify the papers and 
+articles you have authored.<P>
+';
+#
+#
+#
+# Do you want to include links from authors in your service to HoPEc data?
+# Note that you must have a mirror of the RePEc:per archive...
+#
+$HoPEc_links = 1; #(yes) 
+#$HoPEc_links = 0; #(no)
+#
+# If you have selected 1 in the previous variable, here you have the url
+# to link to. At the moment is the only correct format but in the future may be
+# more person services can be created. So change nothing:
+$HoPEc_url = 'http://netec.mcc.ac.uk/adnetec-cgi-bin/gemini.cgi?submit=id&HANDLE=';
+#
+#
+# ReDIF templates may contain local information, only interesting for the
+# archive that have produced them. Local information is indicated by a "X-"
+# preceding the name of the field (for more info, have a look to the
+# ReDIF specification). This information is not included by default in the
+# html presentation. If you wish to include it, please uncomment next variable
+#
+$local_information = 'Y';
+#
+# ReDIF may also include a email or url to permit the user to get a printed 
+# copy of the paper. If you like this feature set the next variable to 'Y' and
+# complete the rest of "Order..." variables. Otherwise skip them..
+#
+$OrderInf = 'Y';
+#
+# Now plesae give me the text you like to include before the EMAIL link. Note 
+# that the word ORDEREMAIL will be replaced by the mailto url of the
+# provider.
+#
+$OrderEmailText = 'To get a printed copy of this paper, please send an email 
+to <a href=mailto:ORDEREMAIL> ORDEREMAIL </a>.';
+#
+# Same thing for URLlinks ...
+#
+$OrderURLText = ' Get a <a href=ORDERURL> printed copy</a>.';
+#
+# Same thing for Postal addresses:
+#
+$OrderPOSTALText = ' Get a printed copy at: ORDERPOSTAL.';
+#
+#
+###########################################################################
+#
+# II.- Variables that probably you will need to configure
+#
+###########################################################################
+#
+#
+# Before start a few words about the structure of a service as WoPEc. All 
+# service implementing a structure as WoPEc must contain the same 
+# directory structure as indicated:
+#
+# ../<name>
+# ../<name>/data (required)
+# ../<name>/stats  (optional)
+# ../<name>/comments (optional)
+#
+# Where name can be the name of your project. ../data is the directory
+# created by rewe. All information on it will be deleted when rewe is
+#! run and replaced by a new one. data will contain several subdirectories,
+#! one for each template type specified in the @templates variable of
+#! this file. In these subdirectories will be stored the full description
+#! of each document
+#
+# ../stats contains statistics about the use of the papers. It is a optional
+# directory, but if you are using it, the only condition is to have a 
+# subdirectory ../stats/int that must contain a file for each paper. The 
+# content of this file is free but its name must be:
+#
+#  <series_code><series_number>.stats.html
+#
+# Otherwise rewe will not read the data.
+#
+# ../comments is also optional. It contains comments about papers. Again the
+# content is free but the files name must be:
+#
+#  <series_code><series_number>.comment.html
+#
+# Told that, let's go with the variables...
+#
+#######################
+#
+# II.1.a.- About directories ...
+#
+#######################
+#
+#
+# rewe takes some time (may be one hour wall time) to create a service as
+# WoPEc. As the first thing rewe does is to delete the old info we need 
+# to work in a tmp directory and when the script finish move the
+# tmp directory to the correct data directory, in order to avoid to be some
+# time without service. So please specific in the variable below the full
+# path in your system to this directory. Note that we "move" the information,
+# not "copy" it, so this directory must be in the same file system that the
+# correct data directory.
+#
+#$data_tmp='/home/adnetec/ftp/tmp/data';
+$data_tmp='/tmp/data' ;
+$data_tmp=$home.'/tmp/data' ;
+#$data_tmp='/home/lbs2jb/Projects/tmp/data' ;
+####$data_tmp='/mnt/xuquer/barrueco/tmp/tmp/data' ;
+#
+#
+# The directory where the html files will be stored. That is the correct
+# data directory, where the previous dir will be moved.
+#
+# WARNING!!! Contents in this directory will be deleted, so be careful and 
+# change this for experiments
+#
+#$wwwdatadir=$home.'/httpd/html/data' ;   
+###$wwwdatadir=$home.'/WWW/WoPEc/data' ;   
+$wwwdatadir=$wwwdir.'/data' ;   
+#$wwwdatadir='/home/httpd/html/RePEc/data' ;   
+#$wwwdatadir='/home/josema/doc/data';
+#
+#
+# The relative path to the data directory, as indicated in the html link
+#
+$wwwdataaliasdir = '/WoPEc/data' ;
+#$wwwdataaliasdir = '/barrueco/GM/data' ;
+#$wwwdataaliasdir = '/tmp/WoPEc/data' ;
+#$wwwdataaliasdir = '/RePEc/data' ;
+#$wwwdataaliasdir = '/~lbs2jb/data' ;
+#
+# If you are daling with persons, in order to avoid the creation of bad links
+# from the person page to the papers pages I need to know where the fulll html
+# pages for Persons are stored. Normaly you will hold such data in your
+# $wwwdatadir directory, then don't worry about that,  but you can also 
+# place it somewhere. In this is your case please let me know where are you
+# placing them. I need each full and alias directories:
+#
+#%persons_dirs = (
+#		 "$wwwdatadir","$wwwdataaliasdir",
+#		 "/home/adnetec/WWW/BibEc/data","/BibEc/data"
+#);
+%persons_dirs = (
+		 "$wwwdatadir","$wwwdataaliasdir",
+		 "$data_tmp","$wwwdataaliasdir"
+);
+#
+#
+# This and some more variables below are related to the JEL classification.
+# If you are not implementing this feature comment them and go to the next
+# section. 
+#
+# The directory where the final version of JEL files will be stored
+$jel_dir=$data_tmp.'/JEL' ;
+#
+#
+# And the relative path to the JEL directory, as indicated in the html link
+# Note the "/" at the end!
+$jelaliasdir='/WoPEc/data/JEL/' ;
+#$jelaliasdir='/barrueco/GM/data/JEL/' ;
+#$jelaliasdir='/RePEc/data/JEL/' ;
+#
+#
+#######################
+#
+# II.1.b.- About files ...
+#
+#######################
+#
+#
+# We continue with "forms". Other two forms more are those fore the home
+# page and the JEL index. The first one must be a file with whatever name
+# in your system. It will be copied by rewe to the correct place. This file 
+# must contain html text as you like. The only
+# thing to note when you write this file is that where you place the
+# words:
+# PAPERNUMBER
+# SERIESNUMBER
+# JELNUMBER
+# DOWNLOADNUMBER
+# rewe will change these words by:
+#
+# the number of papers in your service
+# the number of series in your service
+# the number of papers with JEL classification in your service
+# the number of papers with electronic full text in your service.
+#
+# You are free to use these words as you like...
+#
+# Also if you are implementing features as: new additions, statistics, etc.
+# It whould be useful to set up some link in the form to them.
+#
+# The JEL index is the main index of the JEL classification with links to
+# all subcategories. You can create this for or use the form created by
+# WoPEc. If you are not implementing this feature, do you know?, comment
+# the variable...
+#
+# A example of these forms can be obtained upon request from:
+#
+# wopec@netec.mcc.ac.uk
+#
+# And now... give me the full path to these files in your system...
+# Home page form ...
+$gloind=$home.'/global/html/WoPEc/WoPEc.form';
+#$gloind='/home/users/barrueco/local/GM.form';
+# 
+# Location for hopec2rech file:
+$hopec2rech = $home.'/RePEc/remo/edi/conf/hopec2rech.txt';
+# 
+# JEL index form ...
+#####$glojel=$home.'/local/JEL.form';
+##$glojel=$home.'/global/html/WoPEc/JEL.form';
+##$glojel='/home/users/barrueco/local/JEL.form';
+#
+# Institutions index form ...
+####$gloinst=$home.'/tmp/institutions.form';
+#####$gloinst=$home.'/global/html/WoPEc/institutions.form';
+#
+#
+# Full path for the new additions file (Optional. Only comment this line 
+# if you don't have a New.html file)
+##$wopec_new=$home.'/global/html/WoPEc/New-0.2.html' ;
+#
+#
+# Full path for the exposure file (if you have one, if not, comment the line).
+##$exposure="$home/WWW/central/Exposure.html" ;
+#
+#
+#######################
+#
+# II.1.c.- About metadata ...
+#
+#######################
+#
+# Do you want include meta tags with abstract and/or keywords in each paper
+# description? If yes please specific abstract and/or keywords in the next 
+# line. Note that correct values are only description, title, author and
+# subject. If not, please comment the line.
+@meta = qw(description subject title author) ;
+#@meta = qw(abstract keywords) ;
+#
+# At the moment you can choose between two types of metadata: Dublin Core 
+# like or simple html meta tags. Let me show you two examples:
+# Simple meta tags:
+# <META NAME="author" CONTENT="Jose Manuel Barrueco">
+# Dublin Core:
+# <META NAME="DC.author" CONTENT="Jose Manuel Barrueco">
+#
+# Which type of metadata you want to provide? (1-2)
+##$metadata=1; #Dublin Core
+$metadata=2; #Simple html tags
+#
+#
+#######################
+#
+# II.1.d.- Some counters ...
+#
+#######################
+#
+# How many papers do you want to include in each series page?
+#
+$user_tem_count = 50;
+#
+#######################
+#
+# II.1.e.- About html descriptions ...
+#
+#######################
+#
+#
+# Before you have specified the info to be placed at the top of each page, now
+# it is possible to specifier the info to be placed at the top of each record
+# in your service. If you don't like it, comment the line...
+#$start_record='
+#<P><FONT FACE="Arial,Helvetica"><FONT SIZE=-1>Are you an author of this paper?
+#Please take the time and register at our new <IMG SRC="/images/HoPEc2.gif"> 
+#service. Read all about it at:
+#<A HREF="http://netec.mcc.ac.uk/HoPEc/geminiabout.html">
+#http://netec.mcc.ac.uk/HoPEc/geminiabout.html</A>. Note you do not need to 
+#register in order to use the search service!!</FONT></FONT><BR><HR><P>';
+#
+#<b>Template-Type: </b><a href=/RePEc/ReDIF.html>ReDIF</a>-Paper 1.0<br>';
+#
+#
+# The series page in a service as WoPEc may have a special header. Please
+# set up this variable the html code that you want to be placed at the top
+# of the series page. Remember that this page contains a list of all series
+# in your service, with the publisher name and the number of papers in
+# each series. The html is free, and may be from the simples one
+#
+# <html><head><title>Series</title><h1>Series</h1>
+#
+# to the most complex as the example below:
+$Paper_series_header = $headstart.'<title>Paper Series</title>'.$headend.$title_header;
+#
+#
+$Article_series_header = $headstart.'<title>Article Series</title>'.$headend.$title_header;
+#
+# Help pages for formats
+# A frequent problem of WoPEc users is about as read a paper with format xxx
+# To help them we have create some pages with formats descriptions and links
+# to the applications needed to read them.
+# You can use our pages, leaving the next lines, or create you own pages. In
+# this case, for each format delete the second part of the array and put the
+# url to your pages...
+%helpformats=(
+	      'pdf','http://netec.mcc.ac.uk/doc/pdf.html',
+	      'gif','http://netec.mcc.ac.uk/doc/gif.html',
+	      'postscript','http://netec.mcc.ac.uk/doc/postscript.html',
+	      'html','http://netec.mcc.ac.uk/doc/HTML.html',
+	      'msword','http://www.microsoft.com/msword/',
+	      'msword2.0','http://www.microsoft.com/msword/',
+	      'msword6.0','http://www.microsoft.com/msword/',
+	      'vnd.ms-excel','http://www.microsoft.com/msword/',
+	      'zipped','http://netec.mcc.ac.uk/doc/zipped.html',
+	      'gnuzipped','http://netec.mcc.ac.uk/doc/gnuzipped.html',
+	      'taped','http://netec.mcc.ac.uk/doc/tapped.html',
+	      'unixcompressed','http://netec.mcc.ac.uk/doc/unixcompressed.html',
+	      'wordperfect','http://www.corel.com/products/wordperfect/',
+	      'wordperfect5.1','http://www.corel.com/products/wordperfect/',
+	      'wordperfect6.0','http://www.corel.com/products/wordperfect/',
+	      'wordperfect6.1','http://www.corel.com/products/wordperfect/',
+	      'prn','http://netec.mcc.ac.uk/doc/prn.html'
+	      );
+#
+# Well the configuration of a service as WoPEc has finish!!!!!!!
+# Was it hard?? I hope no...
+#
+# Now save this file and execute rewe......
+#
+#
+#
+#########################################
+##
+## END of presentation
+##
+#########################################
+##
+######################################################################
+#
+# III.- Please don't change anything below this line!!
+#
+######################################################################
+#
+#####################################################################
+#
+# This is a list of accepted types, subtypes and subsubtypes as defined 
+# in the new format of formad field.
+#
+#####################################################################
+%types=(
+	'plain','text',
+	'html','text',
+	'tex','text',
+	'latex','text',
+	'bibtex','text',
+	'pdf','application',
+	'rtf','application',
+	'envoy','application',
+	'postscript','application',
+	'msword','application',
+	'msword2.0','application',
+	'msword6.0','application',
+	'wordperfect','application',
+	'wordperfect5.1','application',
+	'wordperfect6.0','application',
+	'wordperfect6.1','application',
+	'dvi','application',
+	'lotus','application',
+	'chiwriter','application',
+	'gauss','application',
+	'amipro','application',
+	'quattropro','application',
+	'mathematica','application',
+	'eps','application',
+	'vnd.ms-excel','application',
+	'hp','application',
+	'fortran','application',
+	'bin','application',
+	'prn','application',
+# Necesitamos anadir estos tres tipos ya que puede haber ficheros de los que no
+# sepamos cual es el subtype. MIME incluye el primero de ellos.
+#
+	'gnuzipped','application',
+	'zipped','application',
+	'taped','application',
+	'unixcompressed','application',
+	'gif','image',
+	'unknown','application'
+	);
+#
+#
+#####################################
+#
+# Subsubtypes
+#
+#####################################
+@subsubtypes=("zipped","gnuzipped","taped","unixcompressed");
+#
+##########################################
+#
+# This is a list of accepted extensions for name files used with files from 
+# wustl
+#
+##########################################
+%terminations=(
+	       'ps','postscript',
+	       'txt','plain',
+	       'doc','msword',
+	       'DOC','msword',
+	       'bin','bin',
+	       'wp5','wordperfect',
+	       'w51','wordperfect',
+	       'wp51','wordperfect',
+	       'wp6','wordperfect',
+	       'wp','wordperfect',
+	       'wpw','wordperfect',
+	       'wpd','wordperfect',
+	       'WP5','wordperfect',
+	       'WP6','wordperfect',
+	       'WP','wordperfect',
+	       'WPD','wordperfect',
+	       'dvi','dvi',
+	       'html','html',
+	       'tex','tex',
+	       'pdf','pdf',
+	       'Z','unixcompressed',
+	       'zip','zipped',
+	       'ZIP','zipped',
+	       'gz','gnuzipped',
+	       'tar','taped'
+	) ;
+
+%months = (
+	  '01','Jan',
+	  '02','Feb',
+	  '03','Mar',
+	  '04','Apr',
+	  '05','May',
+	  '06','Jun',
+	  '07','Jul',
+	  '08','Aug',
+	  '09','Sep',
+	  '10','Oct',
+	  '11','Nov',
+	  '12','Dec',
+	  ) ;
+
+%pub_mes = (
+	     Paper => ['provided','in its series'],
+	     Article => ['published','in its journal'],
+	     Software => ['provided','in its series'],
+	     Book => ['published',' '],
+	     Chapter => ['published',' ']
+	    );
+
+
+%file_names = (
+               'Paper','Series',
+               'Article','Series',
+               'Software','Series',
+               'Book','Data',
+               'Chapter','Data',
+               'Institution','Info',
+               'Person','Info'
+               );
+
+%messages = (
+'1','Display Full Records',
+'2','Page:',
+'3','For information about this series, please contact ',
+'4','For information about new documents in this series: ',
+'5','Select format: ',
+'6','Download Paper',
+'7','Related papers by JEL classification:<br> ',
+'8','Author(s) registered at 
+ <A HREF="http://netec.mcc.ac.uk/HoPEc/geminiabout.html">HoPEc</A>: <P>',
+'10','',
+'11','<p align="left"><a name="restriction"><b><font color="#FF0000">Restriction:</font></b></a><b><a name="restriction"></a></b></p>',
+'12','<font size=-1>Access statistics</font>',
+'13','</CENTER><P>Please note that this is a list of authors who have registered using 
+  the HoPEc service. It is not a complete list of author information stored inour database. If you want to search for any registered author use the <A HREF="http://netec.mcc.ac.uk/adnetec-cgi-bin/gemini.cgi">HoPEc </A>search engine.<P><HR>',
+'14','First',
+'15','Previous',
+'16','Next',
+'17','Last',
+'18','<p align="left"><b> Journal of Economic Literature (JEL) Classification System</b> </p> <p align="left">&nbsp;<font size="-1">Click on the main classification to read the one-digit classifications; click on the one-digit classifications to obtain the full two-digit classification. </font></p>',
+'19','<p class="download" align="center"><font color="#FF0000">Download this document</font></p><br>'
+);
+

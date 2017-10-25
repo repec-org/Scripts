@@ -1,0 +1,43 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal for Economic Forecasting
+Editor-Name: Lucian Liviu Albu
+Editor-Name: Corina Saman
+Provider-Name: Institute for Economic Forecasting
+Provider-Homepage: http://www.ipe.ro/
+Provider-Institution: RePEc:edi:ipacaro
+Maintainer-Name: Corina Saman
+Maintainer-Email: rjef@ipe.ro
+Type: ReDIF-Article
+Handle: RePEc:rjr:romjef
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers of Macroeconomic Modelling Seminar
+Provider-Name: Institute for Economic Forecasting
+Provider-Homepage: http://www.ipe.ro/
+Provider-Institution: RePEc:edi:ipacaro
+Maintainer-Name: Corina Saman
+Maintainer-Email: rjef@ipe.ro
+Type: ReDIF-Paper
+Handle: RePEc:rjr:wpmems
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers of Institute for Economic Forecasting
+Editor-Name: Lucian Liviu Albu
+Editor-Name: Corina Saman
+Provider-Name: Institute for Economic Forecasting
+Provider-Homepage: http://www.ipe.ro/
+Provider-Institution: RePEc:edi:ipacaro
+Maintainer-Name: Corina Saman
+Maintainer-Email: rjef@ipe.ro
+Type: ReDIF-Paper
+Handle: RePEc:rjr:wpiecf
+
+Template-type: ReDIF-Series 1.0
+Name: Institute for Economic Forecasting Conference Proceedings
+Provider-Name: Institute for Economic Forecasting
+Provider-Homepage: http://www.ipe.ro/
+Provider-Institution: RePEc:edi:ipacaro
+Maintainer-Name: Corina Saman
+Maintainer-Email: rjef@ipe.ro
+Type: ReDIF-Paper
+Handle: RePEc:rjr:wpconf

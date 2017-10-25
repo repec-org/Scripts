@@ -1,0 +1,53 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Regional Research Institute, West Virginia University
+Provider-Homepage: http://rri.wvu.edu/research/working-papers/
+Provider-Institution: RePEc:edi:rrwvuus
+Maintainer-Name: Randall Jackson
+Maintainer-Email: rri@mail.wvu.edu
+Type: ReDIF-Paper
+Handle: RePEc:rri:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Technical Documents
+Provider-Name: Regional Research Institute, West Virginia University
+Provider-Homepage: http://rri.wvu.edu/research/technical-documents/
+Provider-Institution: RePEc:edi:rrwvuus
+Maintainer-Name: Randall Jackson
+Maintainer-Email: rri@mail.wvu.edu
+Type: ReDIF-Paper
+Handle: RePEc:rri:tecdoc
+
+
+Template-type: ReDIF-Series 1.0
+Name: Journal Articles
+Provider-Name: Regional Research Institute, West Virginia University
+Provider-Homepage: http://rri.wvu.edu/research/rri-publications/
+Provider-Institution: RePEc:edi:rrwvuus
+Maintainer-Name: Randall Jackson
+Maintainer-Email: rri@mail.wvu.edu
+Type: ReDIF-Article 1.0
+Handle: RePEc:rri:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Book Chapters
+Provider-Name: Regional Research Institute, West Virginia University
+Provider-Homepage: http://rri.wvu.edu/research/rri-publications/
+Provider-Institution: RePEc:edi:rrwvuus
+Maintainer-Name: Randall Jackson
+Maintainer-Email: rri@mail.wvu.edu
+Type: ReDIF-Chapter 1.0
+Handle: RePEc:rri:bkchap
+
+Template-type: ReDIF-Series 1.0
+Name: Wholbk
+Provider-Name: Regional Research Institute, West Virginia University
+Provider-Homepage: http://rri.wvu.edu/resources/web-book-rs/list-of-books/
+Provider-Institution: RePEc:edi:rrwvuus
+Maintainer-Name: Randall Jackson
+Maintainer-Email: rri@mail.wvu.edu
+Type: ReDIF-Book 1.0
+Handle: RePEc:rri:wholbk
+
+
+

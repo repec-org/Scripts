@@ -1,0 +1,148 @@
+Template-type: ReDIF-Series 1.0
+Name: Monetaria
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+ISSN:0185-1136
+Type: ReDIF-Article
+Handle: RePEc:cml:moneta
+
+Template-type: ReDIF-Series 1.0
+Name: Boletín
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+ISSN:0186-7229
+Type: ReDIF-Article
+Handle: RePEc:cml:boletn
+
+Template-type: ReDIF-Series 1.0
+Name: Money Affairs
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+ISSN:0187-7615
+Type: ReDIF-Article
+Handle: RePEc:cml:moneya
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Discusión - Discussion Papers
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Paper
+Handle: RePEc:cml:docdsc
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Coyuntura
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Paper
+Handle: RePEc:cml:doccoy
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Investigación - Research Papers
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Paper
+Handle: RePEc:cml:docinv
+
+Template-type: ReDIF-Series 1.0
+Name: Investigación Conjunta-Joint Research
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Book
+Handle: RePEc:cml:incoes
+
+Template-type: ReDIF-Series 1.0
+Name: Investigación Conjunta-Joint Research
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Chapter
+Handle: RePEc:cml:incocp
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Book
+Handle: RePEc:cml:libros
+
+Template-type: ReDIF-Series 1.0
+Name: Premio de Banca Central Rodrigo Gómez / Central Banking Award "Rodrigo Gómez"
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Book
+Handle: RePEc:cml:prodgz
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Remesas
+Provider-Name: Centro de Estudios Monetarios Latinoamericanos, CEMLA
+Provider-Homepage: http://www.cemla.org
+Provider-Institution: RePEc:edi:cemlamx
+Order-Email:Publicaciones@cemla.org
+Order-Homepage: http://www.cemla.org
+Maintainer-Name: Ana Laura Sibaja-Jiménez
+Maintainer-Email: publicaciones@cemla.org
+Notification: nep-cba, nep-mac, nep-mon
+Type: ReDIF-Paper
+Handle: RePEc:cml:docrem
+
+
+

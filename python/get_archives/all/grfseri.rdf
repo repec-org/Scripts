@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Accepted Papers Series
+Type: ReDIF-Paper
+Provider-Name: Montpellier University, Center for Research in Finance
+Provider-Homepage: http://www.cregofi.univ-montp2.fr/
+Provider-Institution: RePEc:edi:cregofr
+Maintainer-Name: Michael Kaestner
+Maintainer-Email: cregofi@univ-montp2.fr
+Handle: RePEc:grf:mtpaps
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Type: ReDIF-Paper
+Provider-Name: Montpellier University, Center for Research in Finance
+Provider-Homepage: http://www.cregofi.univ-montp2.fr/
+Provider-Institution: RePEc:edi:cregofr
+Maintainer-Name: Michael Kaestner
+Maintainer-Email: cregofi@univ-montp2.fr
+Handle: RePEc:grf:mtpwps
+

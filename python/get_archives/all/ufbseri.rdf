@@ -1,0 +1,52 @@
+Template-Type: ReDIF-Series 1.0
+Name: Working  papers - Textos para Discussao do Curso de Ciencias Economicas da UFG
+Provider-Name: Curso de Ciencias Economicas da Universidade Federal de Goias - FACE
+Provider-Postal: Universidade Federal de Goias
+			UFG - Campus Samambaia (Campus II)
+			Rodovia Goiania/Nova Veneza, Km 0
+			CEP 74690-900, Goiania, Brasil
+Provider-Homepage: http://www.face.ufg.br/economia
+Provider-Phone: 55-62-3521-1821
+Provider-Institution: RePEc:edi:ecufgbr
+Maintainer-Name: Sandro E. Monsueto
+Maintainer-Email: monsueto@ufg.br
+Editor-Name: Sandro E. Monsueto
+Editor-Email: monsueto@ufg.br
+Type: ReDIF-Paper
+Handle: RePEc:ufb:wpaper
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Tecnical Notes - Notas Tecnicas em Economia da UFG
+Provider-Name: Nepec - Curso de Ciencias Economicas da Universidade Federal de Goias - FACE
+Provider-Postal: Universidade Federal de Goias
+			UFG - Campus Samambaia (Campus II)
+			Rodovia Goiania/Nova Veneza, Km 0
+			CEP 74690-900, Goiania, Brasil
+Provider-Homepage: http://www.face.ufg.br/economia
+Provider-Phone: 55-62-3521-1390
+Provider-Institution: RePEc:edi:ecufgbr
+Maintainer-Name: Sandro E. Monsueto
+Maintainer-Email: monsueto@ufg.br
+Editor-Name: Sandro E. Monsueto
+Editor-Email: monsueto@ufg.br
+Type: ReDIF-Paper
+Handle: RePEc:ufb:npaper
+
+
+Template-Type: ReDIF-Series 1.0
+Name: REOESTE - Revista de Economia do Centro-Oeste
+Provider-Name: Nepec - Curso de Ciencias Economicas da Universidade Federal de Goias - FACE
+Provider-Postal: Universidade Federal de Goias
+			UFG - Campus Samambaia (Campus II)
+			Rodovia Goiania/Nova Veneza, Km 0
+			CEP 74690-900, Goiania, Brasil
+Provider-Homepage: http://www.revistas.ufg.br/index.php/reoeste
+Provider-Phone: 55-62-3521-1390
+Provider-Institution: RePEc:edi:ecufgbr
+Maintainer-Name: Sandro E. Monsueto
+Maintainer-Email: monsueto@ufg.br
+Editor-Name: Sérgio F.M. Filho
+Editor-Email: sjmkf@hotmail.com
+Type: ReDIF-Article
+Handle: RePEc:ufb:rpaper

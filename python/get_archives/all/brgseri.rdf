@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers (-2012)
+Provider-Name: University of Bergamo, Department of Economics
+Provider-Homepage: http://www.unibg.it/struttura/en_struttura.asp?cerca=en_dse_intro
+Provider-Institution: RePEc:edi:deberit
+Maintainer-Name: University of Bergamo Library
+Maintainer-Email: aisberg@unibg.it
+Type: ReDIF-Paper
+Handle: RePEc:brg:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers (2013-)
+Provider-Name: University of Bergamo, Department of Management, Economics and Quantitative Methods
+Provider-Homepage: http://www.unibg.it/struttura/en_struttura.asp?cerca=en_dse_intro
+Provider-Institution: RePEc:edi:deberit
+Maintainer-Name: University of Bergamo Library
+Maintainer-Email: aisberg@unibg.it
+Type: ReDIF-Paper
+Handle: RePEc:brg:newwpa

@@ -1,0 +1,42 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: The Economics and Social Development Organization (TESDO)
+Provider-Homepage: http://www.tesdo.org/working_papers.php/
+Provider-Institution: RePEc:edi:tesdopk
+Maintainer-Name: Dr. Muhammad Shahbaz (PhD Applied Economics)
+Maintainer-Email: mshahbaz@tesdo.org
+Type: ReDIF-Paper
+Handle: RePEc:ijr:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Economics and Empirical Research (IJEER)
+Provider-Name: The Economics and Social Development Organization (TESDO)
+Provider-Institution: RePEc:edi:tesdopk
+Maintainer-Name: Dr. Muhammad Shahbaz (PhD Applied Economics)
+Maintainer-Email: mshahbaz@tesdo.org
+Editor-Name: Dr. Muhammad Shahbaz (PhD Applied Economics)
+Editor-Email: mshahbaz@tesdo.org
+Type: ReDIF-Article
+Handle: RePEc:ijr:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Bulletin of Energy Economics (BEE)
+Provider-Name: The Economics and Social Development Organization (TESDO)
+Provider-Institution: RePEc:edi:tesdopk
+Maintainer-Name: Dr. Muhammad Shahbaz (PhD Applied Economics)
+Maintainer-Email: mshahbaz@tesdo.org
+Editor-Name: Dr. Muhammad Shahbaz (PhD Applied Economics)
+Editor-Email: beetesdo@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:ijr:beejor
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Social Sciences and Management Studies (IJSSMS)
+Provider-Name: The Economics and Social Development Organization (TESDO)
+Provider-Institution: RePEc:edi:tesdopk
+Maintainer-Name: Dr. Muhammad Shahbaz (PhD Applied Economics)
+Maintainer-Email: mshahbaz@tesdo.org
+Editor-Name: Dr. Muhammad Shahbaz (PhD Applied Economics)
+Editor-Email: ijssmstesdo@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:ijr:ijssms

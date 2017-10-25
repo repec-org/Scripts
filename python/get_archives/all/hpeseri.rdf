@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Instituto de Estudios Fiscales
+Provider-Homepage: http://www.ief.es
+Provider-Institution: RePEc:edi:iefgves
+Maintainer-Name: Ana Belén Miquel Burgos
+Maintainer-Email: belen.miquel@ief.minhap.es
+Type: ReDIF-Paper
+Handle: RePEc:hpe:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Hacienda Pública Española
+Provider-Name: IEF
+Provider-Homepage: http://www.ief.es
+Provider-Institution: RePEc:edi:iefgves
+Maintainer-Name: Ana Belén Miquel Burgos
+Maintainer-Email: belen.miquel@ief.minhap.es
+Type: ReDIF-Article
+Handle: RePEc:hpe:journl

@@ -1,0 +1,23 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: MENDELU Working Papers in Business and Economics
+Provider-Name: Mendel University in Brno, Faculty of Business and Economics
+Provider-Homepage: http://vyzc.pef.mendelu.cz/en
+Provider-Institution: RePEc:edi:femencz
+Maintainer-Name: Luděk Kouba
+Maintainer-Email: kouba@mendelu.cz
+Type: ReDIF-Paper
+Handle: RePEc:men:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: European Journal of Business Science and Technology
+Provider-Name: Mendel University in Brno, Faculty of Business and Economics
+Provider-Homepage: http://ejobsat.cz
+Provider-Institution: RePEc:edi:femencz
+Maintainer-Name: Pavel Haluza
+Maintainer-Email: haluza@mendelu.cz
+Editor-Name: Svatopluk Kapounek
+Editor-Email: kapounek@mendelu.cz
+Type: ReDIF-Article
+Handle: RePEc:men:journl
+
+

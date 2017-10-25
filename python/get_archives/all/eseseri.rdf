@@ -1,0 +1,55 @@
+Template-type:        ReDIF-Series 1.0
+Name:                 ISER Working Paper Series
+Description:          Working Papers which are the result of the research done by members and associates of the Institute for Social and Economic Research.
+Type:                 ReDIF-Paper
+Provider-Name:        Institute for Social and Economic Research
+Provider-Homepage:    https://www.iser.essex.ac.uk/
+Provider-Phone:       44-1206-872957
+Provider-Institution: RePEc:edi:rcessuk
+Provider-Postal:      Publications Office,
+                      Institute for Social and Economic Research,
+                      University of Essex, Wivenhoe Park,
+                      Colchester, Essex CO4 3SQ UK
+Provider-Fax:         44-1206-873151
+Maintainer-Name:      Jonathan Nears
+Maintainer-Email:     jnears@essex.ac.uk
+Order-Email:          iser-publications@essex.ac.uk
+Order-Homepage:       https://www.iser.essex.ac.uk/publications/
+Order-Postal:         Publications Office,
+                      Institute for Social and Economic Research,
+                      University of Essex, Wivenhoe Park,
+                      Colchester, Essex CO4 3SQ UK
+Handle:               RePEc:ese:iserwp
+
+Template-type:        ReDIF-Series 1.0
+Name:                 Microsimulation Unit Research Notes
+Description:          Research Notes by members and associates of the Microsimulation Community
+Type:                 ReDIF-Paper
+Provider-Name:        Microsimulation Unit at the Institute for Social and Economic Research
+Provider-Institution: RePEc:edi:rcessuk
+Provider-Homepage:    https://www.iser.essex.ac.uk/euromod/microsimulation-unit
+Maintainer-Name:      Jonathan Nears
+Maintainer-Email:     jnears@essex.ac.uk
+Handle:               RePEc:ese:msimrn
+
+Template-type:        ReDIF-Series 1.0
+Name:                 EUROMOD Working Papers
+Description:          Working Papers by members and associates of the EUROMOD Team
+Type:                 ReDIF-Paper
+Provider-Name:        EUROMOD at the Institute for Social and Economic Research
+Provider-Institution: RePEc:edi:rcessuk
+Provider-Homepage:    https://www.iser.essex.ac.uk/euromod/
+Maintainer-Name:      Jonathan Nears
+Maintainer-Email:     jnears@essex.ac.uk
+Handle:               RePEc:ese:emodwp
+
+Template-type:        ReDIF-Series 1.0
+Name:                 Understanding Society Working Paper Series
+Description:          Working Papers by members and associates of the Understanding Society survey
+Type:                 ReDIF-Paper
+Provider-Name:        Understanding Society at the Institute for Social and Economic Research
+Provider-Institution: RePEc:edi:rcessuk
+Provider-Homepage:    https://www.understandingsociety.ac.uk/research/publications/working-papers
+Maintainer-Name:      Jonathan Nears
+Maintainer-Email:     jnears@essex.ac.uk
+Handle:               RePEc:ese:ukhlsp

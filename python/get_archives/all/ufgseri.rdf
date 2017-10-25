@@ -1,0 +1,38 @@
+Template-type: ReDIF-Series 1.0
+Name:Quaderni DSEMS
+Description:Quaderni di Ricerca del Dipartimento di Scienze Economiche, Matematiche e Statistiche, Universita' di Foggia
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Dipartimento di Scienze Economiche, Matematiche e Statistiche, Universita' di Foggia
+Provider-Homepage:http://www.economia.unifg.it
+Provider-Phone: +390881753722
+Provider-Postal: Largo Papa Giovanni Paolo II, 1 -71100- Foggia (I)
+Provider-Fax:+390881775616
+Provider-Institution: RePEc:edi:emsfoit
+Maintainer-Name: Luca Grilli
+Maintainer-Email: luca.grilli@unifg.it
+Handle: RePEc:ufg:qdsems
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers - Dipartimento di Economia - Università degli Studi di Foggia
+Description: Working Papers
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Dipartimento Economia, Universita' di Foggia
+Provider-Homepage:http://www.economia.unifg.it
+Provider-Phone: +390881781808
+Provider-Postal: Largo Papa Giovanni Paolo II, 1 -71100- Foggia (I)
+Provider-Fax:+390881775616
+Provider-Institution: RePEc:edi:fefogit
+Maintainer-Name: Luca Grilli
+Maintainer-Email: luca.grilli@unifg.it
+Handle: RePEc:ufg:quecon
+
+
+

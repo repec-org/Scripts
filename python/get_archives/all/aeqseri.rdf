@@ -1,0 +1,36 @@
+Template-type: ReDIF-Series 1.0
+Name: Applied Economics Quarterly (formerly: Konjunkturpolitik)
+Provider-Name: Duncker & Humblot, Berlin
+Provider-Homepage: http://www.duncker-humblot.de
+Editor-Name: Ansgar Belke
+Editor-Name: Uwe Sunde
+Editor-Name: Winfried Koeniger
+Maintainer-Name: Deborah Anne Bowen
+Maintainer-Email: aeq@diw.de
+Order-Email: verkauf@duncker-humblot.de
+Order-Homepage: http://www.duncker-humblot.de/index.php/zeitschriften/wirtschafts-undsozialwissenschaften/appliedeconomicsquarterly.html
+Price: Individual rates available from the publisher
+Restriction: Access to full text is restricted to subscribers (2008 onwards); Pay-per-view access from http://ejournals.duncker-humblot.de/loi/aeq or from http://www.genios.de (2006 onwards with 2 years moving wall)
+Type: ReDIF-Article
+Handle: RePEc:aeq:aeqaeq
+ISSN: 1611-6607
+Followup: RePEc:dah:aeqaeq
+
+Template-type: ReDIF-Series 1.0
+Name: Schmollers Jahrbuch : Journal of Applied Social Science Studies / Zeitschrift für Wirtschafts- und Sozialwissenschaften
+Provider-Name: Duncker & Humblot, Berlin
+Provider-Homepage: http://www.duncker-humblot.de
+Editor-Name: Gert G. Wagner
+Editor-Email: gwagner@diw.de
+Editor-Name: Joachim Wagner
+Editor-Email: wagner@leuphana.de
+Maintainer-Name: Gabriele Freudenmann
+Maintainer-Email: schmollers_jahrbuch@diw.de
+Order-Email: verkauf@duncker-humblot.de
+Order-Homepage: http://www.duncker-humblot.de/index.php/zeitschriften/wirtschafts-undsozialwissenschaften/schmollersjahrbuch-1.html
+Price: Individual rates available from the publisher
+Restriction: Access to full text is restricted to subscribers (2008 onwards); Pay-per-view access from http://www.genios.de (2000 onwards with 2 years moving wall) and http://ejournals.duncker-humblot.de/loi/schm (2008 onwards)
+Type: ReDIF-Article
+Handle: RePEc:aeq:aeqsjb
+ISSN: 1439-121X
+Followup: RePEc:dah:aeqsjb

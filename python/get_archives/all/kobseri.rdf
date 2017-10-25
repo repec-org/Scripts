@@ -1,0 +1,38 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Paper Series
+Provider-Name: Research Institute for Economics & Business Administration, Kobe University
+Provider-Homepage: http://www.rieb.kobe-u.ac.jp/index-e.html
+Provider-Postal: 2-1 Rokkodai, Nada, Kobe 657-8501 JAPAN
+Provider-Phone: +81-(0)78 803 7036
+Provider-Fax: +81-(0)78 803 7059
+Provider-Institution: RePEc:edi:rikobjp
+Maintainer-Name: Office of Promoting Research Collaboration, Research Institute for Economics & Business Administration, Kobe University
+Maintainer-Email: kenjo@rieb.kobe-u.ac.jp
+Maintainer-Phone: +81-(0)78 803 7036
+Maintainer-Fax: +81-(0)78 803 7059
+ISSN: 1345-2207
+Type: ReDIF-Paper
+Handle: RePEc:kob:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: The Japanese Accounting Review
+Description: The Japanese Accounting Review (TJAR) publishes original research devoted to the scholarly analyses of Japanese accounting and its interdependence with other national and international accounting systems.
+Provider-Name: Research Institute for Economics & Business Administration, Kobe University
+Provider-Institution: RePEc:edi:rikobjp
+Maintainer-Name: TJAR Editorial Office
+Maintainer-Email: tjar@rieb.kobe-u.ac.jp
+Editor-Name: Hidetoshi Yamaji
+Editor-Email: yamaji@rieb.kobe-u.ac.jp
+Type: ReDIF-Article
+Handle: RePEc:kob:tjrevi
+
+Template-type: ReDIF-Series 1.0
+Name: Kobe Economic & Business Review
+Description: 
+Provider-Name: Research Institute for Economics & Business Administration, Kobe University
+Provider-Institution: RePEc:edi:rikobjp
+Maintainer-Name: Office of Promoting Research Collaboration, Research Institute for Economics & Business Administration, Kobe University
+Maintainer-Email: kenjo@rieb.kobe-u.ac.jp
+Editor-Name: Takashi Kamihigashi
+Type: ReDIF-Article
+Handle: RePEc:kob:review

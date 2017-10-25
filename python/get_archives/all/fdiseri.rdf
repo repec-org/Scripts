@@ -1,0 +1,9 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: FERDI
+Provider-Homepage: http://ferdi.fr/
+Provider-Institution: RePEc:edi:ferdifr
+Maintainer-Name: Vincent Mazenod
+Maintainer-Email: vincent.mazenod@ferdi.fr
+Type: ReDIF-Paper
+Handle: RePEc:fdi:wpaper

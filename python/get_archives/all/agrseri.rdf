@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Theoretical and Applied Economics
+Description: Economie teoretica si aplicata / Theoretical and Applied Economics is a bilingual (Romanian and English) publication edited by the General Association of the Economists in Romania (AGER) since 1994. The journal is published monthly, it has a multidisciplinary economic profile and it sets out to disseminate the theoretic and pragmatic results of scientific research in economy or in related domains.
+Provider-Name: Asociatia Generala a Economistilor din Romania - AGER
+Provider-Institution: RePEc:edi:agerrea
+Maintainer-Name: Marin Dinu
+Maintainer-Email: economia.ta@edeconomica.com
+Editor-Name: Marin Dinu
+Editor-Email: dinu.marin@economie.ase.ro
+Type: ReDIF-Article
+Handle: RePEc:agr:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Economics Books
+Description: English books of The Economica Publishing House, Bucharest
+Provider-Name: The Economica Publishing House
+Maintainer-Name: Marin Dinu
+Maintainer-Email: economia.ta@edeconomica.com
+Editor-Name: Marin Dinu
+Editor-Email: dinu.marin@economie.ase.ro
+Type: ReDIF-Book
+Handle: RePEc:agr:ecbook

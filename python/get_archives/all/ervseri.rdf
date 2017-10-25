@@ -1,0 +1,325 @@
+Template-type: ReDIF-Series 1.0
+Name: Revista Europea de Historia de las Ideas Políticas y de las Instituciones Públicas
+Description: La Revista europea de Historia de las ideas políticas y de las instituciones públicas es una publicación electrónica de periodicidad semestral, que incorpora el sistema de referees por pares para la edición de los artículos. Dicho criterio no se aplica a la sección de recensiones, bajo el control del director y de la secretaria de redacción. Las lenguas de publicación son el español, francés, inglés, italiano, alemán, polaco, portugués, holandés, catalán, rumano, húngaro, croata, búlgaro y sueco. Asimismo, se acompañarán resúmenes y palabras claves en dos lenguas de las anteriormente indicadas. 
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/rehipip/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2174-0135
+Type: ReDIF-Article
+Handle: RePEc:erv:rehipi
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Crítica de Historia de las Relaciones Laborales y de la Política Social
+Description: La  Revista Crítica de Historia de las Relaciones Laborales y de la Política Social es una publicación científica de carácter internacional, multilingüe, con consejo de redacción europeo y norteamericano, y periodicidad semestral.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/historia/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2173-0822
+Type: ReDIF-Article
+Handle: RePEc:erv:histor
+
+Template-type: ReDIF-Series 1.0
+Name: Cuadernos de Educación y Desarrollo
+Description: Cuadernos de Educación y Desarrollo es una revista académica semestral dirigida a profesionales de cualquier nivel de enseñanza en los países iberoamericanos. Aborda entre otros temas los siguientes: Didáctica, nuevas tecnologías en la educación, gestión de centros educativos, relaciones educación-sociedad y políticas y sistemas educativos.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/ced/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1989-4155
+Type: ReDIF-Article
+Handle: RePEc:erv:cedced
+
+Template-type: ReDIF-Series 1.0
+Name: Economía Autónoma
+Description: Economía Autónoma es una revista dirigida a académicos, estudiantes y profesionales de la economía y sus ciencias afines. Es publicada semestralmente por la Facultad de Economía de la Universidad Autónoma Latinoamericana www.unaula.edu.co en Medellín, Colombia. 
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/ea/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1989-5526
+Type: ReDIF-Article
+Handle: RePEc:erv:eaeaea
+
+Template-type: ReDIF-Series 1.0
+Name: Sociedad Global
+Description: Sociedad Global Revista de relaciones internacionales y ciencias políticas de la Universidad Abierta Interamericana. Es una publicación semestral orientada a favorecer el intercambio académico a través de la apertura de un espacio crítico – reflexivo en las áreas de relaciones internacionales, ciencia política, filosofía política, economía política internacional, derecho internacional, psicología política, análisis de conflictos internacionales, sociología y estudios latinoamericanos y de la integración regional.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/sg/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1889-3981 
+Type: ReDIF-Article
+Handle: RePEc:erv:sgsgsg
+
+Template-type: ReDIF-Series 1.0
+Name: Entelequia. Revista Interdisciplinar
+Description: Academic journal that tends to question the traditional curricular fields, whose bureaucratic specificity could be producing an excessive enclosure of research and popularizing.
+Provider-Name: Entelequia y Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/entelequia/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Alfonso Galindo Lucas
+Editor-Email: alfonso.galindo@uca.es
+ISSN: 1885-6985 
+Type: ReDIF-Article
+Handle: RePEc:erv:ancoec
+
+Template-type: ReDIF-Series 1.0
+Name: Entelequia eBooks
+Description: An eclectic collection of academic electronic books.
+Provider-Name: Entelequia y Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/entelequia/
+Maintainer-Name: Rafael Gómez Sánchez
+Maintainer-Email: rafagomezsan@gmail.com
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Alfonso Galindo Lucas
+Editor-Email: alfonso.galindo@uca.es
+Type: ReDIF-Book
+Handle: RePEc:erv:ebooks
+
+Template-type: ReDIF-Series 1.0
+Name: Observatorio de la Economía Latinoamericana
+Description: Academic journal about Latinamerican Economy
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/cursecon/ecolat/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1696-8352
+Type: ReDIF-Article
+Handle: RePEc:erv:observ
+
+Template-type: ReDIF-Series 1.0
+Name: Contribuciones a la Economía
+Description: Academic journal about Theoretical and General Economics
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/ce/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1696-8360
+Type: ReDIF-Article
+Handle: RePEc:erv:contri
+
+Template-type: ReDIF-Series 1.0
+Name: Observatorio Iberoamericano de la Economía y la Sociedad del Japón
+Description: Revista electrónica semestral que se dirige a las sociedades latinoamericanas, especialmente al mundo académico, con el fin de ofrecer una plataforma para el conocimiento y el debate sobre la sociedad japonesa.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/japon/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1988-5229
+Type: ReDIF-Article
+Handle: RePEc:erv:obsjap
+
+Template-type: ReDIF-Series 1.0
+Name: Observatorio de la Economía y la Sociedad China
+Description: Observatorio de la Economía y la Sociedad China
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/china/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1887-3197
+Type: ReDIF-Article
+Handle: RePEc:erv:obschi
+
+Template-type: ReDIF-Series 1.0
+Name: Tecsistecatl
+Description: El objetivo de la revista   Tecsistecatl es ser un medio de divulgación científica, de excelencia y rigor, especializada en los problemas actuales de la economía y la sociedad mexicana.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/tecsistecatl/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1886-8452
+Type: ReDIF-Article
+Handle: RePEc:erv:tecsis
+
+Template-type: ReDIF-Series 1.0
+Name: Desarrollo local sostenible
+Description: La revista  DELOS “Desarrollo local sostenible”  es una revista científica internacional, con énfasis en la investigación que pretende poner en dialogo los aportes y avances de distintos investigadores, docentes y gestores (públicos, privados y de las organizaciones de la sociedad civil) vinculados al proceso de desarrollo local sostenible de la península Ibérica y de América Latina.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/delos/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1988-5245
+Type: ReDIF-Article
+Handle: RePEc:erv:deloso
+
+Template-type: ReDIF-Series 1.0
+Name: Contribuciones a las Ciencias Sociales
+Description: Es una revista mensual cuyo primer número fue publicado en noviembre de 2007. Acepta artículos académicos de cualquier campo de las ciencias sociales: Derecho, Antropología, Estudios de Género, Sociopolítica
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/cccss/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1988-5245
+Type: ReDIF-Article
+Handle: RePEc:erv:coccss
+
+Template-type: ReDIF-Series 1.0
+Name: Turismo y Desarrollo Local
+Description: TURyDES, Turismo y Desarrollo Local, es una revista semestral, promovida por la Red Académica Iberoamericana Local-Global que se ofrece como instrumento de investigación del turismo como factor clave para el desarrollo sustentable en Iberoamérica.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/turydes/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1988-5261
+Type: ReDIF-Article
+Handle: RePEc:erv:turdes
+
+Template-type: ReDIF-Series 1.0
+Name: Observatorio Iberoamericano del Desarrollo Local y la Economía Social
+Description: El  Observatorio Iberoamericano del Desarrollo Local y la Economía Social,  OIDLES, es una revista académica de formato electrónico y de aparición trimestral. El Equipo Editorial propone brindar información para el estudio, diseño e implementación de estrategias de Desarrollo Local y Economía Social en Iberoamérica.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/oidles/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1988-2483
+Type: ReDIF-Article
+Handle: RePEc:erv:oidles
+
+Template-type: ReDIF-Series 1.0
+Name: Tlatemoani
+Description: TLATEMOANI es una revista académica de investigación, de la Universidad Autónoma de San Luis Potosí, cuya finalidad es proporcionar una espacio de discusión y análisis de las diversas temáticas de estudio que conforman las líneas de generación y aplicación del conocimiento en las universidades Iberoamericanas.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/tlatemoani/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1989-9300
+Type: ReDIF-Article
+Handle: RePEc:erv:tlatem
+
+Template-type: ReDIF-Series 1.0
+Name: Rejie
+Description: La Revista Jurídica de Investigación e Innovación Educativa pretende abrir a nivel nacional e internacional “un espacio virtual” en el que cualquier profesor universitario pueda plasmar sus reflexiones sobre la actividad docente en Ciencias Jurídicas, ya sea con trabajos de investigación sustantiva o con propuestas de innovación educativa.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/rejie/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1989-8754
+Type: ReDIF-Article
+Handle: RePEc:erv:rejiee
+
+Template-type: ReDIF-Series 1.0
+Name: Arte y sociedad. Revista de investigación
+Description: Arte y Sociedad. Revista de Investigación (ASRI) se establece como una plataforma dedicada a la exploración de la cultura y las artes en su vinculación con la sociedad y la economía. Un espacio para dar a conocer la investigación reciente de expertos y profesionales en la materia.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/ays/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2174-7563
+Type: ReDIF-Article
+Handle: RePEc:erv:aysays
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Caribeña de Ciencias Sociales
+Description: Revista Caribeña de Ciencias Sociales. Revista de Investigación que surge con el doble propósito de afirmar, por una parte y de estimular, por otra, la producción de conocimiento académico y científico en el área caribeña.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://caribeña.eumed.net/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2254-7630
+Type: ReDIF-Article
+Handle: RePEc:erv:rccsrc
+
+Template-type: ReDIF-Series 1.0
+Name: RIIPAC. REVISTA SOBRE PATRIMONIO CULTURAL: REGULACIÓN, PROPIEDAD INTELECTUAL E INDUSTRIAL
+Description: Se trata de una revista científica  de investigación  que, haciendo un especial hincapié en la Propiedad Intelectual e Industrial, intenta generar un conocimiento   inédito y valioso sobre las cuestiones jurídicas que el Patrimonio Cultural suscita  por su interacción con las tecnologías de la Información, el desarrollo económico sostenible y el tratamiento de la biodiversidad.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/riipac/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2255-1565
+Type: ReDIF-Article
+Handle: RePEc:erv:riipac
+
+Template-type: ReDIF-Series 1.0
+Name: Revista europea de derecho de la navegación marítima y aeronáutica
+Description: La «Revista Europea de Derecho de la Navegación Marítima y Aeronáutica» es una publicación electrónica de periodicidad anual, que incorpora el sistema de referees por pares para la edición de los artículos. Dicho criterio no se aplica a la sección de recensiones, bajo el control del director y de la directora adjunta de la redacción. Las lenguas de publicación son el español, francés, inglés, italiano, alemán, polaco,  portugués, holandés, catalán, húngaro, croata, búlgaro y sueco.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://rednma.eumed.net/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 1130-2127 
+Type: ReDIF-Article
+Handle: RePEc:erv:rednma
+
+Template-type: ReDIF-Series 1.0
+Name: Pandémica o Zeleste, Revista de Ciencias, Artes y Literatura
+Description: La idea de nuestra revista es hacer en cada número un objeto que tenga interés científico y cultural, pero también que resulte una auténtica diversión cultural. Pretendemos ciencia y cultura que no pesen. Hablar con excesivas notas a pie de página puede pesar demasiado al oyente, pero sin notas a pie de página (o con escasas notas, y al final) se pueden decir cosas muy bellas, muy científicas o no poco interesantes. En nuestra revista pretendemos incluir trabajos científicos, pero también creativos, desde las más diversas latitudes imaginables de la creación (narrativa, poesía, cine, música, fotografía, dibujo, crítica, entrevista, etc.).
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://poz.eumed.net/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2340-0048
+Type: ReDIF-Article
+Handle: RePEc:erv:pozpoz
+
+Template-type: ReDIF-Series 1.0
+Name: Revista crítica de Derecho Canónico Pluriconfesional
+Description: La «Revista crítica de Derecho Canónico Pluriconfesional» es una publicación electrónica de periodicidad semestral, que incorpora el sistema de referees por pares para la edición de los artículos. Dicho criterio no se aplica a la sección de recensiones, bajo el control del director, de la directora adjunta y de la secretaria de redacción. Las lenguas de publicación son el español, francés, inglés, italiano, alemán, polaco, portugués, holandés, catalán, húngaro, croata, búlgaro y sueco. Asimismo, se acompañarán resúmenes y palabras clave en dos lenguas de las anteriormente indicadas. Esperamos que el surgimiento de este medio sea el inicio de una larga cadena de encuentros con ustedes amigos lectores y que, a la postre, la información que difundamos se convierta en una aportación en bien de la comunidad.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/rcdcp/
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2341-3956 
+Type: ReDIF-Article
+Handle: RePEc:erv:rcdcpp
+
+Template-type: ReDIF-Series 1.0
+Name: TECTZAPIC
+Description: Una institución de nivel superior se caracteriza por el parámetro de excelencia educativa que la distingue, responsabilidad académica que va más allá de la imagen propuesta y que, en vías de un desarrollo que amerita reconocimiento en base a la experiencia de treinta y cuatro años, propone y promueve, en la región de la huasteca potosina, una docencia y una investigación de gran alcance y compromiso, en lo que compete al proceso enseñanza-aprendizaje, apegado al modelo y enfoque por competencias.
+Provider-Name: Grupo Eumed.net (Universidad de Málaga)
+Provider-Homepage: http://www.eumed.net/rev/tectzapic/index.htm
+Maintainer-Name: Lisette Villamizar 
+Maintainer-Email: lisette@eumed.net
+Editor-Name: Juan Carlos Martínez Coll
+Editor-Email: coll@uma.es
+ISSN: 2444-4944
+Type: ReDIF-Article
+Handle: RePEc:erv:tectza

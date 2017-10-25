@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Joint Research Centre, European Commission (Ispra site)
+Provider-Homepage: https://ec.europa.eu/jrc/en/about/jrc-site/ispra
+Provider-Institution: RePEc:edi:eejrcit
+Maintainer-Name: Peter Benczur
+Maintainer-Email: peter.benczur@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:jrs:wpaper

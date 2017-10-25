@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Latvijas Banka
+Provider-Homepage: https://www.bank.lv/
+Provider-Institution: RePEc:edi:bolgvlv
+Maintainer-Name: Konstantins Benkovskis
+Maintainer-Email: konstantins.benkovskis@bank.lv
+Type: ReDIF-Paper
+Handle: RePEc:ltv:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: Latvijas Banka
+Provider-Homepage: https://www.bank.lv/
+Provider-Institution: RePEc:edi:bolgvlv
+Maintainer-Name: Konstantins Benkovskis
+Maintainer-Email: konstantins.benkovskis@bank.lv
+Type: ReDIF-Paper
+Handle: RePEc:ltv:dpaper

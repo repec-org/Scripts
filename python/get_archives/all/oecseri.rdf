@@ -1,0 +1,808 @@
+﻿
+Template-type: ReDIF-Series 1.0
+Name: OECD Food, Agriculture and Fisheries Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:tdoecfr
+Maintainer-Email: tad.contact@oecd.org
+Handle: RePEc:oec:agraaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Local Economic and Employment Development (LEED) Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:ceoecfr
+Maintainer-Email: cfe.contact@oecd.org
+Handle: RePEc:oec:cfeaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Tourism Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:ceoecfr
+Maintainer-Email: cfe.contact@oecd.org
+Handle: RePEc:oec:cfeaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Employment Policy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:ceoecfr
+Maintainer-Email: cfe.contact@oecd.org
+Handle: RePEc:oec:cfeaac
+
+Template-type: ReDIF-Series 1.0
+Name: Études de l'OCDE sur le tourisme
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:ceoecfr
+Maintainer-Email: cfe.contact@oecd.org
+Handle: RePEc:oec:cfeaad
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Taxation Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:ctoecfr
+Maintainer-Email: ctp.contact@oecd.org
+Handle: RePEc:oec:ctpaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Working Papers on Fiscal Federalism
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:ctoecfr
+Maintainer-Email: ctp.contact@oecd.org
+Handle: RePEc:oec:ctpaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Working Papers on International Investment
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:caoecfr
+Maintainer-Email: daf.contact@oecd.org
+Handle: RePEc:oec:dafaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Working Papers on Insurance and Private Pensions
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:caoecfr
+Maintainer-Email: daf.contact@oecd.org
+Handle: RePEc:oec:dafaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Working Papers on Finance, Insurance and Private Pensions
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:caoecfr
+Maintainer-Email: daf.contact@oecd.org
+Handle: RePEc:oec:dafaad
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Corporate Governance Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:caoecfr
+Maintainer-Email: daf.contact@oecd.org
+Handle: RePEc:oec:dafaae
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Working Papers on Sovereign Borrowing and Public Debt Management
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:caoecfr
+Maintainer-Email: daf.contact@oecd.org
+Handle: RePEc:oec:dafaaf
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Development Co-operation Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: dcd.contact@oecd.org
+Handle: RePEc:oec:dcdaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Development Policy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: dcd.contact@oecd.org
+Handle: RePEc:oec:dcdaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Development Centre Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org/Dev
+Provider-Institution: RePEc:edi:dcoecfr
+Maintainer-Email: cendev.contact@oecd.org
+Handle: RePEc:oec:devaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Development Centre Policy Briefs
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org/Dev
+Provider-Institution: RePEc:edi:dcoecfr
+Maintainer-Email: cendev.contact@oecd.org
+Handle: RePEc:oec:devaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Development Centre Policy Insights
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org/Dev
+Provider-Institution: RePEc:edi:dcoecfr
+Maintainer-Email: Dev.Contact@oecd.org
+Handle: RePEc:oec:devaac
+
+Template-type: ReDIF-Series 1.0
+Name: Cahiers de politique économique du Centre de Développement de l'OCDE
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org/Dev
+Provider-Institution: RePEc:edi:dcoecfr
+Maintainer-Email: cendev.contact@oecd.org
+Handle: RePEc:oec:devaad
+
+Template-type: ReDIF-Series 1.0
+Name: Centre de développement de l'OCDE - Repères
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org/Dev
+Provider-Institution: RePEc:edi:dcoecfr
+Maintainer-Email: Dev.Contact@oecd.org
+Handle: RePEc:oec:devaae
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Economics Department Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:edoecfr
+Maintainer-Email: eco.contact@oecd.org
+Handle: RePEc:oec:ecoaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Economic Policy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:edoecfr
+Maintainer-Email: eco.contact@oecd.org
+Handle: RePEc:oec:ecoaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Productivity Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:edoecfr
+Maintainer-Email: eco.contact@oecd.org
+Handle: RePEc:oec:ecoaac
+
+Template-type: ReDIF-Series 1.0
+Name: PEB Exchange, Programme on Educational Building
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Education Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaab
+
+Template-type: ReDIF-Series 1.0
+Name: CELE Exchange, Centre for Effective Learning Environments
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaac
+
+Template-type: ReDIF-Series 1.0
+Name: PEB Échanges, Programme pour la construction et l'équipement de l'éducation
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaad
+
+Template-type: ReDIF-Series 1.0
+Name: CELE Échanges, Centre pour des environnements pédagogiques efficaces
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaae
+
+Template-type: ReDIF-Series 1.0
+Name: Education Indicators in Focus
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaaf
+
+Template-type: ReDIF-Series 1.0
+Name: Les indicateurs de l'éducation à la loupe
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaag
+
+Template-type: ReDIF-Series 1.0
+Name: L'enseignement à la loupe
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaah
+
+Template-type: ReDIF-Series 1.0
+Name: Teaching in Focus
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduaah
+
+Template-type: ReDIF-Series 1.0
+Name: Adult Skills in Focus
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduabb
+
+Template-type: ReDIF-Series 1.0
+Name: Les compétences des adultes à la loupe
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduabc
+
+Template-type: ReDIF-Series 1.0
+Name: PISA in Focus
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:eduddd
+
+Template-type: ReDIF-Series 1.0
+Name: PISA à la loupe
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:deoecfr
+Maintainer-Email: edu.contact@oecd.org
+Handle: RePEc:oec:edudde
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Labour Market and Social Policy Occasional Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:eloecfr
+Maintainer-Email: els.contact@oecd.org
+Handle: RePEc:oec:elsaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Social, Employment and Migration Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:eloecfr
+Maintainer-Email: sti.contact@oecd.org
+Handle: RePEc:oec:elsaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Jobs Study Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:eloecfr
+Maintainer-Email: els.contact@oecd.org
+Handle: RePEc:oec:elsaac
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Health Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:eloecfr
+Maintainer-Email: health.contact@oecd.org
+Handle: RePEc:oec:elsaad
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Health Technical Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:eloecfr
+Maintainer-Email: health.contact@oecd.org
+Handle: RePEc:oec:elsaae
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Environment Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:enoecfr
+Maintainer-Email: env.contact@oecd.org
+Handle: RePEc:oec:envaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD/IEA Climate Change Expert Group Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:enoecfr
+Maintainer-Email: env.contact@oecd.org
+Handle: RePEc:oec:envaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Environment Policy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:enoecfr
+Maintainer-Email: env.contact@oecd.org
+Handle: RePEc:oec:envaac
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Series on Adverse Outcome Pathways
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:enoecfr
+Maintainer-Email: env.contact@oecd.org
+Handle: RePEc:oec:envaad
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Green Growth Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:enoecfr
+Maintainer-Email: env.contact@oecd.org
+Handle: RePEc:oec:envddd
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Working Papers on Public Governance
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov.contact@oecd.org
+Handle: RePEc:oec:govaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Regional Development Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov.contact@oecd.org
+Handle: RePEc:oec:govaab
+
+Template-type: ReDIF-Series 1.0
+Name: SIGMA Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov.contact@oecd.org
+Handle: RePEc:oec:govaac
+
+Template-type: ReDIF-Series 1.0
+Name: Sigma Public Management Profiles
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov.contact@oecd.org
+Handle: RePEc:oec:govaad
+
+Template-type: ReDIF-Series 1.0
+Name: Documents SIGMA
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov.contact@oecd.org
+Handle: RePEc:oec:govaae
+
+Template-type: ReDIF-Series 1.0
+Name: SIGMA Country Assessment Reports
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov.contact@oecd.org
+Handle: RePEc:oec:govaaf
+
+Template-type: ReDIF-Series 1.0
+Name: SIGMA Public Procurement Briefs
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov.contact@oecd.org
+Handle: RePEc:oec:govaag
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Regulatory Policy Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:teoecfr
+Maintainer-Email: gov@contact.org
+Handle: RePEc:oec:govaah
+
+Template-type: ReDIF-Series 1.0
+Name: IEA Energy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:ieaaafr
+Maintainer-Email: webmaster@iea.org
+Handle: RePEc:oec:ieaaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD/ITF Joint Transport Research Centre Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:itoecfr
+Maintainer-Email: itf.contact@oecd.org
+Handle: RePEc:oec:itfaaa
+
+Template-type: ReDIF-Series 1.0
+Name: International Transport Forum Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:itoecfr
+Maintainer-Email: itf.contact@oecd.org
+Handle: RePEc:oec:itfaab
+
+Template-type: ReDIF-Series 1.0
+Name: International Transport Forum Policy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:itoecfr
+Maintainer-Email: itf.contact@oecd.org
+Handle: RePEc:oec:itfaac
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Statistics Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:stoecfr
+Maintainer-Email: stat.contact@oecd.org
+Handle: RePEc:oec:stdaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Science, Technology and Industry Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:scoecfr
+Maintainer-Email: sti.contact@oecd.org
+Handle: RePEc:oec:stiaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Digital Economy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:scoecfr
+Maintainer-Email: sti.contact@oecd.org
+Handle: RePEc:oec:stiaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Science, Technology and Industry Policy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:scoecfr
+Maintainer-Email: sti.contact@oecd.org
+Handle: RePEc:oec:stiaac
+
+Template-type: ReDIF-Series 1.0
+Name: West African Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: swac.contact@oecd.org
+Handle: RePEc:oec:swacaa
+
+Template-type: ReDIF-Series 1.0
+Name: Notes ouest-africaines
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: swac.contact@oecd.org
+Handle: RePEc:oec:swacab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Trade and Environment Working Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:tdoecfr
+Maintainer-Email: tad.contact@oecd.org
+Handle: RePEc:oec:traaaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Trade Policy Papers
+Type: ReDIF-Paper
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:tdoecfr
+Maintainer-Email: tad.contact@oecd.org
+Handle: RePEc:oec:traaab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Journal: Competition Law and Policy
+Type: ReDIF-Article
+ISSN: 1609-7521
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:dafkaa
+
+Template-type: ReDIF-Series 1.0
+Name: Financial Market Trends
+Type: ReDIF-Article
+ISSN: 1609-6886
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Followup: RePEc:oec:dafkad
+Handle: RePEc:oec:dafkab
+
+Template-type: ReDIF-Series 1.0
+Name: Revue de l'OCDE sur le droit et la politique de la concurrence
+Type: ReDIF-Article
+ISSN: 1684-3452
+Provider-Name: Éditions OCDE
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:dafkac
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Journal: Financial Market Trends
+Type: ReDIF-Article
+ISSN: 1995-2872
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Order-Homepage: http://www.oecd.org/bookshop?lang=en&pub=19952872
+Predecessor: RePEc:oec:dafkab
+Handle: RePEc:oec:dafkad
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Journal on Development
+Type: ReDIF-Article
+ISSN: 1996-580X
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:dcdkaa
+
+Template-type: ReDIF-Series 1.0
+Name: Revue de l'OCDE sur le développement
+Type: ReDIF-Article
+ISSN: 1996-5753
+Provider-Name: Éditions OCDE
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:dcdkab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Economic Studies
+Type: ReDIF-Article
+ISSN: 1609-7491
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Followup: RePEc:oec:ecokac
+Handle: RePEc:oec:ecokaa
+
+Template-type: ReDIF-Series 1.0
+Name: Revue économique de l'OCDE
+Type: ReDIF-Article
+ISSN: 1684-3444
+Provider-Name: Éditions OCDE
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:ecokab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Journal: Economic Studies
+Type: ReDIF-Article
+ISSN: 1995-2856
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Order-Homepage: http://www.oecd.org/bookshop?lang=en&pub=19952856
+Predecessor: RePEc:oec:ecokaa
+Handle: RePEc:oec:ecokac
+
+Template-type: ReDIF-Series 1.0
+Name: Higher Education Management and Policy
+Type: ReDIF-Article
+ISSN: 1726-9822
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:edukaa
+
+Template-type: ReDIF-Series 1.0
+Name: Politiques et gestion de l'enseignement supérieur
+Type: ReDIF-Article
+ISSN: 1684-3592
+Provider-Name: Éditions OCDE
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:edukab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Journal on Budgeting
+Type: ReDIF-Article
+ISSN: 1681-2336
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Order-Homepage: http://www.oecd.org/bookshop?lang=en&pub=16812336
+Predecessor: RePEc:oec:govkab
+Handle: RePEc:oec:govkaa
+
+Template-type: ReDIF-Series 1.0
+Name: Revue de l'OCDE sur la gestion budgétaire
+Type: ReDIF-Article
+ISSN: 1684-3525
+Provider-Name: Éditions OCDE
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Followup: RePEc:oec:govkaa
+Handle: RePEc:oec:govkab
+
+Template-type: ReDIF-Series 1.0
+Name: Nuclear Law Bulletin
+Type: ReDIF-Article
+ISSN: 1609-7378
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:neakaa
+
+Template-type: ReDIF-Series 1.0
+Name: Bulletin de droit nucléaire
+Type: ReDIF-Article
+ISSN: 1684-3568
+Provider-Name: Éditions OCDE
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Handle: RePEc:oec:neakab
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Papers
+Type: ReDIF-Article
+ISSN: 1681-2328
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Followup: RePEc:oec:packab
+Handle: RePEc:oec:packaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Journal: General Papers
+Type: ReDIF-Article
+ISSN: 1995-283X
+Provider-Name: OECD Publishing
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Predecessor: RePEc:oec:packaa
+Handle: RePEc:oec:packab
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Business Cycle Measurement and Analysis
+Type: ReDIF-Article
+ISSN: 1729-3626
+Provider-Name: OECD Publishing, Centre for International Research on Economic Tendency Surveys
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Followup: RePEc:oec:stdkab
+Handle: RePEc:oec:stdkaa
+
+Template-type: ReDIF-Series 1.0
+Name: OECD Journal: Journal of Business Cycle Measurement and Analysis
+Type: ReDIF-Article
+ISSN: 1995-2899
+Provider-Name: OECD Publishing, Centre for International Research on Economic Tendency Surveys
+Provider-Homepage: http://www.oecd.org
+Provider-Institution: RePEc:edi:oecddfr
+Maintainer-Email: repec@oecd.org
+Restriction: Full text available to READ online. PDF download available to OECD iLibrary subscribers.
+Predecessor: RePEc:oec:stdkaa
+Handle: RePEc:oec:stdkab
+

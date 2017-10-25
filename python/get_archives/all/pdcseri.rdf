@@ -1,0 +1,32 @@
+Template-type: ReDIF-Series 1.0
+Name: Business and Economic Horizons (BEH)
+Description: BEH is peer-reviewed international research journal. BEH covers broad spectrum of issues related with business and economics at all levels of aggregation; encourages subjects meeting responses and challengers of market development at local, national and global dimensions.
+Type: ReDIF-Article
+Provider-Name: Prague Development Center
+Provider-Homepage: http://academicpublishingplatforms.com/journal.php?journal=BEH
+Provider-Institution: RePEc:edi:pradecz
+Maintainer-Name: Jaroslav Holecek
+Maintainer-Email: publications@pradec.eu
+Editor-Name: Radoslaw Kurach, Ph.D.
+Editor-Email: publications@pradec.eu
+Editor-Workplace-Name: Prague Development Center
+Editor-Workplace-Homepage: http://academicpublishingplatforms.com/journal.php?journal=PIEB
+Type: ReDIF-Article
+Handle: RePEc:pdc:jrnbeh
+
+
+Template-type: ReDIF-Series 1.0
+Name: Perspectives of Innovation in Economics and Business (PIEB)
+Description: PIEB is an international cross-industry journal. Articles are welcome on academics, businesses and professionals to submit papers focusing on developmental impacts of innovations, discovering economic and business perspectives.	
+Type: ReDIF-Article
+Provider-Name: Prague Development Center
+Provider-Homepage: http://academicpublishingplatforms.com/journal.php?journal=PIEB
+Provider-Institution: RePEc:edi:pradecz
+Maintainer-Name: Jaroslav Holecek
+Maintainer-Email:  publications@pradec.eu
+Editor-Name: Frantisek Bostl
+Editor-Email: publications@pradec.eu
+Editor-Workplace-Name: Prague Development Center
+Editor-Workplace-Homepage: http://academicpublishingplatforms.com/journal.php?journal=PIEB
+Type: ReDIF-Article
+Handle: RePEc:pdc:jrpieb

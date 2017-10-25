@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: DIAG Technical Reports
+Provider-Name: Department of Computer, Control and Management Engineering, Universita' degli Studi di Roma "La Sapienza"
+Provider-Homepage: http://www.dis.uniroma1.it
+Provider-Institution: RePEc:edi:dirosit
+Maintainer-Name: Antonietta Angelica Zucconi
+Maintainer-Email: antonietta.zucconi@uniroma1.it
+ISSN: 2281-4299
+Type: ReDIF-Paper
+Handle: RePEc:aeg:report
+
+Template-type: ReDIF-Series 1.0
+Name: DIS Technical Reports
+Provider-Name: Department of Computer, Control and Management Engineering, Universita' degli Studi di Roma "La Sapienza"
+Provider-Homepage: http://www.dis.uniroma1.it
+Provider-Institution: RePEc:edi:dirosit
+Maintainer-Name: Antonietta Angelica Zucconi
+Maintainer-Email: antonietta.zucconi@uniroma1.it
+ISSN: 2035-5750
+Type: ReDIF-Paper
+Handle: RePEc:aeg:wpaper

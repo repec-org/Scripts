@@ -1,0 +1,32 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Economics Technical Papers 
+Provider-Name: Trinity College Dublin, Department of Economics
+Provider-Homepage: http://www.tcd.ie/Economics/
+Provider-Institution: RePEc:edi:detcdie
+Maintainer-Name: Patricia Hughes
+Maintainer-Email: econsec@tcd.ie
+Handle: RePEc:tcd:tcduet
+Template-Type: ReDIF-Series 1.0
+Name:  Economics Policy Papers 
+Provider-Name: Trinity College Dublin, Department of Economics
+Provider-Homepage: http://www.tcd.ie/Economics/
+Provider-Institution: RePEc:edi:detcdie
+Maintainer-Name: Patricia Hughes
+Maintainer-Email: econsec@tcd.ie
+Handle: RePEc:tcd:tcduep
+Template-Type: ReDIF-Series 1.0
+Name: Trinity Economics Papers 
+Provider-Name: Trinity College Dublin, Department of Economics
+Provider-Homepage: http://www.tcd.ie/Economics/
+Provider-Institution: RePEc:edi:detcdie
+Maintainer-Name: Patricia Hughes
+Maintainer-Email: econsec@tcd.ie
+Handle: RePEc:tcd:tcduee
+Template-Type: ReDIF-Series 1.0
+Name:  CEG Working Papers 
+Provider-Name: Trinity College Dublin, Department of Economics
+Provider-Homepage: http://www.tcd.ie/Economics/
+Provider-Institution: RePEc:edi:detcdie
+Maintainer-Name: Patricia Hughes
+Maintainer-Email: econsec@tcd.ie
+Handle: RePEc:tcd:tcdceg

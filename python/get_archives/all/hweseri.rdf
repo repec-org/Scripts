@@ -1,0 +1,47 @@
+Template-Type: ReDIF-Series 1.0
+Name:  CERT Discussion Papers
+Provider-Name: Centre for Economic Reform and Transformation, Heriot Watt University
+Provider-Institution: RePEc:edi:cehwuuk
+Maintainer-Name: Colin Miller
+Maintainer-Email: c.miller@hw.ac.uk
+Handle: RePEc:hwe:certdp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Economics, School of Management and Languages, Heriot Watt University
+Provider-Institution: RePEc:edi:dehwuuk
+Maintainer-Name: Colin Miller
+Maintainer-Email: c.miller@hw.ac.uk
+Handle: RePEc:hwe:hwecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Heriot-Watt University Economics Discussion Papers
+Provider-Name: Department of Economics, School of Management and Languages, Heriot Watt University
+Provider-Institution: RePEc:edi:dehwuuk
+Maintainer-Name: Colin Miller
+Maintainer-Email: c.miller@hw.ac.uk
+Handle: RePEc:hwe:hwuedp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Accountancy Discussion Papers
+Provider-Name: Accountancy Research Group, Heriot Watt University
+Provider-Institution: RePEc:edi:dehwuuk
+Maintainer-Name: Colin Miller
+Maintainer-Email: c.miller@hw.ac.uk
+Handle: RePEc:hwe:hwuadp
+
+Template-Type: ReDIF-Series 1.0
+Name: CFI Discussion Papers
+Provider-Name:Centre for Finance and Investment, Heriot Watt University
+Provider-Institution: RePEc:edi:dehwuuk
+Maintainer-Name: Colin Miller
+Maintainer-Email: c.miller@hw.ac.uk
+Handle: RePEc:hwe:cfidps
+
+Template-Type: ReDIF-Series 1.0
+Name: SEEC Discussion Papers
+Provider-Name: Spatial Economics and Econometrics Centre, Heriot Watt University
+Provider-Institution: RePEc:edi:dehwuuk
+Maintainer-Name: Colin Miller
+Maintainer-Email: c.miller@hw.ac.uk
+Handle: RePEc:hwe:seecdp

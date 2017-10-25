@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Birkbeck Centre for Innovation Management Research
+Provider-Homepage: http://www.bbk.ac.uk/innovation/
+Provider-Institution: RePEc:edi:dmbbkuk
+Maintainer-Name: Helen Lawton Smith
+Maintainer-Email: h.lawton-smith@bbk.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:img:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Management Working Papers
+Provider-Name: Birkbeck Department of Management
+Provider-Homepage: http://www.bbk.ac.uk/management/
+Provider-Institution: RePEc:edi:dmbbkuk
+Maintainer-Name: Luca Andriani
+Maintainer-Email: luca.andriani@bbk.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:img:manwps
+
+Template-type: ReDIF-Series 1.0
+Name: Birkbeck Sports Business Centre Working Papers
+Provider-Name: Birkbeck College, Department of Management
+Provider-Homepage: http://www.sportbusinesscentre.com/
+Provider-Institution: RePEc:edi:dmbbkuk
+Maintainer-Name: Tim Byne
+Maintainer-Email: t.byne@bbk.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:img:bbksbc

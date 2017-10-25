@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: Judgment and Decision Making
+Description: The journal of the Society for Judgment and Decision Making
+Provider-Name: Society for Judgment and Decision Making
+Maintainer-Name: Jonathan Baron
+Maintainer-Email: baron@psych.upenn.edu
+Editor-Name: Jonathan Baron
+Editor-Email: baron@psych.upenn.edu
+ISSN: 1930-2975
+Notification: http://www.sjdm.org/mailman/listinfo/jdm-society
+Type: ReDIF-Article
+Handle: RePEc:jdm:journl

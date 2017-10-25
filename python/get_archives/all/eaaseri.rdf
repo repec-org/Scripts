@@ -1,0 +1,64 @@
+Template-type: ReDIF-Series 1.0
+Name: Economic Development
+Provider-Name: University of Santiago de Compostela. Faculty of Economics and Business. Econometrics.
+Provider-Institution: RePEc:edi:exusces
+Provider-Homepage: http://www.usc.es/economet/welcomei.htm 
+Maintainer-Name: M. Carmen Guisan 
+Maintainer-Email: mcarmen.guisan@usc.es
+Handle: RePEc:eaa:ecodev
+
+
+Template-type: ReDIF-Series 1.0
+Name: Estudios Economicos de Desarrollo Internacional
+Provider-Name: Euro-American Association of Economic Development
+Provider-Homepage: http://www.usc.es/economet/eaa.htm
+Type: ReDIF-Article
+Order-Email: mcarmen.guisan@usc.es 
+Order-Homepage: http://www.usc.es/economet/info.htm
+Maintainer-Name: M. Carmen Guisan 
+Maintainer-Email: mcarmen.guisan@usc.es
+Restriction: Access to the full test is generally limited to subscribers. On-line individual subscription is free for this journal and other articles from the Association with Latin American topics. Information at http://www.usc.es/economet/info.htm
+Handle: RePEc:eaa:eedein
+
+Template-type: ReDIF-Series 1.0
+Name: Regional and Sectoral Economic Studies
+Provider-Name: Euro-American Association of Economic Development
+Provider-Homepage: http://www.usc.es/economet/eaa.htm
+Type: ReDIF-Article
+Order-Email: mcarmen.guisan@usc.es 
+Order-Homepage: http://www.usc.es/economet/info.htm
+Maintainer-Name: M. Carmen Guisan 
+Maintainer-Email: mcarmen.guisan@usc.es
+Restriction: Access to the full test is generally limited to subscribers. On-line individual subscription is free for low income countries. Information at http://www.usc.es/economet/info.htm
+Handle: RePEc:eaa:eerese
+
+Template-type: ReDIF-Series 1.0
+Name: Applied Econometrics and International Development
+Provider-Name: Euro-American Association of Economic Development
+Provider-Homepage: http://www.usc.es/economet/eaa.htm
+Type: ReDIF-Article
+Order-Email: mcarmen.guisan@usc.es
+Order-Homepage: http://www.usc.es/economet/info.htm
+Maintainer-Name: M. Carmen Guisan 
+Maintainer-Email: mcarmen.guisan@usc.es 
+Restriction: Access to the full test is generally limited to subscribers. On-line individual subscription is free for low income countries. Information at http://www.usc.es/economet/info.htm
+Handle: RePEc:eaa:aeinde
+
+
+
+
+
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Applied Econometrics and Quantitative Studies
+Provider-Name: Euro-American Association of Economic Development
+Provider-Homepage: http://www.usc.es/economet/eaa.htm
+Type: ReDIF-Article
+Order-Email: mcarmen.guisan@usc.es 
+Order-Homepage: http://www.usc.es/economet/info.htm
+Maintainer-Name: M. Carmen Guisan 
+Maintainer-Email: mcarmen.guisan@usc.es 
+Restriction: Access to the full test is generally limited to subscribers. On-line individual subscription is free for low income countries. Information at http://www.usc.es/economet/info.htm
+Handle: RePEc:eaa:ijaeqs

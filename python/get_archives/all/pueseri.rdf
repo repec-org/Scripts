@@ -1,0 +1,49 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Centro de Investigación e Inteligencia Económica (CIIE), Departamento de Ciencias Sociales - UPAEP
+Provider-Homepage: http://www.upaep.mx/ciie
+Provider-Institution: RePEc:edi:depaemx
+Maintainer-Name: Alfonso Mendoza Velázquez
+Maintainer-Email: alfonso.mendoza@upaep.mx
+Type: ReDIF-Paper
+Handle: RePEc:pue:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Journal Papers
+Provider-Name: Centro de Investigación e Inteligencia Económica (CIIE), Departamento de Ciencias Sociales - UPAEP
+Provider-Homepage: http://www.upaep.mx/ciie
+Provider-Institution: RePEc:edi:depaemx
+Maintainer-Name: Alfonso Mendoza Velázquez
+Maintainer-Email: alfonso.mendoza@upaep.mx
+Type: ReDIF-Article
+Handle: RePEc:pue:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Software
+Provider-Name: Centro de Investigación e Inteligencia Económica (CIIE), Departamento de Ciencias Sociales - UPAEP
+Provider-Homepage: http://www.upaep.mx/ciie
+Provider-Institution: RePEc:edi:depaemx
+Maintainer-Name: Alfonso Mendoza Velázquez
+Maintainer-Email: alfonso.mendoza@upaep.mx
+Type: ReDIF-Software
+Handle: RePEc:pue:softwr
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Centro de Investigación e Inteligencia Económica (CIIE), Departamento de Ciencias Sociales - UPAEP
+Provider-Homepage: http://www.upaep.mx/ciie
+Provider-Institution: RePEc:edi:depaemx
+Maintainer-Name: Alfonso Mendoza Velázquez
+Maintainer-Email: alfonso.mendoza@upaep.mx
+Type: ReDIF-Book
+Handle: RePEc:pue:ecbook
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters
+Provider-Name: Centro de Investigación e Inteligencia Económica (CIIE), Departamento de Ciencias Sociales - UPAEP
+Provider-Homepage: http://www.upaep.mx/ciie
+Provider-Institution: RePEc:edi:depaemx
+Maintainer-Name: Alfonso Mendoza Velázquez
+Maintainer-Email: alfonso.mendoza@upaep.mx
+Type: ReDIF-Chapter
+Handle: RePEc:pue:ecchap

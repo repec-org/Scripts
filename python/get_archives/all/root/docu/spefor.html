@@ -1,0 +1,625 @@
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+<html><head><title>ReDIF specification file documentation</title>
+
+<link rev="made" href="mailto:WoPEc@netec.mcc.ac.uk">
+</head>
+<body>
+
+<hr>
+
+<h1>ReDIF specification file documentation</h1>
+<h2><a href="http://openlib.org/home/krichel">Thomas Krichel</a> and
+<a href="http://gretel.econ.surrey.ac.uk/%7eivan/">Ivan Kurmanov</a>
+</h2>
+<h2>December 1999</h2>
+
+
+<p><a name="l1"></a>
+<h2>1: Introduction</h2>
+<p>This document is available in PDF format for <a href="http://openlib.org/acmes/root/docu/.papers/spefor.letter.pdf">US letter size
+paper</a> and
+for <a href="http://openlib.org/acmes/root/docu/.papers/spefor.a4.pdf">A4 size
+paper</a>.
+
+<p>It gives details of how the ReDIF format is being encoded in a special
+specification file. This file is normally called "redif.spec".  This
+documentation explains how to make changes to a ReDIF specification. One can
+make enhancements to an existing specification or design a new specification
+from scratch.
+<p>Before trying to understand the specification of ReDIF, one should
+understand the ReDIF data format documentation well, because this
+document is like a dark side of the moon for ReDIF:it is better look at
+the bright side first.
+<p>The ReDIF specification file contains a ReDIF
+specification in a custom-built format called the "SPEcification FOrmat
+for Redif", abbreviated spefor.  The spefor file is loaded each time any
+data reading starts. It defines:
+<dl> 
+<p><li > template types and cluster types
+<p><li > attributes (fields) names and other properties in each template
+type or cluster type
+<p><li > attribute data types: checking and preprocessing
+<p></dl>
+<p>Each cluster and template has a finite set of allowed attributes, some of
+which may be required to appear in every template of the type.  An
+attribute in a template or a cluster must have a defined (complete) name
+and may have some additional properties set.  The additional properties of
+an attribute are: type of value, the permission to omit and the prohibition
+to repeat the attribute in a template.
+<p><a name="l2"></a>
+<h2>2: Syntax</h2>
+<p><a name="l3"></a>
+<h3>2.1: General aspects of the syntax</h3>
+<p>The spefor syntax borrows some features of Perl code syntax.  Comment lines
+start with the hash char <code>#</code> symbol. Repetitions of whitespace (i.e. blanks
+and tabulation characters) are ignored.
+<p>Spefor files make extensive use of blocks of text.
+Blocks start with the open curly brace <code>{</code> character and 
+end with the close curly brace <code>}</code> character.
+Unlike in C or Perl, each block closes with a line consisting of a
+single <code>}</code> character, not taking spaces and tab chars into account.
+<p>This means that in the following example:<pre>
+A { 
+</pre>
+<em>block's code here</em><pre>
+}
+ B {  
+</pre>
+<em>  other data or code</em><code> }
+ </code>
+<p>block <code>A</code> is correctly closed, but the block <code>B</code> is not. The
+difference is a newline character before closing brace <code>}</code>.
+This imposes a limitation on the contents of each block: you can
+not put a line with single <code>}</code> inside a block. Be
+careful with Perl code in blocks.
+<p>The ReDIF specification is specified by a number of definitions.  In other
+words, definitions are the main structural elements of the spefor file.
+<p><a name="l4"></a>
+<h3>2.2: Definition syntax</h3>
+<p>A definition states what is being defined and how it will be named and then
+gives the contents of the definition in a block. The most common syntax 
+is 
+<p><tt><i>def_type</tt></i>
+<code> = </code><tt><i>name</tt></i>
+ <tt><i> block </tt></i>
+<code>'\n'</code>
+<p><code>'\n'</code> designates a newline character here. 
+In some cases, you will also see definitions of the syntax
+<p><tt><i>def_type</tt></i>
+<code> = </code><tt><i>name</tt></i>
+ [<code>/ </code><tt><i>parameter</tt></i>
+] <tt><i> block </tt></i>
+<code>'\n'</code>
+<p>The item in square brackets is optional here. 
+<p>There are three types of definitions. Therefore <tt><i>def_type</tt></i>
+ variable can take
+only three values. These are <code>template</code>, <code>cluster</code> and <code>type</code>. These
+values are case-insensitive.
+<p><a name="l5"></a>
+<h3>2.3: Template type definition</h3><a name="temptypedefines"></a>
+<p>A template type definition lists attributes of a template and sets
+their properties.  The <tt><i>name</tt></i>
+ variable of the definition line gives
+the template type name in full, like <code>ReDIF-Paper 1.0</code> for
+example. All its attributes are listed inside the definition
+<tt><i>block</tt></i>
+.  Each attribute is listed on a separate line. Each
+non-empty line defines one attribute of the template. Its syntax is
+<p><tt><i>attribute_name</tt></i>
+[<code>:</code>[<tt><i>type</tt></i>
+][<code>:</code>[<tt><i>subtype</tt></i>
+][<code>:</code>[<tt><i>required_flag</tt></i>
+][<code>:</code>[<tt><i>non_repeatable_flag</tt></i>
+]]]]]
+<p>Whitespace characters are not allowed inside this string. They are allowed at
+the beginning or end of the string.  The colon character is a delimiter here. 
+The only part of the line which is required is the <tt><i>attribute_name</tt></i>
+. <tt><i>type</tt></i>
+<p>and <tt><i>subtype</tt></i>
+ have several different uses for different cases, but in general
+they specify content properties of the attribute. In most cases only <tt><i>type</tt></i>
+<p>is given, the <tt><i>subtype</tt></i>
+ parameter has less usage.
+<p>The meaning of the <tt><i>required_flag</tt></i>
+ is to answer the following
+question: Is this attribute necessary to consider template or cluster
+valid or it is optional?  The value <code>1</code> in the <tt><i>required_flag</tt></i>
+<p>means that the attribute is required.
+<p>The meaning of <tt><i>non_repeatable_flag</tt></i>
+ is to answer the following
+question: Can this attribute appear several times in one template or
+cluster?  By default attributes can be repeated, but if you set
+<tt><i>non_repeatable_flag</tt></i>
+ to <code>1</code>, then the attribute will become
+non-repeatable.
+<p>A special format exists for key attributes of template and cluster
+types. If in the <tt><i>required_flag</tt></i>
+ field of the attribute definition there
+is an asterisk '<tt><i>*</tt></i>
+' (instead of <code>1</code> or anything else), then this attribute
+will become the key attribute of the template or the cluster.
+<p>In all other cases <tt><i>required_flag</tt></i>
+ and <tt><i>non_repeatable_flag</tt></i>
+ may
+contain any digits, but normal value for it is 1 or nothing by
+default.
+<p>An example of a valid template type definition:
+<p><pre>
+template = ReDIF-Person 1.0 {
+	Template-Type:::*
+        Handle:::1:1
+        Name-Full:::1:1
+        Name-First
+        Name-Last
+        WorkPlace:cluster:Organization::
+        Email
+        Fax
+        Postal
+        Phone
+        Homepage:URL
+      # Homepage-Publications:URL
+      # Classification-Jel
+}
+</pre>
+
+This example defines the template type <code>ReDIF-Person 1.0</code>.  The attribute
+<code>Template-type</code> is the key attribute of the template, the <code>Handle</code> and
+<code>Name-Full</code> attributes are required and non-repeatable. The attribute
+<code>Workplace</code> is of type <code>cluster</code> and subtype <code>Organization</code>. The
+attribute <code>Homepage</code> is of type <code>URL</code>.  Lines with
+<code>Homepage-Publications</code> and <code>Classification-Jel</code> attributes are
+commented out. They are not included into the template type.
+<p><a name="l6"></a>
+<h3>2.4: Cluster type definition</h3>
+<p>Clusters are groups of attributes.
+They are defined outside the template types and may be 
+used as a group in various templates
+to build composite elements.  For example consider
+the following cluster definition<pre>
+cluster = address {
+ Country:::*
+ state:
+ county
+ zipcode
+ city:::1:1
+ street
+}
+</pre>
+
+<p>Similarly to template type definitions,  a cluster type definition
+contains a list of attribute names with their properties. This
+particular example (above) defines a cluster type named <code>address</code>.
+<p>Elements of a cluster type (attributes) can not be used directly in any
+template.  To use a cluster in some template type, we need to introduce it
+there through an ordinary
+attribute.  The attributes of the cluster then can appear
+in the data being prefixed by that attribute and a dash.
+<p>For example, this means that if we introduce a cluster of type <code>address</code>
+into some template through an attribute <code>Home</code> then following data lines
+may be valid inside such templates:<pre>
+Home-Country: U.S.A.
+Home-State: CA
+Home-City: Santa Barbara
+</pre>
+
+<p>More detailed explanation about how to introduce a cluster into a
+template will be found in one of the following sections.
+<p>Once defined a cluster type can be used in any template or even cluster type. 
+The scope of the cluster type definition's is global and clusters can be 
+nested.
+<p><a name="l7"></a>
+<h2>3: Attribute types</h2>
+<p>When we list attributes in a template or a cluster type definition 
+we can specify each attribute as having a certain <tt><i>type</tt></i>
+. 
+There is one special type of attributes which will be described right in
+the next section. It is the type <code>cluster</code>.
+<p><a name="l8"></a>
+<h3>3.1: Attribute type <code>cluster</code></h3>
+<p>If the <tt><i>type</tt></i>
+ property of an attribute line takes value  <code>cluster</code>,
+then the <tt><i>subtype</tt></i>
+ shall point to a specific cluster type.  For example if we
+have defined cluster type <code>course</code>, then in a template type definition
+for a teacher we can put following attribute
+line:<pre>
+teaching:cluster:course
+</pre>
+
+<p>In this case the attribute <code>teaching</code> in the template type will
+represent a cluster of type <code>course</code>. Attributes of this cluster
+type may appear in any template of this type, being prefixed by
+<code>teaching-</code>.  For example, look at a template
+<p><pre>
+Template-Type: ReDIF-Teacher 1.0
+Name: Thomas Krichel
+Teaching-Course-Name: Dynamic Macroeconomics
+Teaching-Course-Class-Size: 25  
+Teaching-Course-Name: Open Economy Macroeconomics
+Teaching-Course-Class-Size: 20
+Handle: RePEc:per:teachr:T_Krichel
+</pre>
+
+<p>Such a template is possible if the cluster type <code>course</code>
+has been defined as<pre>
+cluster = course {
+   course-name:::*
+   course-class-size
+}
+</pre>
+
+<p>Exactly the same mechanism can be used to include clusters into other
+clusters, i.e. clusters can be nested. 
+<p><a name="l9"></a>
+<h2>4: User-defined value data types</h2><a name="sec:userdefinedvaluetypes"></a>
+<p>All we dealt with up to this moment are the ReDIF template structures.
+Having defined a template structure is important for parsing and validating
+data, but sometimes more deep checking of data is desired.  And this is
+what this section is about.
+<p>We have shown how an attribute specified in a template type or a
+cluster type definition can bring a cluster into a corresponding
+structure.  We use a special value of <code>cluster</code> of the <code>type</code>
+property of an attribute for that.
+<p>In other cases, the type of an attribute is used to specify the
+attribute's value data type.  These types are types of value that this
+attribute may take.  In most cases this property is empty
+which means that no certain data type has been assigned, and any value
+is possible.
+<p>For example, we can define a data type <code>date</code> for our date-related
+attributes and then declare those attributes as having value type <code>date</code>.
+This will impose some checking and processing rules of the <code>date</code> data
+type on all appearances of the attributes or, to be more correct, on the
+values of the attributes.  To set those checking and processing rules we
+use the Perl programming language. We will be more elaborate on that
+subject in the following sections.
+<p><a name="l10"></a>
+<h3>4.1: Defining data value types</h3>
+<p>Value types define rules by which the attribute values will be
+processed when a ReDIF data file is being read or checked.  Attributes
+may be associated with a value data type through a cluster or template type
+definition, as it has been shown in the previous sections.
+<p>The value data type definition syntax is
+<p><code>type =</code> <tt><i>type_name</tt></i>
+ [<code>/</code> <tt><i>type_aspect</tt></i>
+] <tt><i>block</tt></i>
+ <code>'\n'</code>
+<p>The <tt><i>type_aspect</tt></i>
+ specifies how to interpret the definition's content
+block.  This parameter may take three different values
+<p><dl>
+<p><p></p><dt><strong>check-regex</strong><dd>  a regular expression for checking value;
+  this is the default.
+<p><p></p><dt><strong>check-eval</strong><dd>   a piece of Perl code for checking value
+<p><p></p><dt><strong>preproc-eval</strong><dd> a piece of Perl code for preprocessing value 
+<p></dl>
+<p><a name="l11"></a>
+<h3>4.2: Type aspects: check-regex</h3>
+<p>For example, let us look at a following definition:<pre>
+
+type = handle / check-regex {
+     ^RePEc\:[a-zA-Z]{3}(\:[a-zA-Z0-9]{6}(\:[^\s\n]+)?)?$
+}
+</pre>
+
+<p>It defines a <code>check-regex</code> aspect of data type <code>handle</code>.  As a result,
+all values of <code>handle</code> type attributes will be checked to match the
+Perl regular expression in the braces above.
+<p>Thus the <code>check-regex</code> aspect allows to set the syntax of attribute values in
+the form of a Perl regular expression. Values that don't match the Perl regular
+expression would be rejected and the corresponding template will be invalid.
+<p><a name="l12"></a>
+<h3>4.3: Type aspects: check-eval</h3>
+<p>The <code>check-eval</code> aspect allows to set checking routine code for
+values of the data type in Perl language. The code is evaluated at
+run-time. Depending on the return value (or last expression, evaluated
+in the block), the attribute is accepted or rejected.
+<p>In the code one has access to the value which we need to be check by a
+scalar variable <tt><i>$value</tt></i>
+. Let's look at an example
+<pre>
+type = pubstat / check-eval  {
+   if (   $value !~ /^Forthcoming/i or 
+          $value !~ /^Published/i ) {
+            return 0;
+   } else { return 1; }
+}
+</pre>
+
+This type is for the Publication-Status attribute, whose value must start with
+one of <code>Forthcoming</code> and <code>Published</code> case-insensitive.
+<p>Here again let us remind that one cannot use single closing brace
+<code>}</code> on a line inside a block. So if we write the same piece in a
+different way<pre>
+type = pubstat / check-eval     {
+   if (   $value  !~ /^Forthcoming/i 
+       or $value !~ /^Published/i ) {
+             return 0;
+   } else {
+             return 1;
+   }
+}
+</pre>
+
+this will cause an error at spefor file (redif.spec) reading.
+<p>There is another one interesting feature in <tt><i>check-eval</tt></i>
+ aspect of
+types.  An author or maintainer of data often wants to know why this
+or that template is rejected.  The <em>rech</em> data checking script for this
+purpose uses so-called messages.  
+<p>A message has a text (content) and a status. A status is one of several levels:
+from a debugging note (lowest) to a fatal error message (highest). But
+the two most often used levels are: a warning and an error.  For further
+technical details please consult <em>rech</em>, <em>rr.pm</em> and <em>messages.pm</em> Perl
+files.
+<p>If during reading a template somewhere appears a message with status
+of error or higher, then the template will be rejected.  Depending on
+the invocation of <em>rech</em>, the message content may be printed to the
+standard output.
+<p>Should a type checking aspect <em>check-regex</em> or <em>check-eval</em>
+executed for a particular value
+produce a negative result, the parsing software will generate a
+message of a general form, stating that <code>value XXX of type
+YYY is invalid</code> or alike.
+<p>If one wants to make for clever and friendly checking for your data, he
+may want to change this kind of message to a different one, showing
+exactly what is the problem of the data.  To make this in
+<em>check-eval</em> aspect definition you may yourself initiate a message.
+To initiate a message you simply call a function <em>msg</em>.  But to
+exclude error duplication, if you initiate an error message in a
+<em>check-eval</em> block, be sure to return a positive value at the end.
+<p>The <em>msg</em> subroutine accepts the message text as the first
+parameter, and a number - the status level as the second parameter.
+<p>The status level of 2 corresponds to a warning, 3 - to an error. 
+<p>For example, the code in the following type definition may generate an
+error message when the corresponding value is incorrect.
+<p><pre>
+ type = integer / check-eval {
+
+     if ($value =~ /^\d+$/) {
+	msg "($file, $line): Value &lt;$value&gt; is not an integer", 3;
+	return 1;    # as if it was OK
+     ;}
+}
+</pre>
+
+Thus function <em>msg</em> sends a message.  The <em>$file</em> and <em>$line</em> 
+variables will be equal to the data filename and the line number
+position in the file.
+<p>Apart from figuring out and reporting errors, you can also give user a
+warning about data.  Let's look into another example
+<p><pre>
+type = URL / check-eval {
+   if (     $value =~ /^(ftp|http):\/\//i 
+        and $value !~ /^(ftp|http):\/\// ) {
+          msg "($file, $line): URL capitalization is bad &lt;$value&gt;", 2;
+          $value =~ s/^Ftp/ftp/i;
+          $value =~ s/^Http/http/i;
+   ;}
+
+   $value =~ /^(URL:)?
+      (ftp|http|gopher)\:
+      \/\/[a-zA-Z0-9\_\.\-]+
+      (\:[0-9]+)?
+      (\/?|[\~\&amp;\%\^\@\!\'\"\`\(\)\|\#\:\;\/A-Za-z\-\_0-9\?\=\*\\\+\,\.]+)$/x;
+}
+</pre>
+
+<p>In the first part of this <em>check-eval</em> we check the capitalization of
+the starting part of a URL (protocol, like http or ftp). 
+The line
+<p><pre>
+msg "($file, $line): URL capitalization is bad \"$value\"", 2;
+</pre>
+
+<p>creates a message with status 2 (Warning).  The template will not be
+ignored.  Then we correct the capitalization of the value and go
+further.  In the finishing part of the block we check the value to
+match a big regular expression (Perl5 extended syntax - note "/x" in
+the end).  The logical value calculated in the result of this matching
+operator will trigger an error if the value does not match.
+<p><a name="l13"></a>
+<h3>4.4: Type aspects: preproc</h3>
+<p>Another useful function that a ReDIF parsing software (which is behind
+<em>rech</em>, <em>rere</em> or <em>rr.pm</em>) may perform is in to convert attribute values
+from the form in which the author has written it to some other
+(possibly, standardized) form.  
+<p>Historically within the RePEc project, a need for this feature arose
+with the use of the subject classification codes defined by the
+Journal of Economic Literature, the JEL codes.  For example, we could
+do (and actually did) so, that a sample value of JEL classification 
+attribute <code>a21; b3, X3</code>
+would be automagically converted to <code>A21 B3</code> at the data reading
+stage, `on the fly'.  This conversion includes: change to the uppercase
+letters, separation by single space characters, and ignoring
+(filtering out) the invalid code <code>X3</code>. 
+<p>It is implemented using a <code>preproc</code> value data type aspect.  It
+works very much like <code>check-eval</code>.  The <code>preproc</code> type block is
+<code>eval</code>-uated in Perl while reading data, but the resulting
+(returned) value does not matter.
+<p>Consider another following example:
+<p><pre>
+type = date / preproc { 
+   return if $value eq ''; 
+  if ($value !~ /-/ ) {
+      $value =~ s/^(\d{4})(\d{2})$/$1-$2/; 
+      $value =~ s/^(\d{4})(\d{2})(\d{2})/$1-$2-$3/; } 
+  if ($value !~ /^\d{4}(-\d\d){0,2}$/ ) {
+      if ($rr::Options{'MessageOut'})  { 
+          include_attrline( ); 
+          msg "($file, $line): A bad date value format: \"$value\"", 2; 
+      } else { $value = '' ; } 
+      return 1; 
+  ;} 
+}
+</pre>
+ 
+<p>This example is for attributes of the <em>date</em> type.  Dates are
+converted to a standard form or cleared to <code>''</code>, if original value is
+of incorrect format.  But if this code is executed in the data checking
+mode (for example, in <em>rech</em> script) which is checked by
+<code>$rr::Options{'MessageOut'}</code> then a warning message is generated.
+Also note a function call before creating a message:
+<p><code>include_attrline( );</code>
+<p>This is necessary for correct rech output if you generate messages in
+<code>preproc</code>.
+<p><a name="l14"></a>
+<h2>5: Checking sequence</h2>
+<p>Just to clear some possible questions, here we have a brief introduction
+about how the ReDIF data is being parsed and how the spefor file is being used.
+<p>When a ReDIF parsing engine behind <em>rr.pm</em>, <em>rere</em> and <em>rech</em> reads
+an attribute, it checks some control values i.e. it asks several questions
+about an attribute.  If any of a question leads to a negative result,
+an error is being created.  And such an error causes the whole template to
+be treated as invalid.  The template is ignored and the processing program
+(the parser's client) cannot see it.
+<p>The first thing checked about attribute is whether the attribute is
+correctly placed. Is it allowed for the current template and/or
+cluster type(s)?  If the attribute is repeated, is it allowed to be
+repeated here?
+<p>If the attribute fits well into the template structure (does not
+violate the template type), the parser then checks the value of the
+attribute.
+<p>The engine then checks what type of attribute it is (as it is defined
+in the template or cluster type).  If its type is <code>cluster</code>, then
+the engine <em>opens</em> a new cluster.  If it is of some data type, that
+type's <code>preproc</code> aspect is checked and executed (<code>eval</code>-uated), if
+it has been defined in spefor.  Then <code>check-regex</code> is matched if
+defined.  Next step is <code>check-eval</code> <code>eval</code>-uation, you guessed,
+if defined.
+<p>If at the <code>check-regex</code> or the <code>check-eval</code> stage a negative result has
+been received, then the engine generates an error and stops further
+processing of the template. Actually the same happens if an error appears
+in the <code>pre-proc</code> aspect.
+<p>When a new <code>Template-type</code> attribute is encountered or an end of file is
+reached, the template is checked to contain all <em>required</em> attributes of
+the template type.  Processing the template goes on successfully only if
+this check returns positive result.  After that the template is considered
+to be complete and valid.
+<p> 
+</body>
+</html>

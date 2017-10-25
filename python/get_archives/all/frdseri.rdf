@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Fordham Economics Discussion Paper Series
+Provider-Name: Fordham University, Department of Economics
+Provider-Homepage: http://www.fordham.edu/economics/
+Provider-Institution: RePEc:edi:edforus
+Maintainer-Name: Fordham Economics
+Maintainer-Email: economics@fordham.edu
+Type: ReDIF-Paper
+Handle: RePEc:FRD:wpaper
+
+ 
+Template-type: ReDIF-Series 1.0
+Name: Fordham Economics Dissertations
+Description: A collection of doctoral theses since 2000. 
+Provider-Name: Fordham University, Department of Economics
+Provider-Institution: RePEc:edi:edforus
+Maintainer-Name: Fordham Economics
+Maintainer-Email: economics@fordham.edu
+Type: ReDIF-Book
+Handle: RePEc:FRD:theses
+
+ 

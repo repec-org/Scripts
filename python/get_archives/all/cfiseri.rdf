@@ -1,0 +1,19 @@
+
+
+Template-type: ReDIF-Series 1.0
+Name: CARF F-Series
+Type: ReDIF-Paper
+Provider-Name: Center for Advanced Research in Finance, Faculty of Economics, The University of Tokyo
+Provider-Homepage: http://www.carf.e.u-tokyo.ac.jp/english/
+Provider-Institution: RePEc:edi:catokjp
+Maintainer-Email: carf-info@e.u-tokyo.ac.jp
+Handle: RePEc:cfi:fseres
+
+Template-type: ReDIF-Series 1.0
+Name: CARF J-Series
+Type: ReDIF-Paper
+Provider-Name: Center for Advanced Research in Finance, Faculty of Economics, The University of Tokyo
+Provider-Homepage: http://www.carf.e.u-tokyo.ac.jp/english/
+Provider-Institution: RePEc:edi:catokjp
+Maintainer-Email: carf-info@e.u-tokyo.ac.jp
+Handle: RePEc:cfi:jseres

@@ -1,0 +1,10 @@
+Template-type: redif-series 1.0
+Name: Working Papers
+Provider-Name: National Institute of Public Finance and Policy
+Provider-Homepage: http://www.nipfp.org.in
+Provider-Institution: RePEc:npf:nipfpin
+Provider-Institution: RePEc:edi:nipfpin
+Maintainer-Name: S.Siva Chidambaram
+Maintainer-Email: siva.chidambaram@nipfp.org.in
+Type: ReDIF-Paper
+Handle: RePEc:npf:wpaper

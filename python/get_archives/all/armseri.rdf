@@ -1,0 +1,9 @@
+Template-type: ReDIF-Series 1.0
+Name: SADO - Working Papers
+Provider-Name: Small Arms Data Observatory
+Provider-Homepage: https://smallarmsdata.org/
+Provider-Institution: RePEc:edi:sado
+Maintainer-Name: Topher McDougal
+Maintainer-Email: tlm@sandiego.edu
+Type: ReDIF-Paper
+Handle: RePEc:arm:wpaper

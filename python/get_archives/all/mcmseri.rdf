@@ -1,0 +1,48 @@
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics Working Papers
+Provider-Name: McMaster University
+Provider-Homepage: http://www.economics.mcmaster.ca/
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Email: hansj@mcmaster.ca
+Type: ReDIF-Paper
+Handle: RePEc:mcm:deptwp
+
+Template-type: ReDIF-Series 1.0
+Name: Canadian International Labour Network Working Papers
+Provider-Name: McMaster University 
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Email: jonessrg@mcmaster.ca
+Type: ReDIF-Paper
+Handle: RePEc:mcm:cilnwp
+
+Template-type: ReDIF-Series 1.0
+Name: Independence and Economic Security of the Older Population Research Papers
+Provider-Name: McMaster University 
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Email: belljl@mcmaster.ca
+Type: ReDIF-Paper
+Handle: RePEc:mcm:iesopp
+
+Template-type: ReDIF-Series 1.0
+Name: Quantitative Studies in Economics and Population Research Reports
+Provider-Name: McMaster University 
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Email: belljl@mcmaster.ca
+Type: ReDIF-Paper
+Handle: RePEc:mcm:qseprr
+
+Template-type: ReDIF-Series 1.0
+Name: Social and Economic Dimensions of an Aging Population Research Papers
+Provider-Name: McMaster University
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Email: spencer@mcmaster.ca
+Type: ReDIF-Paper
+Handle: RePEc:mcm:sedapp
+
+Template-Type: ReDIF-Series 1.0
+Name: McMaster Experimental Economics Laboratory Publications
+Provider-Name: McMaster University 
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Email: dcameron@mcmaster.ca
+Type: ReDIF-Paper
+Handle: RePEc:mcm:mceelp

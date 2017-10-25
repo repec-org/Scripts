@@ -1,0 +1,120 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Department of Economics, Industrial Relations Section.
+Provider-Homepage: http://www.irs.princeton.edu/
+Provider-Institution: RePEc:edi:irprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:indrel
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Education Research Section.
+Provider-Homepage: http://www.ers.princeton.edu/
+Provider-Institution: RePEc:edi:erprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:edures
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Department of Economics, Center for Economic Policy Studies.
+Provider-Homepage: http://www.princeton.edu/gceps/
+Provider-Institution: RePEc:edi:ceprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:cepsud
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Discussion Papers in Economics
+Provider-Homepage: http://wws.princeton.edu/
+Provider-Institution: RePEc:edi:wwprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:wwseco
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Research Program in Development Studies.
+Provider-Homepage: http://www.princeton.edu/rpds/
+Provider-Institution: RePEc:edi:rpprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:rpdevs
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Center for Arts and Cultural Policy Studies.
+Provider-Homepage: http://www.princeton.edu/~artspol/
+Provider-Institution: RePEc:edi:caprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:cpanda
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Center for Migration and Development.
+Provider-Homepage: http://www.princeton.edu/cmd/
+Provider-Institution: RePEc:edi:cmprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:cmgdev
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Center for Research on Child Wellbeing.
+Provider-Homepage: http://crcw.princeton.edu/
+Provider-Institution: RePEc:edi:ccprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:crcwel
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Center for Health and Wellbeing.
+Provider-Homepage: http://chw.princeton.edu/
+Provider-Institution: RePEc:edi:chprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:cheawb
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Department of Economics, Econometric Research Program.
+Provider-Homepage: http://detc.princeton.edu/
+Provider-Institution: RePEc:edi:exprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:metric
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Princeton University, Woodrow Wilson School of Public and International Affairs, Office of Population Research.
+Provider-Homepage: http://opr.princeton.edu/
+Provider-Institution: RePEc:edi:opprius
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:opopre
+
+Template-type: ReDIF-Series 1.0
+Name: Empirical Studies of Conflict Project (ESOC) Working Papers
+Provider-Name: Empirical Studies of Conflict Project 
+Provider-Homepage: http://esoc.princeton.edu
+Provider-Institution: RePEc:edi:esocpu
+Maintainer-Name: Bobray Bordelon
+Maintainer-Email: bordelon@princeton.edu
+Type: ReDIF-Paper
+Handle: RePEc:pri:esocpu
+

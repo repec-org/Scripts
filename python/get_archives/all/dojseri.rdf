@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+Name: EAG Discussions Papers
+Provider-Name: Department of Justice, Antitrust Division
+Provider-Homepage: http://www.justice.gov/atr/
+Provider-Postal: Department of Justice
+        Antitrust Division
+        450 Fifth Street NW
+        Washington, DC 20530
+Provider-Institution: RePEc:edi:atrgvus
+Maintainer-Name: Tung Vu
+Maintainer-Email: tung.vu@usdoj.gov
+Type: ReDIF-Paper
+Handle: RePEc:doj:eagpap
+
+Template-type: ReDIF-Series 1.0
+Name: EAG Competition Advocacy Papers
+Provider-Name: Department of Justice, Antitrust Division
+Provider-Homepage: http://www.justice.gov/atr/
+Provider-Postal: Department of Justice
+        Antitrust Division
+        450 Fifth Street NW
+        Washington, DC 20530
+Provider-Institution: RePEc:edi:atrgvus
+Maintainer-Name: Tung Vu
+Maintainer-Email: tung.vu@usdoj.gov
+Type: ReDIF-Paper
+Handle: RePEc:doj:compad

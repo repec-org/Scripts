@@ -1,0 +1,55 @@
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:gta:techpp
+Name: GTAP Technical Papers
+Followup:RePEc:gta:jnlgea
+Provider-Name: Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University
+Provider-Homepage: http://www.gtap.agecon.purdue.edu/
+Provider-Institution: RePEc:edi:gtpurus
+Maintainer-Name: Jeremy Douglas
+Maintainer-Email: dougla32@purdue.edu
+Description: Extensions to the GTAP Models and Data Dases are available in the GTAP Technical Paper series. These papers are peer-reviewed and results are independently replicated prior to publication on this Web site. Each paper concerns a specific aspect of the GTAP data and model or selected extensions of the GTAP Model.
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:gta:workpp
+Name: GTAP Working Papers
+Provider-Name: Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University
+Provider-Homepage: http://www.gtap.agecon.purdue.edu/
+Provider-Institution: RePEc:edi:gtpurus
+Maintainer-Name: Jeremy Douglas
+Maintainer-Email: dougla32@purdue.edu
+Description: The GTAP working paper series is intended to make available in electronic form, current research by the staff of the Center of Global Trade Analysis. These are also cross-listed as staff paper in the Department of Agricultural Economics at Purdue University.
+
+Template-type: ReDIF-Series 1.0
+Handle: RePEc:gta:resmem
+Name: GTAP Research Memoranda
+Provider-Name: Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University
+Provider-Homepage: http://www.gtap.agecon.purdue.edu/
+Provider-Institution: RePEc:edi:gtpurus
+Maintainer-Name: Jeremy Douglas
+Maintainer-Email: dougla32@purdue.edu
+Description: GTAP Research Memoranda
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Handle: RePEc:gta:jnlgea
+Name: Journal of Global Economic Analysis
+Predecessor:RePEc:gta:techpp
+Provider-Name: Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University
+Provider-Homepage: http://www.gtap.agecon.purdue.edu/
+Provider-Institution: RePEc:edi:gtpurus
+Maintainer-Name: Jeremy Douglas
+Maintainer-Email: dougla32@purdue.edu
+ISSN: 2377-2999
+Description: Journal of Global Economic Analysis.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Handle: RePEc:gta:gtapbk
+Name: GTAP Books
+Provider-Name: Center for Global Trade Analysis, Department of Agricultural Economics, Purdue University
+Provider-Homepage: http://www.gtap.agecon.purdue.edu/
+Provider-Institution: RePEc:edi:gtpurus
+Maintainer-Name: Jeremy Douglas
+Maintainer-Email: dougla32@purdue.edu
+Description: GTAP Books
+

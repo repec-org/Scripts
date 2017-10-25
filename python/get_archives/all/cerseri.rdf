@@ -1,0 +1,28 @@
+Template-type: ReDIF-Series 1.0
+Name: CERGE-EI Working Papers
+Provider-Name: The Center for Economic Research and Graduate Education - Economics Institute, Prague
+Provider-Homepage: http://www.cerge-ei.cz
+Provider-Institution: RePEc:edi:eiacacz
+Maintainer-Name: Jana Koudelkova
+Maintainer-Email: jana.koudelkova@cerge-ei.cz
+Handle: RePEc:cer:papers
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: CERGE-EI Occasional Publications
+Provider-Name: The Center for Economic Research and Graduate Education - Economics Institute, Prague
+Provider-Homepage: http://www.cerge-ei.cz
+Provider-Institution: RePEc:edi:eiacacz
+Maintainer-Name: Jana Koudelkova
+Maintainer-Email: jana.koudelkova@cerge-ei.cz
+Handle: RePEc:cer:occpub
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: CERGE-EI Books
+Provider-Name: The Center for Economic Research and Graduate Education - Economics Institute, Prague
+Provider-Homepage: http://www.cerge-ei.cz
+Provider-Institution: RePEc:edi:eiacacz
+Maintainer-Name: Jana Koudelkova
+Maintainer-Email: jana.koudelkova@cerge-ei.cz
+Handle: RePEc:cer:ecpubl

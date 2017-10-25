@@ -1,0 +1,116 @@
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Books
+Provider-Name: Emerging Markets Forum
+Provider-Postal: Emerging Markets Forum
+                              2600 Virginia Ave, NW, Ste 201
+                                 Washington, DC 20037
+Provider-Homepage: http://www.emergingmarketsforum.org/
+Provider-Phone: 202-393-6663
+Provider-Fax: 202-393-6556
+Provider-Institution: RePEc:edi:emmfous
+Maintainer-Name: Michael Whelan
+Maintainer-Email: michael@centennial-group.com
+Handle: RePEc:emf:booksf
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Global Journal of Emerging Market Economies
+Provider-Name: Emerging Markets Forum
+Provider-Postal: Emerging Markets Forum
+                              2600 Virginia Ave, NW, Ste 201
+                                 Washington, DC 20037
+Provider-Homepage: http://www.emergingmarketsforum.org/
+Provider-Phone: 202-393-6663
+Provider-Fax: 202-393-6556
+Provider-Institution: RePEc:edi:emmfous
+Editor-Name: Michael Whelan
+Editor-Email: michael@centennial-group.com
+Maintainer-Name: Michael Whelan
+Maintainer-Email: michael@centennial-group.com
+Order-Homepage: http://eme.sagepub.com
+Handle: RePEc:emf:journl
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Chapter
+Name: Book Chapters
+Provider-Name: Emerging Markets Forum
+Provider-Postal: Emerging Markets Forum
+                              2600 Virginia Ave, NW, Ste 201
+                                 Washington, DC 20037
+Provider-Homepage: http://www.emergingmarketsforum.org/
+Provider-Phone: 202-393-6663
+Provider-Fax: 202-393-6556
+Provider-Institution: RePEc:edi:emmfous
+Maintainer-Name: Michael Whelan
+Maintainer-Email: michael@centennial-group.com
+Handle: RePEc:emf:chpter
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Papers Presented at Global Meetings of the Emerging Markets Forum
+Provider-Name: Emerging Markets Forum
+Provider-Postal: Emerging Markets Forum
+                              2600 Virginia Ave, NW, Ste 201
+                                 Washington, DC 20037
+Provider-Homepage: http://www.emergingmarketsforum.org/
+Provider-Phone: 202-393-6663
+Provider-Fax: 202-393-6556
+Provider-Institution: RePEc:edi:emmfous
+Maintainer-Name: Michael Whelan
+Maintainer-Email: michael@centennial-group.com
+Order-Homepage: http://www.emergingmarketsforum.org/paper/
+Handle: RePEc:emf:glpapr
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Other Working Papers
+Provider-Name: Emerging Markets Forum
+Provider-Postal: Emerging Markets Forum
+                              2600 Virginia Ave, NW, Ste 201
+                                 Washington, DC 20037
+Provider-Homepage: http://www.emergingmarketsforum.org/
+Provider-Phone: 202-393-6663
+Provider-Fax: 202-393-6556
+Provider-Institution: RePEc:edi:emmfous
+Maintainer-Name: Michael Whelan
+Maintainer-Email: michael@centennial-group.com
+Order-Homepage: http://www.emergingmarketsforum.org/paper/
+Handle: RePEc:emf:otherw
+
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Papers Presented at Africa Meetings of the Emerging Markets Forum
+Provider-Name: Emerging Markets Forum
+Provider-Postal: Emerging Markets Forum
+                              2600 Virginia Ave, NW, Ste 201
+                                 Washington, DC 20037
+Provider-Homepage: http://www.emergingmarketsforum.org/
+Provider-Phone: 202-393-6663
+Provider-Fax: 202-393-6556
+Provider-Institution: RePEc:edi:emmfous
+Maintainer-Name: Michael Whelan
+Maintainer-Email: michael@centennial-group.com
+Order-Homepage: http://www.emergingmarketsforum.org/paper/
+Handle: RePEc:emf:afpapr
+
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Papers Presented at Latin America Meetings of the Emerging Markets Forum
+Provider-Name: Emerging Markets Forum
+Provider-Postal: Emerging Markets Forum
+                              2600 Virginia Ave, NW, Ste 201
+                                 Washington, DC 20037
+Provider-Homepage: http://www.emergingmarketsforum.org/
+Provider-Phone: 202-393-6663
+Provider-Fax: 202-393-6556
+Provider-Institution: RePEc:edi:emmfous
+Maintainer-Name: Michael Whelan
+Maintainer-Email: michael@centennial-group.com
+Order-Homepage: http://www.emergingmarketsforum.org/paper/
+Handle: RePEc:emf:lapapr
+
+
+

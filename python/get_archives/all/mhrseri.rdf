@@ -1,0 +1,152 @@
+Template-type: ReDIF-Series 1.0
+Name: Monograph
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Book
+Handle: RePEc:mhr:mhrmon
+
+Template-type: ReDIF-Series 1.0
+Name: Beiträge zur Finanzwissenschaft
+Description: Monographs on Public Finance
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Book
+Handle: RePEc:mhr:btrfin
+Editor-Name: Clemens Fuest
+Editor-Name: Kai A. Konrad
+ISSN: 0340-675X
+
+Template-type: ReDIF-Series 1.0
+Name: Beiträge zur Ordnungstheorie und Ordnungspolitik
+Description: Concise scholarly contributions dealing with the theory of economic order and ordoliberalism.
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Book
+Handle: RePEc:mhr:btrord
+Provider-Name: Walter Eucken Institut, Freiburg, Germany
+Provider-Homepage: http://www.walter-eucken-institut.de/
+ISSN: 1434-3371
+
+Template-type: ReDIF-Series 1.0
+Name: Conferences on New Political Economy
+Description: Formerly Jahrbuch für Neue Politische Ökonomie
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Chapter
+Handle: RePEc:mhr:connpe
+Editor-Name: Dieter Schmidtchen
+Editor-Name: Stefan Voigt
+ISSN: 1861-8340
+
+Template-type: ReDIF-Series 1.0
+Name: Ökonomik der Kooperation
+Description: The 'Economics of Cooperation' series presents works that deal with the cooperation among companies.
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Book
+Handle: RePEc:mhr:eckoop
+Editor-Name: Theresia Theurl
+ISSN: 1619-9901
+
+Template-type: ReDIF-Series 1.0
+Name: FinanzArchiv: Public Finance Analysis
+Description: The FinanzArchiv deals with all aspects of public finance. Special emphasis is on German and foreign fiscal and tax policy.
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de/fa
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Article
+Handle: RePEc:mhr:finarc
+Order-Email: order@mohr.de
+Order-Postal: Mohr Siebeck GmbH & Co. KG, P.O.Box 2040, 72010 Tübingen, Germany
+Price: Institutions EURO 374.00 plus postage, individuals EURO 184.00 plus postage (2015)
+Restriction: Fulltext access is included for subscribers to the printed version.
+Editor-Name: Alfons Weichenrieder
+Editor-Email: a.weichenrieder@em.uni-frankfurt.de
+Editor-Person: pwe106
+Editor-Name: Ronnie Schöb
+Editor-Email: Ronnie.Schoeb@fu-berlin.de 
+Editor-Person: psc185
+Editor-Name: Katherine Cuff
+Editor-Email: cuffk@mcmaster.ca
+Notification: https://www.mohr.de/rss/fa.rss
+ISSN: 0015-2218
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Institutional and Theoretical Economics (JITE)
+Description: The Journal of Institutional and Theoretical Economics (JITE) provides a specialized forum for the publication of research in the field of modern institutional economics. It continues with modern analytical methods the tradition of the Zeitschrift für die gesamte Staatswissenschaft, one of the oldest reviews in the field of Political Economy, founded in 1844.
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de/jite
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Article
+Handle: RePEc:mhr:jinste
+Order-Email: order@mohr.de
+Order-Postal: Mohr Siebeck GmbH & Co. KG, P.O.Box 2040, 72010 Tübingen, Germany
+Price: Institutions EURO 389.00 plus postage, individuals EURO 189.00 plus postage (2015)
+Restriction: Fulltext access is included for subscribers to the printed version.
+Editor-Name: Gerd Mühlheußer
+Editor-Email: jite@mohr.de 
+Editor-Name: Biung-Ghi Ju
+Editor-Email: bgju@snu.ac.kr 
+Notification: https://www.mohr.de/rss/jite.rss
+ISSN: 0932-4569
+
+Template-type: ReDIF-Series 1.0
+Name: Rechtsordnung und Wirtschaftsgeschichte
+Description: In this series, the editors provide an interdisciplinary forum for works which analyze this mutual dependence of normative systems and real economic developments as well as the underlying concepts of order from a historical perspective.
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Book
+Handle: RePEc:mhr:reowig
+Editor-Name: Mathias Schmoeckel
+ISSN: 2191-0014
+
+Template-type: ReDIF-Series 1.0
+Name: Untersuchungen zur Ordnungstheorie und Ordnungspolitik
+Description: Comprehensive scholarly studies focusing on issues of ordoliberalism from the perspective of economics or economic law.
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Book
+Handle: RePEc:mhr:untord
+Provider-Name: Walter Eucken Institut, Freiburg, Germany
+Provider-Homepage: http://www.walter-eucken-institut.de/
+ISSN: 1434-338X
+
+Template-type: ReDIF-Series 1.0
+Name: Wirtschaftswissenschaftliches Seminar Ottobeuren
+Description: The Wirtschaftswissenschaftliche Seminar Ottobeuren (Ottobeuren Economics Seminar) is a three-day international conference held annually in September which deals with various economic issues.
+Provider-Name: Mohr Siebeck, Tübingen
+Provider-Homepage: https://www.mohr.de
+Provider-Institution: RePEc:mhr:mhrside
+Maintainer-Name: Thomas Wolpert
+Maintainer-Email: thomas.wolpert@mohr.de
+Type: ReDIF-Book
+Handle: RePEc:mhr:wiseot
+Editor-Name: Wolfgang Franz
+Editor-Name: Hans-Jürgen Ramser
+Editor-Name: Manfred Stadler
+ISSN: 0340-7187

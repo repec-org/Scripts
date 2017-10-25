@@ -1,0 +1,108 @@
+Template-type: ReDIF-Series 1.0
+Name: IZA Discussion Papers
+Description: This is a working paper series for labor economists.   
+Classification-JEL: J; L; C; D
+Type: ReDIF-Paper
+Provider-Institution: RePEc:edi:izaaade 
+Provider-Name: Institute for the Study of Labor (IZA)
+Provider-Homepage: http://www.iza.org
+Provider-Phone: +49 228 3894 223   
+Provider-Postal: IZA, P.O. Box 7240, D-53072 Bonn, Germany
+Provider-Fax: +49 228 3894 180  
+Maintainer-Name: Mark Fallak
+Maintainer-Email: fallak@iza.org
+Editor-Name: Mark Fallak
+Editor-Email: fallak@iza.org
+Editor-Workplace-Name: IZA
+Editor-Workplace-Homepage: http://www.iza.org
+Order-Email: library@iza.org
+Order-Homepage: 
+Order-Postal: IZA, Margard Ody, P.O. Box 7240, D-53072 Bonn, Germany 
+Price: free of charge
+Notification: http://www.iza.org/en/webcontent/news/newsletters/index_html
+Handle: RePEc:iza:izadps
+
+Template-type: ReDIF-Series 1.0
+Name: IZA Research Reports
+Description: This is a research report series in labor economics.   
+Classification-JEL: J
+Type: ReDIF-Paper
+Provider-Institution: RePEc:edi:izaaade 
+Provider-Name: Institute for the Study of Labor (IZA)
+Provider-Homepage: http://www.iza.org
+Provider-Phone: +49 228 3894 223   
+Provider-Postal: IZA, P.O. Box 7240, D-53072 Bonn, Germany
+Provider-Fax: +49 228 3894 180  
+Maintainer-Name: Mark Fallak
+Maintainer-Email: fallak@iza.org
+Editor-Name: Mark Fallak
+Editor-Email: fallak@iza.org
+Editor-Workplace-Name: IZA
+Editor-Workplace-Homepage: http://www.iza.org
+Order-Email: library@iza.org
+Order-Homepage: 
+Order-Postal: IZA, Margard Ody, P.O. Box 7240, D-53072 Bonn, Germany 
+Price: free of charge
+Handle: RePEc:iza:izarrs
+
+Template-type: ReDIF-Series 1.0
+Name: IZA Policy Papers
+Description: This is a series of policy-relevant papers in labor economics.   
+Classification-JEL: J
+Type: ReDIF-Paper
+Provider-Institution: RePEc:edi:izaaade 
+Provider-Name: Institute for the Study of Labor (IZA)
+Provider-Homepage: http://www.iza.org
+Provider-Phone: +49 228 3894 223   
+Provider-Postal: IZA, P.O. Box 7240, D-53072 Bonn, Germany
+Provider-Fax: +49 228 3894 180  
+Maintainer-Name: Mark Fallak
+Maintainer-Email: fallak@iza.org
+Editor-Name: Mark Fallak
+Editor-Email: fallak@iza.org
+Editor-Workplace-Name: IZA
+Editor-Workplace-Homepage: http://www.iza.org
+Order-Email: library@iza.org
+Order-Homepage: 
+Order-Postal: IZA, Margard Ody, P.O. Box 7240, D-53072 Bonn, Germany 
+Price: free of charge
+Handle: RePEc:iza:izapps
+
+Template-type: ReDIF-Series 1.0
+Name: IZA Standpunkte
+Description: This is a German-language series of policy-relevant papers in labor economics.   
+Classification-JEL: J
+Type: ReDIF-Paper
+Provider-Institution: RePEc:edi:izaaade 
+Provider-Name: Institute for the Study of Labor (IZA)
+Provider-Homepage: http://www.iza.org
+Provider-Phone: +49 228 3894 223   
+Provider-Postal: IZA, P.O. Box 7240, D-53072 Bonn, Germany
+Provider-Fax: +49 228 3894 180  
+Maintainer-Name: Mark Fallak
+Maintainer-Email: fallak@iza.org
+Editor-Name: Mark Fallak
+Editor-Email: fallak@iza.org
+Editor-Workplace-Name: IZA
+Editor-Workplace-Homepage: http://www.iza.org
+Order-Email: library@iza.org
+Order-Homepage: 
+Order-Postal: IZA, Margard Ody, P.O. Box 7240, D-53072 Bonn, Germany 
+Price: free of charge
+Handle: RePEc:iza:izasps
+
+Template-type: ReDIF-Series 1.0
+Name: IZA World of Labor
+Description: Aimed at decision-makers in labor markets who need concise information on policy issues, the IZA World of Labor is a global, free online resources that condenses relevant research findings on labor market issues for a non-academic audience. It provides expert know-how from reliable evidence-based research in clear and accessible style.
+Type:ReDIF-Article
+Provider-Institution: RePEc:edi:izaaade 
+Provider-Name: Institute for the Study of Labor (IZA)
+Provider-Homepage: http://www.iza.org
+Provider-Postal: IZA, P.O. Box 7240, D-53072 Bonn, Germany
+Provider-Fax: +49 228 3894 180  
+Maintainer-Name: Bloomsbury Information Ltd
+Maintainer-Email: bloomsbury@iza.org
+Editor-Name: Daniel S. Hamermesh
+Editor-Email: wol@iza.org
+ISSN: 2054-9571
+Handle: RePEc:iza:izawol

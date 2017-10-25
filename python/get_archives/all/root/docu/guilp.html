@@ -1,0 +1,446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html><head><title>
+</title>
+
+<link rev="made" href="mailto:WoPEc@netec.mcc.ac.uk">
+</head>
+<body>
+
+<hr>
+
+<h1>
+</h1>
+<h2>
+<TABLE><TR>
+<TD align="center" valign="top" width="0">
+<!--<IMG SRC="http://netec.mcc.ac.uk/images/le.gif" alt="" border="0">-->
+<TD align="center" valign="top" width="0">
+<!--<IMG SRC="http://netec.mcc.ac.uk/RePEc/RePEc.gif" ALT="RePEc" >-->
+<TD align="center" valign="top" width="0">
+<!--<IMG SRC="http://netec.mcc.ac.uk/images/ri.gif" alt="" border="0">-->
+<TD align="right" valign="center">
+<h1>Guildford Protocol </h1>
+</TD></TR></TABLE>
+<p>
+</h2>
+<h2>Current Maintainer: 
+<a href="http://gretel.econ.surrey.ac.uk/">Thomas Krichel</a></h2>
+
+
+<p><a name="l1"></a>
+<h2>1: Introduction</h2>
+<p>This document is the Guildford protocol. It is named after the town
+where it has been written. The protocol provides a set of rules for
+the publication and exchange of documents on the internet. It could be
+implemented in any group that wishes to distribute documents on the
+internet.
+<p>The idea behind the protocol goes back to a statement by 
+William L. Goffe. On 15 July 1995, he wrote on the (now defunct)
+NetEc-admin list:
+<p><blockquote>
+  What I would suggest is this: a distributed system with any number of
+  sites, each mirroring each other. It would have extensive
+  bibliographic functions (cross-referencing, etc.), and my favorite,
+  digital timestamps for when the papers were put up. For archives
+  outside it, papers could be listed, but no cross-referencing. But,
+  such archives could "join" the system (say it was written in perl so
+  could run on NT as well as Unix). Then you'd have the best of both
+  worlds: distributed, anybody could join, extensive cross-referencing,
+  the whole works. Such a system could easily grow with the
+  profession's use of the net. Such a system would GREATLY benefit the 
+  profession.
+</blockquote>
+<p>The way to achieve this "global and local" archive is through a
+comprehensive distribution process that is based on a set of archives. 
+An archive is a machine that makes data available. It is a place where
+original data enters the system. The data are then distributed to any
+number of sites. A site is a collection of archives on the same
+computer system. It usually consists of a local archive augmented by
+frequently updated copies of remote archives. The local archive is
+maintained on the local computer, whereas the remote archives are
+maintained on other computers. We call a frequently updated copy of
+one archive on a remote site a "mirror". There is no need for every site
+will need to mirror every archive in the system. Some may only mirror
+bibliographic information rather than the papers to conserve disk
+space. Others may mirror all the files of an archive. Others will
+mirror only parts of a few archives.
+<p>All archives hold papers and metadata about papers, as well as 
+software that is useful to maintain archives. Everything contained
+in an archive may be mirrored. For example, if the full text of a 
+paper is in the archive, it may be mirrored. If the archive does
+not wish the full text to be mirrored, it can store the papers outside
+the archive, for example on a directory that does not belong to the
+archive. 
+<p>The Guildford protocol aims to find a set of minimal restrictions on
+archives such that a global and local system will work.  A second key aim
+of this document is to provide a set of rules such that if they are
+followed locally, require almost no central effort. However a small amount
+of work has to be provided by a central archive. This archive
+is called the core archive. It contains ReDIF templates that describe
+all known archives in the system. 
+<p>A limitation of this document is that it will not deal with charging
+money for metadata i.e. that the description of documents is free. 
+Limiting the access to the documents themselves is possible but remains
+outside of the scope of the document.
+<p>A second limitation is that the protocol does not deal with archiving
+and preservation issues. A key feature of the protocol is that each
+document has exactly one home site. If the home site withdraws the
+document it is withdrawn (after a short delay) on all site that
+maintain copies of the document.
+<p>A third limitation of this document is that it applies only to
+archives that contain series of documents. It is not intended to apply
+to homepage style publications.
+<p>The last limitation is that the protocol is not concerned with
+providing end user services. For example the protocol does not provide
+any ideas on how to present documents on a web server, how documents
+should be indexed etc. However one of the key features of the protocol
+is that software used to perform these task can be written by a
+community of contributors and distributed among sites for
+the benefits of everybody. There may be a
+variety of software tools written to render the data in all sorts of
+ways, to prepare all sorts of indexes, fire up a number of search
+tools etc. At the moment many archives are trying hard to tackle these
+issues on their own for their local needs. The usage of the protocol
+will go a long way towards eliminating this multiplication of effort. 
+<p>
+<p><a name="l2"></a>
+<h2>2: Definitions and conventions</h2>
+<p>The "authority" is a group of people that have come together to
+implement the Guildford protocol on a set of documents and metadata.
+"RePEc" is an authority that supports the creation and deployment of
+ReDIF data in economics according to the Guildford protocol.  For the
+rest of the document, we will use the name "RePEc" to refer to the
+authority.
+<p>"<a href="ReDIF.html">ReDIF (Research Document Information Format)</a>" 
+is a set of rules to encode information about papers, series, and 
+copying rights. It is discipline independent and independent of 
+an organisational structure
+that supports its creation and deployment.
+<p>A "series" is a collection of documents that are kept together. 
+<p>An "archive" is a
+directory on a computer that is open to access by ftp or http. It
+holds a collection of series of papers or a collection of data
+about papers held elsewhere.  
+<p>A "RePEc archive" carries data
+formated in ReDIF that pertain to Economics and use RePEc as
+administrator.  It may also carry the full text of the documents.
+<p>A "site" is a collection of (normally one) local archive plus any
+number of mirrored archives. For the purpose of identification, sites
+and archives are treated identical. Normally each site runs on archive
+and mirrors several others.
+<p>The "core archive" is a single machine on which a limited number of 
+important files are kept.  These include the documentation of the
+protocol, including the regulations of the decision making process,
+brief descriptions of all the software contributed to the organisation
+and the core templates (see <a href="ReDIF.html">the ReDIF documentation</a>) of all participating archives. The contents of the core
+site is made available on all other sites.
+<p>The "administrator" is the person who keeps the core files on the core
+site.
+<p>A "site" is a local archive complemented by mirrored copies
+of remote archives. It offers end-user facilities.
+<p>"mirroring" is a process by which copies of series of documents are
+made from one site to another, such that the contents of the archive
+is the same on all sites except for a short delay that is inevitable.
+<p><a name="l3"></a>
+<h2>3: Introduction to implementation</h2> 
+<p>Two pieces of software that are crucial for the implementation of the
+project are the ftp or/and http protocol. The data is stored on
+sites that are accessible via either those protocols, but we recommend
+to use ftp.  To manage the sites, we have developed perl scripts.
+Perl is available freely for a variety of platforms but it most
+popular on unix machines. Initially the software will be designed with
+unix machines in mind. We will consider other platforms when they
+become available.
+<p>To enable the software to work, we will need to impose a minimum of
+structure on archive. That is detailed in <a href="guilp.html#site">Section
+<a href="guilp.html#site">3.1</a></a>. For the provision of software for all servers, we
+need a fix some rules that are detailed in <a href="guilp.html#soft">Section
+<a href="guilp.html#soft">3.2</a></a>.
+<p>The central site ALL operates at
+<a href="ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all">ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all</a>.  Its archive code is ALL.
+It provides the <a href="ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/soft/mirror">mirror</a> and the
+<a href="ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/soft/webcopy">webcopy</a>
+perl scripts that are used to mirror, the former for ftp archives, the
+latter for the http archives. For ftp archives
+<a href="ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/conf/allarch.mir">ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/conf/allarch.mir</a> provides
+a file that mirrors all the ftp archives. 
+<a href="ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/docu">ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/docu</a> contains all the
+documentation. Finally <a href="ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/">ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/</a> mirrors the core
+templates of all archives.
+<p><a name="l4"></a>
+<h3>3.1: The site</h3><a name="site"></a>
+<p>A site contains a set of files. All names of files are case-insensitive.
+The convention is that all archive identifiers have three
+letters, all series identifiers 6 letters, 
+the reserved words have four letters. Archive identifiers are
+awarded by RePEc, the series identifiers are fixed by the
+archives in consultation with RePEc, and the reserved words
+are those mentioned in the protocol. All files ending
+with the extension <code>.rdf</code>, pronounced "ReDIF" are files
+that contain ReDIF templates. 
+<p>If a site runs on a multi-user machine, it is recommended to create a
+special account "adrepec" for the account. The following files can
+then live in the home directory of the user "adrepec", or better, in a
+subdirectory <code>RePEc</code> of this account that points to a space in the
+files system that is accessible via anonymous ftp. In the following
+we assume that we are in this subdirectory and we are looking
+at the files and directories that it contains. 
+<p><code>./</code><em>archive_identifier</em><code>/</code><em>archive_identifier</em><code>arch.rdf</code>
+ a file describing the archive using a single ReDIF archive template
+ (mandatory)
+<p><code>./</code><em>archive_identifier</em><code>/</code><em>archive_identifier</em><code>seri.rdf</code>
+ a file describing the series in the archive using a sequence of
+ ReDIF series templates. All series in the archive are described
+ in this file, one template for each series.
+ (mandatory)
+<p><code>./</code><em>archive_identifier</em><code>/</code><em>archive_identifier</em><code>serv.rdf</code>
+ a file describing the services that the site is offering
+<p><code>./</code><em>archive_identifier</em><code>/</code><em>archive_identifier</em><code>mirr.rdf</code>
+ a file describing the mirroring arrangement of the
+ site, using the ReDIF-mirror template
+<p><code>./</code><em>archive_identifier</em><code>/</code><em>series_identifier</em><code>/</code>
+ a directory wfor papers and metadata for the series that is 
+ identified by
+ <em>series_identifier</em> are stored.
+ All files that that pertain to the series <em>series_identifier</em>
+ must be stored in that directory.  There must be at least one series directory
+ on each server.  Files that  contain
+ ReDIF information are called ReDIF files. Their names 
+ must end in <code>.rdf</code>, but otherwise the structure of the
+ directory is free.  You may put all templates for all papers in 
+ the series in one file or you may put each paper template in a different file,
+ just do as you please.  It is good pratice to start each ReDIF file in the
+ directory with the <em>series_identifier</em>. 
+<p><code>.</code>/<em>archive_identifier</em><code>/inst/</code>
+  a place to store ReDIF files that contain institution templates. 
+  See the <a href="RePEc/ReDIF.html">ReDIF</a> draft for further informaiton
+  about that template.
+<p><code>.</code>/<em>archive_identifier</em><code>/soft/</code>
+ software that is written locally. For example, an archive may
+ wish to write a specific procedure by which its ReDIF-Paper data is 
+ translated into html. 
+<p><code>.</code>/<em>archive_identifier</em><code>/conf/</code>
+  location of configuration files for software. It does not
+  matter whether the software is supplied by the local
+  archive or a  remote
+  archive. 
+<p><code>./remo/</code><em>archive_identifier</em><code>/</code>
+ This is a strong suggestion (in the sense that some software
+ may not work if you to not follow it) 
+ where to put information from a remote archive
+ <em>archive_identifier</em>. A  site does not need to mirror all the files 
+ from a remote archive. It  must mirror the archive templates of the remote
+ archive. It may then select series to mirror, or  only mirror 
+ the <code>rdf</code> files.  
+<p>For any archive, the collection of 
+<code>./</code><em>archive_identifier</em><code>/</code><em>archive_identifier????</em><code>.rdf</code>
+where <em>????</em> is either <code>arch</code>, <code>seri</code>, <code>serv</code> or <code>mirr</code>
+are called its core templates. They are mirrored on the
+core site. 
+<p>Each site may mirror a number of series from any number of archives. 
+If any site mirrors any series for an archive, it may 
+mirror the complete subdirectories of the series or all
+ReDIF files (ending with <code>.rdf</code>) of the series. 
+If an archive does not wish the papers to be mirrored,
+then it will store them out of this hierarchy.
+<p><a name="l5"></a>
+<h3>3.2: Providing software</h3><a name="soft"></a>
+<p>Archives may provide software for other archives to use. Services are
+encouraged to provide software that allows the construction of
+identical services on many sites.
+<p>For the sake of simplicity of exposition, let us assume that there is
+an archive "giv" that gives (provides) a software package called
+"bambi", and an archive "tak" that takes (uses) the software locally.
+A software packages is a set of software files that together perform
+a particular function. 
+All software is written in <a href="http://www.perl.com/perl/">perl</a>. All
+scripts assume that perl lives in <code>/usr/bin/perl</code> to allow direct
+use. Thus all scripts starts with <code>#!/usr/bin/perl</code>. 
+<p>Software is provided in the <code>./giv/soft</code> directory. Software written
+at the local site will be found in the <code>./giv/soft/RePEc</code> directory,
+all other software is placed in other subdirectories of
+<code>./giv/soft</code>. For example, the ALL archive provides mirror and
+webcopy, two sets of scripts to mirror ftp and http based archives
+respectively. These scripts are used in scripts provided by ALL.
+<p>The file <code>./giv/soft/RePEc/bambi</code> is the main executable. Names of
+other files start with 'bambi' (e.g. <code>bambi.README</code>) or be placed in
+directory <code>./giv/soft/RePEc/bambi/</code> in order to distinguish which
+file belongs to which packages. Scripts used by various programmes
+are called
+<code>./giv/soft/RePEc/soft/giv.*</code> or are placed 
+<code>./giv/soft/RePEc/soft/giv/</code>.
+<p>All scripts at start perform some general procedures to ensure their
+portability (between different sites and environments) and general
+rules of usage.
+<p>They first check for command-line options <code>--rdir </code><em>directory_name
+<code></code></em> and
+<code>--conf </code><em>filename</em><code></code>)
+to allow user to set her or his RePEc-archive
+directory (which ends with archive identifier) and chose a programm
+configuration file name (instead of default) respectively. The latter
+is not necessary if programme does not use a configuration file.
+<p>If <code>--rdir</code> option is not given, then programme checks environment
+variable <code>REPECDIR</code> for RePEc-archive home directory. If it is not
+set, then it assumes, that current directory is RePEc directory of the
+local archive.  Keep in mind that some Perl functions in your script
+may require absolute path of RePEc directory, thus a simple <code>./</code>
+may  be too simple.
+<p>If RePEc-archive home directory was received through a command-line
+option or as environment variable, it should be checked whether such a
+directory exists at all, and whether it ends with a three letter
+sequence, which is supposed to be the local archive identifier. Under
+Unix scripts should be aware of the optional trailing backslash.
+<p>In <a href="ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/soft/RePEc/guilp_use_perl.eg">ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/soft/RePEc/guilp_use_perl.eg</a>
+we show you just an
+example of Perl code to implement this algorithm, which was written by
+<a href="http://gretel.econ.surrey.ac.uk/%7eivan">Ivan Kurmanov</a>. You are
+welcome to adapt it in your programmes. Ivan welcomes comments and
+suggestions.
+<p>Some scripts need to be installed before use by the end user. In that
+case the installation script is <code>./giv/RePEc/bambi.in</code>, again with
+a configuration example <code>./tak/bambi.in.conf</code>. The installation
+script could be run again each time the software has been mirrored or
+each time an service provider wishes to update the version of the
+script in use at the archive. The latter should be a more secure way
+to update scripts.
+<p>
+<p><HR>
+<address>
+<a href=http://gretel.econ.surrey.ac.uk>Thomas Krichel</a>
+&lt<a href=mailto:T.Krichel@surrey.ac.uk>
+T.Krichel@surrey.ac.uk</a>&gt;
+</address> 
+<p></body>
+</html>

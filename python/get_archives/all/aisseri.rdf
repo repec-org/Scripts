@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: a/ Working Papers Series
+Description: The a/ working paper series publishes output from a/simmetrie research in progress, as well as contributions from external scholars, and papers presented at a/simmetrie conferences and workshops. Comments are welcome. Unless otherwise indicated, the views expressed are attributable only to the author(s), not to a/simmetrie nor to any institutions or affiliation.
+Provider-Name: Italian Association for the Study of Economic Asymmetries, Rome (Italy)
+Provider-Homepage: http://www.asimmetrie.org
+Provider-Institution: RePEc:edi:asimmea
+Maintainer-Name: Alberto Bagnai
+Maintainer-Email: info@asimmetrie.org
+Type: ReDIF-Paper
+Handle: RepEc:ais:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: a/ Policy Briefs Series
+Description: The a/ policy brief series publishes short, policy oriented contributions based on a/simmetrie research in progress, as well as on research from external scholars, focusing on the policy implications of economic asymmetries. Comments are welcome. Unless otherwise indicated, the views expressed are attributable only to the author(s), not to a/simmetrie nor to any institutions or affiliation.
+Provider-Name: Italian Association for the Study of Economic Asymmetries, Rome (Italy)
+Provider-Homepage: http://www.asimmetrie.org
+Provider-Institution: RePEc:edi:asimmea
+Maintainer-Name: Alberto Bagnai
+Maintainer-Email: info@asimmetrie.org
+Type: ReDIF-Paper
+Handle: RepEc:ais:pbrief

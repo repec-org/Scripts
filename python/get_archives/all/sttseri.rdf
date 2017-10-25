@@ -1,0 +1,33 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion paper series from the Institute of Economics and Law, University of Stuttgart
+Provider-Name: University of Stuttgart, Institute of Economics and Law
+Provider-Homepage: http://www.ivr.uni-stuttgart.de
+Provider-Institution: RePEc:edi:ivstude
+Maintainer-Name: Institute of Economics and Law, University of Stuttgart
+Maintainer-Email: info@ivr.uni-stuttgart.de
+ISSN: 1613-9666
+Type: ReDIF-Paper
+Handle: RePEc:stt:dpaper
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Schriftenreihe volkswirtschaftliche Forschungsergebnisse
+Provider-Name: Verlag Dr. Kova&#269;
+Provider-Homepage: http://www.verlagdrkovac.de
+Maintainer-Name: Verlag Dr. Kova&#269;
+Maintainer-Email: info@verlagdrkovac.de
+ISSN: 1435-6872
+Type: ReDIF-Book
+Handle: RePEc:stt:sbooks
+
+
+Template-type: ReDIF-Series 1.0
+Name: Netzwirtschaften & Recht
+Provider-Name: Verlag Recht und Wirtschaft 
+Provider-Homepage: http://www.ruw.de/zeitschriften/
+Maintainer-Name: Verlag Recht und Wirtschaft
+Maintainer-Email: verlag@betriebs-berater.de
+ISSN: 1612-9245
+Type: ReDIF-Article
+Handle: RePEc:stt:journl

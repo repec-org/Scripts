@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Suffolk University, Department of Economics
+Provider-Homepage: http://www.suffolk.edu/college/2175.html
+Provider-Institution: RePEc:edi:edsufus
+Maintainer-Name: Frank Conte
+Maintainer-Email: fconte@beaconhill.org
+Type: ReDIF-Paper
+Handle: RePEc:suf:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Suffolk University, The Beacon Hill Institute
+Provider-Homepage: http://www.beaconhill.org
+Provider-Institution: RePEc:edi:bhsufus
+Maintainer-Name: Frank Conte
+Maintainer-Email: fconte@beaconhill.org
+Type: ReDIF-Paper
+Handle: RePEc:suf:bpaper
+
+

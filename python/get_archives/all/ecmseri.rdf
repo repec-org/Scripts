@@ -1,0 +1,114 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Econometrica
+Description: Papers published in Econometrica
+Maintainer-Name: Wiley-Blackwell Digital Licensing
+Maintainer-Email: JDL@wiley.com
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Daron Acemoglu
+Editor-Email: econometrica@econometricsociety.org
+Provider-Name: Econometric Society
+Provider-Homepage:  http://www.econometricsociety.org/
+Provider-Email: sashi@econometricsociety.org
+Provider-Institution: RePEc:edi:essssea
+Order-Homepage: https://www.econometricsociety.org/publications/econometrica/access/ordering-back-issues 
+Order-Email: sashi@econometricsociety.org
+Price: individual rates available on request
+Followup: RePEc:wly:emetrp
+Handle: RePEc:ecm:emetrp
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Quantitative Economics
+Description: Papers published in Quantitative Economics
+Maintainer-Name: Wiley-Blackwell Digital Licensing
+Maintainer-Email: JDL@wiley.com
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Econometric Society
+Provider-Homepage:  http://www.qeconomics.org
+Provider-Email: qe@qeconomics.org
+Provider-Institution: RePEc:edi:essssea
+Order-Homepage: https://www.econometricsociety.org/membership 
+Order-Email: sashi@econometricsociety.org
+Price: individual rates available on request
+Followup: RePEc:wly:quante
+Handle: RePEc:ecm:quante
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Econometric Society World Congress 2000 Contributed Papers
+Description: Downloadable papers presented at the 2000 World Congress, Seattle
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Econometric Society
+Provider-Homepage: http://www.econometricsociety.org/pastmeetings.asp
+Provider-Email: es@www.econometricsociety.org
+Provider-Institution: RePEc:edi:essssea
+Handle: RePEc:ecm:wc2000
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Econometric Society 2004 North American Summer Meetings
+Description: Papers presented at the 2004 North American Summer Meetings of
+ the Econometric Society, Providence, RI
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Econometric Society
+Provider-Homepage: http://www.econometricsociety.org/pastmeetings.asp
+Provider-Email: es@www.econometricsociety.org
+Provider-Institution: RePEc:edi:essssea
+Handle: RePEc:ecm:nasm04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Econometric Society 2004 North American Winter Meetings
+Description: Papers presented at the 2004 North American Winter Meetings of
+ the Econometric Society, San Diego
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Econometric Society
+Provider-Homepage: http://www.econometricsociety.org/pastmeetings.asp
+Provider-Email: es@www.econometricsociety.org
+Provider-Institution: RePEc:edi:essssea
+Handle: RePEc:ecm:nawm04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Econometric Society 2004 Latin American Meetings
+Description: Papers presented at the 2004 Latin American Meetings of
+ the Econometric Society, Santiago, Chile
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Econometric Society
+Provider-Homepage: http://www.econometricsociety.org/pastmeetings.asp
+Provider-Email: es@www.econometricsociety.org
+Provider-Institution: RePEc:edi:essssea
+Handle: RePEc:ecm:latm04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Econometric Society 2004 Australasian Meetings
+Description: Papers presented at the 2004 Australasian Meetings of
+ the Econometric Society, Santiago, Chile
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Econometric Society
+Provider-Homepage: http://www.econometricsociety.org/pastmeetings.asp
+Provider-Email: es@www.econometricsociety.org
+Provider-Institution: RePEc:edi:essssea
+Handle: RePEc:ecm:ausm04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Econometric Society 2004 Far Eastern Meetings
+Description: Papers presented at the 2004 Far Eastern Meetings of
+ the Econometric Society, Seoul, Korea
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Econometric Society
+Provider-Homepage: http://www.econometricsociety.org/pastmeetings.asp
+Provider-Email: es@www.econometricsociety.org
+Provider-Institution: RePEc:edi:essssea
+Handle: RePEc:ecm:feam04

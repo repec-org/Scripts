@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: UPP Monograph Series
+Provider-Name: University of Primorska Press
+Provider-Homepage: http://www.hippocampus.si
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@gmail.com
+Type: ReDIF-Book
+Handle: RePEc:prp:uppmos
+Order-Homepage: http://www.hippocampus.si
+
+Template-type: ReDIF-Series 1.0
+Name: Academica Turistica - Tourism and Innovation Journal
+Provider-Name: University of Primorska, Faculty of Tourism Studies - Turistica,
+Provider-Homepage: http://academica.turistica.si
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:prp:jattij
+Editor-Name: Gorazd Sedmak
+Editor-Email: academica@turistica.si
+ISSN: 2335-4194

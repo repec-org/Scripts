@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: EconWorld Working Papers
+Provider-Name: WERI-World Economic Research Institute
+Provider-Homepage: http://www.econworld.org
+Provider-Institution: RePEc:edi:ewanatr
+Maintainer-Name: Unal Tongur
+Maintainer-Email: unaltongur@akdeniz.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:ana:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: World Journal of Applied Economics
+Description: This is the official journal of the WERI-World Economic Research Institute
+Provider-Name: WERI-World Economic Research Institute
+Provider-Institution: RePEc:edi:ewanatr
+Maintainer-Name: Unal Tongur
+Maintainer-Email: unaltongur@akdeniz.edu.tr
+Editor-Name: Hasan Dudu
+Editor-Email: hasan@dudu.gen.tr
+Type: ReDIF-Article
+Handle: RePEc:ana:journl

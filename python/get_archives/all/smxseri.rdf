@@ -1,0 +1,24 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Paper Series Sobre México
+Provider-Name: Sobre México. Temas en economía
+Provider-Homepage: http://www.sobremexico.mx
+Maintainer-Name: Florian Chávez-Juárez
+Maintainer-Email: admin@sobremexico.mx
+Editor-Name: Florian Chávez-Juárez
+Editor-Email: wp_editor@sobremexico.mx
+Type: ReDIF-Paper
+Handle: RePEc:smx:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Sobre México. Revista de Economía
+Description: This is the official journal of Sobre México. We publish research from and about Mexico.
+Provider-Name: Sobre México. Temas en economía
+Provider-Homepage: http://www.sobremexico.mx
+Maintainer-Name: Florian Chávez-Juárez
+Maintainer-Email: admin@sobremexico.mx
+Editor-Name: Isidro Soloaga
+Editor-Name: Alejandro Rodríguez Arana
+Editor-Email: revista@sobremexico.mx
+Type: ReDIF-Article
+Handle: RePEc:smx:journl
+

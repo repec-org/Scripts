@@ -1,0 +1,361 @@
+Template-type: ReDIF-Series 1.0
+Name: IFPRI discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:ifprid
+
+Template-type: ReDIF-Series 1.0
+Name: Research reports
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:resrep
+
+Template-type: ReDIF-Series 1.0
+Name: IFPRI books
+Type: ReDIF-Book
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:ifprib
+
+Template-type: ReDIF-Series 1.0
+Name: IFPRI book chapters
+Type: ReDIF-Chapter
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:ifpric
+
+Template-type: ReDIF-Series 1.0
+Name: Synopses
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:synops
+
+Template-type: ReDIF-Series 1.0
+Name: Food policy reports
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:fprepo
+
+Template-type: ReDIF-Series 1.0
+Name: Food security in practice technical guide series
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:fsprac
+
+Template-type: ReDIF-Series 1.0
+Name: 2020 vision discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:2020dp
+
+Template-type: ReDIF-Series 1.0
+Name: 2020 vision focus
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:2020fo
+
+Template-type: ReDIF-Series 1.0
+Name: 2020 vision briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:2020br
+
+Template-type: ReDIF-Series 1.0
+Name: 2020 Conference papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:2020cp
+
+Template-type: ReDIF-Series 1.0
+Name: 2020 Conference briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:2020cb
+
+Template-type: ReDIF-Series 1.0
+Name: Annual reports
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:annrep
+
+Template-type: ReDIF-Series 1.0
+Name: Annual report essays
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:anress
+
+Template-type: ReDIF-Series 1.0
+Name: FCND briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:fcndbr
+
+Template-type: ReDIF-Series 1.0
+Name: MP05 briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:mp05br
+
+Template-type: ReDIF-Series 1.0
+Name: MP17 briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:mp17br
+
+Template-type: ReDIF-Series 1.0
+Name: Issue briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:issbrf
+
+Template-type: ReDIF-Series 1.0
+Name: Policy briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:polbrf
+
+Template-type: ReDIF-Series 1.0
+Name: Research briefs
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:resbrf
+
+Template-type: ReDIF-Series 1.0
+Name: Food policy reviews
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:fprevi
+
+Template-type: ReDIF-Series 1.0
+Name: Food policy statements
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:fpstat
+
+Template-type: ReDIF-Series 1.0
+Name: Impact assessments
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:Impass
+
+Template-type: ReDIF-Series 1.0
+Name: IFPRI working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:ifprwp
+
+Template-type: ReDIF-Series 1.0
+Name: CAPRi working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:worpps
+
+Template-type: ReDIF-Series 1.0
+Name: HarvestPlus Working Papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:harvwp
+
+Template-type: ReDIF-Series 1.0
+Name: ESSP working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:esspwp
+
+Template-type: ReDIF-Series 1.0
+Name: ESSP discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:esspdp
+
+Template-type: ReDIF-Series 1.0
+Name: GSSP working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:gsspwp
+
+Template-type: ReDIF-Series 1.0
+Name: NSSP working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:nsspwp
+
+Template-type: ReDIF-Series 1.0
+Name: PSSP working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:psspwp
+
+Template-type: ReDIF-Series 1.0
+Name: MSSP working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:msspwp
+
+Template-type: ReDIF-Series 1.0
+Name: MaSSP working papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:masspp
+
+Template-type: ReDIF-Series 1.0
+Name: NSSP policy note
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:nssppn
+
+Template-type: ReDIF-Series 1.0
+Name: GSSP discussion note
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:gsspdn
+
+Template-type: ReDIF-Series 1.0
+Name: ESSP research note
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:essprn
+
+Template-type: ReDIF-Series 1.0
+Name: MaSSP policy note
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:masspn
+
+Template-type: ReDIF-Series 1.0
+Name: USSP policy note
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:ussppn
+
+Template-type: ReDIF-Series 1.0
+Name: Supplementary material
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:supple
+
+Template-type: ReDIF-Series 1.0
+Name: FCND discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:fcnddp
+
+Template-type: ReDIF-Series 1.0
+Name: EPTD discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:eptddp
+
+Template-type: ReDIF-Series 1.0
+Name: TMD discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:tmddps
+
+Template-type: ReDIF-Series 1.0
+Name: MTID discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:mtiddp
+
+Template-type: ReDIF-Series 1.0
+Name: MSSD discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:mssddp
+
+Template-type: ReDIF-Series 1.0
+Name: DSGD discussion papers
+Provider-Name: International Food Policy Research Institute (IFPRI)
+Provider-Homepage: http://www.ifpri.org/
+Provider-Institution: RePEc:edi:ifprius
+Maintainer-Email: ifpri-library@cgiar.org
+Handle: RePEc:fpr:dsgddp

@@ -1,0 +1,84 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: University of Copenhagen. Department of Economics 
+Provider-Homepage: http://www.econ.ku.dk
+Provider-Postal: Øster Farimagsgade 5, Building 26, DK-1353 Copenhagen K., Denmark
+Provider-Fax: +45 35 32 30 00
+Provider-Institution: RePEc:edi:okokudk
+Maintainer-Name: Thomas Hoffmann
+Maintainer-Email: thho@kb.dk
+Editor-Name: Carl-Johan Dalsgaard
+Editor-Email: Carl.Johan.Dalgaard@econ.ku.dk
+Handle: RePEc:kud:kuiedp
+
+Template-type: ReDIF-Series 1.0
+Name: Blå Memoserie
+Description: Primarily papers in Danish
+Type: ReDIF-Paper
+Provider-Name: University of Copenhagen. Department of Economics
+Provider-Homepage: http://www.econ.ku.dk
+Provider-Postal: Øster Farimagsgade 5, Building 26, DK-1353 Copenhagen K., Denmark
+Provider-Fax: +45 35 32 30 00
+Provider-Institution: RePEc:edi:okokudk
+Maintainer-Name: Thomas Hoffmann
+Maintainer-Email: thho@kb.dk
+Editor-Name: Mich Tvede
+Editor-Email: Mich.Tvede@econ.ku.dk
+Handle: RePEc:kud:kuieme
+
+Template-type: ReDIF-Series 1.0
+Name: CIE Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: University of Copenhagen. Department of Economics. Centre for Industrial Economics
+Provider-Homepage: http://www.econ.ku.dk/cie/
+Provider-Postal: Øster Farimagsgade 5, Building 26, DK-1353 Copenhagen K., Denmark
+Provider-Fax: +45 35 32 30 00
+Provider-Institution: RePEc:edi:ciekudk
+Maintainer-Name: Thomas Hoffmann
+Maintainer-Email: thho@kb.dk
+Editor-Name: Christian Schultz
+Editor-Email: Christian.Schultz@econ.ku.dk
+Handle: RePEc:kud:kuieci
+
+Template-type: ReDIF-Series 1.0
+Name: EPRU Working Paper Series
+Type: ReDIF-Paper
+Provider-Name: Economic Policy Research Unit (EPRU), University of Copenhagen. Department of Economics
+Provider-Homepage: http://www.econ.ku.dk/epru/
+Provider-Postal: Øster Farimagsgade 5, Building 26, DK-1353 Copenhagen K., Denmark
+Provider-Fax: +45 35 32 30 00
+Provider-Institution: RePEc:edi:epcbsdk
+Maintainer-Name: Thomas Hoffmann
+Maintainer-Email: thho@kb.dk
+Editor-Name: Tine Ceccardi
+Editor-Email: Tine.ceccardi@econ.ku.dk
+Handle: RePEc:kud:epruwp
+
+Template-type: ReDIF-Series 1.0
+Name: CAM Working Papers
+Type: ReDIF-Paper
+Provider-Name: University of Copenhagen. Department of Economics. Centre for Applied Microeconometrics 
+Provider-Homepage: http://www.econ.ku.dk/CAM/
+Provider-Postal: Øster Farimagsgade 5, Building 26, DK-1353 Copenhagen K., Denmark
+Provider-Fax: +45 35 32 30 00
+Provider-Institution: RePEc:edi:camkudk
+Maintainer-Name: Thomas Hoffmann
+Maintainer-Email: thho@kb.dk
+Editor-Name: Søren Leth-Petersen
+Editor-Email: soren.leth-petersen@econ.ku.dk
+Handle: RePEc:kud:kuieca
+
+Template-type: ReDIF-Series 1.0
+Name: FRU Working Papers
+Type: ReDIF-Paper
+Provider-Name: University of Copenhagen. Department of Economics. Finance Research Unit
+Provider-Homepage: http://www.econ.ku.dk/FRU/
+Provider-Postal: Øster Farimagsgade 5, Building 26, DK-1353 Copenhagen K., Denmark
+Provider-Fax: +45 35 32 30 00
+Provider-Institution: RePEc:edi:okokudk
+Maintainer-Name: Thomas Hoffmann
+Maintainer-Email: thho@kb.dk
+Editor-Name: Peter Norman Sørensen
+Editor-Email: peter.norman.sorensen@econ.ku.dk
+Handle: RePEc:kud:kuiefr

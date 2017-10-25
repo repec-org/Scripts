@@ -1,0 +1,11 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:rpc
+Name: RePEc script archive
+Maintainer-Name: The RePEc Team
+Maintainer-Email: repec@repec.org
+Description: This archive houses the scripts used by RePEc as well as
+ those that can be useful to others dealing with RePEc data. It also 
+ contains various documents about RePEc.
+URL: ftp://ftp.repec.org/RePEc/rpc/
+Homepage: http://repec.org/
+

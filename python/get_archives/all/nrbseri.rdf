@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: NRB Economic Review
+Provider-Name: Nepal Rastra Bank, Research Department 
+Provider-Homepage: http://www.nrb.org.np/ecorev/
+Provider-Institution: RePEc:edi:nrbgvnp
+Maintainer-Name: Dr. Bishnu Prasad Gautam
+Maintainer-Email: review@nrb.org.np
+Type: ReDIF-Article
+Handle: RePEc:nrb:journl
+
+Template-type: ReDIF-Series 1.0
+Name: NRB Working Paper
+Provider-Name: Nepal Rastra Bank, Research Department 
+Provider-Homepage: http://www.nrb.org.np/ecorev/
+Provider-Institution: RePEc:edi:nrbgvnp
+Maintainer-Name: Dr Bishnu Prasad Gautam
+Maintainer-Email: review@nrb.org.np
+Type: ReDIF-Paper
+Handle: RePEc:nrb:wpaper
+
+

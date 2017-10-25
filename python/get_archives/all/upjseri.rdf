@@ -1,0 +1,42 @@
+Template-type: ReDIF-Series 1.0
+Name: Upjohn Working Papers and Journal Articles
+Description: This is a series of working papers on labor-related issues as well as journal articles published by Upjohn Institute staff.
+Classification-JEL: J
+Restriction: All working papers are copyrighted.
+Provider-Name: W.E. Upjohn Institute for Employment Research
+Provider-Homepage: http://www.upjohn.org
+Provider-Phone: 1-269-343-5541
+Provider-Postal: 300 S. Westnedge Ave. Kalamazoo, MI 49007 USA
+Provider-Fax: 1-269-343-7310
+Provider-Institution: RePEc:edi:upjohus
+Maintainer-Email: wyrwa@upjohn.org
+Handle: RePEc:upj:weupjo
+
+Template-type: ReDIF-Series 1.0
+Type: REDiF-Book
+Name: Books from Upjohn Press
+Description: These are books on labor-related issues.
+Classification-JEL: J
+Restriction: All books are copyrighted.
+Provider-Name: W.E. Upjohn Institute for Employment Research
+Provider-Homepage: http://www.upjohn.org
+Provider-Phone: 1-269-343-5541
+Provider-Postal: 300 S. Westnedge Ave. Kalamazoo, MI 49007 USA
+Provider-Fax: 1-269-343-7310
+Provider-Institution: RePEc:edi:upjohus
+Maintainer-Email: wyrwa@upjohn.org
+Handle: RePEc:upj:ubooks
+
+Template-type: ReDIF-Series 1.0
+Type: REDiF-Chapter
+Name: Book chapters authored by Upjohn Institute researchers
+Description: These are book chapters on employment-related issues.
+Classification-JEL: J
+Restriction: All book chapters are copyrighted.
+Provider-Name: W.E. Upjohn Institute for Employment Research
+Provider-Homepage: http://www.upjohn.org
+Provider-Phone: 1-269-343-5541
+Provider-Postal: 300 S. Westnedge Ave. Kalamazoo, MI 49007 USA
+Provider-Fax: 1-269-343-7310
+Maintainer-Email: wyrwa@upjohn.org
+Handle: RePEc:upj:uchaps

@@ -1,0 +1,283 @@
+Template-type: ReDIF-Series 1.0
+Name: Conference Paper
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:cpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Portuguese
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:wpport
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Spanish
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:wpespa 
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers French
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:wpfran 
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:opager
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager Portuguese
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:opport
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager Spanish
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:opespa
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager French
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:opfran
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager Arabic
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:oparab
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager Chinese
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:opchin
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager Turkish 
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:opturc
+
+Template-type: ReDIF-Series 1.0
+Name: One Pager Italian 
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:opital
+
+Template-type: ReDIF-Series 1.0
+Name: Country Study
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:cstudy
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Brief
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pbrief
+
+Template-type: ReDIF-Series 1.0
+Name: Poverty In Focus
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:ifocus
+
+Template-type: ReDIF-Series 1.0
+Name: Poverty In Focus (Portuguese)
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:ifport
+
+Template-type: ReDIF-Series 1.0
+Name: Poverty In Focus (Spanish)
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:ifespa
+
+Template-type: ReDIF-Series 1.0
+Name: Publications
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pubipc
+
+Template-type: ReDIF-Series 1.0
+Name: Publications Portuguese
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pubpor
+
+Template-type: ReDIF-Series 1.0
+Name: Publications Spanish
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pubfra
+
+Template-type: ReDIF-Series 1.0
+Name: Publications Spanish
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pubesp
+
+Template-type: ReDIF-Series 1.0
+Name: Publications Arab
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pubara
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Brief
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pbespa
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Brief
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pbport
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Brief (Bahasa)
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pbbaha
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Brief (Arab)
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pbarab
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Brief (French)
+Provider-Name: International Policy Centre for Inclusive Growth
+Provider-Homepage: http://www.ipc-undp.org
+Provider-Institution: RePEc:edi:ipcunbr
+Maintainer-Name: Andre Lyra
+Maintainer-Email: andre.lyra@ipc-undp.org
+Type: ReDIF-Paper
+Handle: RePEc:ipc:pbfran
+
+
+
+

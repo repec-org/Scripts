@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: BEA Papers
+Provider-Name: Bureau of Economic Analysis
+Provider-Homepage: https://www.bea.gov/research/index.htm
+Provider-Institution: RePEc:edi:beagvus
+Maintainer-Name: Bryn Whitmire
+Maintainer-Email: Bryn.Whitmire@bea.gov
+Type: ReDIF-Paper
+Handle: RePEc:bea:papers
+
+Template-type: ReDIF-Series 1.0
+Name: BEA Working Papers
+Provider-Name: Bureau of Economic Analysis
+Provider-Homepage: https://www.bea.gov/research/index.htm
+Provider-Institution: RePEc:edi:beagvus
+Maintainer-Name: Bryn Whitmire
+Maintainer-Email: Bryn.Whitmire@bea.gov
+Type: ReDIF-Paper
+Handle: RePEc:bea:wpaper
+
+

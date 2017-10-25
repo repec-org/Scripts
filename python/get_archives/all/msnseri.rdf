@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Series 1.0
+Name: Revista de Gestión Empresarial y Sustentabilidad
+Provider-Name: Universidad Michoacana de San Nicolás de Hidalgo, Facultad de Contaduría y Ciencias Administrativas
+Provider-Homepage: http://rges.umich.mx/
+Provider-Institution: RePEc:edi:famicmx
+Editor-Name: Pedro Chávez Lugo
+Editor-Email: rges@umich.mx
+Maintainer-Email: rges@umich.mx
+Type: ReDIF-Article
+Handle: RePEc:msn:rgjrnl
+ISSN: 2448-6043
+
+Template-Type: ReDIF-Series 1.0
+Name: Revista de la Facultad de Contaduría y Ciencias Administrativas
+Provider-Name: Universidad Michoacana de San Nicolás de Hidalgo, Facultad de Contaduría y Ciencias Administrativas
+Provider-Homepage: http://rfcca.umich.mx/
+Provider-Institution: RePEc:edi:famicmx
+Editor-Name: Marco Alberto Valenzo Jiménez
+Editor-Email: rfcca@umich.mx
+Maintainer-Email: rges@umich.mx
+Type: ReDIF-Article
+Handle: RePEc:msn:rfjrnl
+ISSN: 2448-6051
+

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Agricultural Economics and Rural Development
+Provider-Name: Institute of Agricultural Economics
+Provider-Homepage: http://www.eadr.ro/
+Provider-Institution: RePEc:edi:iaacaro
+Maintainer-Name: Corina Saman
+Maintainer-Email: csaman@ipe.ro
+Type: ReDIF-Article
+Handle: RePEc:iag:reviea
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers of the Institute of Agricultural Economics
+Provider-Name: Institute of Agricultural Economics
+Provider-Homepage: http://www.eadr.ro/
+Provider-Institution: RePEc:edi:iaacaro
+Maintainer-Name: Daniel Mateescu
+Maintainer-Email: dan@ipe.ro
+Type: ReDIF-Paper
+Handle: RePEc:iag:wpsiea

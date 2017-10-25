@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Korean Economic Review
+Description: This is the official journal of the Korean Economic Association
+Provider-Name: Korean Economic Association
+Provider-Institution: RePEc:edi:keaaaea
+Maintainer-Name: KEA
+Maintainer-Email: kea1952@kea.ne.kr
+Editor-Name:  Kyung Hwan Baik 
+Editor-Email: kea1952@kea.ne.kr
+Type: ReDIF-Article
+Handle: repec:kea:keappr

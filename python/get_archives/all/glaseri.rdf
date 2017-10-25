@@ -1,0 +1,19 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Business School - Economics, University of Glasgow
+Provider-Homepage: http://www.gla.ac.uk/schools/business/research/
+Provider-Institution: RePEc:edi:dpglauk
+Maintainer-Name: Jeanette Findlay
+Maintainer-Email: Jeanette.Findlay@glasgow.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:gla:glaewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Business School - Economics, University of Glasgow
+Provider-Homepage: http://www.gla.ac.uk/schools/business/research/
+Provider-Institution: RePEc:edi:dpglauk
+Maintainer-Name: Jeanette Findlay
+Maintainer-Email: Jeanette.Findlay@glasgow.ac.uk
+Type: ReDIF-Book 
+Handle: RePEc:gla:glabks

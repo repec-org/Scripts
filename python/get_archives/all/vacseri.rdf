@@ -1,0 +1,36 @@
+Template-type: ReDIF-Series 1.0
+Name: Reports
+Description: Research reports published by the Center for Economic and Policy Studies.
+Type: ReDIF-Paper
+Provider-Name: Center for Economic and Policy Studies
+Provider-Homepage: http://www.coopercenter.org/econ
+Provider-Phone: +14349835376
+Provider-Postal: 400206 Charlottesville  VA 22904
+Provider-Fax: +14349825524
+Provider-Institution: RePEc:edi:ceuvaus
+Maintainer-Name: William M. Shobe
+Maintainer-Email: shobe@virginia.edu
+Editor-Name: William M. Shobe
+Editor-Email: shobe@virginia.edu
+Editor-Workplace-Name: Center for Economic and Policy Studies, U.Va.
+Editor-Workplace-Homepage: http://www.coopercenter.org/econ/staff/william-m-shobe
+Handle: RePEc:vac:report
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: All working papers
+Type: ReDIF-Paper
+Provider-Name: Center for Economic and Policy Studies
+Provider-Homepage: http://www.coopercenter.org/econ
+Provider-Phone: 14349825376
+Provider-Postal: P.O. Box 400206
+Provider-Fax: 14349825524
+Provider-Institution: repec:edi:ceuvaus
+Maintainer-Name: William M. Shobe
+Maintainer-Email: shobe@virginia.edu
+Editor-Name: William M. Shobe
+Editor-Email: shobe@virginia.edu
+Editor-Workplace-Name: Center for Economic and Policy Studies
+Editor-Workplace-Homepage: http://www.coopercenter.org/econ/staff/william-m-shobe
+Handle: RePEc:vac:wpaper
+

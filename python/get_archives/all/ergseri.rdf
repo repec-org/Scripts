@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Economic Research Forum
+Provider-Homepage: http://www.erf.org.eg
+Provider-Institution: RePEc:edi:erfaceg
+Maintainer-Name: Namees Nabeel
+Maintainer-Email: nnabil@erf.org.eg
+Type: ReDIF-Paper
+Handle: RePEc:erg:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Middle East Development Journal (MEDJ)
+Description: Middle East Development Journal published its first issue in June 2009. It aims to strengthen the research community in the Middle East and North Africa and deepen understanding of development in the region.
+Provider-Name: Economic Research Forum and Taylor and Francis
+Provider-Institution: RePEc:edi:erfaceg
+Maintainer-Name: Namees Nabeel
+Maintainer-Email: nnabil@erf.org.eg
+Editor-Name: Lyn Squire
+Editor-Email: lsquire@erf.org.eg
+Type: ReDIF-Article
+Handle: RePEc:erg:journl

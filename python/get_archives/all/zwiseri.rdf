@@ -1,0 +1,55 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Connecticut, Department of Agricultural and Resource Economics, Charles J. Zwick Center for Food and Resource Policy
+Provider-Homepage: http://www.zwickcenter.uconn.edu
+Provider-Institution: RePEc:edi:dauctus
+Maintainer-Email: ZwickCenter@uconn.edu
+Type: ReDIF-Paper
+Handle: RePEc:zwi:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Connecticut, Department of Agricultural and Resource Economics, Charles J. Zwick Center for Food and Resource Policy
+Provider-Homepage: http://www.zwickcenter.uconn.edu
+Provider-Institution: RePEc:edi:fmuctus
+Maintainer-Email: ZwickCenter@uconn.edu
+Type: ReDIF-Paper
+Handle: RePEc:zwi:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Food Marketing Policy Center Research Reports
+Provider-Name: University of Connecticut, Department of Agricultural and Resource Economics, Charles J. Zwick Center for Food and Resource Policy
+Provider-Homepage: http://www.zwickcenter.uconn.edu
+Provider-Institution: RePEc:edi:dauctus
+Maintainer-Email: ZwickCenter@uconn.edu
+Type: ReDIF-Paper
+Handle: RePEc:zwi:fpcrep
+
+Template-type: ReDIF-Series 1.0
+Name: Outreach Reports
+Provider-Name: University of Connecticut, Department of Agricultural and Resource Economics, Charles J. Zwick Center for Food and Resource Policy
+Provider-Homepage: http://www.zwickcenter.uconn.edu
+Provider-Institution: RePEc:edi:dauctus
+Maintainer-Email: ZwickCenter@uconn.edu
+Type: ReDIF-Paper
+Handle: RePEc:zwi:outrep
+
+
+Template-type: ReDIF-Series 1.0
+Name: Zwick Center Research Reports
+Provider-Name: University of Connecticut, Department of Agricultural and Resource Economics, Charles J. Zwick Center for Food and Resource Policy
+Provider-Homepage: http://www.zwickcenter.uconn.edu
+Provider-Institution: RePEc:edi:dauctus
+Maintainer-Email: ZwickCenter@uconn.edu
+Type: ReDIF-Paper
+Handle: RePEc:zwi:uconnr
+
+
+Template-type: ReDIF-Series 1.0
+Name: Issue Papers
+Provider-Name: University of Connecticut, Department of Agricultural and Resource Economics, Charles J. Zwick Center for Food and Resource Policy
+Provider-Homepage: http://www.zwickcenter.uconn.edu
+Provider-Institution: RePEc:edi:dauctus
+Maintainer-Email: ZwickCenter@uconn.edu
+Type: ReDIF-Paper
+Handle: RePEc:zwi:ipaper

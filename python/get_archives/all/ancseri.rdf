@@ -1,0 +1,42 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Universita' Politecnica delle Marche (I), Dipartimento di Scienze Economiche e Sociali
+Provider-Homepage: http://www.dises.univpm.it/
+Provider-Institution: RePEc:edi:deancit
+Maintainer-Name: Maurizio Mariotti
+Maintainer-Email: maurizio.mariotti@univpm.it
+Type: ReDIF-Paper
+Handle: RePEc:anc:wpaper
+ISSN: 2279-9575
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers (Special Serie)
+Provider-Name: Universita' Politecnica delle Marche (I), Dipartimento di Scienze Economiche e Sociali
+Provider-Homepage: http://www.dises.univpm.it/
+Provider-Institution: RePEc:edi:deancit
+Maintainer-Name: Maurizio Mariotti
+Maintainer-Email: maurizio.mariotti@univpm.it
+Type: ReDIF-Paper
+Handle: RePEc:anc:wpspec
+
+Template-type: ReDIF-Series 1.0
+Name: Mo.Fi.R. Working Papers
+Provider-Name: Money and Finance Research group (Mo.Fi.R.) - Univ. Politecnica Marche - Dept. Economic and Social Sciences
+Provider-Homepage: http://sites.google.com/site/mofirunivpm/
+Provider-Institution: RePEc:edi:mfancit
+Maintainer-Name: Maurizio Mariotti
+Maintainer-Email: maurizio.mariotti@univpm.it
+Type: ReDIF-Paper
+Handle: RePEc:anc:wmofir
+
+Template-type: ReDIF-Series 1.0
+Name: gretl working papers
+Provider-Name: Universita' Politecnica delle Marche (I), Dipartimento di Scienze Economiche e Sociali
+Provider-Homepage: http://www.dises.univpm.it/
+Provider-Institution: RePEc:edi:deancit
+Maintainer-Name: Maurizio Mariotti
+Maintainer-Email: maurizio.mariotti@univpm.it
+Type: ReDIF-Paper
+Handle: RePEc:anc:wgretl
+
+

@@ -1,0 +1,68 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: HELLENIC ASSOCIATION OF REGIONAL SCIENTISTS - C.A.L
+Provider-Homepage: http://www.rsijournal.eu
+Maintainer-Name: Dimitrios K. Kouzas
+Maintainer-Email: dkouzas@rsijournal.eu
+Type: ReDIF-Paper
+Handle: RePEc:hrs:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Regional Science Inquiry
+Description: This is the journal of the Hellenic Association of Regional Scientists
+Provider-Name: Hellenic Association of Regional Scientists
+Maintainer-Name: Dimitrios K. Kouzas
+Maintainer-Email: dkouzas@rsijournal.eu
+Editor-Name: Dr Christos Ap. Ladias 
+Editor-Email: ladias@rsijournal.eu
+Type: ReDIF-Article
+Handle: RePEc:hrs:journl
+ISSN: 1791-7735
+
+Template-type: ReDIF-Series 1.0
+Name: Zeitschrift für die Regionale Wissenschaft
+Description: This is the German Edition Journal of the Hellenic Association of Regional Scientists
+Provider-Name: Hellenic Association of Regional Scientists
+Maintainer-Name: Dimitrios K. Kouzas
+Maintainer-Email: dkouzas@rsijournal.eu
+Editor-Name: Dr Christos Ap. Ladias 
+Editor-Email: ladias@rsijournal.eu
+Type: ReDIF-Article
+Handle: RePEc:hrs:jrnzrw
+ISSN: 1792-8087
+
+Template-type: ReDIF-Series 1.0
+Name: Investigación en Ciencia Regional
+Description: This is the Spanish Edition Journal of the Hellenic Association of Regional Scientists
+Provider-Name: Hellenic Association of Regional Scientists
+Maintainer-Name: Dimitrios K. Kouzas
+Maintainer-Email: dkouzas@rsijournal.eu
+Editor-Name: Dr Christos Ap. Ladias 
+Editor-Email: ladias@rsijournal.eu
+Type: ReDIF-Article
+Handle: RePEc:hrs:jrnicr
+ISSN: 1791-7743
+
+Template-type: ReDIF-Series 1.0
+Name: Κείμενα Περιφερειακής Επιστήμης
+Description: Επιστημονικό περιοδικό της Ελληνικής Εταιρείας Περιφερειολόγων Επιστημόνων
+Provider-Name: Ελληνική Εταιρεία Περιφερειολόγων Επιστημόνων
+Maintainer-Name: Dimitrios K. Kouzas
+Maintainer-Email: dkouzas@rsijournal.eu
+Editor-Name: Dr Christos Ap. Ladias 
+Editor-Email: ladias@rsijournal.eu
+Type: ReDIF-Article
+Handle: RePEc:hrs:jrnkpe
+ISSN: 1791-7727
+
+Template-type: ReDIF-Series 1.0
+Name: Géographies, Géopolitiques et Géostratégies Régionales 
+Description: Revue Scientifique de la Société Grecque de Scientifiques Régionaux
+Provider-Name: Société Grecque de Scientifiques Régionaux
+Maintainer-Name: Dimitrios K. Kouzas
+Maintainer-Email: dkouzas@rsijournal.eu
+Editor-Name: Dr Christos Ap. Ladias 
+Editor-Email: ladias@rsijournal.eu
+Type: ReDIF-Article
+Handle: RePEc:hrs:jrnggg
+ISSN: 2241-6927

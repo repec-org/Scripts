@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Brookings Papers on Economic Activity
+Provider-Name: Economic Studies Program, The Brookings Institution
+Provider-Homepage: http://www.brookings.edu/economics.aspx
+Provider-Institution: RePEc:edi:esbrous
+Maintainer-Name: Jennifer Ambrosino
+Maintainer-Email: jambrosino@brookings.edu
+Type: ReDIF-Article
+Handle: RePEc:bin:bpeajo
+
+Template-type: ReDIF-Series 1.0
+Name: India Policy Forum
+Provider-Name: Global Economy and Development Program, The Brookings Institution
+Provider-Homepage: http://www.brookings.edu/global/India-Policy-Forum.aspx
+Provider-Institution: RePEc:edi:brookus
+Maintainer-Name: Jennifer Ambrosino
+Maintainer-Email: jambrosino@brookings.edu
+Type: ReDIF-Article
+Handle: RePEc:bin:indiap
+
+

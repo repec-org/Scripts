@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Working Paper Series, ESAU, ODI
+Provider-Name: Economics and Statistics Analysis Unit (ESAU), Overseas Development Institute
+Provider-Institution: RePEc:edi:odioruk
+Maintainer-Name: Vicky Tongue
+Maintainer-Email: v.tongue@odi.org.uk
+Type: ReDIF-Paper
+Handle: RePEc:ODI:wpaper
+Order-Email: publications@odi.org.uk
+Order-Homepage: http://www.odi.org.uk/esau/publications/index.html
+Order-Postal: Publications, Overseas Development Institute, 111 Westminster Bridge Road, London, SE1 7JD, UK  
+Price: £8.00 (print copies)
+Notification: Email notification of new ESAU publications possible, contact v.tongue@odi.org.uk for inclusion on mailing list. 
+
+Template-type: ReDIF-Series 1.0
+Name: Briefing Papers
+Description: Briefing Paper Series, ESAU, ODI
+Provider-Name: Economics and Statistics Analysis Unit (ESAU), Overseas Development Institute
+Provider-Institution: RePEc:edi:odioruk
+Maintainer-Name: Vicky Tongue
+Maintainer-Email: v.tongue@odi.org.uk
+Type: ReDIF-Paper
+Handle: RePEc:ODI:bpaper
+Order-Email: publications@odi.org.uk
+Order-Homepage: http://www.odi.org.uk/esau/publications/briefing_papers.html
+Order-Postal: Publications, Overseas Development Institute, 111 Westminster Bridge Road, London, SE1 7JD, UK
+Notification: Email notification of new ESAU publications possible, contact v.tongue@odi.org.uk for inclusion on mailing list.
+
+
+

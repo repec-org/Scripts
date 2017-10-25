@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: GWS Discussion Paper Series
+Provider-Name: GWS - Institute of Economic Structures Research
+Provider-Homepage: http://www.gws-os.com/
+Provider-Institution: RePEc:edi:gwsosde
+Maintainer-Name: GWS mbH
+Maintainer-Email: info@gws-os.com
+Type: ReDIF-Paper
+Handle: RePEc:gws:dpaper
+ISSN: 1867-7290 
+Description: Official archive of GWS Discussion Papers
+
+Template-type: ReDIF-Series 1.0
+Name: GWS Research Report Series
+Provider-Name: GWS - Institute of Economic Structures Research
+Provider-Homepage: http://www.gws-os.com/
+Provider-Institution: RePEc:edi:gwsosde
+Maintainer-Name: GWS mbH
+Maintainer-Email: info@gws-os.com
+Type: ReDIF-Paper
+Handle: RePEc:gws:report
+ISSN: 2196-4262
+Description: Official archive of GWS Research Reports

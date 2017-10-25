@@ -1,0 +1,69 @@
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Bruegel
+Provider-Homepage: http://www.bruegel.org
+Provider-Institution: RePEc:edi:bruegbe
+Maintainer-Name: Bruegel
+Maintainer-Email: communication@bruegel.org
+Type: ReDIF-Book
+Handle: RePEc:bre:bebook
+
+Template-type: ReDIF-Series 1.0
+Name: Blueprints
+Provider-Name: Bruegel
+Provider-Homepage: http://www.bruegel.org
+Provider-Institution: RePEc:edi:bruegbe
+Maintainer-Name: Bruegel
+Maintainer-Email: communication@bruegel.org
+Type: ReDIF-Book
+Handle: RePEc:bre:bluprt
+
+Template-type: ReDIF-Series 1.0
+Name: Essays and Lectures
+Provider-Name: Bruegel
+Provider-Homepage: http://www.bruegel.org
+Provider-Institution: RePEc:edi:bruegbe
+Maintainer-Name: Bruegel
+Maintainer-Email: communication@bruegel.org
+Type: ReDIF-Paper
+Handle: RePEc:bre:esslec
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Briefs
+Provider-Name: Bruegel
+Provider-Homepage: http://www.bruegel.org
+Provider-Institution: RePEc:edi:bruegbe
+Maintainer-Name: Bruegel
+Maintainer-Email: communication@bruegel.org
+Type: ReDIF-Paper
+Handle: RePEc:bre:polbrf
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Contributions
+Provider-Name: Bruegel
+Provider-Homepage: http://www.bruegel.org
+Provider-Institution: RePEc:edi:bruegbe
+Maintainer-Name: Bruegel
+Maintainer-Email: communication@bruegel.org
+Type: ReDIF-Paper
+Handle: RePEc:bre:polcon
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Bruegel
+Provider-Homepage: http://www.bruegel.org
+Provider-Institution: RePEc:edi:bruegbe
+Maintainer-Name: Bruegel
+Maintainer-Email: communication@bruegel.org
+Type: ReDIF-Paper
+Handle: RePEc:bre:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: SIMPATIC Working Papers
+Provider-Name: Bruegel
+Provider-Homepage: http://www.bruegel.org
+Provider-Institution: RePEc:edi:bruegbe
+Maintainer-Name: SIMPATIC project
+Maintainer-Email: communication@bruegel.org
+Type: ReDIF-Paper
+Handle: RePEc:bre:simpap

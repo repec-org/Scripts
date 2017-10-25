@@ -1,0 +1,38 @@
+Template-type: ReDIF-Series 1.0
+Name: CDMA Conference Paper Series
+Type: ReDIF-Paper
+Provider-Name: Centre for Dynamic Macroeconomic Analysis
+Provider-Homepage: https://www.st-andrews.ac.uk/cdma
+Provider-Phone: 01334 462436
+Provider-Postal: Department of Economics, University of St. Andrews, Fife KY16  9AL
+Provider-Institution: RePEc:edi:cdstauk
+Maintainer-Name: the School of Economics
+Maintainer-Email: econdor@st-andrews.ac.uk
+Handle: RePEc:san:cdmacp
+
+Template-type: ReDIF-Series 1.0
+Name: CDMA Working Paper Series
+Type: ReDIF-Paper
+Provider-Name: Centre for Dynamic Macroeconomic Analysis
+Provider-Homepage: https://www.st-andrews.ac.uk/cdma
+Provider-Phone: 01334 462436
+Provider-Postal: School of Economics and Finance, University of St. Andrews, Fife KY16  9AL
+Provider-Institution: RePEc:edi:cdstauk
+Maintainer-Name: the School of Economics
+Maintainer-Email: econdor@st-andrews.ac.uk
+Handle: RePEc:san:cdmawp
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Paper Series, Department of Economics
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, University of St. Andrews
+Provider-Homepage: https://www.st-andrews.ac.uk/economics/
+Provider-Phone: 01334 462436
+Provider-Postal: School of Economics and Finance, University of St. Andrews, Fife KY16  9AL
+Provider-Fax: 01334 462444
+Provider-Institution: RePEc:edi:destauk
+Maintainer-Name: the School of Economics
+Maintainer-Email: econdor@st-andrews.ac.uk
+Order-Email: econsec@st-andrews.ac.uk
+Handle: RePEc:san:wpecon
+

@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Fondazione Eni Enrico Mattei
+Provider-Homepage: http://www.feem.it/
+Provider-Institution: RePEc:edi:feemmit
+Maintainer-Email: barbara.racah@feem.it
+Maintainer-Name: barbara racah
+Type: ReDIF-Paper
+Handle: RePEc:fem:femwpa
+
+Template-Type: ReDIF-Series 1.0
+Name: Review of Environment, Energy and Economics - Re3
+Provider-Name: Fondazione Eni Enrico Mattei
+Provider-Homepage: http://www.feem.it/
+Provider-Institution: RePEc:edi:feemmit
+Maintainer-Email: barbara.racah@feem.it
+Maintainer-Name: barbara racah
+Type: ReDIF-Article
+Handle: RePEc:fem:femre3

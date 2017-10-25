@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: University of Oregon Economics Department Working Papers
+Description: University of Oregon Economics Department Working Papers
+Classification-JEL:
+Type: ReDIF-Paper
+Provider-Name: University of Oregon Economics Department
+Provider-Homepage: http://economics.uoregon.edu/
+Provider-Institution: RePEc:edi:deuorus
+Maintainer-Name: Bill Harbaugh
+Maintainer-Email: wtharbaugh@gmail.com
+Handle: RePEc:ore:uoecwp

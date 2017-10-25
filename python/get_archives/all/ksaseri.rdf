@@ -1,0 +1,16 @@
+﻿Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Közgazdasági Szemle (Economic Review - monthly of the Hungarian Academy of Sciences)
+Description: Monthly of the Hungarian Academy of Sciences
+Provider-Name: Közgazdasági Szemle  Alapítvány (Economic Review Foundation)
+Provider-Homepage: http://www.kszemle.hu
+Maintainer-Name: Odon Sok
+Maintainer-Email: soko@econ.core.hu
+Order-Email: soko@econ.core.hu
+Order-Homepage: http://www.kszemle.hu/elofizetes/
+Order-Postal: Közgazdasági Szemle Alapítvány (Economic Review Foundation) Budapest, Budaörsi út 45., 1112, Hungary
+Editor-Name: Tamás Halm
+Editor-Email: kszemle@econ.core.hu
+ISSN: HU ISSN 0023-4346 (printed),  HU ISSN 1588–113x (online)
+Restriction: Registration and subscription. 3-month embargo period to non-subscribers.
+Handle: RePEc:ksa:szemle

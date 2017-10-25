@@ -1,0 +1,41 @@
+Template-type: ReDIF-Series 1.0
+Name: ThE Papers
+Description: Working Papers
+Type: ReDIF-Paper
+Provider-Name: Department of Economic Theory and Economic History of the University of Granada.
+Provider-Homepage: http://www.ugr.es/local/teoriahe
+Provider-Phone: (34)958248346
+Provider-Fax: (34)958249995
+Provider-Postal: Campus Universitario de Cartuja
+Provider-Institution: RePEc:edi:dtugres
+Maintainer-Name: Angel Solano Garcia.
+Maintainer-Email: asolano@ugr.es
+Handle: RePEc:gra:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Papers on Economics of Religion
+Description: Working Papers
+Type: ReDIF-Paper
+Provider-Name: Department of Economic Theory and Economic History of the University of Granada.
+Provider-Homepage: http://www.ugr.es/local/teoriahe
+Provider-Phone: (34)958248346
+Provider-Fax: (34)958249995
+Provider-Postal: Campus Universitario de Cartuja
+Provider-Institution: RePEc:edi:dtugres
+Maintainer-Name: Angel Solano Garcia.
+Maintainer-Email: asolano@ugr.es
+Handle: RePEc:gra:paoner
+
+Template-type: ReDIF-Series 1.0
+Name: FEG Working Paper Series
+Description: Working Papers  
+Type: ReDIF-Paper
+Provider-Name: Faculty of Economics and Business (University of Granada)
+Provider-Homepage: http://fccee.ugr.es/?q=node/4
+Provider-Phone: (34)958 24 10 00 /20145
+Provider-Fax: (34)958 24 99 95
+Provider-Postal: Campus Universitario de Cartuja
+Provider-Institution: RePEc:edi:dtugres
+Maintainer-Name: Juliette Milgram Baleix.
+Maintainer-Email: jmilgram@ugr.es
+Handle: RePEc:gra:fegper

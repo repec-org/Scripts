@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: EuroEconomica
+Provider-Name: Danubius University of Galati
+Provider-Homepage: http://www.euroeconomica-danubius.ro/
+Provider-Institution: RePEc:edi:fedanro
+Maintainer-Name: Florian Nuta
+Maintainer-Email: euroeconomica@univ-danubius.ro
+Type: ReDIF-Article
+Handle: RePEc:dug:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Acta Universitatis Danubius. OEconomica
+Provider-Name: Danubius University of Galati
+Provider-Homepage: http://journals.univ-danubius.ro/index.php/oeconomica/
+Provider-Institution: RePEc:edi:fedanro
+Maintainer-Name: Daniela Robu
+Maintainer-Email: danarobu@univ-danubius.ro
+Type: ReDIF-Article
+Handle: RePEc:dug:actaec
+
+Template-type: ReDIF-Series 1.0
+Name: The Journal of Accounting and Management
+Provider-Name: Danubius University of Galati
+Provider-Homepage: http://journals.univ-danubius.ro/index.php/jam
+Provider-Institution: RePEc:edi:fedanro
+Maintainer-Name: Florian Nuta
+Maintainer-Email: floriann@univ-danubius.ro
+Type: ReDIF-Article
+Handle: RePEc:dug:jaccma

@@ -1,0 +1,9 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics Program Working Papers
+Provider-Name: The Conference Board, Economics Program
+Provider-Homepage: http://www.conference-board.org/publications/publicationlistall.cfm?sort=type#EconomicWorkingPaper
+Provider-Institution: RePEc:edi:confbus
+Maintainer-Name: A Ozyildirim
+Maintainer-Email: Ataman.Ozyildirim@conference-board.org
+Type: ReDIF-Paper
+Handle: RePEc:cnf:wpaper

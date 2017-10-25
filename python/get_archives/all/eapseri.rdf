@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Development Papers
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) South and South-West Asia Office
+Provider-Homepage: http://www.unescap.org/subregional-office/south-south-west-asia
+Provider-Institution: RePEc:edi:escunin
+Maintainer-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) South and South-West Asia Office
+Maintainer-Email: sswa.escap@un.org
+Type: ReDIF-Paper
+Handle: RePEc:eap:sswadp
+
+Template-type: ReDIF-Series 1.0
+Name: SSWA Policy Briefs
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) South and South-West Asia Office
+Provider-Homepage: http://www.unescap.org/subregional-office/south-south-west-asia
+Provider-Institution: RePEc:edi:escunin
+Maintainer-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) South and South-West Asia Office
+Maintainer-Email: sswa.escap@un.org
+Type: ReDIF-Paper
+Handle: RePEc:eap:pbsswa
+
+Template-type: ReDIF-Series 1.0
+Name: SSWA Books and Research Reports
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) South and South-West Asia Office
+Provider-Homepage: http://www.unescap.org/subregional-office/south-south-west-asia
+Provider-Institution: RePEc:edi:escunin
+Maintainer-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP) South and South-West Asia Office
+Maintainer-Email: sswa.escap@un.org
+Type: ReDIF-Book
+Handle: RePEc:eap:sswabr

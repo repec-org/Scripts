@@ -1,0 +1,40 @@
+Template-type: ReDIF-Series 1.0
+Name: RBA Research Discussion Papers
+Description: The Discussion Paper series is intended to make the results of current economic research within the Reserve Bank available to other economists. Its aim is to present preliminary results of research so as to encourage discussion and comment.
+Keywords: monetary policy; macroeconomics; banking
+Editor-Name: John Simon
+Provider-Name: Reserve Bank of Australia
+Provider-Institution: RePec:edi:rbagvau
+Maintainer-Name: Paula Drew
+Maintainer-Email: drewp@rba.gov.au
+ISSN: 1448-5109 (Online)
+Handle: RePEc:rba:rbardp
+Type: ReDIF-Paper
+
+Template-type: ReDIF-Series 1.0
+Name: RBA Annual Conference Volume
+Description: Edited volume of papers presented at the RBA’s annual conference
+Keywords: monetary policy; macroeconomics; banking
+Editor-Name: John Simon
+Provider-Name: Reserve Bank of Australia
+Provider-Institution: RePec:edi:rbagvau
+Maintainer-Name: Paula Drew
+Maintainer-Email: drewp@rba.gov.au
+Order-Homepage: http://www.rba.gov.au/order-form/
+Handle: RePEc:rba:rbaacv
+Type: ReDIF-Chapter
+
+Template-type: ReDIF-Series 1.0
+Name: RBA Bulletin
+Description: The Bulletin contains articles that discuss economic and financial developments as well as the Bank's operations.
+Keywords: monetary policy; macroeconomics; banking
+Editor-Name: Luci Ellis
+Provider-Name: Reserve Bank of Australia
+Provider-Institution: RePec:edi:rbagvau
+Maintainer-Name: Paula Drew
+Maintainer-Email: drewp@rba.gov.au
+Order-Homepage: http://www.rba.gov.au/order-form/
+ISSN: 0725-0320 (Print)
+ISSN: 1837-7211 (Online)
+Handle: RePEc:rba:rbabul
+Type: ReDIF-Article

@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: Departmental Working Papers
+Description: Working Papers for Department of Economics,
+ Southern Methodist University
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Southern Methodist University, Department of Economics
+Provider-Homepage: http://www.smu.edu/economics
+Provider-Phone: 214-768-2715
+Provider-Postal: Department of Economics, P.O. Box 750496,
+ Southern Methodist University, Dallas, TX 75275-0496
+Provider-Fax: 214-768-1821
+Maintainer-Name: Ömer Özak
+Maintainer-Email: ozak@smu.edu
+Handle: RePEc:smu:ecowpa

@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: European Research Studies Journal
+Provider-Name: European Research Studies Journal
+Provider-Homepage: http://www.ersj.eu/
+Maintainer-Name: Marios Agiomavritis
+Maintainer-Email: marios.agiomavritis@unicert.gr
+Type: ReDIF-Article
+Handle: RePEc:ers:journl
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Economics & Business Administration (IJEBA)
+Provider-Name: International Journal of Economics & Business Administration (IJEBA)
+Provider-Homepage: http://www.ijeba.com/
+Maintainer-Name: Marios Agiomavritis
+Maintainer-Email: marios.agiomavritis@unicert.gr
+Type: ReDIF-Article
+Handle: RePEc:ers:ijebaa
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Maritime, Trade & Economic Issues (IJMTEI)
+Provider-Name: International Journal of Maritime, Trade & Economic Issues (IJMTEI)
+Provider-Homepage: http://www.ijmtei.com/
+Maintainer-Name: Marios Agiomavritis
+Maintainer-Email: marios.agiomavritis@unicert.gr
+Type: ReDIF-Article
+Handle: RePEc:ers:ijmtei

@@ -1,0 +1,43 @@
+Template-type: ReDIF-Series 1.0
+Name: Carlo Alberto Notebooks
+Description: This is the Collegio Carlo Alberto Foundation Working Papers Collection
+Provider-Name: Collegio Carlo Alberto
+Provider-Homepage: http://www.carloalberto.org/
+Provider-Institution: RePEc:edi:fccaait
+Maintainer-Name: Giovanni Bert
+Maintainer-Email: giovanni.bert@carloalberto.org
+Type: ReDIF-Paper
+Handle: RePEc:cca:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: LABORatorio R. Revelli Working Papers Series
+Description: This is the LABORatorio R. Revelli Working Papers Collection
+Provider-Name: LABORatorio R. Revelli, Centre for Employment Studies
+Provider-Homepage: http://www.laboratoriorevelli.it/
+Provider-Institution: RePEc:edi:fccaait
+Maintainer-Name: Giovanni Bert
+Maintainer-Email: giovanni.bert@carloalberto.org
+Type: ReDIF-Paper
+Handle: RePEc:cca:wplabo
+
+Template-type: ReDIF-Series 1.0
+Name: LABORatorio R. Revelli Whip Technical Reports
+Description: These are the LABORatorio R. Revelli Working Papers Reports
+Provider-Name: LABORatorio R. Revelli, Centre for Employment Studies
+Provider-Homepage: http://www.laboratoriorevelli.it/
+Provider-Institution: RePEc:edi:fccaait
+Maintainer-Name: Giovanni Bert
+Maintainer-Email: giovanni.bert@carloalberto.org
+Type: ReDIF-Paper
+Handle: RePEc:cca:wplab2
+
+Template-type: ReDIF-Series 1.0
+Name: CHILD Working Papers Series
+Description: This is the CHILD Working Papers Collection
+Provider-Name: Centre for Household, Income, Labour and Demographic Economics (CHILD) - CCA
+Provider-Homepage: http://www.carloalberto.org/child-collegiocarloalberto/
+Provider-Institution: RePEc:edi:chccait
+Maintainer-Name: Giovanni Bert
+Maintainer-Email: giovanni.bert@carloalberto.org
+Type: ReDIF-Paper
+Handle: RePEc:cca:wchild

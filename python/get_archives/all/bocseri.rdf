@@ -1,0 +1,879 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Boston College Working Papers in Economics
+Description: Work in progress by Boston College faculty and collaborators
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Boston College Department of Economics
+Provider-Postal: Boston College, 140 Commonwealth Avenue, Chestnut Hill MA 02467 USA
+Provider-Fax: +1-617-552-2308
+Provider-Homepage: http://fmwww.bc.edu/EC/
+Provider-Institution: RePEc:edi:debocus
+Handle: RePEc:boc:bocoec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Statistical Software Components
+Description: Software components for Stata (StataList contributions), RATS, MATLAB, Mathematica, GAUSS
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Boston College Department of Economics
+Provider-Postal: Boston College, 140 Commonwealth Avenue, Chestnut Hill MA 02467 USA
+Provider-Fax: +1-617-552-2308
+Provider-Homepage: http://fmwww.bc.edu/EC/
+Provider-Institution: RePEc:edi:debocus
+Order-Homepage: http://repec.org/docs/ssc.php
+Handle: RePEc:boc:bocode
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Instructional Stata datasets for econometrics
+Description: Datasets distributed with econometrics texts that may be accessed by web-aware Stata
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Boston College Department of Economics
+Provider-Postal: Boston College, 140 Commonwealth Avenue, Chestnut Hill MA 02467 USA
+Provider-Fax: +1-617-552-2308
+Provider-Homepage: http://fmwww.bc.edu/EC/
+Provider-Institution: RePEc:edi:debocus
+Handle: RePEc:boc:bocins
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: North American Stata Users' Group Meetings 2001
+Description: Presentations made at the North American Stata Users' Group Meetings, 12-13 March 2001, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/1nasug
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:asug01
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2001
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 14-15 May 2001, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/7uk
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug01
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2002
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 20-21 May 2002, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/8uk
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug02
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Dutch-German Stata Users' Group Meetings 2002
+Description: Presentations made at the Dutch-German Stata Users' Group Meetings, 23 May 2002, Maastricht
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/2dutch
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug02
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: North American Stata Users' Group Meetings 2003
+Description: Presentations made at the North American Stata Users' Group Meetings, 17 March 2003, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/2nasug
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:asug03
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: North American Stata Users' Group Meetings 2004
+Description: Presentations made at the North American Stata Users' Group Meetings, 23-24 August 2004, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/3nasug
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:asug04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: North American Stata Users' Group Meetings 2005
+Description: Presentations made at the North American Stata Users' Group Meetings, 11-12 July 2005, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/4nasug
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:asug05
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: North American Stata Users' Group Meetings 2006
+Description: Presentations made at the North American Stata Users' Group Meetings, 24-25 July 2006, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Editor-Person: pba1
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/5nasug
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:asug06
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: North American Stata Users' Group Meetings 2007
+Description: Presentations made at the North American Stata Users' Group Meetings, 13-14 August 2007, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Editor-Person: pba1
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/6nasug
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:asug07
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2003
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 19-20 May 2003, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/9uk
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug03
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2004
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 28-29 June 2004, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/10uk
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Australasian Stata Users' Group Meetings 2004
+Description: Presentations made at the First Australasian Stata Users' Group Meetings, 10 October 2004, Adelaide
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/1australia
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:osug04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2004
+Description: Presentations made at the German Stata Users' Group Meetings, 5 April 2004, Berlin
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/2german
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug04
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2005
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 17-18 May 2005, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/11uk
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug05
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2005
+Description: Presentations made at the German Stata Users' Group Meetings, 8 April 2005, Berlin
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/3german
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug05
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2006
+Description: Presentations made at the German Stata Users' Group Meetings, 31 March 2006, Mannheim
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/4german
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug06
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2006
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 11-12 September 2006, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/12uk
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug06
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2007
+Description: Presentations made at the German Stata Users' Group Meetings, 2 April 2007, RWI Essen
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/5german
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug07
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2007
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 10-11 September 2007, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/13uk
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug07
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Nordic and Baltic Stata Users' Group Meetings 2007
+Description: Presentations made at the Nordic and Baltic Stata Users' Group Meetings, 7 September 2007, Stockholm
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/2sweden
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:nsug07
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: West Coast Stata Users' Group Meetings 2007
+Description: Presentations made at the West Coast Stata Users' Group Meetings, 25-26 October 2007, Marina del Rey, CA
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/wcsug07/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:wsug07
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2008
+Description: Presentations made at the German Stata Users' Group Meetings, 27 June 2008, WZB Berlin
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany08/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug08
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Summer North American Stata Users' Group Meetings 2008
+Description: Presentations made at the Summer North American  Stata Users' Group Meetings, 24-25 July 2008, Chicago
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/snasug08/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:nsug08
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2008
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 8-9 September 2008, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk08
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug08
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Fall North American Stata Users' Group Meetings 2008
+Description: Presentations made at the Summer North American  Stata Users' Group Meetings, 13-14 November 2008, San Francisco
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/fnasug08/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:fsug08
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Italian Stata Users' Group Meetings 2008
+Description: Presentations made at the Italian Stata Users' Group Meetings, 20-21 October 2008, Milano
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/italy08/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:isug08
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Mexican Stata Users' Group Meetings 2009
+Description: Presentations made at the Mexican Stata Users' Group Meetings, 23 April 2009, Mexico
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/mexico09/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:msug09
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2009
+Description: Presentations made at the German Stata Users' Group Meetings, 26 June 2009, Bonn
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany09/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug09
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: DC09 Stata Conference
+Description: Presentations made at the DC09 Stata Conference, 30-31 July 2009, Washington
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/dcconf09/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dcon09
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2009
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 10-11 September 2009, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk09
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug09
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Canadian Stata Users' Group Meetings 2009
+Description: Presentations made at the Canadian Stata Users' Group Meetings, 22 October 2009, Toronto
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/canada09
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:csug09
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Mexican Stata Users' Group Meetings 2010
+Description: Presentations made at the Mexican Stata Users' Group Meetings, 29 April 2010, Mexico City
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/mexico10
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:msug10
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2010
+Description: Presentations made at the German Stata Users' Group Meetings, 25 June 2010, Berlin
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany10/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug10
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: BOS10 Stata Conference
+Description: Presentations made at the BOS10 Stata Conference, 15-16 July 2010, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/boston10/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:bost10
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2010
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 9-10 September 2010, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk10
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug10
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Portuguese Stata Users' Group Meetings 2010
+Description: Presentations made at the Portuguese Stata Users' Group Meetings, 17 September 2010, Braga
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/portugal10
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:psug10
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2011
+Description: Presentations made at the German Stata Users' Group Meetings, 1 July 2011, Bamberg
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany11/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug11
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Mexican Stata Users' Group Meetings 2011
+Description: Presentations made at the Mexican Stata Users' Group Meetings, 12 May 2010, Mexico City
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/mexico11
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:msug11
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: CHI11 Stata Conference
+Description: Presentations made at the Chi'11 Stata Conference, 14-15 July 2011, Chicago
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/chicago11/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:chic11
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2011
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 15-16 September 2011, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk11
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug11
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2012
+Description: Presentations made at the German Stata Users' Group Meetings, 1 June 2012, Berlin
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany12/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug12
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2013
+Description: Presentations made at the German Stata Users' Group Meetings, 7 June 2013, Potsdam
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany13/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug13
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: SAN12 Stata Conference
+Description: Presentations made at the San'12 Stata Conference, 26-27 July 2012, San Diego
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/sandiego12/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:scon12
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2012
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 13-14 September 2012, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk12
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug12
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Mexican Stata Users' Group Meetings 2013
+Description: Presentations made at the Mexican Stata Users' Group Meetings, 3 May 2013, CIDE, Mexico City
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/mexico13
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:msug13
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Italian Stata Users' Group Meetings 2009
+Description: Presentations made at the Italian Stata Users' Group Meetings, 2009, Florence
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/italy09/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:isug09
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Italian Stata Users' Group Meetings 2010
+Description: Presentations made at the Italian Stata Users' Group Meetings, 2010, Bologna
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/italy10/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:isug10
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Italian Stata Users' Group Meetings 2011
+Description: Presentations made at the Italian Stata Users' Group Meetings, 2011, Venice
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/italy11/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:isug11
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Italian Stata Users' Group Meetings 2012
+Description: Presentations made at the Italian Stata Users' Group Meetings, 2012, Bologna
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/italy12/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:isug12
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: 2013 Stata Conference
+Description: Presentations made at the 2013 Stata Conference, 18-19 July 2013, New Orleans
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/new-orleans13/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:norl13
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2013
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 12-13 September 2013, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk13
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug13
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Italian Stata Users' Group Meetings 2013
+Description: Presentations made at the Italian Stata Users' Group Meetings, 2013, Florence
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/italy13/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:isug13
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2014
+Description: Presentations made at the German Stata Users' Group Meetings, 13 June 2014, Hamburg
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany14/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug14
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: 2014 Stata Conference
+Description: Presentations made at the 2014 Stata Conference, 31 July-1 August 2014, Boston
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/boston14/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:scon14
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Italian Stata Users' Group Meetings 2014
+Description: Presentations made at the Italian Stata Users' Group Meetings, 2014, Milano
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/italy14/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:isug14
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2014
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 11-12 September 2014, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk14
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug14
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: 2015 Stata Conference
+Description: Presentations made at the 2015 Stata Conference, 30-31 July 2015, Columbus
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/columbus15/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:scon15
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2015
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 10-11 September 2015, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk15
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug15
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: 2016 Stata Conference
+Description: Presentations made at the 2016 Stata Conference, 28-29 July 2016, Chicago
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/chicago16/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:scon16
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2016
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 8-9 September 2016, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk16
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug16
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: 2017 Stata Conference
+Description: Presentations made at the 2016 Stata Conference, 27-28 July 2017, Baltimore
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://stata.com/meeting/baltimore17/
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:scon17
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: United Kingdom Stata Users' Group Meetings 2017
+Description: Presentations made at the United Kingdom Stata Users' Group Meetings, 7-8 September 2017, London
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/uk17
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:usug17
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Canadian Stata Users' Group Meetings 2017
+Description: Presentations made at the Canadian Stata Users' Group Meetings, 9 June 2017, Ottawa
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/canada17
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:csug17
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: German Stata Users' Group Meetings 2017
+Description: Presentations made at the German Stata Users' Group Meetings, 23 June 2017, Berlin
+Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Christopher F Baum
+Editor-Email: baum@bc.edu
+Provider-Name: Stata Users Group
+Provider-Homepage: http://www.stata.com/meeting/germany17
+Provider-Institution: RePEc:edi:stataea
+Handle: RePEc:boc:dsug17

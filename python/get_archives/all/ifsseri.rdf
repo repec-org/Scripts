@@ -1,0 +1,53 @@
+Template-Type: ReDIF-Series 1.0
+Name: IFS Working Papers
+Type: ReDIF-Paper
+Provider-Name: Institute for Fiscal Studies
+Provider-Email:  mailbox@ifs.org.uk
+Provider-Postal:The Institute for Fiscal Studies 7 Ridgmount Street LONDON
+ WC1E 7AE 
+Provider-Homepage: http://www.ifs.org.uk
+Provider-Institution: RePEc:edi:ifsssuk
+Provider-Phone: (+44) 020 7291 4800
+Provider-Fax: (+44) 020 7323 4780
+Order-Email: mailbox@ifs.org.uk
+Order-Postal:The Institute for Fiscal Studies 7 Ridgmount Street LONDON
+ WC1E 7AE 
+Maintainer-Name: Emma Hyman
+Maintainer-Email: emma_h@ifs.org.uk
+Handle: RePEc:ifs:ifsewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Fiscal Studies
+Type: ReDIF-Article
+Provider-Name: Institute for Fiscal Studies
+Provider-Email:  mailbox@ifs.org.uk
+Provider-Postal:The Institute for Fiscal Studies 7 Ridgmount Street LONDON
+ WC1E 7AE 
+Provider-Homepage: http://www.ifs.org.uk
+Provider-Institution: RePEc:edi:ifsssuk
+Provider-Phone: (+44) 020 7291 4800
+Provider-Fax: (+44) 020 7323 4780
+Order-Email: mailbox@ifs.org.uk
+Order-Postal:The Institute for Fiscal Studies 7 Ridgmount Street LONDON
+ WC1E 7AE 
+Maintainer-Name: Emma Hyman
+Maintainer-Email: emma_h@ifs.org.uk
+Handle: RePEc:ifs:fistud
+
+Template-Type: ReDIF-Series 1.0
+Name: CeMMAP working papers
+Type: ReDIF-Paper
+Provider-Name: Centre for Microdata Methods and Practice,  Institute for Fiscal Studies
+Provider-Email: cemmap@ifs.org.uk
+Provider-Postal:The Institute for Fiscal Studies 7 Ridgmount Street LONDON
+ WC1E 7AE 
+Provider-Homepage: http://cemmap.ifs.org.uk
+Provider-Institution: RePEc:edi:cmifsuk
+Provider-Phone: (+44) 020 7291 4800
+Provider-Fax: (+44) 020 7323 4780
+Order-Email: mailbox@ifs.org.uk
+Order-Postal:The Institute for Fiscal Studies 7 Ridgmount Street LONDON
+ WC1E 7AE 
+Maintainer-Name: Emma Hyman
+Maintainer-Email: emma_h@ifs.org.uk
+Handle: RePEc:ifs:cemmap

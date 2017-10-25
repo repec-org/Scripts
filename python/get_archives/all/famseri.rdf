@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name:FAME Research Paper Series
+Description:This series contains research or working paper published in the International Center for Financial Asset Management and Engineering series. 
+Type: ReDIF-Paper
+Provider-Name:International Center for Financial Asset Management and Engineering
+Provider-Homepage:http://www.swissfinanceinstitute.ch
+Provider-Institution: RePEc:edi:fameech
+Maintainer-Name:Marilyn Barja
+Maintainer-Email:mb@sfi.ch
+Followup:RePEc:chf:rpseri  
+Handle:RePEc:fam:rpseri
+

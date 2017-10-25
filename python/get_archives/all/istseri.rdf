@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Istanbul University Econometrics and Statistics e-Journal
+Description: This is the official journal of Department of Econometrics, Faculty of Economics, Istanbul University
+Provider-Name: Department of Econometrics, Faculty of Economics, Istanbul University
+Provider-Institution: RePEc:edi:ifisttr
+Provider-Homepage: http://eidergisi.istanbul.edu.tr
+Maintainer-Name: Kutluk Kagan Sumer
+Maintainer-Email: kutluk@istanbul.edu.tr
+Type: ReDIF-Article
+Handle: RePEc:ist:ancoec
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is the official working papers of Department of Econometrics, Faculty of Economics, Istanbul University
+Provider-Name: Department of Econometrics, Faculty of Economics, Istanbul University
+Provider-Homepage: http://eidergisi.istanbul.edu.tr
+Provider-Institution: RePEc:edi:ifisttr 
+Maintainer-Name: Kutluk Kagan Sumer
+Maintainer-Email: kutluk@istanbul.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:ist:wpaper

@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Series 1.0
+Name: English-language papers
+Provider-Name: ERINA - Economic Research Institute for Northeast Asia
+Provider-Homepage: https://www.erina.or.jp/en/
+Provider-Institution: RePEc:edi:erinajp
+Maintainer-Name: Yamaguchi Makiko
+Maintainer-Email: kobayashi@erina.or.jp
+Type: ReDIF-Article
+Handle: RePEc:eri:review
+
+Template-Type: ReDIF-Series 1.0
+Name: English-language papers
+Provider-Name: ERINA - Economic Research Institute for Northeast Asia
+Provider-Homepage: https://www.erina.or.jp/en/
+Provider-Institution: RePEc:edi:erinajp
+Maintainer-Name: Yamaguchi Makiko
+Maintainer-Email: kobayashi@erina.or.jp
+Type: ReDIF-Paper
+Handle: RePEc:eri:dpaper
+

@@ -1,0 +1,64 @@
+Template-type: ReDIF-Series 1.0
+Name: ESE Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: Edinburgh School of Economics, University of Edinburgh
+Provider-Homepage: http://www.econ.ed.ac.uk/
+Provider-Institution: RePEc:edi:deediuk
+Provider-Phone: +44(0)1316508361
+Provider-Postal: 31 Buccleuch Place, EH8 9JT, Edinburgh
+Provider-Fax: +44(0)1316504514
+Maintainer-Name: Hannah Chater
+Maintainer-Email: hannah.chater@ed.ac.uk
+Handle: RePEc:edn:esedps
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers 
+Type: ReDIF-Paper
+Provider-Name: Edinburgh School of Economics, University of Edinburgh
+Provider-Homepage: http://www.econ.ed.ac.uk/
+Provider-Institution: RePEc:edi:deediuk
+Provider-Phone: +44(0)1316508361
+Provider-Postal: 31 Buccleuch Place, EH8 9JT, Edinburgh
+Provider-Fax: +44(0)1316504514
+Maintainer-Name: Hannah Chater
+Maintainer-Email: hannah.chater@ed.ac.uk
+Handle: RePEc:edn:ediedp
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics 
+Type: ReDIF-Paper
+Provider-Name: Edinburgh School of Economics, University of Edinburgh
+Provider-Homepage: http://www.econ.ed.ac.uk/
+Provider-Institution: RePEc:edi:deediuk
+Provider-Phone: +44(0)1316508361
+Provider-Postal: 31 Buccleuch Place, EH8 9JT, Edinburgh
+Provider-Fax: +44(0)1316504514
+Maintainer-Name: Hannah Chater
+Maintainer-Email: hannah.chater@ed.ac.uk
+Handle: RePEc:edn:edecdp
+
+Template-type: ReDIF-Series 1.0
+Name: SIRE Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: Scottish Institute for Research in Economics (SIRE)
+Provider-Homepage: http://www.sire.ac.uk
+Provider-Institution: RePEc:edi:sireeuk
+Provider-Phone: +44(0)1316508361
+Provider-Postal: 31 Buccleuch Place, EH8 9JT, Edinburgh
+Provider-Fax: +44(0)1316504514
+Maintainer-Name: Hannah Chater
+Maintainer-Email: hannah.chater@ed.ac.uk
+Handle: RePEc:edn:sirdps
+
+Template-type: ReDIF-Series 1.0
+Name: SIRE Focus Papers
+Type: ReDIF-Paper
+Provider-Name: Scottish Institute for Research in Economics (SIRE)
+Provider-Homepage: http://www.sire.ac.uk
+Provider-Institution: RePEc:edi:sireeuk
+Provider-Phone: +44(0)1316508361
+Provider-Postal: 31 Buccleuch Place, EH8 9JT, Edinburgh
+Provider-Fax: +44(0)1316504514
+Maintainer-Name: Hannah Chater
+Maintainer-Email: hannah.chater@ed.ac.uk
+Handle: RePEc:edn:sirfps

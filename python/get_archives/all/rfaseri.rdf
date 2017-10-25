@@ -1,0 +1,59 @@
+Template-Type: ReDIF-Series 1.0
+Name: International Journal of Social Science Studies
+Description: This is a peer-reviewed, open-access journal, published by Redfame Publishing. It publishes original research, applied, and educational articles in all areas of social science.The journal is published in both printed and online versions.
+Provider-Name: Redfame publishing
+Provider-Homepage: http://ijsss.redfame.com
+Provider-Institution: RePEc:edi:cepflch
+Maintainer-Name: Redfame publishing
+Maintainer-Email: info@redfame.com
+Type: ReDIF-Article
+Handle: RePEc:rfa:journl
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Applied Economics and Finance
+Description: Applied Economics and Finance (AEF) is a peer-reviewed, open-access journal, published by Redfame Publishing. AEF carries original and full-length articles that reflect the latest research and developments in both theoretical and practical aspects of applied economics and finance. The journal is published in both printed and online versions. The online version is free to access and download. 
+Provider-Name: Redfame publishing
+Provider-Homepage: http://aef.redfame.com
+Provider-Institution: RePEc:edi:cepflch
+Maintainer-Name: Redfame publishing
+Maintainer-Email: info@redfame.com
+Type: ReDIF-Article
+Handle: RePEc:rfa:aefjnl
+
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Applied Finance and Accounting
+Description: Applied Finance and Accounting (AFA) is a peer-reviewed, open-access journal, published by Redfame Publishing. AFA carries original and full-length articles that reflect the latest research and developments in both theoretical and practical aspects of finance and accounting. The journal is published in both printed and online versions. The online version is free to access and download. 
+Provider-Name: Redfame publishing
+Provider-Homepage: http://afa.redfame.com
+Provider-Institution: RePEc:edi:cepflch
+Maintainer-Name: Redfame publishing
+Maintainer-Email: info@redfame.com
+Type: ReDIF-Article
+Handle: RePEc:rfa:afajnl
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Business and Management Studies
+Description: Business and Management Studies (ISSN: 2374-5916; E-ISSN: 2374-5924) is a peer-reviewed, open access journal, published by Redfame Publishing. BMS is striving to provide the best platform for researchers and scholars worldwide to exchange their latest findings. The journal is published in both printed and online versions. The online version is free to access and download. 
+Provider-Name: Redfame publishing
+Provider-Homepage: http://bms.redfame.com
+Provider-Institution: RePEc:edi:cepflch
+Maintainer-Name: Redfame publishing
+Maintainer-Email: info@redfame.com
+Type: ReDIF-Article
+Handle: RePEc:rfa:bmsjnl
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Studies in Media and Communication
+Description: Studies in Media and Communication (ISSN: 2325-8071; E-ISSN: 2325-808X) is an international, peer-reviewed, open-access journal, published by Redfame Publishing. The journal is published semiannually in both print and online versions. 
+Provider-Name: Redfame publishing
+Provider-Homepage: http://smc.redfame.com
+Provider-Institution: RePEc:edi:cepflch
+Maintainer-Name: Redfame publishing
+Maintainer-Email: info@redfame.com
+Type: ReDIF-Article
+Handle: RePEc:rfa:smcjnl

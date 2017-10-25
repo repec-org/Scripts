@@ -1,0 +1,19 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Institut za razvoj i medjunarodne odnose
+Provider-Homepage: http://www.irmo.hr
+Provider-Institution: RePEc:edi:imodnhr
+Maintainer-Name: Snjezana Ivanovic
+Maintainer-Email: snjezana@irmo.hr
+Type: ReDIF-Book
+Handle: RePEc:crv:booksi
+
+Template-Type: ReDIF-Series 1.0
+Name: IRMO Occasional Papers
+Provider-Name: Institute for Development and International Relations, Zagreb
+Provider-Homepage: http://www.irmo.hr/
+Provider-Institution: RePEc:edi:imodnhr
+Maintainer-Name: Snjezana Ivanovic
+Maintainer-Email: snjezana@irmo.hr
+Type: ReDIF-Paper
+Handle: RePEc:crv:opaper

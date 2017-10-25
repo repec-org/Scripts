@@ -1,0 +1,29 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: United Nations, Department of Economics and Social Affairs
+Provider-Homepage: http://www.un.org/en/development/desa/working-papers.html
+Provider-Institution: RePEc:edi:desunus
+Maintainer-Name: Aimee Gao
+Maintainer-Email: gaoa@un.org
+Type: ReDIF-Paper
+Handle: RePEc:une:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Notes
+Provider-Name: United Nations, Department of Economics and Social Affairs
+Provider-Homepage: http://esa.un.org/techcoop/policyNotes.asp
+Provider-Institution: RePEc:edi:desunus
+Maintainer-Name: Aimee Gao
+Maintainer-Email: gaoa@un.org
+Type: ReDIF-Paper
+Handle: RePEc:une:pnotes
+
+Template-type: ReDIF-Series 1.0
+Name: CDP Background Papers
+Provider-Name: United Nations, Department of Economics and Social Affairs
+Provider-Homepage: http://www.un.org/en/development/desa/policy/cdp/cdp_bg_papers.shtml
+Provider-Institution: RePEc:edi:desunus
+Maintainer-Name: Aimee Gao
+Maintainer-Email: gaoa@un.org
+Type: ReDIF-Paper
+Handle: RePEc:une:cpaper

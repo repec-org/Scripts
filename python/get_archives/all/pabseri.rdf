@@ -1,0 +1,118 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is the Working Papers Serie for the Department of Economics
+Type: ReDIF-Paper
+Provider-Name: Universidad Pablo de Olavide, Department of Economics
+Provider-Homepage: http://www.upo.es/econ/
+Provider-Phone: + 34 954 34 8913
+Provider-Postal: Carretera de Utrera km.1, 41013 Sevilla
+Provider-Fax: + 34 954 34 9339
+Provider-Institution: RePEc:edi:deupoes
+Maintainer-Name: Publicación Digital - UPO
+Maintainer-Email: publicaciones@upo.es
+Editor-Name: Paula González
+Editor-Email: pgonzalez@upo.es
+Editor-Workplace-Name: Universidad Pablo de Olavide, Department of Economics
+Editor-Workplace-Homepage: http://www.upo.es/econ/
+Handle: RePEc:pab:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is the Working Papers Serie for the Department of Business Administration (now Department of Business Organization and Marketing and Department of Financial Economics and Accounting)
+Type: ReDIF-Paper
+Provider-Name: Universidad Pablo de Olavide, Department of Business Administration
+Provider-Homepage: http://www.upo.es/dde/
+Provider-Phone: + 34 954 34 9283
+Provider-Postal: Carretera de Utrera km.1, 41013 Sevilla
+Provider-Fax: + 34 954 34 8353
+Provider-Institution: RePEc:edi:dbupoes
+Maintainer-Name: Publicación Digital - UPO
+Maintainer-Email: publicaciones@upo.es
+Editor-Name: Ana Pérez-Luño Robledo 
+Editor-Email: apperrob@upo.es
+Editor-Name: Raquel Flórez López 
+Editor-Email: rflorez@upo.es
+Editor-Workplace-Name: Universidad Pablo de Olavide, Department of Business Administration
+Editor-Workplace-Homepage: http://www.upo.es/dde/
+Handle: RePEc:pab:wpbsad
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is the Working Papers Serie for the Department of Business Organization and Marketing (former Department of Business Administration)
+Type: ReDIF-Paper
+Provider-Name: Universidad Pablo de Olavide, Department of Business Organization and Marketing (former Department of Business Administration)
+Provider-Homepage: http://www.upo.es/doem/
+Provider-Phone: + 34 954 34 9866
+Provider-Postal: Carretera de Utrera km.1, 41013 Sevilla
+Provider-Fax: + 34 954 34 8353
+Provider-Institution: RePEc:edi:doupoes
+Maintainer-Name: Publicación Digital - UPO
+Maintainer-Email: publicaciones@upo.es
+Editor-Name: Ana Pérez-Luño Robledo 
+Editor-Email: apperrob@upo.es
+Editor-Workplace-Name: Universidad Pablo de Olavide, Department of Business Organization and Marketing
+Editor-Workplace-Homepage: http://www.upo.es/doem/
+Handle: RePEc:pab:wpboam
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is the Working Papers Serie for the Department of Financial Economics and Accounting (former Department of Business Administration)
+Type: ReDIF-Paper
+Provider-Name: Universidad Pablo de Olavide, Department of Financial Economics and Accounting (former Department of Business Administration)
+Provider-Homepage: http://www.upo.es/defc/
+Provider-Phone: + 34 954 97 7444 
+Provider-Postal: Carretera de Utrera km.1, 41013 Sevilla
+Provider-Fax: + 34 954 34 8353
+Provider-Institution: RePEc:edi:dfupoes
+Maintainer-Name: Publicación Digital - UPO
+Maintainer-Email: publicaciones@upo.es
+Editor-Name: Raquel Flórez López 
+Editor-Email: rflorez@upo.es
+Editor-Name: Juan Manuel Ramón Jerónimo
+Editor-Email: jmramjer@upo.es
+Editor-Workplace-Name: Universidad Pablo de Olavide, Department of Financial Economics and Accounting
+Editor-Workplace-Homepage: http://www.upo.es/defc/
+Handle: RePEc:pab:fiecac
+ISSN: 2340-5287
+
+Template-type: ReDIF-Series 1.0
+Name: Revista de Métodos Cuantitativos para la Economía y la Empresa = Journal of Quantitative Methods for Economics and Business Administration
+Description: This is the archive for the Journal of Quantitative Methods for Economics and Business Administration of the Department of Quantitative Methods for Economics and Business Administration
+Type: ReDIF-Article
+Provider-Name: Universidad Pablo de Olavide, Department of Quantitative Methods for Economics and Business Administration
+Provider-Homepage: http://www.upo.es/economia/metodos/
+Provider-Phone: + 34 954 34 8913
+Provider-Postal: Carretera de Utrera km.1, 41013 Sevilla
+Provider-Fax: + 34 954 34 9339
+Provider-Institution: RePEc:edi:dmupoes
+Maintainer-Name: Publicación Digital - UPO
+Maintainer-Email: publicaciones@upo.es
+Editor-Name: Alfredo G. Hernández-Díaz
+Editor-Email: agarher@upo.es
+Editor-Name: Eugenio M. Fedriani Martel
+Editor-Email: efedmar@upo.es
+Editor-Workplace-Name: Universidad Pablo de Olavide, Department of Quantitative Methods for Economics and Business Administration
+Editor-Workplace-Homepage: http://www.upo.es/economia/metodos/
+Handle: RePEc:pab:rmcpee
+ISSN: 1886-516X
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is a Working Papers Series for the Department of Economics, Quantitative Methods and Economic History
+Type: ReDIF-Paper
+Provider-Name: Universidad Pablo de Olavide, Department of Economics, Quantitative Methods and Economic History
+Provider-Homepage: https://www.upo.es/emch/
+Provider-Phone: +34 954 34 9187
+Provider-Postal: Carretera de Utrera km.1, 41013 Sevilla
+Provider-Fax: + 34 954 34 9339
+Provider-Institution: RePEc:edi:dmupoes
+Maintainer-Name: Publicación Digital - UPO
+Maintainer-Email: publicaciones@upo.es
+Editor-Name: Fernando Ramos Palencia
+Editor-Email: fcrampal@upo.es
+Editor-Name: Carmen Lima Díaz
+Editor-Email: mlimdia@upo.es
+Editor-Workplace-Name: Universidad Pablo de Olavide, Department of Economics, Quantitative Methods and Economic History
+Editor-Workplace-Homepage: https://www1.upo.es/historia-economica/
+Editor-Workplace-Homepage: https://www.upo.es/economia/economia/
+Handle: RePEc:pab:wphaei

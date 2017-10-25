@@ -1,0 +1,33 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Economics and Human Biology
+Description: This is a series for the abstracts of the papers published in the journal 
+Economics and Human Biology
+Provider-Name: Department of Economics, University of Munich
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Utku Teksoez
+Maintainer-Email: utku.teksoez@econhist.de
+Handle: RePEc:ehb:ehbabs
+
+Template-type: ReDIF-Series 1.0
+Name: Articles by John Komlos
+Description: This is a series of articles and discussion papers written, or co-written by John Komlos. 
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, University of Munich
+Provider-Homepage:http://www.vwl.uni-muenchen.de/ls_komlos/
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Utku Teksoez 
+Maintainer-Email:utku.teksoez@econhist.de
+Handle: RePEc:ehb:komart
+
+Template-type: ReDIF-Series 1.0
+Name: Books by John Komlos
+Description: This is a series of books, written, co-written, or edited by John Komlos. 
+Type: ReDIF-Book
+Provider-Name: Department of Economics, University of Munich
+Provider-Homepage:http://www.vwl.uni-muenchen.de/ls_komlos/
+Provider-Institution: RePEc:edi:vfmunde
+Maintainer-Name: Utku Teksoez 
+Maintainer-Email:utku.teksoez@econhist.de
+Handle: RePEc:ehb:kombks
+

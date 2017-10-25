@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Southern Denmark, Department of Environmental and Business Economics
+Provider-Homepage: http://www.sam.sdu.dk/ime
+Provider-Institution: RePEc:edi:iehhsdk
+Maintainer-Name: Ulla H. Oehlenschläger
+Maintainer-Email: uho@sam.sdu.dk
+Type: ReDIF-Paper
+Handle: RePEc:sdk:wpaper
+
+ 
+Template-type: ReDIF-Series 1.0
+Name: Working Paper
+Description: Working Paper
+Provider-Name: Society of Nerd Economists
+Provider-Institution: RePEc:edi:iehhsdk
+Maintainer-Name: Ulla H. Oehlenshläger
+Maintainer-Email: uho@sam.sdu.dk
+Type: ReDIF-Article
+Handle: RePEc:sdk:ancoec
+
+ 

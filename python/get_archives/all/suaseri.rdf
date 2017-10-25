@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics publications
+Provider-Name: Swedish University of Agricultural Sciences, Department of Economics
+Provider-Homepage: http://www.slu.se/ekonomi
+Provider-Institution: RePEc:edi:iesluse
+Maintainer-Name: Alejandro Engelmann
+Maintainer-Email: alejandro.engelmann@slu.se
+Type: ReDIF-Paper
+Handle: RePEc:sua:ekonwp
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Forest Economics publications
+Provider-Name: Swedish University of Agricultural Sciences, Department of forest economics
+Provider-Homepage: http://www.slu.se/en/faculties/s/about-the-faculty/departments/department-of-forest-economics/
+Provider-Institution: RePEc:edi:issluse
+Maintainer-Name: Alejandro Engelmann
+Maintainer-Email: alejandro.engelmann@slu.se
+Type: ReDIF-Paper
+Handle: RePEc:sua:sekowp
+

@@ -1,0 +1,52 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: CASE Network Studies and Analyses
+Provider-Name: CASE-Center for Social and Economic Research
+Provider-Homepage: http://www.case-research.eu/
+Provider-Institution: RePEc:edi:caseepl
+Maintainer-Name: Agata Kwiek
+Maintainer-Email: agata.kwiek@case-research.eu
+Type: ReDIF-Paper
+Handle: RePEc:sec:cnstan
+
+Template-type: ReDIF-Series 1.0
+Name: CASE Network Reports
+Provider-Name: CASE-Center for Social and Economic Research
+Provider-Homepage: http://www.case-research.eu/
+Provider-Institution: RePEc:edi:caseepl
+Maintainer-Name: Agata Kwiek
+Maintainer-Email: agata.kwiek@case-research.eu
+Type: ReDIF-Paper
+Handle: RePEc:sec:cnrepo
+
+
+Template-type: ReDIF-Series 1.0
+Name: CASE-CEU Working Papers
+Provider-Name: CASE-Center for Social and Economic Research
+Provider-Homepage: http://www.case-research.eu/
+Provider-Institution: RePEc:edi:caseepl
+Maintainer-Name: Agata Kwiek
+Maintainer-Email: agata.kwiek@case-research.eu
+Type: ReDIF-Paper
+Handle: RePEc:sec:ceuwps
+
+
+Template-type: ReDIF-Series 1.0
+Name: CASE Network E-briefs
+Provider-Name: CASE-Center for Social and Economic Research
+Provider-Homepage: http://www.case-research.eu/
+Provider-Institution: RePEc:edi:caseepl
+Maintainer-Name: Agata Kwiek
+Maintainer-Email: agata.kwiek@case-research.eu
+Type: ReDIF-Paper
+Handle: RePEc:sec:ebrief
+
+
+Template-type: ReDIF-Series 1.0
+Name: mBank - CASE Seminar Proceedings
+Provider-Name: CASE-Center for Social and Economic Research
+Provider-Homepage: http://www.case-research.eu/
+Provider-Institution: RePEc:edi:caseepl
+Maintainer-Name: Agata Kwiek
+Maintainer-Email: agata.kwiek@case-research.eu
+Type: ReDIF-Paper
+Handle: RePEc:sec:bresem

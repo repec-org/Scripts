@@ -1,0 +1,141 @@
+Template-type: ReDIF-Series 1.0
+Name: BILTOKI
+Description: Working papers produced in the Departments of Econometrics and Statistics, Economic Analisys and Public Finance of the University of the Basque Country (Universidad del País Vasco UPV/EHU)
+Type: ReDIF-Paper
+Provider-Name: Universidad del País Vasco - Departamento de Economía Aplicada III (Econometría y Estadística)
+Provider-Homepage: http://www.ea3.ehu.es
+Provider-Fax: + 34 94 601 4935
+Provider-Institution: RePEc:edi:deehues
+Provider-Email: alcira.macias@ehu.es
+Maintainer-Name: Alcira Macías
+Maintainer-Email: alcira.macias@ehu.es
+Order-Email: jesusangel.rubio@ehu.es
+Order-Postal: Dpto. de Econometría y Estadística, Facultad de CC. Económicas y Empresariales, Universidad del País Vasco, Avda. Lehendakari Aguirre 83,
+ 48015 Bilbao, Spain
+Handle: RePEc:ehu:biltok
+
+Template-type: ReDIF-Series 1.0
+Name: DFAEII Working Papers
+Description: Working papers produced in Department of Foundations of Economic Analysis II (University of the Basque Country)
+Type: ReDIF-Paper
+Provider-Name: University of the Basque Country  -  Department of Foundations of Economic Analysis II
+Provider-Homepage: http://www.dfaeii.ehu.es
+Provider-Fax: 34-946017123
+Provider-Institution: RePEc:edi:f2ehues
+Maintainer-Name: Alcira Macías Redondo
+Maintainer-Email: alcira.macias@ehu.es
+Order-Email: victoriamaria.ateca@ehu.es
+Order-Postal: Dpto. de Fundamentos del Análisis Económico II, = Facultad de CC. Económicas  y Empresariales, Universidad del País Vasco, Avda. Lehendakari Aguirre 83,
+ 48015 Bilbao, Spain
+Handle: RePEc:ehu:dfaeii
+
+Template-type: ReDIF-Series 1.0
+Name: IKERLANAK
+Description: Working papers produced in the Departamento de Fundamentos del Análisis Económico I (Universidad del País Vasco UPV-EHU)
+Type: ReDIF-Paper
+Provider-Name: Universidad del País Vasco - Departamento de Fundamentos del Análisis Económico I
+Provider-Homepage: http://www.ehu.es/fundamentosI/
+Provider-Fax: 34-946013817
+Provider-Institution: RePEc:edi:f1ehues
+Maintainer-Name: Alcira Macías Redondo
+Maintainer-Email: alcira.macias@ehu.es
+Order-Email: franciscojavier.arin@ehu.es 
+Order-Postal: Dpto. de Fundamentos del Análisis Económico I, Facultad de CC. Económicas y Empresariales, Universidad del País Vasco, Avda. Lehendakari Aguirre 83,
+ 48015 Bilbao, Spain
+Handle: RePEc:ehu:ikerla
+
+Template-type: ReDIF-Series 1.0
+Name: BILCODEC
+Description: Econometrics and Statistics computer code published in the Departments of Econometrics and Statistics, University of the Basque Country (Universidad del País Vasco UPV-EHU)
+Type: ReDIF-Software 1.0
+Provider-Name: Universidad del País Vasco  -  Departamento de Economía Aplicada III (Econometría y Estadística)
+Provider-Homepage: http://www.ea3.ehu.es
+Provider-Fax: 34946013754
+Provider-Institution: RePEc:edi:deehues
+Maintainer-Name: Alcira Macías
+Maintainer-Email: alcira.macias@ehu.es
+Order-Email: jesusangel.rubio@ehu.es
+Order-Postal: Dpto. de Economía Aplicada III (Econometría y Estadística), Facultad de CC. Económicas y Empresariales, Universidad del País Vasco, Avda. Lehendakari Aguirre 83, 48015 Bilbao, Spain
+Handle: RePEc:ehu:bilcod
+
+Template-type: ReDIF-Series 1.0
+Name: Cuadernos de Gestión
+Description: Journal that publish academic papers on Business Economics. The scientific areas include Finance, Accounting, Business Administration, Marketing and Markets Research and Human Resources and other fields as long as contribute significantly to addressing problems in business management
+Classification-JEL: G, L, M, O
+Notification: Publish in the journal web http://www.ehu.es/cuadernosdegestion
+Type: ReDIF-Article
+Provider-Name: Universidad del País Vasco - Instituto de Economía Aplicada a la Empresa (IEAE)
+Provider-Homepage: http://www.ieae.ehu.es
+Provider-Phone: + 34 94 601 3871
+Provider-Postal: Instituto de Economía Aplicada a la Empresa Avda Lehendakari Aguirre 83 CP 48015 Bilbao (Vizcaya) Spain
+Provider-Fax: + 34 94 601 3710
+Provider-Institution: RePEc:edi:ieahues
+Maintainer-Name: Alcira Macías Redondo
+Maintainer-Email: alcira.macias@ehu.es
+Editor-Name: Belen Vallejo Alonso
+Editor-Email: belen.vallejo@ehu.es
+Editor-Workplace-Name: Universidad del País Vasco - Instituto de Economía Aplicada a la Empresa
+Editor-Workplace-Homepage: http://www.ieae.ehu.es
+Order-Email: belen.vallejo@ehu.es
+Order-Homepage: http://www.ehu.es/cuadernosdegestion
+Order-Postal: Instituto de Economía Aplicada a la Empresa, Revista Cuadernos de Gestión, Facultad de CC. Económicas  y Empresariales, Universidad del País Vasco, Avda. Lehendakari Aguirre 83, 48015 Bilbao, Spain
+Price: Open access
+Handle: RePEc:ehu:cuader
+
+Template-type: ReDIF-Series 1.0
+Name: UPV/EHU Books
+Description: Books published by the School of Economics and Business Administration,University of the Basque Country (UPV/EHU)
+Type: ReDIF-Book
+Provider-Name: Universidad del País Vasco - Facultad de Ciencias Económicas y Empresariales
+Provider-Homepage: http://www.ekonomia-enpresa-zientziak.ehu.es/
+Provider-Fax: 34946014935
+Provider-Institution: RePEc:edi:fcehues
+Maintainer-Name: Alcira Macías Redondo
+Maintainer-Email: alcira.macias@ehu.es
+Order-Email: ignacio.diaz-emparanza@ehu.es
+Order-Postal: Dpto. de Economía Aplicada III (Econometría y Estadística), Facultad de CC. Económicas y Empresariales, Universidad del País Vasco, Avda. Lehendakari Aguirre 83, 48015 Bilbao, Spain
+Handle: RePEc:ehu:ehuboo
+
+Template-type: ReDIF-Series 1.0
+Name: EHUCHAPS
+Description: Chapters of some books published by the School of Economics and Business Administration, University of the Basque Country (UPV/EHU)
+Type: ReDIF-Chapter
+Provider-Name: Universidad del País Vasco - Facultad de Ciencias Económicas y Empresariales
+Provider-Homepage: http://www.ekonomia-enpresa-zientziak.ehu.es/
+Provider-Fax: 34946013754
+Provider-Institution: RePEc:edi:fcehues
+Maintainer-Name: Alcira Macías Redondo
+Maintainer-Email: alcira.macias@ehu.es
+Order-Email: ignacio.diaz-emparanza@ehu.es
+Order-Postal: Dpto. de Economía Aplicada III (Econometría y Estadística), Facultad de CC. Económicas y Empresariales, Universidad del País Vasco, Avda. Lehendakari Aguirre 83, 48015 Bilbao, Spain
+Handle: RePEc:ehu:ehucha
+
+Template-type: ReDIF-Series 1.0
+Name: Revista de Dirección y Administración de Empresas
+Description: Revista de Dirección y Administración de Empresas/Enpresen Zuzendaritza eta Administraziorako Aldizkaria. =
+Se trata de una  Revista publicada por la Escuela Universitaria de Estudios Empresariales de San Sebastián de la Universidad = 
+del País Vasco UPV/EHU que comenzó su andadura en 1994, es una publicación científica que pretende acercar a los profesionales =
+del mundo empresarial, las investigaciones que en el campo de la Dirección de Empresas realizan los profesores universitarios.
+Esta Revista se presenta en números coleccionables, que se publican a medida que van surgiendo temas de interés y necesidad de =
+transferir al mundo empresarial y a la sociedad, las investigaciones que se realizan en este campo.
+Cada número de la Revista busca ofrecer la mayor novedad en los temas seleccionados en los diferentes artículos, cuidando al mismo =
+tiempo, que éstos hayan sido tratados por los autores con el máximo rigor científico, misión que los profesores universitarios =
+siempre tienen presente al publicar sus investigaciones.
+Classification-JEL: G, L, M, O
+Type: ReDIF-Article
+Provider-Name: Universidad del País Vasco - Escuela Universitaria de Estudios Empresariales de San Sebastián
+Provider-Homepage: http://www.enpresa-donostia.ehu.es/p256-home/es
+Provider-Phone: + 34 943 01 83 51
+Provider-Postal: E.U. de Estudios Empresariales de Donostia - San Sebastián UPV/EHU Plaza de Oñati, 1 20018 SAN SEBASTIAN 
+Provider-Fax: + 34 943 01 83 60
+Provider-Institution: RePEc:edi:esehues
+Maintainer-Name: Alcira Macías Redondo
+Maintainer-Email: alcira.macias@ehu.es
+Editor-Name: José María Beraza
+Editor-Email: josemaria.beraza@ehu.es
+Editor-Workplace-Name: Universidad del País Vasco - Escuela Universitaria de Estudios Empresariales de San Sebastián
+Order-Email: mariaisabel.sanchez@ehu.es
+Order-Homepage: http://www.enpresa-donostia.ehu.es/p256-content/es/contenidos/informacion/euempss_revista/es_revista/revista.html
+Order-Postal: Escuela Universitaria de Estudios Empresariales de San Sebastián,Universidad del País Vasco, Oñati Plaza / Plaza de Oñati, 1 20018 Donostia / San Sebasti=E1n, Spain
+Price: Open access
+Handle: RePEc:ehu:rdadme

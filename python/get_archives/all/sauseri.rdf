@@ -1,0 +1,48 @@
+Template-Type: ReDIF-Series 1.0
+Name: IZNE Social Protection Working Paper
+Provider-Name: International Centre for Sustainable Development (IZNE), Bonn-Rhein-Sieg University of Applied Sciences
+Provider-Email: izne.info@h-brs.de
+Provider-Institution: RePEc:edi:izfrbde
+Maintainer-Name: pub H-BRS Publikationsserver der Hochschule Bonn-Rhein-Sieg
+Maintainer-Email: opus@bib.h-brs.de
+Type: ReDIF-Paper
+ISSN: 2364-3021
+Handle: RePEc:sau:iznewp
+
+Template-type: ReDIF-Series 1.0 
+Name: Books 
+Provider-Name: Fachbereich Wirtschaftswissenschaften, Hochschule Bonn-Rhein-Sieg
+Provider-Name-English: Department of Management Sciences, Bonn-Rhein-Sieg University of Applied Sciences
+Maintainer-Name: pub H-BRS Publikationsserver der Hochschule Bonn-Rhein-Sieg
+Maintainer-Email: opus@bib.h-brs.de
+Type: ReDIF-Book
+Handle: RePEc:sau:wibook
+
+Template-Type: ReDIF-Series 1.0
+Name: IZNE Working Paper Series
+Provider-Name: International Centre for Sustainable Development (IZNE), Bonn-Rhein-Sieg University of Applied Sciences
+Provider-Homepage: http://izne.h-brs.de/
+Provider-Institution: RePEc:edi:izfrbde
+Maintainer-Name: pub H-BRS Publikationsserver der Hochschule Bonn-Rhein-Sieg
+Maintainer-Email: opus@bib.h-brs.de
+Type: ReDIF-Paper
+ISSN: 2511-0861
+Handle: RePEc:sau:iznews
+
+Template-Type: ReDIF-Series 1.0
+Name: Universities, Entrepreneurship and Enterprise Development in Africa
+Provider-Name: German African University Partnership Platform for the Development of Entrepreneurs and Small/Medium Enterprises
+Provider-Homepage: https://www.german-african-entrepreneurship.org/
+Maintainer-Name: pub H-BRS Publikationsserver der Hochschule Bonn-Rhein-Sieg
+Maintainer-Email: opus@bib.h-brs.de
+Type: ReDIF-Book
+Handle: RePEc:sau:ueedcp
+
+Template-Type: ReDIF-Series 1.0
+Name: Universities, Entrepreneurship and Enterprise Development in Africa
+Provider-Name: German African University Partnership Platform for the Development of Entrepreneurs and Small/Medium Enterprises
+Provider-Homepage: https://www.german-african-entrepreneurship.org/
+Maintainer-Name: pub H-BRS Publikationsserver der Hochschule Bonn-Rhein-Sieg
+Maintainer-Email: opus@bib.h-brs.de
+Type: ReDIF-Chapter
+Handle: RePEc:sau:ueedcc

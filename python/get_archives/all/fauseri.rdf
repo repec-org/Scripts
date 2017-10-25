@@ -1,0 +1,57 @@
+Template-type: ReDIF-Series 1.0
+Name: Czech Journal of Economics and Finance (Finance a uver)
+Description: economics, finance, economic transition, public finance, economic policy
+Provider-Name: Charles University Prague, Faculty of Social Sciences
+Provider-Institution: RePEc:edi:icunicz
+Maintainer-Name: Lenka Herrmannova
+Maintainer-Email: lenka.herrmannova@seznam.cz
+Type: ReDIF-Article
+ISSN: 0015-1920
+Handle: RePEc:fau:fauart
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers IES  
+Description: Working Papers of Institute of Economic Studies, Faculty of Social Sciences, Charles University, Prague
+Provider-Name: Charles University Prague, Faculty of Social Sciences, Institute of Economic Studies
+Provider-Homepage: http://ies.fsv.cuni.cz/
+Provider-Institution: RePEc:edi:icunicz
+Maintainer-Name: Lenka Herrmannova
+Maintainer-Email: lenka.herrmannova@seznam.cz
+Type: ReDIF-Paper
+Handle: RePEc:fau:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Czech Economic Review
+Description: peer reviewed journal, published three times a year since 2007
+Provider-Name: Charles University Prague, Faculty of Social Sciences,  Institute of Economic Studies
+Provider-Institution: RePEc:edi:icunicz
+Order-Email: cer@fsv.cuni.cz
+Order-Homepage: http://auco.cuni.cz/
+Maintainer-Name: Lenka Stastna
+Maintainer-Email: stastna@fsv.cuni.cz
+Type: ReDIF-Article
+ISSN: 1802-4696
+Handle: RePEc:fau:aucocz
+
+
+Template-Type: ReDIF-Series 1.0
+Name: IES Occasional publications - chapters
+Description: Occasional publications of Institute of Economic Studies, Faculty of Social Sciences, Charles University, Prague
+Provider-Name: Charles University Prague, Faculty of Social Sciences, Institute of Economic Studies
+Provider-Homepage: http://ies.fsv.cuni.cz/
+Provider-Institution: RePEc:edi:icunicz
+Maintainer-Name: Lenka Herrmannova
+Maintainer-Email: lenka.herrmannova@seznam.cz
+Type: ReDIF-Chapter 
+Handle: RePEc:fau:ecchap
+
+Template-Type: ReDIF-Series 1.0
+Name: IES Occasional publications
+Description: Occasional publications of Institute of Economic Studies, Faculty of Social Sciences, Charles University, Prague
+Provider-Name: Charles University Prague, Faculty of Social Sciences, Institute of Economic Studies
+Provider-Homepage: http://ies.fsv.cuni.cz/
+Provider-Institution: RePEc:edi:icunicz
+Maintainer-Name: Lenka Herrmannova
+Maintainer-Email: lenka.herrmannova@seznam.cz
+Type: ReDIF-Book 
+Handle: RePEc:fau:ecbook

@@ -1,0 +1,10 @@
+Template-type: ReDIF-Archive 1.0
+Name: Kluwer Akademic Publishers
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Description: Articles from Springer (formerly Kluwer) journals 
+#URL: ftp://ftp.springer.com/Outgoing/RePEc/kap
+URL: ftp://ideas.repec.org/pub/RePEc/kap/
+Homepage: http://www.springer.com
+Handle: RePEc:kap
+

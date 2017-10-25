@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: IWP Ordnungspolitischer Kommentar
+Description: Commentary Series of the Institut for Economic Policy, Cologne, Germany
+Provider-Name: Institute for Economic Policy, Cologne, Germany
+Provider-Institution: RePEc:edi:iwkoede
+Provider-Homepage: http://www.iwp.uni-koeln.de/
+Maintainer-Name: Christian Müller
+Maintainer-Email: mueller.christian@uni-koeln.de
+Handle: RePEc:kln:iwpord
+
+Template-type: ReDIF-Series 1.0
+Name: IWP Discussion Paper Series
+Description: Discussion Paper Series of the Institut for Economic Policy, Cologne, Germany
+Provider-Name: Institute for Economic Policy, Cologne, Germany
+Provider-Institution: RePEc:edi:iwkoede
+Provider-Homepage: http://www.iwp.uni-koeln.de/
+Maintainer-Name: Christian Müller
+Maintainer-Email: mueller.christian@uni-koeln.de
+Handle: RePEc:kln:iwpdip
+ 
+Template-type: ReDIF-Series 1.0
+Name: Otto-Wolff-Institut Discussion Paper Series
+Description: Diskussionspapier des Otto-Wolff-Instituts, Köln
+Provider-Name: Otto-Wolff-Institut für Wirtschaftsordnung, Köln, Deutschland
+Provider-Institution: RePEc:edi:owiwode 
+Provider-Homepage: http://www.otto-wolff-institut.de/index.html
+Maintainer-Name: Christian Müller	
+Maintainer-Email: mueller.christian@uni-koeln.de
+Handle: RePEc:kln:owiwdp
+
+ 

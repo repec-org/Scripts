@@ -1,0 +1,29 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: The WorldFish Center
+Provider-Homepage: http://www.worldfishcenter.org/
+Provider-Institution: RePEc:edi:wfishmy
+Maintainer-Name: William Ko
+Maintainer-Email: w.ko@cgiar.org
+Type: ReDIF-Book
+Handle: RePEc:wfi:wfbook
+
+Template-type: ReDIF-Series 1.0
+Name: Naga
+Provider-Name: The WorldFish Center
+Provider-Homepage: http://www.worldfishcenter.org/
+Provider-Institution: RePEc:edi:wfishmy
+Maintainer-Name: William Ko
+Maintainer-Email: w.ko@cgiar.org
+Type: ReDIF-Article
+Handle: RePEc:wfi:wfnaga
+
+Template-type: ReDIF-Series 1.0
+Name: Fishbyte
+Provider-Name: The WorldFish Center
+Provider-Homepage: http://www.worldfishcenter.org/
+Provider-Institution: RePEc:edi:wfishmy
+Maintainer-Name: William Ko
+Maintainer-Email: w.ko@cgiar.org
+Type: ReDIF-Article
+Handle: RePEc:wfi:wfbyte

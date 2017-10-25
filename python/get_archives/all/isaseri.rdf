@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Rivista di statistica ufficiale
+Description: This is the official Journal of the Italian National Institute of Statistics
+Provider-Name: ISTAT - Italian National Institute of Statistics - (Rome, ITALY)
+Provider-Homepage:http://www.istat.it/en/
+Provider-Institution: RePEc:edi:istgvit
+Maintainer-Name: Stefania Rossetti
+Maintainer-Email: strosset@istat.it
+Type: ReDIF-Article
+Handle: RePEc:isa:journl
+
+Template-type: ReDIF-Series 1.0
+Name: ISTAT Working Papers
+Provider-Name: ISTAT - Italian National Institute of Statistics - (Rome, ITALY)
+Provider-Homepage:http://www.istat.it/en/
+Provider-Institution: RePEc:edi:istgvit
+Maintainer-Name: Stefania Rossetti
+Maintainer-Email: strosset@istat.it
+Type: ReDIF-Paper
+Handle: RePEc:isa:wpista
+
+Template-type: ReDIF-Series 1.0
+Name: ISAE Working Papers
+Description: ISAE working paper series on economics, econometrics and political economy
+Provider-Name:  ISTAT - Italian National Institute of Statistics - (Rome, ITALY)
+Provider-Homepage: http://www.istat.it/en/
+Provider-Institution:  RePEc:edi:istgvit
+Maintainer-Name: Stefania Rossetti
+Maintainer-Email: strosset@istat.it
+Type: ReDIF-Paper
+Handle: RePEc:isa:wpaper

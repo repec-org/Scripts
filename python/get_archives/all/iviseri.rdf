@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers. Serie EC
+Provider-Name: Instituto Valenciano de Investigaciones Económicas, S.A. (Ivie)
+Provider-Homepage: http://www.ivie.es/
+Provider-Institution: RePEc:edi:ievages
+Maintainer-Name: Departamento de Edición
+Maintainer-Email: edicion@ivie.es
+Type: ReDIF-Paper
+Handle: RePEc:ivi:wpasec
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers. Serie AD
+Provider-Name: Instituto Valenciano de Investigaciones Económicas, S.A. (Ivie)
+Provider-Homepage: http://www.ivie.es/
+Provider-Institution: RePEc:edi:ievages
+Maintainer-Name: Departamento de Edición
+Maintainer-Email: edicion@ivie.es
+Type: ReDIF-Paper
+Handle: RePEc:ivi:wpasad
+

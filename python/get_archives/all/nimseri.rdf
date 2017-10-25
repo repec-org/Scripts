@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: NIMA Working Papers
+Description: NIMA Working Papers Series
+Classification-JEL: D; I; J; L
+Notification: 
+Type: ReDIF-Paper
+Provider-Name: Núcleo de Investigação em Microeconomia Aplicada (NIMA), Universidade do Minho
+Provider-Homepage: http://nima.eeg.uminho.pt/
+Provider-Postal: NIMA, EEG - Universidade do Minho, 4710-057 Braga, Portugal
+Provider-Phone: +351 253601930
+Provider-Fax: +351 253601380
+Maintainer-Name: NIMA
+Maintainer-Email: nima@eeg.uminho.pt
+Editor-Name: Priscila Ferreira
+Editor-Email: priscila@eeg.uminho.pt
+Editor-Workplace-Name: Universidade do Minho
+Editor-Workplace-Homepage: http://www1.eeg.uminho.pt/economia/priscila
+Order-Email: nima@eeg.uminho.pt
+Order-Homepage: http://nima.eeg.uminho.pt/
+Order-Postal: NIMA, EEG - Universidade do Minho, 4710-057 Braga, Portugal
+Price:
+Handle: RePEc:nim:nimawp

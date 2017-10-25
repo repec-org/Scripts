@@ -1,0 +1,93 @@
+Template-type: ReDIF-Series 1.0 
+Name:  Discussion Papers
+Description: Staff Discussion Papers are completed staff research studies on a wide variety of subjects relevant to central bank policy.
+Classification-JEL: 
+Restriction: 
+Notification: 
+Type: ReDIF-Paper 
+Provider-Name: Bank of Canada
+Provider-Homepage: http://www.bank-banque-canada.ca/
+Provider-Phone: 613 782-8845
+Provider-Postal: 234 Wellington Street, Ottawa, Ontario, K1A 0G9, Canada 
+Provider-Fax: 613 782-8874 
+Maintainer-Name: 
+Maintainer-Email: website@bank-banque-canada.ca 
+Editor-Name: Glen Keenleyside  
+Editor-Email: gkeenleyside@bank-banque-canada.ca
+Handle: RePEc:bca:bocadp
+
+Template-type: ReDIF-Series 1.0 
+Name:  Staff Working Papers
+Description: Staff Working Papers provide a forum for staff to publish work-in-progress research intended for journal publication.
+Classification-JEL: 
+Restriction: 
+Notification: 
+Type: ReDIF-Paper 
+Provider-Name: Bank of Canada
+Provider-Homepage: http://www.bank-banque-canada.ca/
+Provider-Phone: 613 782-8845
+Provider-Postal: 234 Wellington Street, Ottawa, Ontario, K1A 0G9, Canada 
+Provider-Fax: 613 782-8874 
+Maintainer-Name: 
+Maintainer-Email: website@bank-banque-canada.ca
+Editor-Name: Glen Keenleyside  
+Editor-Email: gkeenleyside@bank-banque-canada.ca
+Handle: RePEc:bca:bocawp
+
+
+Template-type: ReDIF-Series 1.0 
+Name: Bank of Canada Review
+Description: 
+Classification-JEL: 
+Restriction: 
+Notification: 
+Type: ReDIF-Article 
+Provider-Name: Bank of Canada
+Provider-Homepage: http://www.bank-banque-canada.ca/ 
+Provider-Phone: 613 782-8845
+Provider-Postal: 234 Wellington Street, Ottawa, Ontario, K1A 0G9, Canada 
+Provider-Fax: 613 782-8874  
+Maintainer-Name: 
+Maintainer-Email: website@bank-banque-canada.ca 
+Handle: RePEc:bca:bcarev
+
+
+Template-type: ReDIF-Series 1.0 
+Name: Technical Reports
+Description: Technical reports cover a broad range of topics and are generally g
+eared towards a specialist audience. The full text of technical reports publishe
+d since 1994 is available on-line.  
+Classification-JEL: 
+Restriction: 
+Notification: 
+Type: ReDIF-Paper 
+Provider-Name: Bank of Canada
+Provider-Homepage: http://www.bank-banque-canada.ca/ 
+Provider-Phone: 613 782-8845
+Provider-Postal: 234 Wellington Street, Ottawa, Ontario, K1A 0G9, Canada 
+Provider-Fax: 613 782-8874  
+Maintainer-Name: 
+Maintainer-Email: website@bank-banque-canada.ca 
+Editor-Name: Glen Keenleyside 
+Editor-Email: gkeenleyside@bank-banque-canada.ca
+Handle: RePEc:bca:bocatr
+
+Template-type: ReDIF-Series 1.0 
+Name: Staff Analytical Notes
+Description: Staff Analytical Notes are short articles that focus on topical issues relevant to the current economic and financial context.
+Classification-JEL: 
+Restriction: 
+Notification: 
+Type: ReDIF-Paper
+Provider-Name: Bank of Canada
+Provider-Homepage: http://www.bank-banque-canada.ca/ 
+Provider-Phone: 613 782-8845
+Provider-Postal: 234 Wellington Street, Ottawa, Ontario, K1A 0G9, Canada 
+Provider-Fax: 613 782-8874  
+Maintainer-Name: 
+Maintainer-Email: website@bank-banque-canada.ca 
+Handle: RePEc:bca:bocsan
+
+
+
+

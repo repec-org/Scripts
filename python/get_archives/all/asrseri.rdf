@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Juridical Tribune (Tribuna Juridica)
+Description: This is a journal that publishes articles, studies and jurisprudence analyses in all areas of legal sciences. Legal debates platform published in Romanian, English or French, the Journal wants to reach a bridge between legal science researchers from worldwide. The Journal opens its pages to authors from different countries, from the legal education space and from the practitioners of law, encouraging both publication of international interest studies covering comparative law, European Union law, international trade law, public international law, and the studies on the particularities of national law.
+Provider-Name: Bucharest Academy of Economic Studies, Law Department
+Provider-Homepage:http://drept.ase.ro/
+Provider-Institution: RePEc:edi:aseeero 
+Maintainer-Name: Catalin-Silviu Sararu
+Maintainer-Email: catalin.sararu@tribunajuridica.eu
+Type: ReDIF-Article
+Handle: RePEc:asr:journl

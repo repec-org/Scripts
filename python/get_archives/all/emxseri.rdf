@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Estudios Económicos
+
+Provider-Name: El Colegio de México, Centro de Estudios Económicos
+
+Provider-Homepage: http://www.colmex.mx/centros/cee/
+
+Provider-Institution: RePEc:edi:cecolmx
+
+Maintainer-Name: Rocío Contreras
+
+Maintainer-Email: crocio@colmex.mx
+
+Type: ReDIF-Article
+
+Handle: RePEc:emx:esteco
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Serie documentos de trabajo del Centro de Estudios Económicos
+Provider-Name: El Colegio de México, Centro de Estudios Económicos
+Provider-Homepage: http://www.colmex.mx/centros/cee/
+Provider-Institution: RePEc:edi:cecolmx
+Maintainer-Name: Rocío Contreras Romo
+Maintainer-Email: crocio@colmex.mx
+Type: ReDIF-Paper
+Handle: RePEc:emx:ceedoc

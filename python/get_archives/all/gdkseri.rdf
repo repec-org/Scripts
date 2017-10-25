@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: GUT FME Working Paper Series A
+Provider-Name: Faculty of Management and Economics, Gdansk University of Technology
+Provider-Homepage: http://www.zie.pg.gda.pl
+Provider-Institution: RePEc:edi:wzepgpl
+Maintainer-Name: Wojciech Drapinski
+Maintainer-Email: Wojciech.Drapinski@zie.pg.gda.pl
+Type: ReDIF-Paper
+Handle: RePEc:gdk:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: GUT FME Conference Publications
+Description: This series presents papers presented at ENTIME conferences held at the Faculty of Management and Economics - Gdansk University of Technology.
+Provider-Name: Faculty of Management and Economics, Gdansk University of Technology
+Provider-Homepage: http://www.zie.pg.gda.pl
+Provider-Institution: RePEc:edi:wzepgpl
+Maintainer-Name: Wojciech Drapinski
+Maintainer-Email: Wojciech.Drapinski@zie.pg.gda.pl
+Type:ReDIF-Chapter
+Handle: RePEc:gdk:chapte

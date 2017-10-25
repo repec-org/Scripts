@@ -1,0 +1,61 @@
+Template-type: ReDIF-Series 1.0
+Name: Interdisciplinary Management Research
+Provider-Name: Josip Juraj Strossmayer University of Osijek, Faculty of Economics, Croatia
+Provider-Homepage: http://www.efos.unios.hr
+Provider-Institution: RePEc:edi:efosihr
+Maintainer-Name: Hrvoje Serdarusic, PhD
+Maintainer-Email: hserdar@efos.hr
+Type: ReDIF-Article
+Handle: RePEc:osi:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Scientific Symposium Pforzheim
+Provider-Name: Josip Juraj Strossmayer University of Osijek, Faculty of Economics, Croatia
+Provider-Homepage: http://www.efos.unios.hr
+Provider-Institution: RePEc:edi:efosihr
+Maintainer-Name: Hrvoje Serdarusic, PhD
+Maintainer-Email: hserdar@efos.hr
+Type: ReDIF-Article
+Handle: RePEc:osi:scispf
+
+Template-type: ReDIF-Series 1.0
+Name: Business Logistics in Modern Management
+Provider-Name: Josip Juraj Strossmayer University of Osijek, Faculty of Economics, Croatia
+Provider-Homepage: http://www.efos.unios.hr
+Provider-Institution: RePEc:edi:efosihr
+Maintainer-Name: Davor Dujak,PhD
+Maintainer-Email: ddujak@efos.hr
+Type: ReDIF-Article
+Handle: RePEc:osi:bulimm
+
+Template-type: ReDIF-Series 1.0
+Name: EFOS Working Papers Series
+Provider-Name: Josip Juraj Strossmayer University of Osijek, Faculty of Economics, Croatia
+Provider-Homepage: http://www.efos.unios.hr
+Provider-Institution: RePEc:edi:efosihr
+Maintainer-Name: Hrvoje Serdarusic, PhD
+Maintainer-Email: wps@efos.hr
+Type: ReDIF-Paper
+Handle: RePEc:osi:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Economy of eastern Croatia yesterday, today, tommorow
+Provider-Name: Josip Juraj Strossmayer University of Osijek, Faculty of Economics, Croatia
+Provider-Homepage: http://www.efos.unios.hr
+Provider-Institution: RePEc:edi:efosihr
+Maintainer-Name: Hrvoje Serdarusic, PhD
+Maintainer-Email: hserdar@efos.hr
+Type: ReDIF-Article
+Handle: RePEc:osi:eecytt
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Description: Knjiga obraduje nacine i modele financiranja regionalnog razvoja putem zaklada i fundacija
+Provider-Name: Josip Juraj Strossmayer University of Osijek, Faculty of Economics, Croatia
+Provider-Institution: RePEc:edi:efosihr
+Maintainer-Name: Hrvoje Serdarusic, PhD
+Maintainer-Email: hserdar@efos.hr
+Type: ReDIF-Book
+Handle: RePEc:osi:osbook
+
+

@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Series 1.0
+Name: LIS Working papers
+Provider-Name: LIS Cross-National Data Center in Luxembourg
+Provider-Homepage: http://www.lisdatacenter.org
+Provider-Institution: RePEc:edi:lisprlu
+Maintainer-Name: Piotr Paradowski
+Maintainer-Email: publication@lisdatacenter.org
+Type: ReDIF-Paper
+Handle: RePEc:lis:liswps
+
+Template-Type: ReDIF-Series 1.0
+Name: LWS Working papers
+Provider-Name: LIS Cross-National Data Center in Luxembourg
+Provider-Homepage: http://www.lisdatacenter.org
+Provider-Institution: RePEc:edi:lisprlu
+Maintainer-Name: Piotr Paradowski
+Maintainer-Email: publication@lisdatacenter.org
+Type: ReDIF-Paper
+Handle: RePEc:lis:lwswps
+
+

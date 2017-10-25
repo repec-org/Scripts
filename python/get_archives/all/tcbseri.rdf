@@ -1,0 +1,43 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Research and Monetary Policy Department, Central Bank of the Republic of Turkey
+Provider-Homepage: http://www.tcmb.gov.tr
+Provider-Institution: RePEc:edi:tcmgvtr
+Maintainer-Name: Ozlem Ekmekciler Ramalho Rocha
+Maintainer-Name: Ilker Cakar
+Maintainer-Email: Ozlem.Ekmekciler@tcmb.gov.tr 
+Maintainer-Email: Ilker.Cakar@tcmb.gov.tr
+Type: ReDIF-Paper
+Handle: RePEc:tcb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: Research and Monetary Policy Department, Central Bank of the Republic of Turkey
+Provider-Homepage: http://www.tcmb.gov.tr
+Provider-Institution: RePEc:edi:tcmgvtr
+Maintainer-Name: Ozlem Ekmekciler Ramalho Rocha
+Maintainer-Name: Ilker Cakar
+Maintainer-Email: Ozlem.Ekmekciler@tcmb.gov.tr 
+Maintainer-Email: Ilker.Cakar@tcmb.gov.tr
+Type: ReDIF-Paper
+Handle: RePEc:tcb:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Central Bank Review
+Description: This is the official academic journal of the Central Bank of the Republic of Turkey
+Provider-Name: Research and Monetary Policy Department, Central Bank of the Republic of Turkey
+Provider-Institution: RePEc:edi:tcmgvtr
+Maintainer-Email: Ozlem.Ekmekciler@tcmb.gov.tr 
+Maintainer-Email: Ilker.Cakar@tcmb.gov.tr
+Maintainer-Email: cbreview@tcmb.gov.tr
+Type: ReDIF-Article
+Handle: RePEc:tcb:cebare
+ 
+Template-type: ReDIF-Series 1.0
+Name: CBT Research Notes in Economics 
+Provider-Name: Research and Monetary Policy Department, Central Bank of the Republic of Turkey
+Provider-Institution: RePEc:edi:tcmgvtr
+Maintainer-Name: 
+Maintainer-Email: ekonomi.notlari@tcmb.gov.tr
+Type: ReDIF-Paper
+Handle: RePEc:tcb:econot

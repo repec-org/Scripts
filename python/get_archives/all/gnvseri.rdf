@@ -1,0 +1,20 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Geneva, Paul Bairoch Institute of Economic History
+Provider-Homepage: https://www.unige.ch/sciences-societe/inhec/home/
+Provider-Institution: RePEc:edi:ihegech
+Maintainer-Name: Jean-Blaise Claivaz
+Maintainer-Email: archive-ouverte@unige.ch
+Type: ReDIF-Paper
+Handle: RePEc:gnv:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Geneva, Geneva School of Economics and Management
+Provider-Homepage: http://www.unige.ch/gsem/
+Provider-Institution: RePEc:edi:depgech
+Maintainer-Name: Jean-Blaise Claivaz
+Maintainer-Email: archive-ouverte@unige.ch
+Type: ReDIF-Paper
+Handle: RePEc:gnv:wpgsem

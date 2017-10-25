@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion papers
+Provider-Name: Research Institute of Economy, Trade and Industry (RIETI)
+Provider-Institution: RePEc:edi:rietijp
+Maintainer-Name: NUKATANI Sorahiko
+Maintainer-Email: kumagai-akiko@rieti.go.jp
+Handle: RePEc:eti:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Discussion Papers
+Provider-Name: Research Institute of Economy, Trade and Industry (RIETI)
+Provider-Institution: RePEc:edi:rietijp
+Maintainer-Name: NUKATANI Sorahiko
+Maintainer-Email: kumagai-akiko@rieti.go.jp
+Handle: RePEc:eti:polidp
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers (Japanese)
+Provider-Name: Research Institute of Economy, Trade and Industry (RIETI)
+Provider-Institution: RePEc:edi:rietijp
+Maintainer-Name: NUKATANI Sorahiko
+Maintainer-Email: kumagai-akiko@rieti.go.jp
+Handle: RePEc:eti:rdpsjp
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Discussion Papers (Japanese)
+Provider-Name: Research Institute of Economy, Trade and Industry (RIETI)
+Provider-Institution: RePEc:edi:rietijp
+Maintainer-Name: NUKATANI Sorahiko
+Maintainer-Email: kumagai-akiko@rieti.go.jp
+Handle: RePEc:eti:rpdpjp

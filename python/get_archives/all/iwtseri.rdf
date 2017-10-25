@@ -1,0 +1,79 @@
+Template-type: ReDIF-Series 1.0
+Name: IWMI Research Reports
+Description: This is the IWMI Reports collection
+Provider-Name: International Water Management Institute
+Provider-Institution:RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Paper
+Handle: RePEc:iwt:rerpts
+
+Template-type: ReDIF-Series 1.0
+Name: IWMI Working Papers
+Description: This is the IWMI Working Paper collection
+Provider-Name: International Water Management Institute
+Provider-Institution:RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Paper
+Handle: RePEc:iwt:worppr
+
+Template-type: ReDIF-Series 1.0
+Name: IWMI Water Policy Briefings
+Description: This is the IWMI Water Policy Briefings collection
+Provider-Name: International Water Management Institute
+Provider-Institution:RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Paper
+Handle: RePEc:iwt:polbrs
+
+Template-type: ReDIF-Series 1.0
+Name: IWMI Books, Reports 
+Description: This is the IWMI book collection
+Provider-Name: International Water Management Institute
+Provider-Institution:RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Paper
+Handle: RePEc:iwt:bosers
+
+Template-type: ReDIF-Series 1.0
+Name: Papers published in Journals (Open Access)
+Description: This is a collection of papers (Open Access) by IWMI authors in Journals. 
+Provider-Name: International Water Management Institute
+Provider-Institution:RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Paper
+Handle: RePEc:iwt:jounls
+
+Template-type: ReDIF-Series 1.0
+Name: Water Figures: quarterly newsletter of the International Water Management Institute (IWMI)
+Provider-Name: International Water Management Institute
+Provider-Homepage: http://www.iwmi.org
+Provider-Institution: RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Article
+Handle: RePEc:iwt:watfig
+
+Template-type: ReDIF-Series 1.0
+Name: Conference Proceedings
+Description: This is the IWMI Conference Proceedings Collecion 
+Provider-Name: International Water Management Institute
+Provider-Institution:RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Paper
+Handle: RePEc:iwt:conprc
+
+Template-type: ReDIF-Series 1.0
+Name: Conference Papers
+Description: This is the IWMI Conference Papers Collecion 
+Provider-Name: International Water Management Institute
+Provider-Institution:RePEc:edi:iwmiclk
+Maintainer-Name: Chandima Gunadasa
+Maintainer-Email: c.gunadasa@cgiar.org
+Type: ReDIF-Paper
+Handle: RePEc:iwt:conppr

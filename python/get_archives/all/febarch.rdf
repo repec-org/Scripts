@@ -1,0 +1,6 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:feb
+Name: The Field Experiments Website
+Maintainer-Email: seidelj@uchicago.edu
+Description: This archive serves as an online database of field experiments in experimental economics.
+URL: http://fieldexperiments-papers2.s3-website-us-east-1.amazonaws.com/RePEc/feb/

@@ -1,0 +1,62 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Department Discussion Papers
+
+Description:Department of Economics Discussion Papers Series.
+ 
+Type: ReDIF-Paper
+
+Provider-Name:Department of Economics, University of Victoria
+
+Provider-Homepage: http://web.uvic.ca/econ
+
+Provider-Phone:(250)721-6197
+
+Provider-Postal:PO Box 1700, STN CSC, Victoria, BC, Canada, V8W 2Y2
+
+Provider-Fax:(250)721-6214
+
+Provider-Institution:RePEc:edi:devicca
+
+Maintainer-Name: Graham Voss
+Maintainer-Email: gvoss@uvic.ca
+
+Editor-Name: Graham Voss
+
+Editor-Email: gvoss@uvic.ca
+
+Editor-Workplace-Name: Department of Economics, University of Victoria
+
+Handle: RePEc:vic:vicddp
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Econometrics Working Papers
+
+Description: This series covers all areas of Econometrics. It began in 1998, and the papers are available ONLY in electronic form via the Web.
+
+Type: ReDIF-Paper
+
+Provider-Name: Department of Economics, University of Victoria
+
+Provider-Homepage: http://web.uvic.ca/econ
+
+Provider-Phone:(250)721-6197
+
+Provider-Postal:PO Box 1700, STN CSC, Victoria, BC, Canada, V8W 2Y2
+
+Provider-Fax:(250)721-6214
+
+Provider-Institution:RePEc:edi:devicca
+
+Maintainer-Name:Graham Voss
+Maintainer-Email:gvoss@uvic.ca
+
+Editor-Name:Graham Voss
+Editor-Email:gvoss@uvic.ca
+
+Editor-Workplace-Name:Department of Economics, University of Victoria
+
+Handle: RePEc:vic:vicewp
+

@@ -1,0 +1,40 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Instituto Universitario de Análisis Económico y Social
+Provider-Homepage: http://www.iaes.es
+Provider-Institution: RePEc:edi:seuahes
+Maintainer-Name: Laura Suarez
+Maintainer-Email: iaes@uah.es
+Type: ReDIF-Paper
+Handle: RePEc:uae:wpaper
+ISSN:2172-2856
+
+Template-type: ReDIF-Series 1.0
+Name: Essays and researchs
+Provider-Name: Instituto Universitario de Análisis Económico y Social
+Provider-Institution: RePEc:edi:seuahes
+Maintainer-Name: Laura Suarez
+Maintainer-Email: iaes@uah.es
+Type: ReDIF-Book
+Handle: RePEc:uae:essays
+
+Template-type: ReDIF-Series 1.0
+Name: SERMED 2014 Conference Papers
+Provider-Name: Instituto Universitario de Análisis Económico y Social
+Provider-Homepage: http://www.iaes.es
+Provider-Institution: RePEc:edi:seuahes
+Maintainer-Name: Laura Suarez
+Maintainer-Email: iaes@uah.es
+Type: ReDIF-Paper
+Handle: RePEc:uae:sermed
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Socioeconomic Engineering
+Provider-Name: Instituto Universitario de Análisis Económico y Social
+Provider-Homepage: http://www.iaes.es
+Provider-Institution: RePEc:edi:seuahes
+Maintainer-Name: Laura Suarez
+Maintainer-Email: iaes@uah.es
+Type: ReDIF-Article
+Handle: RePEc:uae:soceng
+

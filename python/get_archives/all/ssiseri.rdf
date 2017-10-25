@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Security and Sustainability Issues 
+Description: This is the official journal of the General Jonas Zemaitis Military Academy of Lithuania
+Provider-Name: The General Jonas Zemaitis Military Academy of Lithuania
+Maintainer-Name: Manuela Tvaronaviciene
+Maintainer-Email: manuela.tvaronaviciene@jssidoi.org
+Editor-Name: Manuela Tvaronaviciene
+Editor-Email: manuela.tvaronaviciene@jssidoi.org
+Type: ReDIF-Article
+Handle: RePEc:ssi:joussi
+
+Template-type: ReDIF-Series 1.0
+Name: Entrepreneurship and Sustainability Issues
+Description: This is the official journal of VsI Entrepreneurship and Sustainability Center
+Provider-Name: VsI Entrepreneurship and Sustainability Center
+Maintainer-Name: Manuela Tvaronaviciene
+Maintainer-Email: manuela.tvaronaviciene@jssidoi.org
+Editor-Name: Manuela Tvaronaviciene
+Editor-Email: manuela.tvaronaviciene@jssidoi.org
+Type: ReDIF-Article
+Handle: RePEc:ssi:jouesi

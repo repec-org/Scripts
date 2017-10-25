@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Research Foundation for Humanity (RFH)
+Provider-Homepage: http://www.rfh.org.pk/working_papers.php/
+Provider-Institution: RePEc:edi:rffhlpk
+Maintainer-Name: Dr. Muhammad Irfan Chani (PhD Applied Economics)
+Maintainer-Email: info@rfh.org.pk
+Type: ReDIF-Paper
+Handle: RePEc:rfh:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Bulletin of Business and Economics (BBE)
+Provider-Name: Research Foundation for Humanity (RFH)
+Provider-Institution: RePEc:edi:rffhlpk
+Maintainer-Name: Dr. Muhammad Irfan Chani (PhD Applied Economics)
+Maintainer-Email: info@rfh.org.pk
+Editor-Name: Dr. Muhammad Irfan Chani (PhD Applied Economics)
+Editor-Email: bbe@rfh.org.pk
+Type: ReDIF-Article
+Handle: RePEc:rfh:bbejor
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Policy Research (JPR)
+Provider-Name: Research Foundation for Humanity (RFH)
+Provider-Institution: RePEc:edi:rffhlpk
+Maintainer-Name: Dr. Muhammad Irfan Chani (PhD Applied Economics)
+Maintainer-Email: info@rfh.org.pk
+Editor-Name: Dr. Muhammad Irfan Chani (PhD Applied Economics)
+Editor-Email: jpr@rfh.org.pk
+Type: ReDIF-Article
+Handle: RePEc:rfh:jprjor

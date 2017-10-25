@@ -1,0 +1,45 @@
+Template-type: ReDIF-Series 1.0
+Name: Research papers & Policy papers
+Description: Research papers & Policy papers
+Type: ReDIF-Paper
+Provider-Name: OCP Policy Center
+Provider-Homepage: http://www.ocppc.ma/publications
+Provider-Institution: RePEc:edi:ocppcma
+Maintainer-Email: webmaster@ocppc.ma
+Maintainer-Name: OCP Policy Center's Customer service
+Handle: RePEc:ocp:rpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Policy notes & Policy briefs
+Description: Policy notes & Policy briefs
+Type: ReDIF-Paper
+Provider-Name: OCP Policy Center
+Provider-Homepage: http://www.ocppc.ma/publications
+Provider-Institution: RePEc:edi:ocppcma
+Maintainer-Email: webmaster@ocppc.ma
+Maintainer-Name: OCP Policy Center's Customer service
+Handle: RePEc:ocp:ppaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: International Jobs Report
+Description: International Jobs Report
+Type: ReDIF-Paper
+Provider-Name: OCP Policy Center
+Provider-Homepage: http://www.ocppc.ma/publications
+Provider-Institution: RePEc:edi:ocppcma
+Maintainer-Email: webmaster@ocppc.ma
+Maintainer-Name: OCP Policy Center's Customer service
+Handle: RePEc:ocp:ipaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Books & Reports
+Description: Books & Reports
+Type: ReDIF-Book
+Provider-Name: OCP Policy Center
+Provider-Homepage: http://www.ocppc.ma/publications/Books-%26-Reports
+Provider-Institution: RePEc:edi:ocppcma
+Maintainer-Email: webmaster@ocppc.ma
+Maintainer-Name: OCP Policy Center's Customer service
+Handle: RePEc:ocp:dbbook

@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: HKUST IEMS Working Paper Series
+Provider-Name: HKUST Institute for Emerging Market Studies
+Provider-Homepage: http://iems.ust.hk
+Provider-Institution: RePEc:edi:ieusthk
+Maintainer-Name: Carla Chan
+Maintainer-Email: carlachan@ust.hk
+Type: ReDIF-Paper
+Handle: RePEc:hku:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: HKUST IEMS Thought Leadership Brief Series
+Provider-Name: HKUST Institute for Emerging Market Studies
+Provider-Homepage: http://iems.ust.hk
+Provider-Institution: RePEc:edi:ieusthk
+Maintainer-Name: Carla Chan
+Maintainer-Email: carlachan@ust.hk
+Type: ReDIF-Paper
+Handle: RePEc:hku:briefs

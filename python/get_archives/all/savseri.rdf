@@ -1,0 +1,30 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics
+Provider-Name: Institute of Economic Research, SAS
+Provider-Homepage: http://ekonom.sav.sk
+Provider-Institution: RePEc:edi:eusavsk
+Maintainer-Name: Jan Michalek
+Maintainer-Email: jan.michalek@savba.sk
+Editor-Name: Tomas Jeck
+Type: ReDIF-Article
+Handle: RePEc:sav:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Type: ReDIF-Paper
+Provider-Name: Institute of Economic Research, SAS
+Provider-Homepage: http://ekonom.sav.sk
+Provider-Institution: RePEc:edi:eusavsk
+Maintainer-Name: Jan Michalek
+Maintainer-Email: jan.michalek@savba.sk
+Handle: RePEc:sav:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Type: ReDIF-Book
+Provider-Name: Institute of Economic Research, SAS
+Provider-Homepage: http://ekonom.sav.sk
+Provider-Institution: RePEc:edi:eusavsk
+Maintainer-Name: Jan Michalek
+Maintainer-Email: jan.michalek@savba.sk
+Handle: RePEc:sav:ebooks

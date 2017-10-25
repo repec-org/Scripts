@@ -1,0 +1,12 @@
+#**********MANUEL*********************
+#Note the URL: field. This describes where your metadata can be found. We recommend that you create a RePEc/ directory on your server, this makes sure that your IT personnel knows what these files are about. Also, within the RePEc/ directory, create a directory with your archive name, which corresponds to your archive handle, in the above case aaa. 
+
+#Save the created template in a file called aaaarch.rdf, where aaa is your archive code. Place this file in the aaa/ directory (that is the directory specified in the URL: field of the archive template). 
+#**********Fin MAN********************
+
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:idt
+Name: DigiWorld Economic Journal, IDATE DigiWorld
+Maintainer-Email: informatique@idate.org
+Description: This archive collects the working papers edited by Idate in Communications & Strategies
+URL: http://repec.idate.org/RePEc/idt/

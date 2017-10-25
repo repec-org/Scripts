@@ -1,0 +1,53 @@
+Template-type: ReDIF-Series 1.0
+Name: Annales. Ethics in Economic Life
+Description: This is the scientific journal devoted to various ethical aspects of economic life published by the Faculty of Economics and Sociology of University of Lodz
+Provider-Name: University of Lodz, Faculty of Economics and Sociology
+Provider-Homepage: http://www.eksoc.uni.lodz.pl/en/
+Provider-Institution: RePEc:edi:welodpl
+Maintainer-Name: Joanna Dzionek-Kozlowska
+Maintainer-Email: jdzionek@gmail.com
+Editor-Name: Joanna Dzionek-Kozlowska
+Editor-Email: ethicsineconlife@uni.lodz.pl
+ISSN: 1899-2226
+ISSN: 2353-4869
+Type: ReDIF-Article
+Handle: RePEc:ann:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Finance and Financial Law
+Provider-Name: University of Lodz, Faculty of Economics and Sociology, Faculty of Law and Administration
+Provider-Homepage: http://www.eksoc.uni.lodz.pl/en/
+Provider-Institution: RePEc:edi:welodpl
+Maintainer-Name: Journal of Finance and Financial Law Editors
+Maintainer-Email: joffl@uni.lodz.pl
+Editor-Name: Iwona Dorota Czechowska
+Editor-Email: joffl@uni.lodz.pl
+ISSN: 2353-5601
+Type: ReDIF-Article
+Handle: RePEc:ann:jofafl
+
+Template-type: ReDIF-Series 1.0
+Name: International Economics
+Provider-Name: University of Lodz, Faculty of Economics and Sociology
+Provider-Homepage: http://www.eksoc.uni.lodz.pl/en/
+Provider-Institution: RePEc:edi:welodpl
+Maintainer-Name: International Economics
+Maintainer-Email: pgabrielczak@uni.lodz.pl
+Editor-Name: Piotr Gabrielczak
+Editor-Email: pgabrielczak@uni.lodz.pl
+ISSN: 2082-4440
+ISSN: 2300-6005
+Type: ReDIF-Article
+Handle: RePEc:ann:inecon
+
+Template-type: ReDIF-Series 1.0
+Name: Lodz Economics Working Papers
+Provider-Name: University of Lodz, Faculty of Economics and Sociology
+Provider-Homepage: http://www.eksoc.uni.lodz.pl/en/
+Provider-Institution: RePEc:edi:welodpl
+Maintainer-Name: LEWP Editors
+Maintainer-Email: lewp@uni.lodz.pl
+Editor-Name: 
+Editor-Email: lewp@uni.lodz.pl
+Type: ReDIF-Paper
+Handle: RePEc:ann:wpaper

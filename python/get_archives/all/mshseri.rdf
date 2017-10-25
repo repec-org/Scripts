@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Monash Econometrics and Business Statistics Working Papers
+Description: EBS working papers
+Classification-JEL: 
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Monash University, Department of Econometrics and Business Statistics
+Provider-Homepage: http://business.monash.edu/econometrics-and-business-statistics 
+Provider-Phone: +61 3 99052489
+Provider-Postal: PO Box 11E, Monash University, Victoria 3800, Australia
+Provider-Fax: +61 3 99055474
+Provider-Institution: RePEc:edi:dxmonau
+Maintainer-Name: Dr Xibin Zhang
+Maintainer-Email: xibin.zhang@monash.edu
+Editor-Name: Professor Farshid Vahid 
+Editor-Email: farshid.vahid@monash.edu
+Order-Email: econometrics@monash.edu
+Order-Homepage: http://business.monash.edu/econometrics-and-business-statistics
+Handle: RePEc:msh:ebswps

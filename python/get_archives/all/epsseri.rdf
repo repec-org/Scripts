@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: CEPS Papers
+Provider-Name: Centre for European Policy Studies
+Provider-Homepage: http://www.ceps.eu
+Provider-Institution: RePEc:edi:cepssbe
+Maintainer-Name: Margarita Minkova
+Maintainer-Email: admin@ceps.eu
+Handle: RePEc:eps:cepswp
+
+Template-type: ReDIF-Series 1.0
+Name: ECMI Papers
+Provider-Name: Centre for European Policy Studies
+Provider-Homepage:  http://www.ceps.eu
+Provider-Institution: RePEc:edi:cepssbe
+Maintainer-Name: Margarita Minkova
+Maintainer-Email: admin@ceps.eu
+Handle: RePEc:eps:ecmiwp
+
+Template-type: ReDIF-Series 1.0
+Name: ECRI Papers
+Provider-Name: Centre for European Policy Studies
+Provider-Homepage:  http://www.ceps.eu
+Provider-Institution: RePEc:edi:cepssbe
+Maintainer-Name: Margarita Minkova
+Maintainer-Email: admin@ceps.eu
+Handle: RePEc:eps:ecriwp
+
+Template-type: ReDIF-Series 1.0
+Name: Factor Markets Working Papers
+Provider-Name: Centre for European Policy Studies
+Provider-Homepage:  http://www.ceps.eu
+Provider-Institution: RePEc:edi:cepssbe
+Maintainer-Name: Eleni Kaditi
+Maintainer-Email: admin@ceps.eu
+Handle: RePEc:eps:fmwppr

@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:ags
+Name: Agecon Search
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Email: ageconsearch@umn.edu
+Description: This archive integrates in RePEc Agecon search content not yet listed on REPEc
+URL: ftp://ideas.repec.org/pub/RePEc/ags/
+Homepage: http://ageconsearch.umn.edu/

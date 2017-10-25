@@ -1,0 +1,13 @@
+Template-type: ReDIF-Series 1.0
+Name: QA - Rivista dell'Associazione Rossi-Doria
+Description: Contains issues of 'QA' - Rivista dell'Associazione Rossi-Doria
+Type: ReDIF-Article 1.0
+Provider-Name: Associazione Rossi Doria
+Provider-Homepage: http://host.uniroma3.it/associazioni/rossidoria/qa.asp
+Provider-Phone: +39 06 57114743
+Provider-Postal: Via Silvio d'Amico 77, - 00145 Rome Italy
+Provider-Fax: +39 06 57114774
+Provider-Institution: RePEc:edi:rossiea
+Maintainer-Name:
+Maintainer-Email: qa@rossidoria.it
+Handle: RePEc:rar:journl

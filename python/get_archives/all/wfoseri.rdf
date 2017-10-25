@@ -1,0 +1,70 @@
+Template-type: ReDIF-Series 1.0
+Name: WIFO Working Papers
+Description: Research papers by WIFO staff members, consultants and guests – Free downloads
+Provider-Name: WIFO
+Provider-Institution: RePEc:edi:wifooat
+Maintainer-Name: Ilse Schulz
+Maintainer-Email: publikationen@wifo.ac.at
+Type: ReDIF-Paper
+Handle: RePEc:wfo:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: WIFO Monatsberichte (monthly reports)
+Description: Monthly analysis of current economic developments in Austria and the major OECD countries.
+ Quarterly economic forecast
+ Some 70 articles per year with background information (tables and diagrams) and a short English abstract
+ Supplemented each month by a full set of tables listing approximately 300 macroeconomic indicators.
+ Online full-text issues available since January 1998
+Provider-Name: WIFO
+Provider-Institution: RePEc:edi:wifooat
+Maintainer-Name: Ilse Schulz
+Maintainer-Email: publikationen@wifo.ac.at
+Type: ReDIF-Article
+Handle: RePEc:wfo:monber
+Order-Email: publikationen@wifo.ac.at
+Order-Postal: 
+ Austrian Institute of Economic Research 
+ Publikationsverkauf und Abonnentenbetreuung
+ Arsenal, Objekt 20
+ A-1030 Vienna/Austria
+ISSN: ISSN 0029-9898
+Notification: Subscribe to mailing-list wifo-news@wifo.ac.at:
+ http://www.wifo.ac.at/wwa/jsp/index.jsp?fid=906
+Restriction: Payment required
+Price: One-year subscription € 220, single issue € 22, download of individual articles € 15
+
+Template-type: ReDIF-Series 1.0
+Name: Austrian Economic Quarterly
+Description: European economic integration
+ Economic cooperation with Eastern European countries
+ International competitiveness policies
+ Economic outlooks in an international perspective
+ Online full-text issues available since January 1998, published exclusively in digital form
+Provider-Name: WIFO
+Provider-Institution: RePEc:edi:wifooat
+Maintainer-Name: Ilse Schulz
+Maintainer-Email: publikationen@wifo.ac.at
+Type: ReDIF-Article
+Handle: RePEc:wfo:wquart
+Notification: Subscribe to mailing-list quarterly-news@wifo.ac.at:
+ http://www.wifo.ac.at/wwa/jsp/index.jsp?fid=906
+Restriction: Payment required
+Price: One-year subscription € 81, download of individual articles € 15
+
+Template-type: ReDIF-Series 1.0
+Name: WIFO Bulletin
+Description: European economic integration
+ Economic cooperation with Eastern European countries
+ International competitiveness policies
+ Economic outlooks in an international perspective
+ Online full-text issues available since January 1998, published exclusively in digital form
+Provider-Name: WIFO
+Provider-Institution: RePEc:edi:wifooat
+Maintainer-Name: Ilse Schulz
+Maintainer-Email: publikationen@wifo.ac.at
+Type: ReDIF-Article
+Handle: RePEc:wfo:wblltn
+Notification: Subscribe to mailing-list quarterly-news@wifo.ac.at:
+ http://www.wifo.ac.at/wwa/jsp/index.jsp?fid=906
+Restriction: Payment required
+Price: One-year subscription € 81, download of individual articles € 15

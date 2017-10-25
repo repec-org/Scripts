@@ -1,0 +1,9 @@
+Template-type: ReDIF-Series 1.0
+Name: LERNA Working Papers
+Provider-Name: LERNA, University of Toulouse
+Provider-Homepage: http://www.toulouse.inra.fr/lerna/
+Provider-Institution: RePEc:edi:lrtlsfr
+Maintainer-Name: Maxime MARTY
+Maintainer-Email: mmarty@toulouse.inra.fr
+Type: ReDIF-Paper
+Handle: RePEc:ler:wpaper

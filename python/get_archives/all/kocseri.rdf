@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Koç University-TUSIAD Economic Research Forum Working Papers
+Provider-Name: Koc University-TUSIAD Economic Research Forum 
+Provider-Homepage: http://erf.ku.edu.tr
+Provider-Institution: RePEc:edi:dekoctr
+Maintainer-Name: Sumru Oz
+Maintainer-Email: soz@ku.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:koc:wpaper
+
+Template-type: ReDIF-Book
+Name: Koc University-TUSIAD Economic Research Forum Research Report Series 
+Provider-Name: Koc University-TUSIAD Economic Research Forum 
+Provider-Homepage: http://erf.ku.edu.tr
+Provider-Institution: RePEc:edi:dekoctr
+Maintainer-Name: Sumru Oz
+Maintainer-Email: soz@ku.edu.tr
+Type: ReDIF-Book 
+Handle: RePEc:koc:report 

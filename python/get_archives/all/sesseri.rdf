@@ -1,0 +1,13 @@
+Template-type: ReDIF-Series 1.0
+Name: Swiss Journal of Economics and Statistics (SJES)
+Description: This is the official journal of the SSES. This series lists all issues of the SJES since 1940.
+Provider-Name: Swiss Society of Economics and Statistics (SSES)
+Provider-Homepage: http://www.sjes.ch
+Provider-Institution: RePEc:edi:sgvssea
+Editor-Name: Rafael Lalive
+Editor-Email: editorial@sjes.ch
+Maintainer-Name: Peter Steiner
+Maintainer-Email: editorial@sjes.ch
+Type: ReDIF-Article
+ISSN: 0303-9692
+Handle: RePEc:ses:arsjes

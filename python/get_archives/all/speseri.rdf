@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: International Association of Sports Economists
+Provider-Homepage: http://www.cdes.fr/index.php?id=fr69
+Provider-Institution: RePEc:edi:iaseeea
+Provider-Name: North American Association of Sports Economists
+Provider-Homepage: http://www.kennesaw.edu/naase
+Provider-Institution: RePEc:edi:naaseea
+Maintainer-Name: Victor Matheson
+Maintainer-Email: vmatheso@holycross.edu
+Type: ReDIF-Paper
+Handle: RePEc:spe:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: IASE Conference Papers
+Provider-Name: International Association of Sports Economists
+Provider-Homepage: http://www.cdes.fr/index.php?id=fr69
+Provider-Institution: RePEc:edi:iaseeea
+Maintainer-Name: Victor Matheson
+Maintainer-Email: vmatheso@holycross.edu
+Type: ReDIF-Paper
+Handle: RePEc:spe:cpaper

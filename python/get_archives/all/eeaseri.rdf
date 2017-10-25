@@ -1,0 +1,25 @@
+Template-type: ReDIF-Series 1.0
+Name: Bank of Estonia Working Papers
+Description: Central Banking and related topics.
+Type: ReDIF-Paper
+Provider-Name: Bank of Estonia
+Provider-Homepage: http://www.bankofestonia.info
+Provider-Phone: +3726680719
+Provider-Postal: Estonia bld. 13, 15095 Tallinn, ESTONIA
+Provider-Fax: +3726680900
+Provider-Institution: RePEc:edi:epgovee
+Maintainer-Name: Peeter Luikmel
+Maintainer-Email: peeter.luikmel@eestipank.ee
+Editor-Name: Martti Randveer
+Editor-Email: randveer@eestipank.ee
+Editor-Workplace-Name: Head of Research Department, Bank of Estonia
+Editor-Workplace-Homepage: http://www.bankofestonia.info
+Order-Email: info@epbe.ee
+Order-Postal: Estonia bld. 13, 15095 Tallinn, ESTONIA
+Handle: RePEc:eea:boewps
+
+Template-type: ReDIF-Series 1.0
+Name: Eesti Pank Occasional Papers
+Type: ReDIF-Paper
+Handle: RePEc:eea:oc2015
+

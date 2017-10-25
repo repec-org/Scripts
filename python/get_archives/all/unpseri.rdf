@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers in Economics and Development Studies (WoPEDS)
+Provider-Name: Department of Economics, Padjadjaran University
+Provider-Homepage: http://ceds.fe.unpad.ac.id
+Provider-Institution: RePEc:edi:lppadid
+Maintainer-Name: Arief Anshory Yusuf
+Maintainer-Email: arief.yusuf@fe.unpad.ac.id
+Type: ReDIF-Paper
+Handle: RePEc:unp:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers in Business, Management and Finance 
+Provider-Name: Department of Management and Business, Padjadjaran University
+Provider-Homepage: http://lm.fe.unpad.ac.id
+Provider-Institution: RePEc:edi:dmpadid
+Maintainer-Name: Aldrin Herwany
+Maintainer-Email: aldrin.herwany@fe.unpad.ac.id
+Type: ReDIF-Paper
+Handle: RePEc:unp:wpaman
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers in Accounting Studies (WoPAcS)
+Provider-Name: Department of Accounting, Padjadjaran University
+Provider-Homepage: http://akuntansi.fe.unpad.ac.id/
+Provider-Institution: RePEc:edi:dapadid
+Maintainer-Name: Hamzah Ritchi
+Maintainer-Email: hamzahritchi@fe.unpad.ac.id
+Type: ReDIF-Paper
+Handle: RePEc:unp:wopacs
+
+Template-type: ReDIF-Series 1.0
+Name: UNPAD SDGs Working Paper Series 
+Provider-Name: Center for Sustainable Development Goals Studies, Universitas Padjadjaran
+Provider-Homepage: http://sdgcenter.unpad.ac.id/
+Provider-Institution: RePEc:edi:sdgupid
+Maintainer-Name: Arief Anshory Yusuf
+Maintainer-Email: arief.yusuf@fe.unpad.ac.id
+Type: ReDIF-Paper
+Handle: RePEc:unp:sdgspp

@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: SCEPA working paper series. SCEPA's main areas of research are macroeconomic policy, inequality and poverty, and globalization.
+Provider-Name: Schwartz Center for Economic Policy Analysis (SCEPA), The New School
+Provider-Homepage: http://www.economicpolicyresearch.org
+Provider-Institution: RePEc:edi:cenewus
+Maintainer-Name: Bridget Fisher
+Maintainer-Email: scepa@newschool.edu
+Type: ReDIF-Paper
+Handle: RePEc:epa:cepawp
+
+Template-type: ReDIF-Series 1.0
+Name: SCEPA policy note series. SCEPA's main areas of research are macroeconomic policy, inequality and poverty, and globalization.
+Provider-Name: Schwartz Center for Economic Policy Analysis (SCEPA), The New School
+Provider-Homepage: http://www.economicpolicyresearch.org
+Provider-Institution: RePEc:edi:cenewus
+Maintainer-Name: Bridget Fisher
+Maintainer-Email: scepa@newschool.edu
+Type: ReDIF-Paper
+Handle: RePEc:epa:cepapn
+
+Template-type: ReDIF-Series 1.0
+Name: SCEPA publication series. SCEPA's main areas of research are macroeconomic policy, inequality and poverty, and globalization.
+Provider-Name: Schwartz Center for Economic Policy Analysis (SCEPA), The New School
+Provider-Homepage: http://www.economicpolicyresearch.org
+Provider-Institution: RePEc:edi:cenewus
+Maintainer-Name: Bridget Fisher
+Maintainer-Email: scepa@newschool.edu
+Type: ReDIF-Paper
+Handle: RePEc:epa:cepapb

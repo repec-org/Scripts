@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: ICER Working Papers
+Description: Working Papers published by fellows at ICER
+Type: ReDIF-Paper
+Provider-Name: ICER - International Centre for Economic Research
+Provider-Homepage: http://www.esomas.unito.it/
+Provider-Phone: +39 011 6706060
+Provider-Postal: Corso Unione Sovietica, 218bis - 10134 Torino - Italy
+Provider-Fax: +39 011 6706062
+Provider-Institution: RePEc:edi:icerrit
+Maintainer-Name: Simone Pellegrino
+Maintainer-Email: simone.pellegrino@unito.it
+Handle: RePEc:icr:wpicer
+
+
+Template-type: ReDIF-Series 1.0
+Name: ICER Working Papers - Applied Mathematics Series
+Description: Working papers about mathematics applied to economics
+Type: ReDIF-Paper
+Provider-Name: ICER - International Centre for Economic Research
+Provider-Homepage: http://www.esomas.unito.it/
+Provider-Phone: +39 011 6706060
+Provider-Postal: Corso Unione Sovietica, 218bis - 10134 Torino - Italy
+Provider-Fax: +39 011 6706062
+Provider-Institution: RePEc:edi:icerrit
+Maintainer-Name: Simone Pellegrino
+Maintainer-Email: simone.pellegrino@unito.it
+Handle: RePEc:icr:wpmath
+

@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: Economic Thought
+Provider-Name: World Economics Association
+Provider-Homepage: https://www.worldeconomicsassociation.org/
+Provider-Institution: RePEc:edi:worecea
+Maintainer-Name: Jake McMurchie
+Maintainer-Email: jake@jakemcmurchie.net
+Editor-Name: Kyla Rushman
+Editor-Email: kyla.rushman@googlemail.com
+Type: ReDIF-Article
+Handle: RePEc:wea:econth
+ISSN: 2049-3509
+Template-type: ReDIF-Series 1.0
+Name: World Economic Review
+Provider-Name: World Economics Association
+Provider-Homepage: https://www.worldeconomicsassociation.org/
+Provider-Institution: RePEc:edi:worecea
+Maintainer-Name: Jake McMurchie
+Maintainer-Email: jake@jakemcmurchie.net
+Editor-Name: Kyla Rushman
+Editor-Email: kyla.rushman@googlemail.com
+Type: ReDIF-Article
+Handle: RePEc:wea:worler
+ISSN: 2049-3517

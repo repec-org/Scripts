@@ -1,0 +1,25 @@
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones Economicas
+Publisher-Name: Fundación SEPI
+Publisher-Homepage: http://www.fundacionsepi.es/
+Publisher-Email: correo@fundacionsepi.es
+Publisher-Institution:
+Publisher-Postal: Investigaciones Economicas
+  Fundación SEPI
+  Quintana, 2 (planta 3)
+  28008 Madrid
+  Spain
+Maintainer-Email: sanchez-seco@fundacionsepi.es
+Maintainer-Name: Isabel Sánchez-Seco
+Type: ReDIF-Article
+Editor-Name: Antonio Cabrales and Pedro Mira
+Editor-Email: antonio.cabrales@upf.edu, mira@cemfi.es
+Editor-Postal: CEMFI
+ Casado del Alisal, 5
+ 28014 Madrid
+ Spain
+Order-Email: ie@fundacionsepi.es
+Order-Homepage: http://www.fundacionsepi.es/investigacion/revistas/presentacion.asp
+Restriction: 
+Handle: RePEc:iec:inveco
+Followup: RePEc:spr:series

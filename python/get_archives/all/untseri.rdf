@@ -1,0 +1,79 @@
+Template-type: ReDIF-Series 1.0
+Name: Asia Pacific Trade and Investment Review
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Mia Mikic
+Maintainer-Email: mikic@un.org
+Type: ReDIF-Article
+Handle: RePEc:unt:journl
+
+Template-type: ReDIF-Series 1.0
+Name: STUDIES IN TRADE AND INVESTMENT
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Mia Mikic
+Maintainer-Email: mikic@un.org
+Type: ReDIF-Book
+Handle: RePEc:unt:ecbook
+
+Template-type: ReDIF-Series 1.0
+Name: STUDIES IN TRADE AND INVESTMENT
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Mia Mikic
+Maintainer-Email: mikic@un.org
+Type: ReDIF-Chapter
+Handle: RePEc:unt:ecchap
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Mia Mikic
+Maintainer-Email: mikic@un.org
+Type: ReDIF-Paper
+Handle: RePEc:unt:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Asia-Pacific Development Journal
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Macroeconomic Policy and Development Division, ESCAP
+Maintainer-Email: escap-mpdd@un.org
+Type: ReDIF-Article
+Handle: RePEc:unt:jnapdj
+
+Template-type: ReDIF-Series 1.0
+Name: MPDD Working Paper Series
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Macroeconomic Policy and Development Division, ESCAP
+Maintainer-Email: escap-mpdd@un.org
+Type: ReDIF-Paper
+Handle: RePEc:unt:wpmpdd
+
+Template-type: ReDIF-Series 1.0
+Name: MPDD Policy Briefs
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Macroeconomic Policy and Development Division, ESCAP
+Maintainer-Email: escap-mpdd@un.org
+Type: ReDIF-Paper
+Handle: RePEc:unt:pbmpdd
+
+Template-type: ReDIF-Series 1.0
+Name: Asia-Pacific Population Journal
+Provider-Name: United Nations Economic and Social Commission for Asia and the Pacific (ESCAP)
+Provider-Homepage: http://www.unescap.org/
+Provider-Institution: RePEc:edi:escapth
+Maintainer-Name: Social Development Division, ESCAP
+Maintainer-Email: escap-sdd@un.org
+Type: ReDIF-Article
+Handle: RePEc:unt:jnappj

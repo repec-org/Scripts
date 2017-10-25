@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Izmir University of Economics
+Provider-Homepage: http://eco.ieu.edu.tr
+Provider-Institution: RePEc:edi:deieutr
+Maintainer-Name: Ayla Ogus Binatli
+Maintainer-Email: ayla.ogus@ieu.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:izm:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Proceedings of the IUE-SUNY Cortland Conference in Economics
+Provider-Name: Izmir University of Economics
+Provider-Homepage: http://eco.ieu.edu.tr
+Provider-Institution: RePEc:edi:deieutr
+Maintainer-Name: Ayla Ogus Binatli
+Maintainer-Email: ayla.ogus@ieu.edu.tr
+Type: ReDIF-Book
+Handle: RePEc:izm:iuecor
+
+Template-type: ReDIF-Series 1.0
+Name: Papers of the Annual IUE-SUNY Cortland Conference in Economics
+Provider-Name: Izmir University of Economics
+Provider-Homepage: http://eco.ieu.edu.tr
+Provider-Institution: RePEc:edi:deieutr
+Maintainer-Name: Ayla Ogus Binatli
+Maintainer-Email: ayla.ogus@ieu.edu.tr
+Type: ReDIF-Chapter
+Handle: RePEc:izm:prcdng

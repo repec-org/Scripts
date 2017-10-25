@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: DEA Working Papers
+Description: This is a series of working papers written by DEA authors
+Type: ReDIF-Paper
+Provider-Name: Universitat de les Illes Balears, Departament d'Economía Aplicada
+Provider-Homepage: http://www.uib.es/depart/deaweb/
+Provider-Institution: RePEc:edi:dauibes
+Maintainer-Name: Xisco Oliver
+Maintainer-Email: xisco.oliver@uib.es
+Editor-Name: Jenny De Freitas
+Editor-Email: jenny.defreitas@uib.es
+Handle: RePEc:ubi:deawps

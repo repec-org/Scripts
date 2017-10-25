@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+Name:RePEc scripts
+Description: Scripts that are used for handling RePEc data or creating
+ it.
+Type: ReDIF-Software
+Provider-Name: RePEc Team
+Provider-Homepage: http://repec.org/
+Provider-Institution: RePEc:edi:repecea
+Maintainer-Name: RePEc Team
+Maintainer-Email: repec@repec.org
+Notification: http://www.mailbase.ac.uk/lists/repec-admin/
+Price: free
+Handle: RePEc:rpc:script
+
+Template-type: ReDIF-Series 1.0
+Name: RePEc and ReDIf documentation
+Description: Various documention about ReDIF or its implementation in
+ RePEc
+Provider-Name: RePEc Team
+Provider-Homepage: http://repec.org/
+Provider-Institution: RePEc:edi:repecea
+Maintainer-Name: RePEc Team
+Maintainer-Email: repec@repec.org
+Notification: http://www.mailbase.ac.uk/lists/repec-admin/
+Price: free
+Handle: RePEc:rpc:rdfdoc
+

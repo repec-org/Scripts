@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Bahcesehir University, Betam
+Provider-Homepage: http://www.betam.bahcesehir.edu.tr
+Provider-Institution: RePEc:edi:betamtr
+Maintainer-Name: Merve Akgul
+Maintainer-Email: betam@bahcesehir.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:bae:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Research Briefs
+Description: Betam Research Brief Series
+Provider-Name: Bahcesehir University, Betam
+Provider-Institution: RePEc:edi:betamtr
+Maintainer-Name: Merve Akgul
+Maintainer-Email: betam@bahcesehir.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:bae:rbrief

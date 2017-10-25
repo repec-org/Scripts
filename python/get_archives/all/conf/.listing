@@ -1,0 +1,13 @@
+drwxrwxr-x    3 132029   132029       4096 Mar 20  2017 .
+drwxrwxr-x    7 132029   132029     131072 Oct 25 17:30 ..
+drwxrwxr-x    2 132029   132029       4096 Mar 15  2017 amf
+-rwxr-xr-x    1 132029   132029       2016 Mar 15  2017 conf
+-rwxr-xr-x    1 132029   132029       1923 Mar 15  2017 conf.eg
+-rwxr-xr-x    1 132029   132029       6790 Mar 15  2017 country_codes.pl
+-rwxr-xr-x    1 132029   132029      31349 Mar 15  2017 jel-codes.pl
+-rwxr-xr-x    1 132029   132029       1727 Mar 15  2017 rech.conf
+-rwxr-xr-x    1 132029   132029       1755 Mar 15  2017 rech.conf.eg
+-rwxr-xr-x    1 132029   132029       9284 Mar 15  2017 redif.spec
+-rwxr-xr-x    1 132029   132029        829 Mar 15  2017 redif.spec.README
+-rwxr-xr-x    1 132029   132029      16052 Mar 15  2017 redif.spec.new
+-rwxr-xr-x    1 132029   132029        721 Mar 15  2017 remi.conf.eg

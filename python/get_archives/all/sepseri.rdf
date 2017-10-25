@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description:I Working Papers accolgono lavori scientifici originali, non ancora pubblicati in versione definitiva su libri o riviste, i quali siano il risultato di ricerche in fase iniziale o di stati di avanzamento di ricerche in essere.
+Essi intendono favorire la circolazione di studi, anche in versione preliminare, al
+fine di accelerarne la diffusione e sollecitare suggerimenti e critiche.
+Provider-Name: Dipartimento di Scienze Economiche e Statistiche, Università degli Studi di Salerno
+Provider-Homepage: http://www.dises.unisa.it
+Provider-Institution: RePEc:edi:dssalit
+Maintainer-Name: Maria Rizzo
+Maintainer-Email: mrizzo@unisa.it
+Editor-Name: DISES - Università di Salerno
+Editor-Email: dises@unisa.it
+ISSN:1971-3029
+Type: ReDIF-Paper
+Handle: RePEc:sep:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Quaderni del Dipartimento di Scienze Economiche e Statistiche
+Description: I Quaderni di Dipartimento accolgono lavori scientifici originali - di carattere monotematico, elaborati anche da più autori e non ancora pubblicati in versione definitiva su libri o riviste - i quali siano il risultato di ricerche in fase avanzata o definitiva, frutto di un'attività di investigazione complessa.
+Provider-Name: Dipartimento di Scienze Economiche e Statistiche, Università degli Studi di Salerno
+Provider-Homepage: http://www.dises.unisa.it
+Provider-Institution: RePEc:edi:dssalit
+Maintainer-Name: Maria Rizzo
+Maintainer-Email: mrizzo@unisa.it 
+Editor-Name: Edizioni Scientifiche Italiane
+Editor-Email: info@edizioniesi.it
+ISSN:1971-3045
+Type: ReDIF-Paper
+Handle: RePEc:sep:quader
+
+ 

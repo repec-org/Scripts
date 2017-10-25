@@ -1,0 +1,176 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo de la Facultad de Ciencias Económicas y Empresariales
+Description: La serie DT CCEE pretende ser cauce de expresión de trabajos de carácter científico o académico, 
+	que sean el resultado total o parcial de investigaciones, estados del arte y de la ciencia, informes 
+	técnicos, estudios de casos y, en general, deberán ser trabajos originales o de revisión, que 
+	supongan aportaciones de interés y de calidad, susceptibles de ser publicados en revistas, libros u 
+	otros medios de difusión de prestigio académico.
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales
+Provider-Homepage: http://economicasyempresariales.ucm.es/
+Provider-Phone: +34 913942604
+Provider-Institution: RePEc:edi:feucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Email: svicedec@ccee.ucm.es
+Order-Homepage: https://economicasyempresariales.ucm.es/working-papers-ccee
+Order-Postal: Facultad de Ciencias Económicas y Empresariales. Campus de Somosaguas, 28223 - POZUELO DE ALARCÓN (MADRID)
+Handle: RePEc:ucm:doctra
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo del ICAE
+Description: Acceso al texto completo en formato electrónico de los documentos de trabajo del Instituto Complutense de Análisis Económico
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales, Instituto Complutense de Análisis Económico
+Provider-Homepage: https://www.ucm.es/icae
+Provider-Phone: +34 913942604
+Provider-Institution: RePEc:edi:feucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Email: icaesec@ccee.ucm.es
+Order-Homepage: https://www.ucm.es/fundamentos-analisis-economico2/documentos-de-trabajo-del-icae
+Order-Postal: Facultad de Ciencias Económicas y Empresariales. Pabellón prefabricado, 1ª Planta, ala norte. Campus de Somosaguas, 28223 - POZUELO DE ALARCÓN (MADRID)
+Handle: RePEc:ucm:doicae
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo del Instituto de Analisis Industrial y Financiero
+Description: Acceso al texto completo en formato electrónico de la serie Estudios e Informes del Instituto Complutense de Estudios Internacionales
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Instituto de Análisis Industrial y Financiero
+Provider-Homepage: http://www.ucm.es/iaif/instituto-universitario
+Provider-Phone: +34 913942456 / 55
+Provider-Email: Joost@ccee.ucm.es
+Provider-Institution: RePEc:edi:ieucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Postal: Instituto de Análisis Industrial y Financiero. Facultad de Ciencias Económicas y Empresariales. Pabellón del Decanato (Primera Planta). 
+	Campus de Somosaguas S/N. 28223 Pozuelo de Alarcón (Madrid)
+Handle: RePEc:ucm:doiaif
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers del Instituto Complutense de Estudios Internacionales
+Description: Acceso al texto completo en formato electrónico de la serie Working Papers del Instituto Complutense de Estudios Internacionales
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Instituto Complutense de Estudios Internacionales
+Provider-Homepage: https://www.ucm.es/icei/
+Provider-Phone: +34 913942495
+Provider-Email: direccion@icei.ucm.es
+Provider-Institution: RePEc:edi:ieucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Postal: Instituto Complutense de Estudios Internacionales. Finca Mas Ferre Campus de Somosaguas 28223 Madrid
+Handle: RePEc:ucm:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Papers del Instituto Complutense de Estudios Internacionales
+Description: Acceso al texto completo en formato electrónico de la serie Policy Papers del Instituto Complutense de Estudios Internacionales
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Instituto Complutense de Estudios Internacionales
+Provider-Homepage: https://www.ucm.es/icei/
+Provider-Phone: +34 913942495
+Provider-Email: direccion@icei.ucm.es
+Provider-Institution: RePEc:edi:ieucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Postal: Instituto Complutense de Estudios Internacionales. Finca Mas Ferre Campus de Somosaguas 28223 Madrid
+Handle: RePEc:ucm:ppaper
+
+Template-type: ReDIF-Series 1.0
+Name: ICEI papers del Instituto Complutense de Estudios Internacionales
+Description: Acceso al texto completo en formato electrónico de la serie ICEI papers del Instituto Complutense de Estudios Internacionales
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Instituto Complutense de Estudios Internacionales
+Provider-Homepage: https://www.ucm.es/icei/
+Provider-Phone: +34 913942495
+Provider-Email: direccion@icei.ucm.es
+Provider-Institution: RePEc:edi:ieucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Postal: Instituto Complutense de Estudios Internacionales. Finca Mas Ferre Campus de Somosaguas 28223 Madrid
+Handle: RePEc:ucm:ipaper
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional papers del Instituto Complutense de Estudios Internacionales
+Description: Acceso al texto completo en formato electrónico de la serie Occasional papers, documentos de especial interés y actualidad 
+	de las diversas áreas temáticas del ICEI.
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Instituto Complutense de Estudios Internacionales
+Provider-Homepage: https://www.ucm.es/icei/
+Provider-Phone: +34 913942495
+Provider-Email: direccion@icei.ucm.es
+Provider-Institution: RePEc:edi:ieucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Postal: Instituto Complutense de Estudios Internacionales. Finca Mas Ferre Campus de Somosaguas 28223 Madrid
+Handle: RePEc:ucm:opaper
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo del Instituto Complutense de Estudios Internacionales
+Description: Acceso al texto completo en formato electrónico de la serie Documentos de trabajo del Instituto Complutense de Estudios Internacionales
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Instituto Complutense de Estudios Internacionales
+Provider-Homepage: https://www.ucm.es/icei/
+Provider-Phone: +34 913942495
+Provider-Email: direccion@icei.ucm.es
+Provider-Institution: RePEc:edi:ieucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Postal: Instituto Complutense de Estudios Internacionales. Finca Mas Ferre Campus de Somosaguas 28223 Madrid
+Handle: RePEc:ucm:dticei
+
+Template-type: ReDIF-Series 1.0
+Name: Estudios e Informes del Instituto Complutense de Estudios Internacionales 
+Description: Acceso al texto completo en formato electrónico de la serie Estudios e Informes del Instituto Complutense de Estudios Internacionales
+Type: ReDIF-Paper
+Provider-Name: Universidad Complutense de Madrid, Instituto Complutense de Estudios Internacionales
+Provider-Homepage: https://www.ucm.es/icei/
+Provider-Phone: +34 913942495
+Provider-Email: direccion@icei.ucm.es
+Provider-Institution: RePEc:edi:ieucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Order-Postal: Instituto Complutense de Estudios Internacionales. Finca Mas Ferre Campus de Somosaguas 28223 Madrid
+Handle: RePEc:ucm:estuin
+
+Template-type: ReDIF-Series 1.0
+Name: Iberian Journal of the History of Economic Thought
+Description: international and open journal that aims at stimulating discussion and debate on research in the field of the history of economic thought. 
+	In the 2013 meeting of the Iberian Association for the History of Economic Thought, an electronic publishing that provides a space for the 
+	publication of scientific articles in Spanish and Portuguese, as well as in English, was outlined. This Association has organized since 1999 
+	a high-level scientific Conference on the History of Economic Thought that is alternatively held in Spain and Portugal. Since September 2004, 
+	the Association also publishes an electronic bulletin for exchanging information about Spanish-Portuguese publications and educational experiences, 
+	bulletin which is now included in the IJHET.
+Type: ReDIF-Article
+Provider-Name: Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales, Dpto. Historia e Instituciones Económicas I. 
+Provider-Homepage: http://revistas.ucm.es/index.php/IJHE
+Provider-Phone: +34 913 942421
+Provider-Institution: RePEc:edi:feucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Editor-Name: Dpto. Historia e Instituciones Económicas I, Facultad de CC. Económicas y Empresariales, Universidad Complutense de Madrid.
+Editor-Email: het.iberianjournal@gmail.com
+Order-Postal: Dpto. Historia e Instituciones Económicas I. Facultad de CC. Económicas y Empresariales, Universidad Complutense de Madrid. 
+	Campus de Somosaguas. E-28223 Pozuelo de Alarcón (Madrid)
+Handle: RePEc:ucm:ijohet
+
+Template-type: ReDIF-Series 1.0
+Name: REVESCO: Revista de estudios cooperativos
+Description: Revista de Estudios Cooperativos publica trabajos originales de investigación que contribuyan a dar 
+	a conocer las últimas aportaciones en materia de “Organizaciones de Participación” (Economía Social) y 
+	que sirvan de apoyo a las investigaciones que se realicen en este campo así como a garantizar el impacto 
+	de la Revista en el ámbito académico.
+Type: ReDIF-Article
+Provider-Name: Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales, Escuela de Estudios Cooperativos
+Provider-Homepage: http://revistas.ucm.es/index.php/REVE/
+Provider-Institution: RePEc:edi:feucmes
+Maintainer-Name: Águeda González Abad
+Maintainer-Email: buc_cee@ucm.es
+Editor-Name: Escuela de Estudios Cooperativos, Universidad Complutense de Madrid
+Editor-Email: revesco@ucm.es
+Order-Postal: Escuela de Estudios Cooperativos. Universidad Complutense de Madrid. Despacho 46 Pabellón 6º. Campus de Somosaguas. 
+	28223 Pozuelo de Alarcón, Madrid, España
+Handle: RePEc:ucm:reveco
+
+
+
+

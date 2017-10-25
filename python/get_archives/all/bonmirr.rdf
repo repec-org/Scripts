@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Mirror 1.0
+Archive-Handle: RePEc:bon
+Machine: ftp.wipol.uni-bonn.de
+Archives-Included:
+User: adrepec
+Group: users
+Directory: /usr/local/ftp/pub/RePEc/remo
+Maintainer-Name: Noel Koethe
+Maintainer-Email: noel@koethe.net

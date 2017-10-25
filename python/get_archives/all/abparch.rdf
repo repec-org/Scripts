@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:abp
+Name: ABPHE - Associação Brasileira de Pesquisadores em História Econômica - Arquivo de publicações
+ [The file of the Brazilian Economic History Society]
+Maintainer-Name: Hugo Cerqueira
+Maintainer-Email: hugo@cedeplar.ufmg.br
+Description: This archive provides access to the main publications of the ABPHE: the proceedings (full papers) of the Congressos Brasileiros de História Econômica [The Brazilian Congress of Economic History] and abstracts of the articles published in the ABPHE's journal [História Econômica e História de Empresas].
+#URL: http://www.abphe.org.br/RePEc/abp
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/abp/

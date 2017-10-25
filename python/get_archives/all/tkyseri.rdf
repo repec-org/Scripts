@@ -1,0 +1,22 @@
+ 
+
+Template-type: ReDIF-Series 1.0
+Name: CIRJE F-Series
+Type: ReDIF-Paper
+Provider-Name: CIRJE, Faculty of Economics, University of Tokyo
+Provider-Homepage: http://www.cirje.e.u-tokyo.ac.jp/index.html
+Provider-Institution: RePEc:edi:ritokjp 
+Maintainer-Name: CIRJE administrative office
+Maintainer-Email: cirje@e.u-tokyo.ac.jp
+Handle: RePEc:tky:fseres
+
+Template-type: ReDIF-Series 1.0
+Name: CIRJE J-Series
+Type: ReDIF-Paper
+Provider-Name: CIRJE, Faculty of Economics, University of Tokyo
+Provider-Homepage: http://www.cirje.e.u-tokyo.ac.jp/index.html
+Provider-Institution: RePEc:edi:ritokjp 
+Maintainer-Name: CIRJE administrative office
+Maintainer-Email: cirje@e.u-tokyo.ac.jp
+Handle: RePEc:tky:jseres
+

@@ -1,0 +1,297 @@
+Template-type: ReDIF-Series 1.0
+Name: European Integration online Papers (EIoP)
+Description: The EIoP are the only peer reviewed E-journal
+ in the interdisciplinary field of European integration
+Notification: There is an E-mail-based announcement list.
+ Instruction on site.
+Type: ReDIF-Article
+Provider-Name: European Community Studies Association Austria (ECSA-A)
+Provider-Institution: RePEc:edi:ecsaaea
+Provider-Homepage: http://www.ecsa-austria.eu/
+Maintainer-Name: Editorial Assistant
+Maintainer-Email: eiop@eiop.or.at
+Editor-Name: Gerda Falkner
+Editor-Email: eiop-ed@eiop.or.at
+Order-Homepage: http://eiop.or.at/eiop/
+Price: free
+ISSN: 1027-5193
+Handle: RePEc:erp:eiopxx
+
+Template-type: ReDIF-Series 1.0
+Name: EUI-RSCAS Working Papers
+Description: Working Papers of the Robert Schuman Centre of Advanced Studies
+Type: ReDIF-Paper
+Provider-Name: European University Institute (EUI), Robert Schuman Centre of Advanced Studies (RSCAS)
+Provider-Institution: RePEc:edi:rsiueit
+Provider-Homepage: http://www.eui.eu/RSCAS/
+Maintainer-Name: Valerio PAPPALARDO
+Maintainer-Email: rscas.webunit@eui.eu
+Editor-Name: Brigid Laffan
+Editor-Email: brigid.laffan@eui.eu
+Price: free
+Handle: RePEc:erp:euirsc
+
+Template-type: ReDIF-Series 1.0
+Name: EUI-LAW Working Papers
+Description: Working Papers of the Department of Law
+Type: ReDIF-Paper
+Provider-Name: European University Institute (EUI), Department of Law
+Provider-Institution: 
+Provider-Homepage: http://www.eui.eu/LAW/
+Maintainer-Name: Machteld Nijsten
+Maintainer-Email: machteld.nijsten@eui.eu
+Editor-Name: Machteld Nijsten
+Editor-Email: machteld.nijsten@eui.eu
+Price: free
+Handle: RePEc:erp:euilaw
+
+Template-type: ReDIF-Series 1.0
+Name: Jean Monnet Working Papers
+Description: designed to bring to a wider readership a selection of
+ papers presented at NYU Law School under the auspices of the Jean
+ Monnet Chair
+Type: ReDIF-Paper
+Provider-Name: Jean Monnet Chair
+Provider-Homepage: http://www.jeanmonnetprogram.org/
+Maintainer-Name: Charlie Pike
+Maintainer-Email: cpike@paciellogroup.com
+Editor-Name: Joseph H.H. Weiler
+Editor-Email: Joseph.Weiler@nyu.edu
+Price: free
+Handle: RePEc:erp:jeanmo
+
+Template-type: ReDIF-Series 1.0
+Name: ARENA Working Papers
+Description: Papers of the members of the programme Advanced Research  
+ on the Europeanisation of the Nation-State in Oslo
+Type: ReDIF-Paper
+Provider-Name: ARENA
+Provider-Homepage: http://www.arena.uio.no/
+Maintainer-Name: Sindre Eikrem Hervig
+Maintainer-Email: s.e.hervig@arena.uio.no
+Editor-Name: Erik O. Eriksen
+Editor-Email: e.o.eriksen@arena.uio.no
+Price: free
+Handle: RePEc:erp:arenax
+
+Template-type: ReDIF-Series 1.0
+Name: MZES Working Papers
+Description: Papers of the Mannheimer Zentrum für Europäische
+ Sozialforschung, an institute of the University of Mannheim
+Type: ReDIF-Paper
+Provider-Name: MZES
+Provider-Institution: RePEc:edi:mzmande
+Provider-Homepage: http://www.mzes.uni-mannheim.de/
+Maintainer-Name: Christian Melbeck
+Maintainer-Email: Melbeck@mzes.uni-mannheim.de
+Editor-Name: Direktorat des MZES
+Editor-Email: Direktorat@mzes.uni-mannheim.de 
+Price: free
+Handle: RePEc:erp:mzesxx
+
+Template-type: ReDIF-Series 1.0
+Name: One Europe or Several? Working Papers
+Description: Papers of the ESRC-funded programme One Europe or Several?
+Type: ReDIF-Paper
+Provider-Name: One-Europe Programme
+Provider-Homepage: http://www.one-europe.ac.uk
+Maintainer-Name: Glynis Flood
+Maintainer-Email: oneeurope@sussex.ac.uk
+Editor-Name: OneEurope programme directors
+Editor-Email: oneeurope@sussex.ac.uk
+Price: free
+Handle: RePEc:erp:oneeur
+
+Template-type: ReDIF-Series 1.0
+Name: The Constitutionalism Web-Papers 
+Description: The ConWEB papers present work in progress within the general field of
+ studies on constitutionalism and governance beyond the state. Many of the early papers
+ were presented and prepared within the framework of the UACES Study Group on
+ Constitutionalism and Governance Beyond the State (2000-2002) organised by the
+ Jean Monnet Centre of Excellence at the Queen's University of Belfast and the
+ Jean Monnet Chair of European Law at the University of Manchester. ConWEB has since
+ 2012 turned into Global Constitutionalism – Human Rights, Democracy, and the Rule of
+ Law, an interdisciplinary international peer reviewed journal, published with Cambridge
+ University Press: http://journals.cambridge.org/GlobCon
+Type: ReDIF-Paper
+Provider-Name: University of Hamburg, Faculty for Economics and Social Sciences,
+ Department of Social Sciences, Institute of Political Science 
+Provider-Homepage: https://www.wiso.uni-hamburg.de/fachbereich-sowi/professuren/wiener/forschung/publikationen/conwebpapers.html
+Maintainer-Name: Jan WILKENS
+Maintainer-Email: Jan.Wilkens@wiso.uni-hamburg.de
+Editor-Name: Antje Wiener
+Editor-Email: antje.wiener@wiso.uni-hamburg.de
+Price: free
+Handle: RePEc:erp:conweb
+
+Template-type: ReDIF-Series 1.0
+Name: European Governance Papers (EUROGOV) 
+Description: EUROGOV is a peer-reviewed working paper series in the interdisciplinary field
+ of 'European governance' research. It is published by two major networks funded by the
+ European Union's 6th Framework Programme of Research: CONNEX(Connecting Excellence on
+ European Governance) & NEWGOV (New Modes of Governance.
+Type: ReDIF-Paper
+Provider-Name: CONNEX and EUROGOV networks
+Provider-Homepage: http://www.connex-network.org/
+Maintainer-Name: Jessica Spiegel
+Maintainer-Email: eurogov@ihs.ac.at  
+Editor-Name: Gerda Falkner
+Editor-Email: gerda.falkner@oeaw.ac.at
+Price: free
+Handle: RePEc:erp:eurogo
+
+Template-type: ReDIF-Series 1.0
+Name: RECON Online Working Papers Series
+Description: Papers of the Integrated Project "Reconstituting Democracy in Europe (RECON)"
+Type: ReDIF-Paper
+Provider-Name: RECON
+Provider-Homepage: http://www.reconproject.eu
+Maintainer-Name: Marit Eldholm
+Maintainer-Email: marit.eldholm@arena.uio.no
+Editor-Name: Geir Kvaerk
+Editor-Email: g.o.kvark@arena.uio.no
+Price: free
+Handle: RePEc:erp:reconx
+
+Template-type: ReDIF-Series 1.0
+Name: Living Reviews in European Governance (LREG)
+Description: LREG is an innovative journal that publishes state-of-the-art reviews on
+ core themes relating to European integration research. It is an entirely web-based,
+ peer-reviewed journal, offered as a free service to the scientific community. One
+ of the most important features of LREG is that its articles are kept up to date by
+ their authors. In this way, users can be confident of finding the latest important
+ work in LREG. In addition, all articles appearing in Living Reviews are collated
+ into an online searchable reference database. 
+Notification: There is an E-mail-based announcement list. Instruction on site.
+Type: ReDIF-Article
+Provider-Name: Institute for European integration research (EIF)
+Provider-Homepage: http://eif.univie.ac.at
+Maintainer-Name: Michael Nentwich
+Maintainer-Email: mnent@oeaw.ac.at
+Editor-Name: Gerda Falkner
+Editor-Email: gerda.falkner@univie.ac.at
+Order-Homepage: http://europeangovernance-livingreviews.org
+Price: free
+ISSN: 1813-856X
+Handle: RePEc:erp:lregxx
+
+Template-type: ReDIF-Series 1.0
+Name: Les Cahiers européens de Sciences Po
+Description: Working Papers series of the Centre d'études européennes at Sciences Po, Paris
+Type: ReDIF-Paper
+Provider-Name: Centre d'études européennes (CEE) at Sciences Po, Paris
+Provider-Institution: 
+Provider-Homepage: http://www.cee.sciences-po.fr
+Maintainer-Name: Linda AMRANI
+Maintainer-Email: linda.amrani@sciences-po.fr
+Editor-Name: Sophie Jacquot
+Editor-Email: sophie.jacquot@sciences-po.fr
+Price: free
+Handle: RePEc:erp:scpoxx
+
+Template-type: ReDIF-Series 1.0
+Name: Europe in Question Discussion Paper Series of the London School of Economics (LEQs) 
+Description: The series includes contributions from across a range of disciplines,
+ including political science and political theory, public policy, international relations,
+ economics and political economy, geography, philosophy, sociology, social policy, law,
+ and history.
+Type: ReDIF-Paper
+Provider-Name: London School of Economics / European Institute
+Provider-Homepage: http://www2.lse.ac.uk/europeanInstitute
+Maintainer-Name: Katjana Gattermann
+Maintainer-Email: K.Gattermann@lse.ac.uk
+Editor-Name: Katjana Gattermann
+Editor-Email: K.Gattermann@lse.ac.uk
+Price: free
+Handle: RePEc:erp:leqsxx
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers of the Vienna Institute for European integration research (EIF) 
+Description: The series features papers of both internal and international researchers of the Institute.
+Type: ReDIF-Paper
+Provider-Name: Institute for European integration research (EIF)
+Provider-Homepage: http://eif.univie.ac.at
+Maintainer-Name: Gerda Falkner
+Maintainer-Email: Gerda.falkner@univie.ac.at
+Editor-Name: Gerda Falkner
+Editor-Email: gerda.falkner@univie.ac.at
+Price: free
+Handle: RePEc:erp:eifxxx
+
+Template-type: ReDIF-Series 1.0
+Name: Queen's Papers on Europeanisation
+Description: The Queens papers, originally published by the Institute of European
+ Studies, are now published by the School of Politics and International Studies of
+ the University of Queens in Belfast. The objective of the paper series is to contribute
+ to the theoretical development and empirical exploration of 'Europeanisation' in a
+ way that straddles disciplines and facilitates a dialogue between contending
+ perspectives. Unidisciplinary, multidisciplinary, interdisciplinary and comparative
+ papers on Europeanisation will be welcomed. It is envisaged that papers will explore
+ topics such as the following:- conceptual definitions of Europeanisation;- relationships
+ between Europeanisation, integration and globalisation;- the practice of Europeanisation,
+ particularly problems of identification, measurement, causation, explanation and
+ variation between sectors; and critical discussion of the progress and future of
+ Europeanisation, having regard to problematic and contested notions of 'the unity
+ and diversity of Europe'. 
+Type: ReDIF-Paper
+Provider-Name: Queens University Belfast
+Provider-Homepage: http://www.qub.ac.uk/schools/SchoolofPoliticsInternationalStudiesandPhilosophy/Research/PaperSeries/EuropeanisationPapers/
+Maintainer-Name: Andrew EVANS
+Maintainer-Email: andrew.evans@qub.ac.uk
+Editor-Name: Stefan ANDREASSON
+Editor-Email: s.andreasson@Queens-Belfast.AC.UK
+Price: free
+Handle: RePEc:erp:queens
+
+Template-type: ReDIF-Series 1.0
+Name: KFG Working Papers
+Description: Kolleg-Forschungsgruppe Working Paper Series of the Otto-Suhr-Institute for Political
+ Science at the Free University Berlin
+Type: ReDIF-Paper
+Provider-Name: Free University Berlin
+Provider-Institution: 
+Provider-Homepage: http://www.transformeurope.eu/
+Maintainer-Name: Sasan ABDI
+Maintainer-Email: sasan.abdi@fu-berlin.de
+Editor-Name: Corinna BLUTGUTH
+Editor-Email: blutguth@zedat.fu-berlin.de
+Price: free
+Handle: RePEc:erp:kfgxxx
+
+Template-type: ReDIF-Series 1.0
+Name: EUROSPHERE Working Paper Series (EWP)
+Description:  EUROSPHERE has published online working papers since 2008. EUROSPHERE Working Paper Series
+ (EWP) makes available to public pre-publication article manuscripts that have been written by EUROSPHERE
+ researchers as a part of their contribution to the project work packages. In addition to the aim of
+ dissemination of the findings of EUROSPHERE research, EWP is open to the contribution of the external
+ researchers which are relevant with the objectives of the Eurosphere research. 
+Type: ReDIF-Paper
+Provider-Name: Eurospheres project
+Provider-Homepage: http://eurospheres.org/
+Maintainer-Name: Acar Kutay
+Maintainer-Email:    Acar.Kutay@global.uib.no
+Editor-Name: Acar Kutay
+Editor-Email: Acar.Kutay@global.uib.no
+Price: free
+Handle: RePEc:erp:ewpxxx
+
+Template-type: ReDIF-Series 1.0
+Name: Cahiers du CEVIPOL/Brussels Working papers
+Description: The Cahiers du CEVIPOL/Brussels Working papers is a series that aims at disseminating the
+ research in political science conducted CEVIPOL. The Centre d'étude de la vie politique (CEVIPOL)
+ belongs to the Institute of European Studies and to the Faculty of Social and Political Sciences of
+ the Université Libre de Bruxelles. Its is to produce fundamental research but the centre is also
+ involved in producing applied research for political institutions or organisations, training PhD
+ candidates, developing activities for continuing education and disseminating research to civil
+ society at large. The papers deal with topics related to politics in and of the European Union and
+ with various policy issues related to European integration. Authors are primarily members of the centre
+ as well as associate members and visiting scholars.
+Type: ReDIF-Paper
+Provider-Name: Centre d'étude de la vie politique (CEVIPOL) of the Université Libre de Bruxelles
+Provider-Homepage: http://www.cevipol.be/
+Maintainer-Name: Amandine Crespy
+Maintainer-Email: acrespy@ulb.ac.be
+Editor-Name: Amandine Crespy
+Editor-Email: acrespy@ulb.ac.be
+Price: free
+Handle: RePEc:erp:cevipo

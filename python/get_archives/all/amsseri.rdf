@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: CeNDEF Workshop Papers, January 2001
+Description: Center for Nonlinear Dynamics in Economics and Finance, 2nd Workshop on Economic Dynamics 
+Publisher-Name: Universiteit van Amsterdam, Center for Nonlinear Dynamics in Economics and Finance
+Publisher-Postal: Dept. of Economics and Econometrics, Universiteit van Amsterdam, Roetersstraat 11, NL - 1018 WB Amsterdam, The Netherlands
+Publisher-Homepage: http://www.fee.uva.nl/cendef/
+Publisher-Institution: RePEc:edi:cnuvanl
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Handle: RePEc:ams:cdws01
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: CeNDEF Working Papers
+Description: Center for Nonlinear Dynamics in Economics and Finance, Working Paper Series 
+Publisher-Name: Universiteit van Amsterdam, Center for Nonlinear Dynamics in Economics and Finance
+Publisher-Postal: Dept. of Economics and Econometrics, Universiteit van Amsterdam, Roetersstraat 11, NL - 1018 WB Amsterdam, The Netherlands
+Publisher-Homepage: http://www.fee.uva.nl/cendef/
+Publisher-Institution: RePEc:edi:cnuvanl
+Maintainer-Name: Cees C.G. Diks
+Maintainer-Email: c.g.h.diks@uva.nl
+Handle: RePEc:ams:ndfwpp

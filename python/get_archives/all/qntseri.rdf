@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: Quantile
+Description: This is econometrics online journal "Quantile" in Russian language
+Provider-Name: Quantile
+Provider-Homepage: http://quantile.ru/
+Maintainer-Name: Stanislav Anatolyev
+Maintainer-Email: postmaster@quantile.ru
+Editor-Name: Stanislav Anatolyev
+Editor-Homepage: http://www.nes.ru/~sanatoly/
+Editor-Email: quantile@quantile.ru
+Type: ReDIF-Article
+Handle: RePEc:qnt:quantl

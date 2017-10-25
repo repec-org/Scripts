@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Paper Series
+Description: Working Papers of the Loughborough University Economics Department
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, Loughborough University
+Provider-Homepage: http://www.lboro.ac.uk/departments/sbe/research/economics/index.html
+Provider-Institution: RePEc:edi:delbouk
+Maintainer-Name: Huw Edwards 
+Maintainer-Email: T.H.Edwards@lboro.ac.uk
+Handle: RePEc:lbo:lbowps
+
+Template-type: ReDIF-Series 1.0
+Name: Centre for Firms in the Global Economy (CFGE) Discussion Papers
+Description: Discussion Papers of the Centre for Firms in the Global Economy (CFGE) 
+Type: ReDIF-Paper
+Provider-Name: School of Business and Economics, Loughborough University
+Provider-Homepage: http://www.lboro.ac.uk/departments/sbe/research/centres/cfge/index.html
+Provider-Institution: RePEc:edi:delbouk
+Maintainer-Name: Arijit Mukherjee 
+Maintainer-Email: A.Mukherjee@lboro.ac.uk
+Handle: RePEc:lbo:lbcfge

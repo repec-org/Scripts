@@ -1,0 +1,119 @@
+Template-Type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:banfra
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Occasional papers
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:opaper
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Current issues
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:curiss
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Financial Stability Review
+Type: ReDIF-Article
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:fisrev
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Bulletin de la Banque de France
+Type: ReDIF-Article
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:bullbf
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Quarterly selection of articles - Bulletin de la Banque de France
+Type: ReDIF-Article
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:quarte
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Analyse et synthèse
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:analys
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Débats économiques et financiers
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:decfin
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Rue de la Banque
+Type: ReDIF-Article
+Provider-Name: Banque de France
+Provider-Postal: Banque de France
+                 31 Rue Croix des Petits Champs
+                 LABOLOG - 49-1404
+                 75049 PARIS
+Provider-Institution: RePEc:edi:bdfgvfr
+Maintainer-Name: Michael brassart
+Maintainer-Email: labolog@banque-france.fr
+Handle: RePEc:bfr:rueban

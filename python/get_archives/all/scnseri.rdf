@@ -1,0 +1,1334 @@
+﻿
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал Экономика и математические методы (ЭММ)
+Provider-Name: Центральный Экономико-Математический Институт (ЦЭМИ)
+Provider-Homepage: http://www.cemi.rssi.ru/emm/home.htm
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:scn:cememm
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-book
+Name: Монографии сотрудников ИПР РАН
+Description: В коллекции содержатся сведения о монографических изданиях научных сотрудников ИПР РАН, а также о переводных монографиях, подготовленных ими к изданию.
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Provider-Name: Институт проблем рынка РАН
+Provider-Email: director@ipr-ras.ru
+Provider-Homepage: http://www.ipr-ras.ru/
+Editor-Name: Михаил Когаловский
+Editor-Email: kogalovsky@ipr-ras.ru
+Maintainer-Name: Михаил Когаловский
+Maintainer-Email: kogalovsky@ipr-ras.ru
+Maintainer-Phone: 8(499)129-1433
+Handle: repec:scn:updvmx
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Научные отчеты Института проблем рынка РАН
+Description: Аннотированная коллекция всех научных отчетов ИПР РАН, выпущенных со дня основания института
+Provider-Name: Институт проблем рынка РАН
+Provider-Email: director@ipr-ras.ru
+Provider-Homepage: http://www.ipr-ras.ru/
+Provider-Phone: 8(499) 129-1433
+Editor-Name: Когаловский Михаил Рувимович
+Editor-Email: kogalovsky@ipr-ras.ru
+Maintainer-Name: Когаловский Михаил Рувимович
+Maintainer-Email: kogalovsky@ipr-ras.ru
+Maintainer-Phone: 8(499) 129-1433
+Handle: repec:scn:meirep
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Актуальные интервью (ИНП РАН)
+Description: 
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Provider-Name: Институт народнохозяйственного прогнозирования РАН
+Provider-Homepage: http://www.ecfor.ru/
+Maintainer-Name: Владимир Ковалев
+Maintainer-Email: kovalev@ecfor.ru
+Handle: repec:scn:mxreqp
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Статьи по экономике
+Description: В коллекцию входят статьи по экономическим вопросам, опубликованные в различные годы
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Maintainer-Name: Рустамжон Абдуллаев
+Maintainer-Email: abdullaevrustam@yandex.ru
+Maintainer-Phone: +998909227222
+Handle: repec:scn:qmgxol
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Адыгейского государственного университета. Серия 5: Экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Государственное образовательное учреждение высшего профессионального образования «Адыгейский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:013827
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Астраханского государственного технического университета. Серия: Экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное образовательное учреждение  высшего профессионального образования «Астраханский государственный технический университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:015052
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Волгоградского государственного университета. Серия 3: Экономика. Экология
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Волгоградский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:028142
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Томского государственного университета. Экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Национальный исследовательский Томский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:002527
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Journal of Economic Regulation Journal of Economic Regulation (Вопросы регулирования экономики)
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Гуманитарные перспективы»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:029047
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Проблемы учета и финансов
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Национальный исследовательский Томский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:027558
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Современная конкуренция
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Синергия ПРЕСС»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:030872
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика транспортного комплекса
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Харьковский национальный автомобильно-дорожный университет
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031253
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономические исследования
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Центр экономических исследований»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:027034
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономический журнал
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью "Издательство Ипполитова"
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:014943
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Bulletin of Taras Shevchenko National University of Kyiv. Economics. Вісник Киiвського нацiонального унiверситету iм. Тараса Шевченка. Серiя: Економiка
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Издательско-полиграфический центр «Киевский университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:013723
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Известия Тульского государственного университета. Экономические и юридические науки
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Тульский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:013908
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Общество: политика, экономика, право
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Издательский дом «ХОРС»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:001457
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика региона
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное учреждение науки «Институт экономики Уральского отделения Российской академии наук»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:015306
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Труды БГТУ. Серия 7: Экономика и управление
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: УО «Белорусский государственный технологический университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:016715
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Sovremennaa ekonomika: problemy, tendencii, perspektivy Современная экономика: проблемы, тенденции, перспективы
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Муромский институт (филиал) Государственного образовательного учреждения высшего профессионального образования "Владимирский государственный университет им. Александра Григорьевича и Николая Григорьевича Столетовых"
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:018798
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Управление большими системами: сборник трудов
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное учреждение науки Институт проблем управления им. В.А. Трапезникова РАН
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:022092
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Сибирский торгово-экономический журнал
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Омский институт (филиал) федерального государственного бюджетного образовательного учреждения высшего профессионального образования «Российский государственный торгово-экономический университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:023661
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Economic and Social Changes: Facts, Trends, Forecast Экономические и социальные перемены: факты, тенденции, прогноз
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное учреждение науки Институт социально-экономического развития территорий Российской академии наук
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:025661
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Омского университета. Серия «Экономика»
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение  высшего образования «Омский государственный университет им. Ф.М. Достоевского»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:025682
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Journal of Institutional Studies Journal of Institutional Studies (Журнал институциональных исследований)
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Гуманитарные перспективы»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:026034
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Journal of Corporate Finance Research Корпоративные финансы
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет «Высшая школа экономики»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:026790
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Бизнес в законе. Экономико-юридический журнал
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Издательский дом Юр-ВАК
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:027818
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Таганрогского института управления и экономики
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Негосударственное образовательное учреждение высшего профессионального образования «Таганрогский институт управления и экономики»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:030999
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Russian Journal of Agricultural and Socio-Economic Sciences
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Редакция журнала Russian Journal of Agricultural and Socio-Economic Sciences
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031261
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Education, research and production Образование, наука и производство
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Научная компания "Наука и образование"
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031274
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: ARS ADMINISTRANDI
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение  высшего профессионального образования «Пермский государственный национальный исследовательский университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031294
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Terra Economicus
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего профессионального образования «Южный федеральный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031478
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вісник економіки транспорту і промисловості
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Украинская государственная академия железнодорожного транспорта
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031720
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Economics Экономикс
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Постскриптум»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031885
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Российский экономический барометр
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное научное учреждение «Национальный исследовательский институт мировой экономики и международных отношений имени Е.М. Примакова Российской академии наук»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032090
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вісник Маріупольського державного університету. Сер.: Економіка
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Мариупольский государственный университет
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032153
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Известия Дальневосточного федерального университета. Экономика и управление
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего профессионального образования «Дальневосточный федеральный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:004657
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Проблемы современной экономики
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Научно-производственная компания «РОСТ»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:004883
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Пермского университета. Серия: Экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение  высшего профессионального образования «Пермский государственный национальный исследовательский университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:006506
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Проблемы управления
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью "СенСиДат-Контрол"
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:009530
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Bulletin of the South Ural State University. Series: Economics and management Вестник Южно-Уральского государственного университета. Серия: Экономика и менеджмент
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Государственное образовательное учреждение высшего профессионального образования «Южно-Уральский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:009910
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Саратовского государственного социально-экономического университета
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Государственное образовательное учреждение  высшего профессионального образования "Саратовский государственный социально-экономического университет"
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:009938
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Мир экономики и управления // Вестник НГУ. Cерия: Cоциально-экономические науки
+Description: 
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Provider-Name: Новосибирский государственный университет
+Provider-Homepage: http://www.nsu.ru
+Maintainer-Name: Виталия Маркова
+Maintainer-Email: economics@vestnik.nsu.ru
+Handle: repec:scn:guhrje
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Киевского национального университета имени Тараса Шевченко. Экономика.
+Description: Журнал входит в Список профиздательств, в которых могут печататься главные результаты диссертационных работ с экономических наук (Постановление Президии ВАК Украины No.1-05/7 от 10.11.10)
+
+Основатели:
+Киевский национальный университет имени Тараса Шевченко, экономический факультет
+
+Издатель:
+Издательско-полиграфический центр "Киевский национальный университет имени Тараса Шевченко"
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Provider-Name: Киевский национальный университет имени Тараса Шевченко
+Provider-Email: Visnuk.econom@gmail.com
+Provider-Homepage: http://www.econom.univ.kiev.ua
+Provider-Phone: +38 044 259-71-82
+Editor-Name: Ганна Харламова
+Editor-Email: akharlamchek@gmail.com
+Maintainer-Name: Ганна Харламова
+Maintainer-Email: akharlamchek@gmail.com
+Handle: RePEc:scn:pnoeeq
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вопросы государственного и муниципального управления // Public administration issues
+Description: Ежеквартальный научно-образовательный журнал
+ "Вопросы государственного и муниципального управления"
+ (Public administration issues) -
+ научный журнал, издаваемый в Национально-исследовательском университете
+ "Высшая школа экономики" (НИУ ВШЭ).
+ Цель журнала - создание профессиональной площадки для обсуждения
+ комплексной проблематики государственного и муниципального управления.
+ Журнал входит в перечень ведущих рецензируемых научных журналов и изданий,
+ рекомендованных Высшей аттестационной комиссией  Минобрнауки России
+ для публикации основных научных результатов диссертаций на соискание
+ ученой степени доктора и кандидата наук по направлениям:
+ экономика, социология, право.
+Provider-Name: НИУ ВШЭ
+Provider-Homepage: http://vgmu.hse.ru/
+Maintainer-Name: Ирина Александровна Зверева
+Maintainer-Email: vgmu@hse.ru
+Handle: repec:scn:vgmu00
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вопросы образования // Educational Studies
+Description: Вопросы Ообразования - академический журнал, основанный в 2004 году
+  Высшей школой экономики. Входит в перечень рецензируемых научных изданий,
+  рекомендованных Минобрнауки России.
+  Это научно-образовательное издание для исследователей, аналитиков
+  и практиков образования ведущих учебных заведений страны,
+  учреждений управления образованием, профильных комитетов
+  федеральных и региональных законодательных органов,
+  научно-исследовательских институтов, аналитических и общественных
+  образовательных организаций, а также для широкого круга читателей,
+  интересующихся проблемами развития образования в современном обществе.
+Provider-Name: НИУ ВШЭ
+Provider-Homepage: http://vo.hse.ru/
+Maintainer-Name: Екатерина Юрьевна Багдасарова
+Maintainer-Email: ebagdasarova@hse.ru
+Handle: repec:scn:voprob
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: The Russian Academic Journal
+Description: The Russian Academic Journal is one of the fundamental
+scientific publications on the territory of South of Russia,
+Greater Caucasus, Central Asia, Ukraine and Indochina
+ISSN: 2221-9544 (printed) 2221-9544 (electronic)
+Provider-Name: The Wolfcorner publishing house
+Provider-Homepage: http://journals.wolfcorner.org/index.php/raj/
+Maintainer-Name: Alexey Fedorov
+Maintainer-Email: chief@wolfcorner.org
+Handle: RePEc:scn:000raj
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Review of Business and Economics Studies
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное образовательное бюджетное учреждение высшего профессионального образования «Финансовый университет при Правительстве Российской Федерации» (Финансовый университет)
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031730
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Universum: экономика и юриспруденция
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Международный центр науки и образования»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032054
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Actual Problems of Economics and Law Актуальные проблемы экономики и права
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «Татарский центр образования «Таглимат»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:029045
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник УГУЭС. Наука, образование, экономика. Серия: Экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Уфимский государственный университет экономики и сервиса»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031655
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Финансового университета
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное образовательное бюджетное учреждение высшего профессионального образования «Финансовый университет при Правительстве Российской Федерации» (Финансовый университет)
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031255
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Modernization. Innovation. Research МИР (Модернизация. Инновации. Развитие)
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью Издательский Дом «Наука»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:028891
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Мониторинг деловых тенденций и предпринимательском поведении в секторах экономики России
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет «Высшая школа экономики»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032448
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Научный результат. Серия «Экономические исследования»
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего образования «Белгородский государственный национальный исследовательский университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032413
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Studies on Russian Economic Development Проблемы прогнозирования
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное учреждение науки Институт народнохозяйственного прогнозирования Российской академии наук
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:009162
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Региональное развитие: электронный научно-практический журнал
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Самарский государственный экономический университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032423
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Территория новых возможностей. Вестник Владивостокского государственного университета экономики и сервиса
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Владивостокский государственный университет экономики и сервиса»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:006010
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика образования
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего профессионального образования «Костромской государственный университет им. Н.А. Некрасова»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:017885
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Higher School of Economics Economic Journal Экономический журнал Высшей школы экономики
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет «Высшая школа экономики»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:025886
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: European journal of economics and management sciences
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: �East West� Association for Advanced Studies and Higher Education GmbH
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032479
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Бизнес-информатика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет «Высшая школа экономики»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:025686
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Евразийская Экономическая Интеграция
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Евразийский банк развития
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031725
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Izvestiya of Saratov University. New Series. Series: Economics. Management. Law Известия Саратовского университета. Новая серия. Серия Экономика. Управление. Право
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего  образования «Саратовский национальный исследовательский государственный университет имени Н. Г. Чернышевского»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:002275
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Научные труды: Институт народнохозяйственного прогнозирования РАН
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное учреждение науки Институт народнохозяйственного прогнозирования Российской академии наук
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031151
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Основы экономики, управления и права
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Некоммерческое партнерство "Институт анализа экономики города и региона"
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031361
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Сборник научных трудов Днепропетровского национального университета железнодорожного транспорта имени академика В. Лазаряна «Проблемы экономики транспорта»
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Днепропетровский национальный университет железнодорожного транспорта им. академика В. Лазаряна
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032455
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Foresight-Russia Форсайт
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет «Высшая школа экономики»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:013126
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономический вестник университета. Сборник научных трудов ученых и аспирантов
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Государственное высшее учебное заведение «Переяслав-Хмельницкий государственный педагогический университет имени Григория Сковороды»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032862
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Izvestiâ Sankt-Peterburgskogo gosudarstvennogo èkonomičeskogo universiteta Известия Санкт-Петербургского государственного экономического университета
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего образования «Санкт-Петербургский государственный экономический университет (СПбГЭУ)»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032786
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Электронный вестник Ростовского социально-экономического института
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Негосударственное образовательное учреждение высшего профессионального образования «Ростовский социально-экономический институт»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031802
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика и банки
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Учреждение образования «Полесский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031787
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Московского университета имени С.Ю. Витте. Серия 1: Экономика и управление
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Частное образовательное учреждение высшего образования «Московский университет имени С.Ю. Витте»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031303
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: 
+Вісник Дніпропетровського університету. Серія: Менеджмент інновацій // The Bulletin of the Dnipropetrovsk University. Series: Management of Innovations // Вестник Днепропетровского университета. Серия: Менеджмент инноваций
+
+Description: 
+Provider-Name: Днепропетровский национальный университет имени Олеся Гончара
+Provider-Email: rector.dnu@gmail.com
+Provider-Homepage: http://www.dnu.dp.ua/
+Maintainer-Name: Александр Крупский
+Maintainer-Email: scavr@ua.fm
+Handle: RePEc:scn:0000mi
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вестник Днепропетровского Университета. Серия: Мировое хозяйство и международные экономические отношения
+Description: 
+Provider-Name: Днепропетровский национальный университет имени Олеся Гончара
+Provider-Email: rector.dnu@gmail.com
+Provider-Homepage: http://www.dnu.dp.ua/
+Maintainer-Name: Александр Крупский
+Maintainer-Email: scavr@ua.fm
+Handle: RePEc:scn:000wej
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Известия высших учебных заведений. Поволжский регион. Экономические науки
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Государственное образовательное учреждение высшего образования «Пензенский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:033140
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Торгово-экономический журнал
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью Издательство «Креативная экономика»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:033125
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Investment evaluation Оценка инвестиций
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью «ЦЭПЭС»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:033066
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: International Journal of Innovative Technologies in Economy
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: ROSTranse Trade F Z C
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:033054
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Управление и экономика в XXI веке
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Образовательное частное учреждение высшего образования «Международный инновационный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:033016
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Russian Journal of Labor Economics Экономика труда
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью Издательство «Креативная экономика»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032917
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Проблемы экономики и менеджмента
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Индивидуальный предприниматель Самохвалов Антон Витальевич
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032872
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Economics: time realities Экономика: реалии времени
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Одесский национальный политехнический университет
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032811
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика науки
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего образования «Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032431
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Економічний вісник Донбасу Экономический вестник Донбасса
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Институт экономики промышленности НАН Украины
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032263
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Управление экономикой: теория и практика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Институт экономики промышленности НАН Украины
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:032008
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вісник економічної науки України Вестник экономической науки Украины
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Институт экономики промышленности НАН Украины
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031934
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Научный журнал НИУ ИТМО. Серия «Экономика и экологический менеджмент»
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное автономное образовательное учреждение высшего образования «Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031903
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Мир новой экономики
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное образовательное бюджетное учреждение высшего профессионального образования «Финансовый университет при Правительстве Российской Федерации» (Финансовый университет)
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031257
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика. Налоги. Право
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное образовательное бюджетное учреждение высшего профессионального образования «Финансовый университет при Правительстве Российской Федерации» (Финансовый университет)
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:031101
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Economic policy Экономическая политика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Автономная некоммерческая организация «Редакция журнала “Экономическая политика”»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:026845
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Прямые инвестиции
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Закрытое акционерное общество "Инвест Медиа"
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:026464
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика промышленности
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Институт экономики промышленности НАН Украины
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:024711
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Российский внешнеэкономический вестник
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Государственное образовательное учреждение Высшего профессионального образования Всероссийская академия внешней торговли Минэкономразвития России
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:018481
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: RUDN Journal of Economics Вестник Российского университета дружбы народов. Серия: Экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение  высшего профессионального образования «Российский университет дружбы народов»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:016531
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Creative Economy Креативная экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью Издательство «Креативная экономика»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:016458
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: ЭТАП: экономическая теория, анализ, практика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Автономная некоммерческая образовательная  организация «Институт эффективных технологий»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:014532
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика, предпринимательство и право
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Общество с ограниченной ответственностью Издательство «Креативная экономика»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:008959
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Управление экономическими системами: электроннный научный журнал
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Негосударственное образовательное учреждение высшего профессионального образования Кисловодский институт экономики и права
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:007255
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Teoriya i praktika servisa: ehkonomika, sotsial'naya sfera, tekhnologii Теория и практика сервиса: экономика, социальная сфера, технологии
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего образования «Санкт-Петербургский государственный экономический университет (СПбГЭУ)»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:006400
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Vestnik of the St. Petersburg University. Series 5. Economics Вестник Санкт-Петербургского университета. Серия 5. Экономика
+Description: 
+Provider-Name: CyberLeninka
+Provider-Email: admin@cyberleninka.ru
+Provider-Homepage: http://cyberleninka.ru/
+Provider-Name: Федеральное государственное бюджетное образовательное учреждение высшего образования «Санкт-Петербургский государственный университет»
+Maintainer-Name: CyberLeninka
+Maintainer-Email: admin@cyberleninka.ru
+Handle: RePEc:scn:003571
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Проблеми теорії та методології бухгалтерського обліку, контролю і аналізу // Problems of Theory and Methodology of Accounting, Control and Analysis
+Description: <p>
+Проблеми теорії та методології бухгалтерського обліку, контролю і аналізу – міжнародний збірник наукових праць, який заснований у 2005 році та видається Житомирським державним технологічним університетом.
+</p><p>
+Збірник внесено до Переліку наукових фахових видань у галузі економічних наук, у яких можуть публікуватися результати дисертаційних робіт на здобуття наукових ступенів доктора і кандидата економічних наук.
+</p><p>
+Problems of theory and methodology of accounting, control and analysis is an international collection of scientific works, founded in 2005 and is issued by Zhytomyr State Technological University.
+</p><p>
+The journal is included in the list of scientific professional publications in the field of economic sciences, in which the results of dissertations for the degree of Doctor and PhD in economic sciences can be published.
+</p>
+Provider-Name: Житомирський державний технологічний університет // Zhytomyr State Technological University
+Provider-Email: rvv@ztu.edu.ua
+Provider-Homepage: http://pbo.ztu.edu.ua/
+Maintainer-Name: Ольга Могиленко
+Maintainer-Email: lib_olga@ztu.edu.ua
+Handle: RePEc:scn:000pbo
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Вісник Житомирського державного технологічного університету. Серія: Економічні науки // THE JOURNAL OF ZHYTOMYR STATE TECHNOLOGICAL UNIVERSITY. SERIES: ECONOMICS
+Description: <p>Вісник ЖДТУ. Серія: Економічні науки— науковий журнали в галузі економічних наук , який видає Житомирський державний технологічний університет. Заснований у квітні 1994 р. Журнал зареєстровано ВАК України як фахове видання з економічних наук.
+</p><p>
+The Journal of Zhytomyr State Technological University. Series: Economics is a scientific journal in the field of economics published by Zhytomyr State Technological University.  It was founded in April 1994. The Journal is registered by the Higher Attestation Commission of Ukraine as a special edition in economics.
+</p>
+Provider-Name: Житомирський державний технологічний університет // ZHYTOMYR STATE TECHNOLOGICAL UNIVERSITY
+Provider-Email: rvv@ztu.edu.ua
+Provider-Homepage: http://ven.ztu.edu.ua/
+Maintainer-Name: Ольга Могиленко
+Maintainer-Email: lib_olga@ztu.edu.ua
+Handle: RePEc:scn:000ven
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Экономика Профессия Бизнес
+Description: Журнал "Экономика Профессия Бизнес" издается с 2014 года.
+В разделе экономические науки освещаются макро- и микроэкономические вопросы,
+финансовое состояние в регионах России, а также сравнительные экономические
+характеристики России с другими странами. В этом разделе публикуются научные
+статьи по управлению корпоративным сектором промышленности, инвестициями,
+внешней торговлей, предпринимательством и бизнес-структурами.
+Provider-Name: Алтайский государственный университет
+Provider-Homepage: http://www.asu.ru/
+Maintainer-Name: Александр Мацюра
+Maintainer-Email: amatsyura@gmail.com
+Handle: RePEc:scn:ecprob
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Economics, Management and Sustainability
+Description: Economics, Management and Sustainability (JEMS) is a peer-reviewed open access journal
+publishing original high-quality scholarly research and developments in areas
+related to economics, management, public administration, policy and practice.
+Established in 2016 by the Scientific Platform "SciView.Net".
+Offers rapid review and publication of articles.
+Provider-Name: "SciView.Net" Scientific Platform
+Provider-Email: sepd.tntu@gmail.com
+Provider-Homepage: http://jems.sciview.net/index.php/jems/
+Maintainer-Name: Yuriy Ya. Vovk
+Maintainer-Email: sepd.tntu@gmail.com
+Handle: RePEc:scn:00jems
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-chapter
+Name: PROFITABILITY OF PROJECTS 
+Description: Главы из трех монографий А.В.Жевняка, посвященных исследованию кредита и доходных проектов с применением дисконт-функций (эйлеровых сумм)
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Maintainer-Name: Александр Жевняк
+Maintainer-Email: alzhevnyak@yandex.ru
+Handle: repec:scn:jpdfry
+

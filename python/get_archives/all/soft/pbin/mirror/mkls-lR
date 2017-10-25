@@ -1,0 +1,101 @@
+#! /bin/bash -e
+ver(){ echo "\
+
+mkls-lR version 1.38 2001/10/02
+
+(C) Ian Maclaine-cross 1999 (i.maclaine-cross@unsw.edu.au)
+You may use this only under the conditions of the General Public
+License in file GPL.
+";
+	exit;
+}
+
+l=ls-lR;
+s=mk$l;
+use(){ echo "\
+Makes $l.gz, $l.patch.gz, $l.times and timezone files on FTP servers
+Usage:
+$0 -d dir [options \"paths\"]
+	dir	subdirectory path of $l files
+
+	-a	make $l also
+	-n name	basename of $l files (default $l)
+	-t tod	$l release time hh:mm (default now)
+	--help
+	-h	help
+	--version
+	-V	version
+
+	\"	expand in dir
+	path	ls -lR pathname argument
+	-Ipath	ignore this path
+
+See: man $s; README.$l
+A test: $0 -d .";
+	exit;
+}
+
+# Options only in $a so getopts reads all
+a=`echo " $@" | tr ' ' '\012' | sed -n "/^-a*[dntI]\$/N;/^-[^ ]/p"`;
+all=false;
+d=Jan1,1970;
+while getopts ahvV-d:n:t:I: o $a; do
+	case $o in
+	a) all=:;;
+	d) h=$OPTARG;;
+	n) l=$OPTARG;;
+	t) d=$OPTARG;;
+	v|V) ver;;
+	-|I) ;;
+	*) use;;
+	esac;
+done;
+
+lz=$l.gz;
+lp=$l.patch.gz;
+lt=$l.times;
+
+# Test arguments
+[ -z $h ] && use;
+cd $h;
+h=$PWD/;
+[ ! -w . ] && echo $s: Cannot write to $h && exit;
+for f in $l $lz $lp $lt; do
+	[ -d $f ] && echo $s: $f is a directory && exit;
+done;
+hm=`date +"%H:%M %D" -d$d`;
+SECONDS=$((1+`date +%s`-`date +%s -d"$hm"`));
+[ -3600 -gt $SECONDS ]\
+	&& echo $s: Start $s less than 1 hour before $hm $l release && exit;
+
+# Make temporary files
+tf=/bin/tempfile;
+for f in n p t z; do
+	typeset $f=`[ -x $tf ] && $tf -p$l -m644 || echo /tmp/$l$f$$`;
+done;
+
+end(){ rm -f $n $p $t $z; exit;
+}
+
+# $lt has 0 timezone correction of UTC
+tu(){ date +%s -d"`find $1 -printf %t` UTC";
+}
+
+# Make $tz $n and if $lz differs $z
+tz=/etc/timezone;
+[ -r $tz ] && cp -af $tz .;
+ls -lR `echo " $@ " | sed "s/ -a\+ / /g;s/ -a*[dnt] *[^ ]\+/ /g"` >$n;
+[ 0 -gt $SECONDS ] && touch -d"$hm" $n;
+gzip -cd $lz 2>&1 | diff -u - $n >$t && end;
+gzip -9cn $n >$z;
+touch -r$n $z;
+$all && cp -af $n $l;
+[ ! -r $lz ] && mv $z $lz && end;
+
+# Make $p $t and place $l's
+sed "1s/-	.*$/$lz	`find $lz -printf %t`/;2s:$n:$l:" $t | gzip -9cn >$p;
+echo "`tu $lz`
+`tu $n`" >$t;
+echo "mv -f $t $h$lt; mv -f $p $h$lp; mv -f $z $h$lz;" >$n;
+[ 0 -gt $SECONDS ] && at -f$n $hm &>/dev/null || . $n;
+rm -f $n;

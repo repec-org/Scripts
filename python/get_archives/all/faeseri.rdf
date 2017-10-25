@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: FAERE - French Association of Environmental and Resource Economists
+Provider-Homepage: http://www.faere.fr
+Provider-Institution: RePEc:edi:faereea
+Maintainer-Name: Mireille Chiroleu-Assouline
+Maintainer-Email: contact@faere.fr
+Editor-Name: François Salanié
+Editor-Email: working_papers@faere.fr
+Type: ReDIF-Paper
+Handle: RePEc:fae:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Papers
+Provider-Name: FAERE - French Association of Environmental and Resource Economists
+Provider-Homepage: http://www.faere.fr
+Provider-Institution: RePEc:edi:faereea
+Maintainer-Name: Mireille Chiroleu-Assouline
+Maintainer-Email: contact@faere.fr
+Editor-Name: François Salanié
+Editor-Email: working_papers@faere.fr
+Type: ReDIF-Paper
+Handle: RePEc:fae:ppaper

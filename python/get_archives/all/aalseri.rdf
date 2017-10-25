@@ -1,0 +1,37 @@
+
+Template-Type: ReDIF-Series 1.0
+Name:  DRUID Working Papers
+Description: This is a series on industrial dynamics, provided by
+  the Danish Research Unit for Industrial Dynamics (DRUID). 
+  DRUID is a joint venture between a two departments at Aalborg 
+  University and at Copenhagen Business School, respectively.
+Provider-Name: DRUID, Copenhagen Business School, 
+  Department of Industrial Economics and Strategy/Aalborg University, Department of Business Studies
+Provider-Homepage: http://www.druid.dk/
+Maintainer-Name: Keld Laursen
+Maintainer-Email: kl.ivs@cbs.dk
+Handle: RePEc:aal:abbswp
+
+Template-type: ReDIF-Series 1.0
+Name: Globelics Working Paper Series
+Provider-Name: Globelics - Global Network for Economics of Learning, Innovation,
+ and Competence Building Systems, Aalborg University, Department of Business and
+ Management
+Provider-Homepage: http://www.globelics.org/
+Provider-Institution: RePEc:edi:globeea
+Maintainer-Name: Gert Villumsen
+Maintainer-Email: gv@business.aau.dk
+ISSN: 22460616
+Type: ReDIF-Paper
+Handle: RePEc:aal:glowps
+
+Template-type: ReDIF-Series 1.0
+Name: Globelics Thematic Reviews
+Provider-Name: Globelics - Global Network for Economics of Learning, Innovation, and Competence Building Systems, Aalborg University, Department of Business and Management
+Provider-Homepage: http://www.globelics.org/
+Provider-Institution: RePEc:edi:globeea
+Maintainer-Name: Ramus Lema
+Maintainer-Email: lema@business.aau.dk
+ISSN: 22460616
+Type: ReDIF-Book
+Handle: RePEc:aal:glothr

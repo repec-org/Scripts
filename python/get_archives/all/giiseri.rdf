@@ -1,0 +1,105 @@
+Template-type: ReDIF-Series 1.0
+Name: IHEID Working Papers
+
+Description: Working Papers in International Economics
+
+Provider-Name: Economics Section, The Graduate Institute of International Studies
+
+Provider-Homepage: http://www.graduateinstitute.ch/economics
+
+Provider-Institution: RePEc:edi:ieheich
+Maintainer-Name: Dorina Dobre
+Maintainer-Email: departments-web@graduateinstitute.ch
+
+Editor-Name: Dorina Dobre
+
+Editor-Email: departments-web@graduateinstitute.ch
+
+Handle: RePEc:gii:giihei
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: CIES Research Paper series
+
+Description: Research Paper Series
+
+Provider-Name: Centre for International Environmental Studies, The Graduate Institute
+
+Provider-Homepage: http://www.graduateinstitute.ch/cies
+
+Provider-Institution: RePEc:edi:ciheich
+
+Maintainer-Name: Kristine Kjeldsen
+
+Maintainer-Email: kristine.kjeldsen@graduateinstitute.ch
+
+Editor-Name: Kristine Kjeldsen
+
+Editor-Email: kristine.kjeldsen@graduateinstitute.ch
+
+Editor-Workplace-Name: Centre for International Environmental Studies, The Graduate Institute
+
+Editor-Workplace-Homepage: http://www.graduateinstitute.ch/cies
+
+Handle: RePEc:gii:ciesrp
+
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: CTEI Working Papers series
+
+Description: Working Paper Series
+
+Provider-Name: Centre for Trade and Economic Integration, The Graduate Institute
+
+Provider-Homepage: http://www.graduateinstitute.ch/ctei
+
+Provider-Institution: RePEc:edi:ctheich
+
+Maintainer-Name: Victor Kummritz
+
+Maintainer-Email: victor.kummritz@graduateinstitute.ch
+
+Editor-Name: Victor Kummritz
+
+Editor-Email: victor.kummritz@graduateinstitute.ch
+
+Editor-Workplace-Name: Centre for Trade and Economic Integration, The Graduate Institute
+
+Editor-Workplace-Homepage: http://www.graduateinstitute.ch/ctei
+
+Handle: RePEc:gii:cteiwp
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: CFD Working Papers
+
+Description: Working Papers of collaborators and students of the Centre for Finance and Development at the Graduate Institute, Geneva 
+
+Provider-Name: Centre for Finance and Development, The Graduate Institute
+
+Provider-Homepage: http://www.graduateinstitute.ch/cfd
+
+Provider-Institution: RePEc:edi:cfheich
+
+Maintainer-Name: Laura Cyron
+
+Maintainer-Email: laura.cyron@graduateinstitute.ch
+
+Editor-Name: Laura Cyron
+
+Editor-Email: laura.cyron@graduateinstitute.ch
+
+Editor-Workplace-Name: Centre for Finance and Development, The Graduate Institute
+
+Editor-Workplace-Homepage: http://www.graduateinstitute.ch/cfd
+
+Type: ReDIF-Paper
+
+Handle: RePEc:gii:cfdwpa

@@ -1,0 +1,9 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:fip
+Name: Fed in Print
+Maintainer-Email: zimmermann@stlouisfed.org
+Description: This archive contains data from the Federal
+  Reserve Banks "Fed in Print" database.
+Homepage: http://www.fedinprint.org/
+URL: ftp://fedinprint.org/pub/RePEc/ris/fip
+

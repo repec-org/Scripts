@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: DEGIT Conference Papers
+Provider-Name: DEGIT, Dynamics, Economic Growth, and International Trade
+Provider-Homepage: http://degit.sam.sdu.dk/
+Provider-Phone: +45 6550 2233
+Provider-Fax: +45 6550 1090
+Provider-Email: 
+Provider-Institution: RePEc:edi:iehhsdk
+Maintainer-Name: Jan Pedersen
+Maintainer-Email: jan@sam.sdu.dk
+Type: ReDIF-Paper
+Handle: RePEc:deg:conpap

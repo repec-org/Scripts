@@ -1,0 +1,30 @@
+Template-type: ReDIF-Series 1.0
+Name: European Economy - Discussion Papers 2015 -
+Provider-Name: Directorate General Economic and Financial Affairs (DG ECFIN), European Commission
+Provider-Homepage: https://ec.europa.eu/info/departments/economic-and-financial-affairs_en
+Provider-Institution: RePEc:edi:dg2ecbe
+Maintainer-Name: ECFIN INFO
+Maintainer-Email: Ecfin-Info@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:euf:dispap
+
+Template-type: ReDIF-Series 1.0
+Name: Quarterly Report on the Euro Area (QREA)
+Provider-Name: Directorate General Economic and Financial Affairs (DG ECFIN), European Commission
+Provider-Homepage: https://ec.europa.eu/info/departments/economic-and-financial-affairs_en
+Provider-Institution: RePEc:edi:dg2ecbe
+Maintainer-Name: ECFIN INFO
+Maintainer-Email: Ecfin-Info@ec.europa.eu
+Type: ReDIF-Article
+Handle: RePEc:euf:qreuro
+
+Template-type: ReDIF-Series 1.0
+Name: European Economy - Economic Papers 2008 - 2015
+Provider-Name: Directorate General Economic and Financial Affairs (DG ECFIN), European Commission
+Provider-Homepage: https://ec.europa.eu/info/departments/economic-and-financial-affairs_en
+Provider-Institution: RePEc:edi:dg2ecbe
+Maintainer-Name: ECFIN INFO
+Maintainer-Email: Ecfin-Info@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:euf:ecopap
+

@@ -1,0 +1,41 @@
+
+<HTML>
+<HEAD>
+
+ <TITLE>bdiarch.rdf</TITLE>
+ <BASE TARGET="_top">
+ 
+<STYLE>
+.menu { font-family: Arial; font-size: 11pt;}
+.cat { font-family: Arial; font-size: 13pt; font-weight: bold }
+.titolo { font-family: Arial; font-size: 10pt; }
+.luogo { font-family: Arial; font-size: 10pt; color: rgb(70,70,70) }
+.categoria { font-family: Arial; font-size: 10pt; color: rgb(0,0,0) }
+.formato { font-family: Arial; font-size: 9pt; color: rgb(255,255,128) }
+.freccia { font-family: Courier New; font-size: 10pt;}
+.funzione { font-family: Arial, Verdana; font-size: 8pt }
+.percorso { font-family: Arial; font-size: 8pt }
+.profilo { font-family: Arial; font-size: 8pt }
+.cap { font-family: Arial; font-size: 11pt }
+.par { font-family: Arial; font-size: 9pt }
+</STYLE>
+ 
+ </HEAD>
+
+	    
+  	       <BODY text="#000000" vlink="#FFFF80" alink="#800080"
+                 link="#FFFF80" bgcolor="#FFFFFF" background="#FFFFFF" 
+                 marginwidth="0" marginheight="0">
+<PRE>
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:bdi
+Name: Temi di discussione (Economic working papers)  
+Maintainer-Email: giampiero.barattini@bancaditalia.it
+Description: This archive collects economic working papers published by Bank of
+ Italy
+URL: http://www.bancaditalia.it/AA/BB/CC/DD/EE/RePEc/bdi
+Homepage: http://www.bancaditalia.it
+
+</PRE>  	       </BODY>
+  	    
+</HTML>

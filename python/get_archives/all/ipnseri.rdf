@@ -1,0 +1,50 @@
+Template-type: ReDIF-Series 1.0
+Name: eseconomía
+Description: Revista científica que publica investigaciones en el campo de la economía
+y disciplinas afines con riguroso contenido teórico o práctico, cuya periodicidad
+es semestral.
+Provider-Name: Escuela Superior de Economía, Instituto Politécnico Nacional
+Provider-Homepage: http://yuss.me/RePEc/ipn/esecon/
+Provider-Institution: RePEc:edi:eeipnmx
+Maintainer-Name: Juan Marroquín-Arreola
+Maintainer-Email: repec@ipn.mx
+Type: ReDIF-Article
+Handle: RePEc:ipn:esecon
+ISSN: 1665-8310
+Template-type: ReDIF-Series 1.0
+Name: Panorama Económico
+Description: Revista científica que publica investigaciones en el campo de la economía
+y disciplinas afines con un riguroso contenido teórico o práctico, cuya periodicidad
+es semestral.
+Provider-Name: Escuela Superior de Economía, Instituto Politécnico Nacional
+Provider-Homepage: http://yuss.me/RePEc/ipn/panora/
+Provider-Institution: RePEc:edi:eeipnmx
+Maintainer-Name: Juan Marroquín-Arreola
+Maintainer-Email: repec@ipn.mx
+Type: ReDIF-Article
+Handle: RePEc:ipn:panora
+ISSN: 1870-2171
+Template-type: ReDIF-Series 1.0
+Name: Sección de Estudios de Posgrado e Investigación de la Escuela Superios de Economía del
+Instituto Politécnico Nacional
+Description: Capítulos de libros de investigación económica, editados por las Sección de
+Estudios de Posgrado de la Escuela Superior de Economía del Instituto Politécnico Nacional.
+Provider-Name: Escuela Superior de Economía, Instituto Politécnico Nacional
+Provider-Homepage: http://yuss.me/RePEc/ipn/capitu/
+Provider-Institution: RePEc:edi:eeipnmx
+Maintainer-Name: Juan Marroquín-Arreola
+Maintainer-Email: repec@ipn.mx
+Type: ReDIF-Chapter
+Handle: RePEc:ipn:capitu
+Template-type: ReDIF-Series 1.0
+Name: Sección de Estudios de Posgrado e Investigación de la Escuela Superios de Economía del
+Instituto Politécnico Nacional
+Description: Libros de investigación económica, editados por las Sección de
+Estudios de Posgrado de la Escuela Superior de Economía del Instituto Politécnico Nacional.
+Provider-Name: Escuela Superior de Economía, Instituto Politécnico Nacional
+Provider-Homepage: http://yuss.me/RePEc/ipn/libros/
+Provider-Institution: RePEc:edi:eeipnmx
+Maintainer-Name: Juan Marroquín-Arreola
+Maintainer-Email: repec@ipn.mx
+Type: ReDIF-Book
+Handle: RePEc:ipn:libros

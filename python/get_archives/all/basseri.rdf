@@ -1,0 +1,41 @@
+Template-type: ReDIF-Series 1.0
+Name: Economic Thought journal
+Provider-Name: Bulgarian Academy of Sciences - Economic Research Institute
+Provider-Homepage: http://www.iki.bas.bg
+Provider-Institution: RePEc:edi:ikbasbg
+Maintainer-Name: Diana Dimitrova
+Maintainer-Email: econ.studies@iki.bas.bg
+Type: ReDIF-Article 1.0
+Handle: RePEc:BAS:econth
+ISSN: 0013-2993
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Studies journal
+Provider-Name: Bulgarian Academy of Sciences - Economic Research Institute
+Provider-Homepage: http://www.iki.bas.bg
+Provider-Institution: RePEc:edi:ikbasbg
+Maintainer-Name: Diana Dimitrova
+Maintainer-Email: econ.studies@iki.bas.bg
+Type: ReDIF-Article 1.0
+Handle: RePEc:BAS:econst
+ISSN: 0205-3292
+
+Template-type: ReDIF-Series 1.0
+Name: ERI-BAS Books
+Provider-Name: Bulgarian Academy of Sciences - Economic Research Institute
+Provider-Homepage: http://www.iki.bas.bg
+Provider-Institution: RePEc:edi:ikbasbg
+Maintainer-Name: Diana Dimitrova
+Maintainer-Email: econ.studies@iki.bas.bg
+Type: ReDIF-Book 1.0
+Handle: RePEc:BAS:ecbook
+
+Template-type: ReDIF-Series 1.0
+Name: ERI-BAS Chapters
+Provider-Name: Bulgarian Academy of Sciences - Economic Research Institute
+Provider-Homepage: http://www.iki.bas.bg
+Provider-Institution: RePEc:edi:ikbasbg
+Maintainer-Name: Diana Dimitrova
+Maintainer-Email: econ.studies@iki.bas.bg
+Type: ReDIF-Chapter 1.0
+Handle: RePEc:BAS:ecchap

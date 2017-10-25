@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Australian Bulletin of Labour
+Provider-Name: National Institute of Labour Studies
+Provider-Homepage: http://www.flinders.edu.au/sabs/nils/
+Provider-Institution: RePEc:edi:nilflau
+Maintainer-Name: Rupali Saikia
+Maintainer-Email: Rupali.Saikia@flinders.edu.au
+Type: ReDIF-Article
+Handle: RePEc:fli:journl
+Template-type: ReDIF-Series 1.0
+Name: NILS Working Papers
+Provider-Name: National Institute of Labour Studies
+Provider-Homepage: http://www.flinders.edu.au/sabs/nils/
+Provider-Institution: RePEc:edi:nilflau
+Maintainer-Name: Rupali Saikia
+Maintainer-Email: Rupali.Saikia@flinders.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:fli:wpaper
+

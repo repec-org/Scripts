@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Research, Ipag Business School
+Provider-Homepage: http://www.ipag.fr
+Provider-Institution: RePEc:edi:ipagpfr
+Maintainer-Name: Ingmar Schumacher
+Maintainer-Email: ingmar.schumacher@ipag.fr
+Type: ReDIF-Paper
+Handle: RePEc:ipg:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: IPAG Economics and Management Letters
+Provider-Name: Department of Research, Ipag Business School
+Provider-Institution: RePEc:edi:sneeeea
+Maintainer-Name: Ingmar Schumacher
+Maintainer-Email: ingmar.schumacher@ipag.fr
+Editor-Name: Frederic Teulon
+Editor-Email: f.teulon@ipag.fr
+Type: ReDIF-Article
+ISSN: 2274-4487
+Handle: RePEc:ipg:journl

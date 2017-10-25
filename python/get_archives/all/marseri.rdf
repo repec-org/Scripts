@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Marburg Working Papers on Economics 
+Provider-Name: Philipps-Universität Marburg, Faculty of Business Administration and Economics, Department of Economics (Volkswirtschaftliche Abteilung)
+Provider-Homepage: http://www.uni-marburg.de/fb02/
+Provider-Institution: RePEc:edi:vamarde
+Maintainer-Name:  Bernd Hayo
+Maintainer-Email: hayo@wiwi.uni-marburg.de
+Type: ReDIF-Paper
+Handle: RePEc:mar:volksw
+
+Template-type: ReDIF-Series 1.0
+Name: MAGKS Papers on Economics
+Description: Marburg, Aachen, Giessen, Kassel, Siegen Papers on Economics
+Provider-Name: Philipps-Universität Marburg, Faculty of Business Administration and Economics, Department of Economics (Volkswirtschaftliche Abteilung)
+Provider-Homepage: http://www.uni-marburg.de/fb02/
+Provider-Institution: RePEc:edi:vamarde
+Maintainer-Name: Bernd Hayo
+Maintainer-Email: hayo@wiwi.uni-marburg.de
+Type: ReDIF-Paper
+Handle: RePEc:mar:MAGKSE

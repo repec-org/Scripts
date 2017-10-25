@@ -1,0 +1,20 @@
+
+Template-type: ReDIF-Series 1.0
+Name: Test series
+Description: Created to test the Repecphp
+Type: ReDIF-Paper
+Maintainer-Name: Connie Cook
+Maintainer-Email: connie.cook@deakin.edu.au
+Handle: RePEc:dkn:tester
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Test Series Two
+Description: A second test series for AEF working papers database
+Type: ReDIF-Paper
+Maintainer-Name: Connie Cook
+Maintainer-Email: connie.cook@deakin.edu.au
+Handle: RePEc:dkn:testr2
+
+

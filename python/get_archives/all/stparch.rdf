@@ -1,0 +1,15 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:stp
+Name: STEP Report series
+Maintainer-Name: Nils Henrik Solum
+Maintainer-Email: nils.henrik.solum@nifu.no
+Maintainer-Phone: +47868019
+Maintainer-Fax: +47868049
+Description: Economics Working Paper and Report Archive by the STEP Group.
+ 	This archive contains all the reports and working papers published by the STEP Group
+ 	in full text. All papers are downloadable for free.
+#URL: http://www.step.no/reports/RePEc/stp
+URL: ftp://ideas.repec.org/pub/RePEc/stp/
+Homepage: http://www.nifu.no/
+
+

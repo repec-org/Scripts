@@ -1,0 +1,28 @@
+Template-Type: ReDIF-Series 1.0
+Name: QEH Working Papers 
+Provider-Name: Queen Elizabeth House, University of Oxford
+Provider-Postal: Queen Elizabeth House
+                     3 Mansfield Road, Oxford, OX1 3TB
+                     United Kingdom
+Provider-Homepage: http://www.qeh.ox.ac.uk/
+Provider-Institution: RePEc:edi:qehoxuk
+Provider-Phone: +44 (1865) 281800
+Provider-Fax: +44 (1865) 281801
+Maintainer-Name:  Rachel Crawford 
+Maintainer-Email: rachel.crawford@qeh.ox.ac.uk
+Handle: RePEc:qeh:qehwps
+
+Template-Type: ReDIF-Series 1.0
+Name: OPHI Working Papers 
+Provider-Name: Queen Elizabeth House, University of Oxford
+Provider-Postal: Queen Elizabeth House
+                     3 Mansfield Road, Oxford, OX1 3TB
+                     United Kingdom
+Provider-Homepage: http://ophi.qeh.ox.ac.uk/
+Provider-Institution: RePEc:edi:qehoxuk
+Provider-Phone: +44 (1865) 281800
+Provider-Fax: +44 (1865) 281801
+Maintainer-Name:  Rachel Crawford 
+Maintainer-Email: rachel.crawford@qeh.ox.ac.uk
+Handle: RePEc:qeh:ophiwp
+

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Scholarly Articles
+Provider-Name: Harvard University Department of Economics
+Provider-Homepage: http://www.economics.harvard.edu/
+Provider-Institution: RePEc:edi:deharus
+Maintainer-Name: Office for Scholarly Communication
+Maintainer-Email: osc@harvard.edu
+Type: ReDIF-Paper
+Handle: RePEc:hrv:faseco
+
+Template-type: ReDIF-Series 1.0
+Name: Scholarly Articles
+Provider-Name: Harvard Kennedy School of Government
+Provider-Homepage: http://www.hks.harvard.edu/
+Provider-Institution: RePEc:edi:ksharus
+Maintainer-Name: Office for Scholarly Communication
+Maintainer-Email: osc@harvard.edu
+Type: ReDIF-Paper
+Handle: RePEc:hrv:hksfac

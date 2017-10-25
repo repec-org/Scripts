@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Elon University, Department of Economics
+Provider-Homepage: http://www.elon.edu/e-web/academics/business/economics/
+Provider-Institution: RePEc:edi:delonus
+Maintainer-Name: Jim Barbour
+Maintainer-Email: barbour@elon.edu
+Type: ReDIF-Paper
+Handle: RePEc:elo:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Senior Theses
+Provider-Name: Elon University, Department of Economics
+Provider-Homepage: http://www.elon.edu/e-web/academics/business/economics/
+Provider-Institution: RePEc:edi:delonus
+Maintainer-Name: Jim Barbour
+Maintainer-Email: barbour@elon.edu
+Type: ReDIF-Paper
+Handle: RePEc:elo:theses

@@ -1,0 +1,67 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Institute of Economic Research
+Provider-Homepage: http://www.badania-gospodarcze.pl/
+Provider-Institution: RePEc:edi:ibgtopl
+Maintainer-Name: Adam P. Balcerzak
+Maintainer-Email: apb@umk.pl
+Type: ReDIF-Paper
+Handle: RePEc:pes:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Institute of Economic Research
+Provider-Homepage: http://www.badania-gospodarcze.pl/
+Provider-Institution: RePEc:edi:ibgtopl
+Maintainer-Name: Adam P. Balcerzak
+Maintainer-Email: apb@umk.pl
+Type: ReDIF-Book
+Handle: RePEc:pes:ecbook
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters
+Provider-Name: Institute of Economic Research
+Provider-Homepage: http://www.badania-gospodarcze.pl/
+Provider-Institution: RePEc:edi:ibgtopl
+Maintainer-Name: Adam P. Balcerzak
+Maintainer-Email: apb@umk.pl
+Type: ReDIF-Chapter
+Handle: RePEc:pes:ecchap
+
+Template-type: ReDIF-Series 1.0
+Name: Equilibrium. Quarterly Journal of Economics and Economic Policy
+Description: This is the official journal of the Institute of Economic Research
+Provider-Name: Institute of Economic Research
+Provider-Institution: RePEc:edi:ibgtopl
+Maintainer-Name: Adam P. Balcerzak
+Maintainer-Email: apb@umk.pl
+Editor-Name: Adam P. Balcerzak
+Editor-Email: apb@umk.pl
+Type: ReDIF-Article
+Handle: RePEc:pes:ierequ
+
+Template-type: ReDIF-Series 1.0
+Name: Oeconomia Copernicana
+Description: This is the official journal of the Institute of Economic Research
+Provider-Name: Institute of Economic Research
+Provider-Institution: RePEc:edi:ibgtopl
+Maintainer-Name: Adam P. Balcerzak
+Maintainer-Email: apb@umk.pl
+Editor-Name: Adam P. Balcerzak
+Editor-Email: apb@umk.pl
+Editor-Name: Michal Moszynski
+Editor-Email: moszyn@umk.pl
+Type: ReDIF-Article
+Handle: RePEc:pes:ieroec
+
+Template-type: ReDIF-Series 1.0
+Name: Catallaxy
+Description: This is the official journal of the Institute of Economic Research
+Provider-Name: Institute of Economic Research
+Provider-Institution: RePEc:edi:ibgtopl
+Maintainer-Name: Ilona Pietryka
+Maintainer-Email: ilonapietryka@umk.pl
+Editor-Name: Ilona Pietryka
+Editor-Email: ilonapietryka@umk.pl
+Type: ReDIF-Article
+Handle: RePEc:pes:iercxy

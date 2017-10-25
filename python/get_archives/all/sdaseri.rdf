@@ -1,0 +1,49 @@
+Template-type: ReDIF-Series 1.0
+Name: Staff Papers
+Provider-Name: South Dakota State University, Department of Economics
+Provider-Homepage: http://www.sdstate.edu/econ/
+Provider-Institution: RePEc:edi:edsdsus
+Maintainer-Name: David Davis
+Maintainer-Email: david.davis@sdstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:sda:staffp
+
+Template-type: ReDIF-Series 1.0
+Name: Issue Briefs
+Provider-Name: South Dakota State University, Department of Economics
+Provider-Homepage: http://www.sdstate.edu/econ/
+Provider-Institution: RePEc:edi:edsdsus
+Maintainer-Name: David Davis
+Maintainer-Email: david.davis@sdstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:sda:ibrief
+
+Template-type: ReDIF-Series 1.0
+Name: Research Reports
+Provider-Name: South Dakota State University, Department of Economics
+Provider-Homepage: http://www.sdstate.edu/econ/
+Provider-Institution: RePEc:edi:edsdsus
+Maintainer-Name: David Davis
+Maintainer-Email: david.davis@sdstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:sda:rerepo
+
+Template-type: ReDIF-Series 1.0
+Name: Case Study Abstracts
+Provider-Name: South Dakota State University, Department of Economics
+Provider-Homepage: http://www.sdstate.edu/econ/
+Provider-Institution: RePEc:edi:edsdsus
+Maintainer-Name: David Davis
+Maintainer-Email: david.davis@sdstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:sda:csabst
+
+Template-type: ReDIF-Series 1.0
+Name: SDSU Working Papers in Progress
+Provider-Name: South Dakota State University, Department of Economics
+Provider-Homepage: http://www.sdstate.edu/econ/
+Provider-Institution: RePEc:edi:edsdsus
+Maintainer-Name: David Davis
+Maintainer-Email: david.davis@sdstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:sda:workpa

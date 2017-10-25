@@ -1,0 +1,29 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Review of Economics
+Provider-Name: De Gruyter
+Provider-Homepage: https://www.degruyter.com
+Maintainer-Name: Peter Golla
+Maintainer-Email: peter.golla@degruyter.com
+Editor-Name: Michael Berlemann
+Type: ReDIF-Article
+Handle: RePEc:lus:reveco
+Restriction: For access to full text, subscription to the journal or payment for the individual article is required.
+Order-Homepage: https://www.degruyter.com/view/j/roe
+
+
+Template-type: ReDIF-Series 1.0
+Name: Zeitschrift für Wirtschaftspolitik
+Provider-Name: De Gruyter
+Provider-Homepage: https://www.degruyter.com
+Maintainer-Name: Peter Golla
+Maintainer-Email: peter.golla@degruyter.com
+Editor-Name: Juergen B. Donges
+Editor-Name: Steffen J. Roth
+Editor-Name: Achim Wambach
+Editor-Name: Christian Watrin
+Type: ReDIF-Article
+Handle: RePEc:lus:zwipol
+Restriction: For access to full text, subscription to the journal or payment for the individual article is required.
+Order-Homepage: https://www.degruyter.com/view/j/zfwp
+
+

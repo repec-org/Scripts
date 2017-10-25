@@ -1,0 +1,13 @@
+Template-type: ReDIF-Series 1.0
+Name: Iktisat Isletme ve Finans
+Description: Monthly Academic Periodical Dealing With Economic and Financial Matters
+Provider-Name: Bilgesel Yayincilik
+Provider-Homepage: http://iif.com.tr
+Provider-Email: info@iif.com.tr
+Maintainer-Name: Ali Bilge
+Maintainer-Email: alibilge@iif.com.tr
+Editor-Name: Ali Bilge
+Editor-Email: alibilge@iif.com.tr
+Restriction: Access to the full text of articles of this publication is restricted to the subscribed or paid users. Please refer the order page of each article.
+Type: ReDIF-Article
+Handle: RePEc:iif:iifjrn

@@ -1,0 +1,115 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: American Economic Review
+Description: Papers published in the American Economic Review
+Maintainer-Name: Jane Voros 
+Maintainer-Email: voros@aeapubs.org
+Maintainer-Name: Michael P. Albert
+Maintainer-Email: mpa@aeapubs.org
+Editor-Name: Pinelopi Koujianou Goldberg 
+Editor-Email: info@aerjournal.org
+Editor-Workplace-Name: Yale University
+Provider-Name: American Economic Association
+Provider-Homepage: https://www.aeaweb.org/aer/
+Provider-Institution: RePEc:edi:aeaaaea
+Order-Homepage: https://www.aeaweb.org/subscribe.html
+Handle: RePEc:aea:aecrev
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Economic Perspectives
+Description: Papers published in the Journal of Economic Perspectives
+Maintainer-Name: Jane Voros 
+Maintainer-Email: voros@aeapubs.org
+Maintainer-Name: Michael P. Albert
+Maintainer-Email: mpa@aeapubs.org
+Editor-Name: David H. Autor
+Editor-Workplace-Name: MIT
+Provider-Name: American Economic Association
+Provider-Homepage: https://www.aeaweb.org/jep/
+Provider-Institution: RePEc:edi:aeaaaea
+Order-Homepage: https://www.aeaweb.org/subscribe.html
+Handle: RePEc:aea:jecper
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Economic Literature
+Description: Papers published in the Journal of Economic Literature
+Maintainer-Name: Jane Voros 
+Maintainer-Email: voros@aeapubs.org
+Maintainer-Name: Michael P. Albert
+Maintainer-Email: mpa@aeapubs.org
+Editor-Name: Janet Currie
+Provider-Name: American Economic Association
+Provider-Homepage: https://www.aeaweb.org/journal
+Provider-Institution: RePEc:edi:aeaaaea
+Order-Homepage: https://www.aeaweb.org/subscribe.html
+Handle: RePEc:aea:jeclit
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: American Economic Journal: Applied Economics 
+Description: Papers published in the American Economic Journal: Applied Economics 
+Maintainer-Name: Jane Voros 
+Maintainer-Email: voros@aeapubs.org
+Maintainer-Name: Michael P. Albert
+Maintainer-Email: mpa@aeapubs.org
+Editor-Name: Esther Duflo
+Editor-Workplace-Name: MIT
+Editor-Email: aejinfo@aeapubs.org
+Provider-Name: American Economic Association
+Provider-Homepage: https://www.aeaweb.org/aej-applied
+Provider-Institution: RePEc:edi:aeaaaea
+Order-Homepage: https://www.aeaweb.org/subscribe.html
+Handle: RePEc:aea:aejapp
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: American Economic Journal: Macroeconomics
+Description: Papers published in the American Economic Journal: Macroeconomics 
+Maintainer-Name: Jane Voros 
+Maintainer-Email: voros@aeapubs.org
+Maintainer-Name: Michael P. Albert
+Maintainer-Email: mpa@aeapubs.org
+Editor-Name: Steven J. Davis
+Editor-Workplace-Name: University of Chicago
+Editor-Email: aejinfo@aeapubs.org
+Provider-Name: American Economic Association
+Provider-Homepage: https://www.aeaweb.org/aej-macro
+Provider-Institution: RePEc:edi:aeaaaea
+Order-Homepage: https://www.aeaweb.org/subscribe.html
+Handle: RePEc:aea:aejmac
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: American Economic Journal: Economic Policy
+Description: Papers published in the American Economic Journal: Economic Policy 
+Maintainer-Name: Jane Voros 
+Maintainer-Email: voros@aeapubs.org
+Maintainer-Name: Michael P. Albert
+Maintainer-Email: mpa@aeapubs.org
+Editor-Name: Alan J. Auerbach
+Editor-Email: aejinfo@aeapubs.org
+Editor-Workplace-Name: University of California at Berkeley
+Provider-Name: American Economic Association
+Provider-Homepage: https://www.aeaweb.org/aej-policy
+Provider-Institution: RePEc:edi:aeaaaea
+Order-Homepage: https://www.aeaweb.org/subscribe.html
+Handle: RePEc:aea:aejpol
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: American Economic Journal: Microeconomics
+Description: Papers published in the American Economic Journal: Microeconomics 
+Maintainer-Name: Jane Voros 
+Maintainer-Email: voros@aeapubs.org
+Maintainer-Name: Michael P. Albert
+Maintainer-Email: mpa@aeapubs.org
+Editor-Name: Andrew Postlewaite
+Editor-Email: aejinfo@aeapubs.org
+Editor-Workplace-Name: University of Pennsylvania
+Provider-Name: American Economic Association
+Provider-Homepage: https://www.aeaweb.org/aej-micro
+Provider-Institution: RePEc:edi:aeaaaea
+Order-Homepage: https://www.aeaweb.org/subscribe.html
+Handle: RePEc:aea:aejmic

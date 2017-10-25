@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: Económica
+Provider-Name: Departamento de Economía, Facultad de Ciencias Económicas, Universidad Nacional de La Plata
+Provider-Homepage: http://www.depeco.econo.unlp.edu.ar/economica/ing/
+Provider-Institution: RePEc:edi:funlpar
+Maintainer-Name: Margarita Machelett
+Maintainer-Email: economica@econo.unlp.edu.ar
+ISSN: 0013-0419 (print edition)
+ISSN: 1852-1649 (on-line edition)
+Type: ReDIF-Article
+Handle: RePEc:lap:journl
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics, Working Papers
+Provider-Name: Departamento de Economía, Facultad de Ciencias Económicas, Universidad Nacional de La Plata
+Provider-Homepage: http://www.depeco.econo.unlp.edu.ar/doctrab.php
+Provider-Institution: RePEc:edi:funlpar
+Maintainer-Name: Diego Fernandez Felices
+Maintainer-Email: wpapers@econo.unlp.edu.ar
+Type: ReDIF-Paper
+Handle: RePEc:lap:wpaper
+
+
+

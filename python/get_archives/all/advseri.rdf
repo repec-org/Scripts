@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Development Research Working Paper Series
+Provider-Name: Institute for Advanced Development Studies
+Provider-Homepage: http://www.inesad.edu.bo/
+Provider-Institution: RePEc:edi:inesabo
+Maintainer-Name: Lykke Andersen
+Maintainer-Email: landersen@inesad.edu.bo
+Type: ReDIF-Paper
+Handle: RePEc:adv:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: INESAD ebooks
+Provider-Name: Institute for Advanced Development Studies
+Provider-Homepage: http://www.inesad.edu.bo/
+Provider-Institution: RePEc:edi:inesabo
+Maintainer-Name: Lykke Andersen
+Maintainer-Email: landersen@inesad.edu.bo
+Type: ReDIF-Book
+Handle: RePEc:adv:ebooks
+
+Template-type: ReDIF-Series 1.0
+Name: INESAD book chapters
+Provider-Name: Institute for Advanced Development Studies
+Provider-Homepage: http://www.inesad.edu.bo/
+Provider-Institution: RePEc:edi:inesabo
+Maintainer-Name: Lykke Andersen
+Maintainer-Email: landersen@inesad.edu.bo
+Type: ReDIF-Chapter
+Handle: RePEc:adv:chaptr

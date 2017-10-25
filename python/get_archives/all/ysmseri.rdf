@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: Yale School of Management Working Papers
+Provider-Name: Yale School of Management
+Provider-Homepage: http://icf.som.yale.edu/
+Provider-Institution: RePEc:edi:smyalus
+Maintainer-Email: som.extra@yale.edu
+Type: ReDIF-Paper
+Handle: RePEc:ysm:somwrk
+
+Template-type: ReDIF-Series 1.0
+Name: Yale School of Management YPFS Cases
+Provider-Name: Yale School of Management
+Provider-Homepage: http://som.yale.edu/faculty-research/our-centers-initiatives/program-financial-stability/case-studies/about-ypfs-cases
+Provider-Institution: RePEc:edi:smyalus
+Maintainer-Email: ypfs@yale.edu
+Type: ReDIF-Paper
+Handle: RePEc:ysm:ypfswp

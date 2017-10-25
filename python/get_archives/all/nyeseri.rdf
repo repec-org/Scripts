@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: New York Economic Review
+Description: The New York Economic Review publishes theoretical and empirical articles as well as interpretive reviews of the economics literature.
+Provider-Name: New York State Economics Association (NYSEA)
+Provider-Homepage: https://sites.google.com/site/econnysea/
+Provider-Institution: RePEc:edi:nyseaea
+Maintainer-Name: Eryk Wdowiak
+Maintainer-Email: eric@doviak.net
+Editor-Name: William P. O'Dea
+Editor-Email: odeawp@oneonta.edu
+Type: ReDIF-Article
+Handle: RePEc:nye:nyervw

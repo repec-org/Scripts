@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: ITA manu:scripts
+Description: The ITA manu:scripts are an interdisciplinary working
+ paper series, published by the Institute of Technology Assessment
+ (ITA), an institute of the Austrian Academy of Sciences in Vienna.
+ The main focus are economic, legal and social analyses of new
+ technologies.
+Type: ReDIF-Paper
+Provider-Name: Institute of Technology Assessment (ITA)
+Provider-Institution: RePEc:edi:ioeawat
+Provider-Homepage: http://www.oeaw.ac.at/ita/
+Maintainer-Name: Werner Kabelka
+Maintainer-Email: werner.kabelka@oeaw.ac.at
+Editor-Name: Georg Aichholzer
+Editor-Email: aich@oeaw.ac.at
+Price: free
+ISSN: 1681-9187
+Handle: RePEc:ita:itaman

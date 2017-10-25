@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: IBS Working Papers
+Provider-Name: Instytut Badan Strukturalnych
+Provider-Homepage: http://ibs.org.pl/en/
+Provider-Institution: RePEc:edi:ibswapl
+Maintainer-Name: IBS
+Maintainer-Email: ibs@ibs.org.pl
+Type: ReDIF-Paper
+Handle: RePEc:ibt:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books and Reports published by IBS
+Provider-Name: Instytut Badan Strukturalnych
+Provider-Homepage: http://ibs.org.pl/en/
+Provider-Institution: RePEc:edi:ibswapl
+Maintainer-Name: IBS
+Maintainer-Email: ibs@ibs.org.pl
+Type: ReDIF-Book
+Handle: RePEc:ibt:bookkk
+
+Template-type: ReDIF-Series 1.0
+Name: IBS Policy Papers
+Provider-Name: Instytut Badan Strukturalnych
+Provider-Homepage: http://ibs.org.pl/en/
+Provider-Institution: RePEc:edi:ibswapl
+Maintainer-Name: IBS
+Maintainer-Email: ibs@ibs.org.pl
+Type: ReDIF-Paper
+Handle: RePEc:ibt:ppaper
+
+Template-type: ReDIF-Series 1.0
+Name: IBS Research Reports
+Provider-Name: Instytut Badan Strukturalnych
+Provider-Homepage: http://ibs.org.pl/en/
+Provider-Institution: RePEc:edi:ibswapl
+Maintainer-Name: IBS
+Maintainer-Email: ibs@ibs.org.pl
+Type: ReDIF-Paper
+Handle: RePEc:ibt:report

@@ -1,0 +1,116 @@
+Template-type:        ReDIF-Series 1.0
+Description:          working paper series published by MERIT (2006-current)
+Description:          preceded by umamer (1995-2005) and unuint (1995-2005)
+Name:                 MERIT Working Papers
+Provider-Name:        United Nations University - Maastricht Economic and Social Research Institute on Innovation and Technology (MERIT) 
+Provider-Homepage:    http://www.merit.unu.edu/
+Provider-Institution: RePEc:edi:meritnl
+Maintainer-name:      Ad Notten
+Maintainer-Email:     library@merit.unu.edu 
+Type:                 ReDIF-Paper
+Predecessor:          RePEc:unm:umamer
+Predecessor:          RePEc:unm:unuint
+Handle:               RePEc:unm:unumer
+
+Template-type:        ReDIF-Series 1.0
+Description:          discussion paper series published by UNU-INTECH (1995-2005)
+Description:          merged into unumer (2006-current)	
+Name:                 UNU-INTECH Discussion Paper Series
+Provider-Name:        United Nations University - INTECH 
+Provider-Homepage:    http://www.merit.unu.edu/
+Provider-Institution: RePEc:edi:meritnl
+Maintainer-name:      Ad Notten
+Maintainer-Email:     library@merit.unu.edu 
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:unuint
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by Maastricht Graduate School of Business and Economics (2013-current)
+Description:          preceded by umamet (1995-2012)
+Name:                 Research Memorandum
+Provider-Name:        Maastricht University, Graduate School of Business and Economics (GSBE)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:meteonl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umagsb
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by Merit (1995-2005)
+Description:          merged into unumer (2006-current)	
+Name:                 Research Memorandum
+Provider-Name:        Maastricht University, Maastricht Economic Research Institute on Innovation and Technology (MERIT)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:meritnl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umamer
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by Maastricht Graduate School of Business and Economics (1995-2012)
+Description:          proceeded by umagsb (2013-current)	
+Name:                 Research Memorandum
+Provider-Name:        Maastricht University, Maastricht Research School of Economics of Technology and Organization (METEOR)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:meteonl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umamet
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by Faculty of Economics and Business Administration (1996-2000)
+Name:                 Research Memorandum
+Provider-Name:        Maastricht University, Netherlands Institute of Business Organization and Strategy Research (NIBOR)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:domaanl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umanib
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by ROA (2008-current)
+Name:                 ROA Report
+Provider-Name:        Maastricht University, Research Centre for Education and the Labour Market (ROA)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:romaanl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umarep
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by ROA (1996-current)
+Name:                 ROA Research Memorandum
+Provider-Name:        Maastricht University, Research Centre for Education and the Labour Market (ROA)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:romaanl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umaror
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by ROA (2008-current)
+Name:                 ROA Technical Report
+Provider-Name:        Maastricht University, Research Centre for Education and the Labour Market (ROA)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:romaanl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umarot
+
+Template-type:        ReDIF-Series 1.0
+Description:          series published by ROA (1996-2008)
+Name:                 ROA Working Paper
+Provider-Name:        Maastricht University, Research Centre for Education and the Labour Market (ROA)
+Provider-Homepage:    http://www.maastrichtuniversity.nl/
+Provider-Institution: RePEc:edi:romaanl
+Maintainer-name:      Leonne Portz
+Maintainer-Email:     l.portz@maastrichtuniversity.nl
+Type:                 ReDIF-Paper
+Handle:               RePEc:unm:umarow

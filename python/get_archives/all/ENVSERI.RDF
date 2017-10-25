@@ -1,0 +1,14 @@
+Template-type: ReDIF-Series 1.0
+Name: Environmental Values
+Description: Refereed journal of environmental philosophy, economics and social sciences
+Provider-Name: White Horse Press
+Provider-Homepage: http://www.whp-journals.co.uk
+Restriction: downloads of articles require payment or registration of paid subscription
+Maintainer-Name: Andrew Johnson
+Maintainer-Email: aj@whpress.co.uk
+Editor-Name: Clive Spash
+Editor-Email: Clive.Spash@wu.ac.at
+ISSN: 0963-2719 (print) 1752-7015 (online)
+Type: ReDIF-Article
+Handle: RePEc:env:journl
+

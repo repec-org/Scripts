@@ -1,0 +1,59 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Jena Research Papers in Business and Economics - Working and Discussion Papers
+Description: Working and Discussion Papers of the
+ School of of Economics and Business Administration,
+ Friedrich-Schiller-University of Jena. (From 2003 - 2006 this series was
+ titled "Jenaer Schriften zur Wirtschaftswissenschaft").
+Maintainer-Email: markus.pasche@uni-jena.de
+Provider-Name: Friedrich-Schiller-University Jena, School of Economics and Business Administration
+Provider-Homepage: http://www.wiwi.uni-jena.de/
+Provider-Institution: RePEc:edi:wfjende
+Editor-Name: Hans-Walter Lorenz, Armin Scholl
+Editor-Postal: Carl-Zeiss-Str.3, D-07743 Jena, Germany
+Order-Postal: If a paper is not downloadable, please contact the author(s) or the library of University of Jena, not the archive maintainer.
+Handle: RePEc:jen:jenjbe
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Jenaer Schriften zur Wirtschaftswissenschaft
+Description: Diskussionspapiere der Wirtschaftswissenschaftlichen
+  Fakultïät der Friedrich-Schiller-Universitïät Jena. (Seit 2007 wird diese Reihe geführt
+  als "Jena Research Papers in Business and Economics".)
+Maintainer-Email: markus.pasche@uni-jena.de
+Provider-Name: Friedrich-Schiller-Universität Jena, Wirtschaftswissenschaftliche Fakultät
+Provider-Name-English: Friedrich-Schiller-University of Jena, School of of Economics and Business Administration
+Provider-Homepage: http://www.wiwi.uni-jena.de/
+Provider-Institution: RePEc:edi:wfjende
+Editor-Name: Hans-Walter Lorenz, Armin Scholl
+Editor-Postal: Carl-Zeiss-Str.3, D-07743 Jena, Germany
+Order-Postal: If a paper is not downloadable, please contact the author(s) or the library of University of Jena,
+  not the archive maintainer.
+Handle: RePEc:jen:jenasw
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Working Paper Series A
+Description: Working Papers on Business Administration
+Maintainer-Email: markus.pasche@uni-jena.de
+Provider-Name: Friedrich-Schiller-Universität Jena, Wirtschaftswissenschaftliche Fakultät
+Provider-Name-English: Friedrich-Schiller-University of Jena, School of of Economics and Business Administration
+Provider-Homepage: http://www.wiwi.uni-jena.de/
+Provider-Institution: RePEc:edi:wfjende
+Order-Postal: If a paper is not downloadable, please contact the author(s) or the library of University of Jena,
+  not the archive maintainer.
+Handle: RePEc:jen:jenabe
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Working Paper Series B
+Description: Working Papers on Economics
+Maintainer-Email: markus.pasche@uni-jena.de
+Provider-Name: Friedrich-Schiller-Universität Jena, Wirtschaftswissenschaftliche Fakultïät
+Provider-Name-English: Friedrich-Schiller-University of Jena, School of of Economics and Business Administration
+Provider-Homepage: http://www.wiwi.uni-jena.de/
+Provider-Institution: RePEc:edi:wfjende
+Order-Postal: If a paper is not downloadable, please contact the author(s) or the library of University of Jena,
+  not the archive maintainer.
+Handle: RePEc:jen:jenavo
+

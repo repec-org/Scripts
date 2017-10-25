@@ -1,0 +1,17 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Ekonomia journal
+Description: 'Ekonomia' is a peer-reviewed journal edited by Faculty of Economic Sciences, University of Warsaw. Among our authors we have leading specialists in various branches of economy and other social sciences, who work in the best Polish and foreign universities.
+Type: ReDIF-Article
+Provider-Name: Faculty of Economic Sciences, University of Warsaw
+Provider-Homepage: http://www.wne.uw.edu.pl
+Provider-Phone: +48 +22 5549184
+Provider-Institution: RePEc:edi:fesuwpl
+Maintainer-Name: Marta Höffner
+Maintainer-Email: ekonomia@wne.uw.edu.pl
+Editor-Name: Tomasz Żylicz
+Editor-Email: tzylicz@wne.uw.edu.pl
+Editor-Workplace-Name: Faculty of Economic Sciences, University of Warsaw
+Editor-Workplace-Homepage: http://www.wne.uw.edu.pl
+Order-Email: mhoffner@wne.uw.edu.pl
+Order-Homepage: http://ekonomia.wne.uw.edu.pl
+Handle: RePEc:eko:ekoeko

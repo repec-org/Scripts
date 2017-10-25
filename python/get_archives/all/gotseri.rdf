@@ -1,0 +1,37 @@
+Template-type: ReDIF-Series 1.0
+Name: Courant Research Centre: Poverty, Equity and Growth - Discussion Papers
+Description: Courant Research Centre: Poverty, Equity and Growth in Developing and Transition Countries - Statistical Methods and Empirical Analysis
+Type: ReDIF-Paper
+Provider-Name: Courant Research Centre PEG
+Provider-Homepage: http://www.uni-goettingen.de/en/82144.html
+Provider-Phone: +49 551 39 14066
+Provider-Postal: Platz der Goettinger Sieben 3; D-37073 Goettingen, GERMANY
+Provider-Fax: + 49 551 39 14059
+Maintainer-Name: Dominik Noe
+Maintainer-Email: dnoe@uni-goettingen.de
+Handle: RePEc:got:gotcrc
+
+Template-type: ReDIF-Series 1.0
+Name: Departmental Discussion Papers
+Description: ISSN: 1611-7522
+Type: ReDIF-Paper
+Provider-Name: University of Goettingen, Department of Economics
+Provider-Homepage: http://www.economics.uni-goettingen.de
+Provider-Institution: RePEc:edi:vsgoede
+Maintainer-Name: Ben Schroeter
+Maintainer-Email: vwlweb@uni-goettingen.de
+Handle: RePEc:got:vwldps
+
+Template-type: ReDIF-Series 1.0
+Name: Ibero America Institute for Econ. Research (IAI) Discussion Papers
+Description: Discussion papers of IAI\'s research staff, fellows, and guest researchers. Most of the papers are published in English and German, some in Spanish. Papers issued before 2000 are not available in pdf. They can be requested in printed form from the institute.
+Type: ReDIF-Paper
+Provider-Name: Ibero-America Institute for Economic Research
+Provider-Homepage: http://www.iai.wiwi.uni-goettingen.de
+Provider-Institution: RePEc:edi:ibgoede
+Maintainer-Name: Sabine Jaep
+Maintainer-Email: uwia@gwdg.de
+Editor-Name: Stephan Klasen
+Editor-Email: sklasen@uni-goettingen.de
+Handle: RePEc:got:iaidps
+

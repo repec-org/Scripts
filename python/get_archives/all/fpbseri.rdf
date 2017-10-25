@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Federal Planning Bureau, Belgium
+Provider-Homepage: http://www.plan.be
+Provider-Institution: RePEc:edi:plagvbe
+Maintainer-Name: Dominique van der Wal
+Maintainer-Email: dvdw@plan.be
+Editor-Name: Henri Bogaert
+Type: ReDIF-Paper
+Handle: RePEc:fpb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Planning Papers
+Provider-Name: Federal Planning Bureau, Belgium
+Provider-Homepage: http://www.plan.be
+Provider-Institution: RePEc:edi:plagvbe
+Maintainer-Name: Dominique van der Wal
+Maintainer-Email: dvdw@plan.be
+Editor-Name: Henri Bogaert
+Type: ReDIF-Paper
+Handle: RePEc:fpb:ppaper

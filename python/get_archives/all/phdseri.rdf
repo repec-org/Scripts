@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Philippine Institute for Development Studies
+Provider-Homepage: https://www.pids.gov.ph/
+Provider-Institution: RePEc:edi:pidgvph
+Maintainer-Name: Aniceto Orbeta
+Maintainer-Email: aorbeta@mail.pids.gov.ph
+Type: ReDIF-Paper
+Handle: RePEc:phd:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: Philippine Institute for Development Studies
+Provider-Homepage: https://www.pids.gov.ph/
+Provider-Institution: RePEc:edi:pidgvph
+Maintainer-Name: Aniceto Orbeta
+Maintainer-Email: aorbeta@mail.pids.gov.ph
+Type: ReDIF-Paper
+Handle: RePEc:phd:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Philippine Journal of Development
+Provider-Name: Philippine Institute for Development Studies
+Provider-Homepage: https://www.pids.gov.ph/
+Provider-Institution: RePEc:edi:pidgvph
+Maintainer-Name: Aniceto Orbeta
+Maintainer-Email: aorbeta@mail.pids.gov.ph
+Type: ReDIF-Paper
+Handle: RePEc:phd:pjdevt
+
+Template-type: ReDIF-Series 1.0
+Name: Research Paper Series
+Provider-Name: Philippine Institute for Development Studies
+Provider-Homepage: https://www.pids.gov.ph/
+Provider-Institution: RePEc:edi:pidgvph
+Maintainer-Name: Aniceto Orbeta
+Maintainer-Email: aorbeta@mail.pids.gov.ph
+Type: ReDIF-Paper
+Handle: RePEc:phd:rpseri

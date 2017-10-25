@@ -1,0 +1,71 @@
+Template-type: ReDIF-Series 1.0
+Name: Computational Methods in Social Sciences (CMSS)
+Description: Computational Methods in Social Sciences is an open access, peer reviewed journal with a semiannual frequency. CMSS is aimed to publish papers on information technology, statistics, computational methods and quantitative analysis applied in social sciences. CMSS is an English language journal published by “Nicolae Titulescu” University Editorial House and it is an international forum for all computer scientists, statisticians, mathematicians and social scientists involved in the area of developing new tools and computational methods in the context of the modern social science data sets. The journal publishes survey and review articles from experts in the field and original research papers. Only original and previously unpublished papers will be considered by CMSS. Selected conference papers with exceptional merit are also subject to be published by the CMSS journal.
+ 
+Provider-Name: "Nicolae Titulescu" University of Bucharest, Faculty of Economic Sciences
+Provider-Homepage: http://www.univnt.ro/
+Provider-Email: office@univnt.ro
+Provider-Institution: RePEc:edi:feuntro
+
+Maintainer-Name: Stefan Ciucu
+Maintainer-Email: stefanciucu@univnt.ro
+
+Editor-Name: Bogdan Oancea
+Editor-Email: cmss@univnt.ro
+
+Type: ReDIF-Article
+ISSN: 2344-1232
+Handle: RePEc:ntu:ntcmss
+
+Template-type: ReDIF-Series 1.0
+Name: Global Economic Observer
+Description: Global Economic Observer is a peer-reviewed, open-access, academic journal with a semiannual frequency, looking at a wide range of global economy and international economic relations issues, such as: economic globalization, development policies, international trade and investments, country and regional analyses, commodity market analyses, energy market and policies, environment issues, macroeconomics, monetary and fiscal policies, international organizations, international financial markets, financial and economic crises management, public and corporate finance, multinational and transnational companies, global value chains, competitiveness, competition policies, corporate strategies, marketing and business administration, accounting and audit, tourism, insurance, IT and other services. Global Economic Observer will provide useful and reliable economic intelligence, professional specialized analyses, forecasts and policy recommendations for companies, institutions, policy and decision makers, academia.
+
+Provider-Name: "Nicolae Titulescu" University of Bucharest, Faculty of Economic Sciences
+Provider-Homepage: http://www.univnt.ro/
+Provider-Email: office@univnt.ro
+Provider-Institution: RePEc:edi:feuntro
+
+Provider-Name: Institute for World Economy of the Romanian Academy
+Provider-Homepage: http://www.iem.ro/
+Provider-Email: office@iem.ro
+
+Maintainer-Name: Stefan Ciucu
+Maintainer-Email: stefanciucu@univnt.ro
+
+Editor-Name: Serghei Margulescu
+Editor-Email: margulescu@univnt.ro
+Editor-Name: Simona Moagar-Poladian
+Editor-Email: smpoladian@yahoo.com
+
+Type: ReDIF-Article
+ISSN: 2343-9742
+Handle: RePEc:ntu:ntugeo
+
+Template-type: ReDIF-Series 1.0
+Name: New Trends in Modelling and Economic Forecast (MEF 2011)
+Description: Some of the main topics are:
+1. Computational economics;
+2. Quantitative methods and their application in economic forecast;
+3. Economic forecasting software algorithms & programs;
+4. Economic modeling.
+
+Provider-Name: ROMANIAN ACADEMY – INSTITUTE FOR ECONOMIC FORECASTING
+Provider-Homepage: http://www.ipe.ro/
+Provider-Email: ipe@ipe.ro
+
+Provider-Name: "Nicolae Titulescu" University of Bucharest, Faculty of Economic Sciences
+Provider-Homepage: http://www.univnt.ro/
+Provider-Email: office@univnt.ro
+Provider-Institution: RePEc:edi:feuntro
+
+Maintainer-Name: Lucian Liviu ALBU
+Maintainer-Email: albul@ipe.ro
+
+Editor-Name: Bogdan OANCEA
+Editor-Email: bogdanoancea@univnt.ro
+Editor-Name: Nicolae-Marius JULA
+Editor-Email: mariusjula@univnt.ro
+
+Type: ReDIF-Article
+Handle: RePEc:ntu:ntumef

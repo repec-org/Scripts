@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Series 1.0
+Name: Cahiers du CREDEN (CREDEN Working Papers)
+Provider-Name: CREDEN (Centre de Recherche en Economie et Droit de l'Energie), Faculty of Economics, University of Montpellier 1
+Provider-Postal: CREDEN, Faculté d'Economie, Avenue Raymond Dugrand, CS 79606, 34960 MONTPELLIER Cedex 2, France
+Provider-Homepage: http://www.creden.univ-montp1.fr
+Provider-Institution: RePEc:edi:crmplfr
+Maintainer-Name: Olivier ROUSSE
+Maintainer-Email: olivier.rousse@gmail.com
+Type: ReDIF-Paper
+Handle: RePEc:mop:credwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Cahiers du LASER (LASER Working Papers)
+Provider-Name: LASER (Laboratoire de Science Economique de Richter), Faculty of Economics, University of Montpellier 1
+Provider-Postal: LASER, Faculté d'Economie, Avenue Raymond Dugrand, CS 79606, 34960 MONTPELLIER Cedex 2, France
+Provider-Homepage: http://www.laser.univ-montp1.fr
+Provider-Institution: RePEc:edi:lsmplfr
+Maintainer-Name: Jean-Christophe POUDOU
+Maintainer-Email: jean-christophe.poudou@univ-montp1.fr
+Type: ReDIF-Paper
+Handle: RePEc:mop:lasrwp

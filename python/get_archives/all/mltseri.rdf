@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Series 1.0
+Name: CBM Working Papers
+Provider-Name: Central Bank of Malta
+Provider-Homepage: https://www.centralbankmalta.org/
+Maintainer-Name: Emmanuel Cachia
+Maintainer-Email: researchpapers@centralbankmalta.org 
+Type: ReDIF-Paper
+Handle: RePEc:mlt:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: CBM Policy Papers
+Provider-Name: Central Bank of Malta
+Provider-Homepage: https://www.centralbankmalta.org/
+Maintainer-Name: Emmanuel Cachia
+Maintainer-Email: researchpapers@centralbankmalta.org 
+Type: ReDIF-Paper
+Handle: RePEc:mlt:ppaper
+
+Template-Type: ReDIF-Series 1.0
+Name: CBM Ebooks
+Provider-Name: Central Bank of Malta
+Provider-Homepage: https://www.centralbankmalta.org/
+Maintainer-Name: Emmanuel Cachia
+Maintainer-Email: researchpapers@centralbankmalta.org 
+Type: ReDIF-Book
+Handle: RePEc:mlt:ebooks

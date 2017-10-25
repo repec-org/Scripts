@@ -1,0 +1,51 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers SMART - LERECO
+Provider-Name: INRA UMR SMART-LERECO
+Provider-Homepage:http://www6.rennes.inra.fr/smart/Working-Papers-SMART-LERECO
+Provider-institution: repec:edi:inrarfr
+Editor-Name: Fabienne Femenia
+Editor-Email: smart-lereco-wp@inra.fr
+Maintainer-Name: Christine Mesquida
+Maintainer-Email: smart-lereco-ist@inra.fr
+Type: ReDIF-Paper
+Handle: RePEc:rae:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Review of Agricultural, Food and Environmental Studies
+Provider-Name: INRA Department of Economics
+Provider-Homepage: http://www.springer.com/economics/agricultural+economics/journal/41130
+Provider-institution: repec:edi:inrapfr
+Predecessor: RePEc:rae:jourae
+Editor-Name: Julien Salanié
+Editor-Email: raestud@rennes.inra.fr
+Maintainer-Name: Nathalie Saux-Nogues
+Maintainer-Email: raestud@rennes.inra.fr
+Type: ReDIF-Article
+Handle: RePEc:rae:jouraf
+
+Template-type: ReDIF-Series 1.0
+Name: Review of Agricultural and Environmental Studies - Revue d'Etudes en Agriculture et Environnement
+Provider-Name: INRA Department of Economics 
+Provider-Homepage: http://www.necplus.eu/action/displayJournal?jid=RAE
+Provider-institution: repec:edi:inrapfr
+Predecessor: RePEc:rae:jouces
+Followup: RePEc:rae:jouraf
+Editor-Name: Julien Salanié
+Editor-Email: raestud@rennes.inra.fr
+Maintainer-Name: Nathalie Saux-Nogues
+Maintainer-Email: raestud@rennes.inra.fr
+Type: ReDIF-Article
+Handle: RePEc:rae:jourae
+
+Template-type: ReDIF-Series 1.0
+Name: Cahiers d'Economie et Sociologie Rurales
+Provider-Name: INRA Department of Economics 
+Provider-Homepage: http://www.sae2.inra.fr/Departement-Recherches/Recherches-departement-SAE2/Raestud/%28key%29/3
+Provider-institution: repec:edi:inrapfr
+Followup: RePEc:rae:jourae
+Editor-Name: Julien Salanié
+Editor-Email: raestud@rennes.inra.fr
+Maintainer-Name: Nathalie Saux-Nogues
+Maintainer-Email: raestud@rennes.inra.fr
+Type: ReDIF-Article
+Handle: RePEc:rae:jouces

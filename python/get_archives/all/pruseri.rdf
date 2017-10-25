@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Series 1.0 
+Name: PRUS Working Papers 
+Provider-Name: Poverty Research Unit at Sussex, University of Sussex
+Provider-Homepage: http://www.sussex.ac.uk/Units/PRU/  
+Provider-Institution: RePEc:edi:ecspvuk	
+Maintainer-Name: Alvaro Herrera 
+Maintainer-Email: pru@sussex.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:pru:wpaper

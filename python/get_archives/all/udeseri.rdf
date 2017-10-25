@@ -1,0 +1,32 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo (working papers)
+Description: This is the Workin Papers series of dECON
+Provider-Name: Department of Economics - dECON
+Provider-Homepage: http://cienciassociales.edu.uy/departamentodeeconomia/
+Provider-Institution: RePEc:edi:derauuy
+Maintainer-Name: Andrea Doneschi
+Maintainer-Email: publicaciones@decon.edu.uy
+Maintainer-Name: Héctor Pastori
+Maintainer-Email: hector.pastori@cienciassociales.edu.uy
+Type: ReDIF-Paper
+Handle: RePEc:ude:wpaper
+ 
+Template-type: ReDIF-Series 1.0
+Name: Tesis
+Provider-Name: Department of Economics - dECON
+Provider-Homepage: http://cienciassociales.edu.uy/departamentodeeconomia/
+Provider-Institution: RePEc:edi:derauuy
+Maintainer-Name: Héctor Pastori
+Maintainer-Email: hector.pastori@cienciassociales.edu.uy
+Type: ReDIF-Article
+Handle: RePEc:ude:tesist
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo
+Provider-Name: Programa de Historia Económica, FCS, Udelar
+Provider-Homepage: http://cienciassociales.edu.uy/unidadmultidisciplinaria/secciones/programa-de-historia-economica-y-social/
+Provider-Institution: RePEc:ude:herauuy
+Maintainer-Name: Héctor Pastori
+Maintainer-Email: hector.pastori@cienciassociales.edu.uy
+Type: ReDIF-Paper
+Handle: RePEc:ude:doctra

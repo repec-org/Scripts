@@ -1,0 +1,36 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Type: ReDIF-Paper
+Provider-Name: Fundacion BBVA / BBVA Foundation  
+Provider-Homepage: http://www.fbbva.es
+Provider-Institution: RePEc:edi:fbbvaes
+Maintainer-Name: Fundacion BBVA / BBVA Foundation 
+Maintainer-Email: publicaciones@fbbva.es
+Editor-Name: Fundación BBVA 
+Editor-Email: publicaciones@fbbva.es
+Handle: RePEc:fbb:WPaper
+
+Template-Type: ReDIF-Series 1.0
+Name: Books
+Type: ReDIF-Book
+Provider-Name: Fundacion BBVA / BBVA Foundation  
+Provider-Homepage: http://www.fbbva.es
+Provider-Institution: RePEc:edi:fbbvaes
+Maintainer-Name: Fundacion BBVA / BBVA Foundation 
+Maintainer-Email: publicaciones@fbbva.es
+Editor-Name: Fundación BBVA 
+Editor-Email: publicaciones@fbbva.es
+Handle: RePEc:fbb:bookLB
+
+Template-Type: ReDIF-Series 1.0
+Name: Reports
+Type: ReDIF-Book
+Provider-Name: Fundacion BBVA / BBVA Foundation  
+Provider-Homepage: http://www.fbbva.es
+Provider-Institution: RePEc:edi:fbbvaes
+Maintainer-Name: Fundacion BBVA / BBVA Foundation 
+Maintainer-Email: publicaciones@fbbva.es
+Editor-Name: Fundación BBVA 
+Editor-Email: publicaciones@fbbva.es
+Handle: RePEc:fbb:report
+

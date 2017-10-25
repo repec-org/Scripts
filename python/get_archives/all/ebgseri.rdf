@@ -1,0 +1,34 @@
+Template-Type: ReDIF-Series 1.0
+Name: Les Cahiers de Recherche
+Editor-Name: Thierry Foucault
+Editor-Email: foucault@hec.fr
+Provider-Name: HEC Paris
+Provider-Postal: HEC Paris, 78351 Jouy-en-Josas cedex, France 
+Provider-Homepage: http://www.hec.fr/
+Provider-Institution: RePEc:edi:hecpafr
+Maintainer-Name: Sandra Dupouy
+Maintainer-Email: dupouy@hec.fr
+Handle: RePEc:ebg:heccah
+
+Template-Type: ReDIF-Series 1.0
+Name: IESE Research Papers
+Editor-Name: Noelia Romero
+Provider-Name: IESE Business School
+Provider-Postal: IESE Business School, Av Pearson 21, 08034 Barcelona, SPAIN
+Provider-Homepage: http://www.iese.edu/
+Provider-Institution: RePEc:edi:ienaves
+Maintainer-Name: Noelia Romero
+Maintainer-Email: academicmaterial@iese.edu
+Handle: RePEc:ebg:iesewp
+
+Template-Type: ReDIF-Series 1.0
+Name: ESSEC Working Papers
+Editor-Name: José Miguel Gaspar
+Editor-Email: josemiguel.gaspar@essec.edu 
+Provider-Name: ESSEC Research Center, ESSEC Business School
+Provider-Postal: ESSEC Research Center, BP 105, 95021 Cergy, France
+Provider-Homepage: http://www.essec.edu/
+Provider-Institution: RePEc:edi:essecfr
+Maintainer-Name: Sophie Magnanou
+Maintainer-Email: magnanou@essec.edu
+Handle: RePEc:ebg:essewp

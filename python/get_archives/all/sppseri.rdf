@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Knowledge Management, Economics and Information Technology
+Provider-Name: ScientificPapers.org
+Provider-Homepage: http://www.scientificpapers.org
+Provider-Institution:
+Maintainer-Name: Adrian Ghencea
+Maintainer-Email: adrian.ghencea@scientificpapers.org
+ISSN: 2069-5934
+Type: ReDIF-Article
+Handle: RePEc:spp:jkmeit
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Business Management and Applied Economics
+Provider-Name: ScientificPapers.org
+Provider-Homepage: http://jbmae.scientificpapers.org
+Provider-Institution:
+Maintainer-Name: Adrian Ghencea
+Maintainer-Email: adrian.ghencea@scientificpapers.org
+ISSN: 2284-6093
+Type: ReDIF-Article
+Handle: RePEc:spp:jbmae

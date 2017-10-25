@@ -1,0 +1,20 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: Traektoriâ Nauki = Path of Science
+Description: Path of Science is an international open-access, peer-reviewed electronic journal created to fully and promptly meet the information needs of the society in the knowledge gained in the course of research and development, research and design, design and technology and production activities of scientists and experts. The journal publishes original research papers, review articles and short communications papers in the fields of Social, Technical, Natural sciences and Humanities. The scope of problems of articles is not limited. The target audience of the journal includes scientists, PhD, representatives of business and expert association, students. Articles for publication are accepted in English, Russian and Ukrainian. The journal is published monthly.
+Provider-Name: Altezoro, s.r.o. & Dialog
+Provider-Homepage: http://pathofscience.org/
+Maintainer-Name: Andrey Kataev
+Maintainer-Email: editor@pathofscience.org
+Order-Email: editor@pathofscience.org
+Editor-Name: Andrey Kataev
+ISSN: 2413-9009
+Type: ReDIF-Article
+Handle: RePEc:pos:journl
+Template-Type: ReDIF-Series 1.0
+Name: ИЦ "Диалог" - учебная и научная литература. PC "Dialog" - Educational and Scientific Books
+Provider-Name: Publishing Center "Dialog"
+Provider-Homepage: http://pathofscience.org/
+Maintainer-Name: Andrey Kataev
+Maintainer-Email: print@thedialog.com.ua
+Type: ReDIF-Book
+Handle: RePEc:pos:ecbook

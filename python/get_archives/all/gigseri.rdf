@@ -1,0 +1,56 @@
+Template-type: ReDIF-Series 1.0
+Name: GIGA Working Paper Series
+Provider-Name: GIGA German Institute of Global and Area Studies
+Provider-Homepage: http://www.giga-hamburg.de/workingpapers
+Provider-Institution: RePEc:edi:dueiide
+Maintainer-Name: Bert Hoffmann
+Maintainer-Email: hoffmann@giga-hamburg.de
+Order-Email: workingpapers@giga-hamburg.de
+Type: ReDIF-Paper
+Handle: RePEc:gig:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Africa Spectrum
+Provider-Name: Institute of African Affairs, GIGA German Institute of Global and Area Studies, Hamburg
+Provider-Homepage: http://www.africa-spectrum.org
+Provider-Institution: RePEc:edi:dueiide
+Maintainer-Name: Andreas Mehler
+Maintainer-Email: mehler@giga-hamburg.de
+Order-Email: iaa@giga-hamburg.de
+Order-Homepage: http://www.giga-hamburg.de/afrika-spectrum
+Price: Annual subscription: € 60,- plus postage, single issue € 22,- (older issues up to and including 1998 only € 4,-);Annual subscription for students: € 45,- plus postage
+ISSN: 0002-0397
+Type: ReDIF-Article
+Handle: RePEc:gig:afjour
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Current Chinese Affairs - China aktuell
+Provider-Name: Institute of Asian Studies, GIGA German Institute of Global and Area Studies, Hamburg
+Provider-Homepage: http://www.currentchineseaffairs.org
+Provider-Institution: RePEc:edi:dueiide
+Maintainer-Name: Karsten Giese
+Maintainer-Email: giese@giga-hamburg.de
+Maintainer-Name: Heike Holbig
+Maintainer-Email: holbig@giga-hamburg.de
+Order-Email: ias@giga-hamburg.de
+Order-Homepage: http://www.giga-hamburg.de/china-aktuell
+Price: Annual subscription: € 82,- plus postage, single issue € 25,- (older issues up to and including 1998 only € 4,-); 25 % rebate for students
+ISSN: 0341-6631
+Type: ReDIF-Article
+Handle: RePEc:gig:chaktu
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Current Southeast Asian Affairs 
+Provider-Name: Institute of Asian Studies, GIGA German Institute of Global and Area Studies, Hamburg
+Provider-Homepage: http://www.currentsoutheastasianaffairs.org
+Provider-Institution: RePEc:edi:dueiide
+Maintainer-Name: Marco Bünte
+Maintainer-Email: buente@giga-hamburg.de
+Maintainer-Name: Howard Loewen
+Maintainer-Email: loewen@giga-hamburg.de
+Order-Email: ias@giga-hamburg.de
+Order-Homepage: http://www.giga-hamburg.de/suedostasien-aktuell
+Price: Annual subscription: € 82,- plus postage, single issue € 25,- (older issues up to and including 1998 only € 4,-); 25 % rebate for students
+ISSN: 0722-8821
+Type: ReDIF-Article
+Handle: RePEc:gig:soaktu

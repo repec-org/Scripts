@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers of National Institute of Economic Research
+Provider-Name: National Institute of Economic Research
+Provider-Homepage: http://www.ince.ro/
+Provider-Institution: RePEc:edi:incearo
+Maintainer-Name: Corina Saman
+Maintainer-Email: csaman@ipe.ro
+Type: ReDIF-Paper
+Handle: RePEc:ror:wpince
+
+Template-type: ReDIF-Series 1.0
+Name: Studii Economice 
+Provider-Name: National Institute of Economic Research
+Provider-Homepage: http://www.ince.ro/
+Provider-Institution: RePEc:edi:incearo
+Maintainer-Name: Corina Saman
+Maintainer-Email: csaman@ipe.ro
+Type: ReDIF-Paper
+Handle: RePEc:ror:seince

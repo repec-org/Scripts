@@ -1,0 +1,17 @@
+Template-Type: ReDIF-Institution 1.0
+Handle: RePEc:wzb:mpwiwde
+Primary-Name: Wissenschaftszenturm Berlin für Sozialforschung (WZB)
+Primary-Name-English: Social Sceince Research Center Berlin (WZB)
+Primary-Location: WZB - MP, Reichpietscufer 50, 10785 Berlin, Germany
+Primary-Homepage: http://www.wz-berlin.de
+Secondary-Name: Märkte und politische Ökonomie
+Secondary-Name-English: Markets and Political Economy
+Secondary-Homepage: http://www.wz-berlin.de/mp
+Tertiary-Name: Wettbewerbsfähigkeit und industrieller Wandel
+Tertiary-Name-English: Competitiveness and Industrial Competition (CIC)
+Tertiary-Homepage: http://www.wz-berlin.de/mp/wiw
+Name: Working Paper Archive at the Wissenschaftszentrum Berlin (WZB)
+Description: This archive collects IO working papers from the WZB's Unit: Competitiveness and Industrial Change (CIC).  In most cases the papers are in English, whereas abstracts are both in English and German.
+Maintainer-Name: Christopher Xitco
+Maintainer-Phone: +(49) 0(30) 25491-407
+Maintainer-Email: xitco@wz-berlin.de

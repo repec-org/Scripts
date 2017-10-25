@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones Europeas de Dirección y Economía de la Empresa (IEDEE)
+Description: Investigaciones Europeas de Dirección y Economía de la Empresa (European Research on Management and Business Economics) is a journal published every four months (January, May and September) by European Academy of Management and Business Economics (AEDEM) since 1995 (Spain). The aim of the Journal is to foster academic research and the spread of business knowledge by publishing original research works that deal with some specialities with relations in the fields of Economy and Business Management. The journal is indexed by SCOPUS, Thomson Reuters Emerging Sources Citation Index, EconLit, DOAJ, EBSCO Information Services, ULRICH'S Global Serials Directory, IBSS, ECONBIZ, ECONIS, ECONSTOR, Index Copernicus, REDALYC, e-Revistas, LATINDEX, DIALNET,ISOC-Economía, DICE, IN-RECS, RESH, MIAR, CARHUS, Academic Journals Database, CIRC, Cabell's Business Directories, Fuente Académica
+
+Provider-Name: Academia Europea de Dirección y Economía de la Empresa (AEDEM)
+Provider-Name-English: European Academy of Management and Business Economics
+Provider-Postal: Investigaciones Europeas de Dirección y Economía de la Empresa, Facultad de Ciencias Económicas y Empresariales, Universidad de Vigo, Lagoas - Marcosende s/n, E-36310, Vigo, Pontevedra, España
+Provider-Phone: (+34) 986812473
+Provider-Fax: (+34) 986812401
+Provider-Homepage: http://www.aedem-virtual.com/es/journal/iedee
+ISSN: 1135-2523   
+Editor-Name: Tony Crespo Franco
+Editor-Email: iedee@aedem-virtual.com
+Followup: RePEc:idi:jermbe
+Maintainer-Name: Tony Crespo Franco
+Maintainer-Email: iedee@aedem-virtual.com
+Type: ReDIF-Article
+Handle: RePEc:idi:jiedee
+Provider-Institution: RePEc:edi:aedemea 
+
+Template-type: ReDIF-Series 1.0
+Name: European Research on Management and Business Economics (ERMBE)
+Description: European Research on Management and Business Economics is a journal published every four months (January, May and September) in Spain. ERMBE was born in 1995 as Investigaciones Europeas de Dirección y Economía de la Empresa (IEDEE). The journal is published by European Academy of Management and Business  Economics (AEDEM) and Elsevier under this new title since 2016, it was indexed in SCOPUS in 2012 and in Thomson Reuters Emerging Sources Citation Index in 2015.ERMBE is an international peer-reviewed open access journal. The articles published are related with any specialities in the fields of the Business Economics (accounting, business management, finance, human resource management, marketing, operations management, organization theory, strategic management, etc.). The target audience is constituted by academics and researchers belonging to any university and by professionals and executives from the business world. ERMBE uses a doubled blind peer-review system for all articles submitted.  The journal is indexed by SCOPUS, Thomson Reuters Emerging Sources Citation Index, EconLit, DOAJ, EBSCO Information Services, ULRICH'S Global Serials Directory, IBSS, ECONBIZ, ECONIS, ECONSTOR, Index Copernicus, REDALYC, e-Revistas, LATINDEX, DIALNET,ISOC-Economía, DICE, IN-RECS, RESH, MIAR, CARHUS, Academic Journals Database, CIRC, Cabell's Business Directories, Fuente Académica
+
+Provider-Name: Academia Europea de Dirección y Economía de la Empresa (AEDEM)
+Provider-Name-English: European Academy of Management and Business Economics
+Provider-Postal: European Research on Management and Business Economics, Facultad de Ciencias Económicas y Empresariales, Universidad de Vigo, Lagoas - Marcosende s/n, E-36310, Vigo, Pontevedra, España
+Provider-Phone: (+34) 986812473
+Provider-Fax: (+34) 986812401
+Provider-Homepage: http://www.aedem-virtual.com/ermbe
+ISSN: 2444-8834  
+Editor-Name: Tony Crespo Franco
+Editor-Email: ermbe@aedem-virtual.com
+Predecessor: RePEc:idi:jiedee
+Maintainer-Name: Tony Crespo Franco
+Maintainer-Email: ermbe@aedem-virtual.com
+Type: ReDIF-Article
+Handle: RePEc:idi:jermbe
+Provider-Institution: RePEc:edi:aedemea 

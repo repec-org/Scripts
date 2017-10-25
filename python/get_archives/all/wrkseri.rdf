@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: The Warwick Economics Research Paper Series (TWERPS)
+Provider-Name: University of Warwick, Department of Economics
+Provider-Homepage: http://www2.warwick.ac.uk/fac/soc/economics/
+Provider-Institution: RePEc:edi:dewaruk
+Maintainer-Name: Margaret Nash
+Maintainer-Email: m.j.nash@warwick.ac.uk
+Type: ReDIF-Paper
+Handle: RepEC:wrk:warwec
+
+Template-type: ReDIF-Series 1.0
+Name: CRETA Online Discussion Paper Series 
+Provider-Name: Centre for Research in Economic Theory and its Applications CRETA 
+Provider-Homepage: http://www2.warwick.ac.uk/fac/soc/economics/research/centres/creta
+Provider-Institution: RePEc:edi:dewaruk
+Maintainer-Name: Margaret Nash
+Maintainer-Email: m.j.nash@warwick.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:wrk:wcreta
+
+Template-type: ReDIF-Series 1.0
+Name: EMF Research Papers
+Provider-Name: Economic Modelling and Forecasting Group  
+Provider-Homepage: http://www2.warwick.ac.uk/fac/soc/wbs/subjects/emf
+Provider-Institution: RePEc:edi:emwaruk
+Maintainer-Name: Ana Galvão
+Maintainer-Email: Ana.Galvao@wbs.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:wrk:wrkemf

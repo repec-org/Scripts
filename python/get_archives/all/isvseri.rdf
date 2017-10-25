@@ -1,0 +1,47 @@
+Template-type: ReDIF-Series 1.0
+Name: Knowledge as Business Opportunity: Proceedings of the Management, Knowledge and Learning International Conference 2011
+Provider-Name: International School for Social and Business Studies, Celje, Slovenia
+Provider-Homepage: http://www.issbs.si
+Editor-Name: Valerij Dermol
+Editor-Name: Nada Trunk Širca
+Editor-Name: Goran Dakovic 
+Editor-Name: Urška Lindav
+Maintainer-Name: Alen Ježovnik  
+Maintainer-Email: ijmkl@issbs.si
+Type: ReDIF-Chapter
+Handle: RePEc:isv:mklp11
+
+Template-type: ReDIF-Series 1.0
+Name: Knowledge and Learning: Global Empowerment; Proceedings of the Management, Knowledge and Learning International Conference 2012
+Provider-Name: International School for Social and Business Studies, Celje, Slovenia
+Provider-Homepage: http://www.issbs.si
+Editor-Name: Valerij Dermol
+Editor-Name: Nada Trunk Širca
+Editor-Name: Goran Dakovic 
+Editor-Name: Urška Lindav
+Maintainer-Name: Alen Ježovnik
+Maintainer-Email: ijmkl@issbs.si
+Type: ReDIF-Chapter
+Handle: RePEc:isv:mklp12
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Management, Knowledge and Learning
+Provider-Name: International School for Social and Business Studies, Celje, Slovenia
+Provider-Homepage: http://www.issbs.si
+Editor-Name: Kristijan Breznik
+Editor-Email: ijmkl@issbs.si
+Maintainer-Name: Alen Ježovnik
+Maintainer-Email: ijmkl@issbs.si
+Type: ReDIF-Article
+Handle: RePEc:isv:jouijm
+ISSN: 2232-5697
+
+Template-type: ReDIF-Series 1.0
+Name: ISSBS Monographs
+Provider-Name: International School for Social and Business Studies, Celje, Slovenia
+Provider-Homepage: http://www.issbs.si
+Maintainer-Name: Alen Ježovnik
+Maintainer-Email: ijmkl@issbs.si
+Type: ReDIF-Book
+Handle: RePEc:isv:issbsm
+ISSN: 2232-2116

@@ -1,0 +1,34 @@
+Template-type: ReDIF-Series 1.0
+Name: IEHAS Discussion Papers
+Provider-Name: Institute of Economics, Centre for Economic and Regional Studies, Hungarian Academy of Sciences
+Provider-Homepage: http://econ.core.hu
+Provider-Institution: RePEc:edi:iehashu
+Maintainer-Name: Adrienn Foldi
+Maintainer-Email: foldi.adrien@krtk.mta.hu
+Type: ReDIF-Paper
+Handle: RePEc:has:discpr
+
+Template-type: ReDIF-Series 1.0
+Name: Budapest Working Papers on the Labour Market
+Provider-Name: Institute of Economics, Centre for Economic and Regional Studies, Hungarian Academy of Sciences
+Provider-Homepage: http://econ.core.hu
+Provider-Institution: RePEc:edi:iehashu
+Maintainer-Name: Adrienn Foldi
+Maintainer-Email: foldi.adrien@krtk.mta.hu
+Type: ReDIF-Paper
+Handle: RePEc:has:bworkp
+
+
+Template-type: ReDIF-Series 1.0
+Name: The Hungarian Labour Market Yearbooks
+Provider-Name: Institute of Economics, Centre for Economic and Regional Studies, Hungarian Academy of Sciences
+Provider-Homepage: http://econ.core.hu
+Provider-Institution: RePEc:edi:iehashu
+Maintainer-Name: Adrienn Foldi
+Maintainer-Email: foldi.adrien@krtk.mta.hu
+Type: ReDIF-Book
+Handle: RePEc:has:lmbook
+
+
+
+

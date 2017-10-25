@@ -1,0 +1,71 @@
+Template-type: ReDIF-Series 1.0
+Name: EGAP Working Papers
+Provider-Name: Tecnológico de Monterrey, Campus Ciudad de México
+Provider-Homepage: http://www.ccm.itesm.mx/egap/
+Provider-Institution: RePEc:edi:emitemx
+Maintainer-Name: Amaranta Arroyo
+Maintainer-Email: egap.ccm@servicios.itesm.mx
+Type: ReDIF-Paper
+Handle: RePEc:ega:docume
+
+Template-type: ReDIF-Series 1.0
+Name: Marketing Working Papers
+Provider-Name: Tecnológico de Monterrey, Campus Ciudad de México
+Provider-Homepage: http://www.ccm.itesm.mx/egap/
+Provider-Institution: RePEc:edi:emitemx
+Maintainer-Name: Amaranta Arroyo
+Maintainer-Email: egap.ccm@servicios.itesm.mx
+Type: ReDIF-Paper
+Handle: RePEc:ega:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: LATINMOD Working Papers Series
+Provider-Name: Tecnológico de Monterrey, Campus Ciudad de México
+Provider-Homepage: http://www.ccm.itesm.mx/egap/
+Provider-Institution: RePEc:edi:emitemx
+Maintainer-Name: Amaranta Arroyo
+Maintainer-Email: egap.ccm@servicios.itesm.mx
+Type: ReDIF-Paper
+Handle: RePEc:ega:latinm
+
+Template-type: ReDIF-Series 1.0
+Name: EGAP Computer Code
+Provider-Name: Tecnológico de Monterrey, Campus Ciudad de México
+Provider-Homepage: http://www.ccm.itesm.mx/egap/
+Provider-Institution: RePEc:edi:emitemx
+Maintainer-Name: Amaranta Arroyo
+Maintainer-Email: egap.ccm@servicios.itesm.mx
+Type: ReDIF-Software
+Handle: RePEc:ega:comcod
+
+Template-type: ReDIF-Series 1.0
+Name: Revista de Administración, Finanzas y Economía (Journal of Management, Finance and Economics)
+Provider-Name: Tecnológico de Monterrey, Campus Ciudad de México
+Provider-Homepage: http://www.ccm.itesm.mx/egap/
+Provider-Institution: RePEc:edi:emitemx
+Maintainer-Name: José Antonio Núñez
+Maintainer-Email: janm@itesm.mx
+Editor-Name: José Antonio Núñez
+Editor-Email: janm@itesm.mx
+Type: ReDIF-Article
+Handle: RePEc:ega:rafega
+
+Template-type: ReDIF-Series 1.0
+Name: EGAP Books
+Provider-Name: Tecnológico de Monterrey, Campus Ciudad de México
+Provider-Homepage: http://www.ccm.itesm.mx/egap/
+Provider-Institution: RePEc:edi:emitemx
+Maintainer-Name: Amaranta Arroyo
+Maintainer-Email: egap.ccm@servicios.itesm.mx
+Type: ReDIF-Book
+Handle: RePEc:ega:libros
+
+Template-type: ReDIF-Series 1.0
+Name: EGAP Chapters
+Provider-Name: Tecnológico de Monterrey, Campus Ciudad de México
+Provider-Homepage: http://www.ccm.itesm.mx/egap/
+Provider-Institution: RePEc:edi:emitemx
+Maintainer-Name: Amaranta Arroyo
+Maintainer-Email: egap.ccm@servicios.itesm.mx
+Type: ReDIF-Chapter
+Handle: RePEc:ega:capitu

@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: CHERE, University of Technology, Sydney
+Provider-Homepage: http://www.chere.uts.edu.au
+Provider-Institution: RePEc:edi:chusyau
+Maintainer-Name: Liz Chinchen
+Maintainer-Email: liz.chinchen@chere.uts.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:her:chedps
+
+Template-type: ReDIF-Series 1.0
+Name: Research Reports
+Provider-Name: CHERE, University of Technology, Sydney
+Provider-Homepage: http://www.chere.uts.edu.au
+Provider-Institution: RePEc:edi:chusyau
+Maintainer-Name: Liz Chinchen
+Maintainer-Email: liz.chinchen@chere.uts.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:her:cherrs
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: CHERE, University of Technology, Sydney
+Provider-Homepage: http://www.chere.uts.edu.au
+Provider-Institution: RePEc:edi:chusyau
+Maintainer-Name: Liz Chinchen
+Maintainer-Email: liz.chinchen@chere.uts.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:her:chewps

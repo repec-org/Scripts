@@ -1,0 +1,55 @@
+Template-type: ReDIF-Series 1.0
+Name: CIRANO Working Papers
+Description: The purpose of the Working Papers is to disseminate the results of research conducted at CIRANO in order to solicit exchanges and comments.  These reports are written in the style of scientific publications. The ideas and opinions expressed in these documents are solely those of the authors, and do not necessarily reflect positions of CIRANO or its partners. 
+Maintainer-Name: Webmaster
+Maintainer-Email: webmestre@cirano.qc.ca
+Provider-Name: CIRANO
+Provider-Institution: RePEc:edi:ciranca
+Handle: RePEc:cir:cirwor
+
+Template-type: ReDIF-Series 1.0
+Name: CIRANO Papers
+Description: Articles in this series address issues in a non scientific way and aim at a more general audience.
+Maintainer-Name: Webmaster
+Maintainer-Email: webmestre@cirano.qc.ca
+Provider-Name: CIRANO
+Provider-Institution: RePEc:edi:ciranca
+Handle: RePEc:cir:circah
+
+Template-type: ReDIF-Series 1.0
+Name: CIRANO Project Reports
+Description: Project Reports are specifically targeted to our partners and an informed readership. They are not destined for publication in academic journals nor aimed at a specialized readership, but are rather conceived as a medium of exchange between the worlds of research and application. The ideas and opinions expressed in these documents are solely those of the authors, and do not necessarily reflect positions of CIRANO or its partners. 
+Maintainer-Name: Webmaster
+Maintainer-Email: webmestre@cirano.qc.ca
+Provider-Name: CIRANO
+Provider-Institution: RePEc:edi:ciranca
+Handle: RePEc:cir:cirpro
+
+Template-type: ReDIF-Series 1.0
+Name: CIRANO Burgundy Reports
+Description: The Burgundy Reports, produced by CIRANO fellows, are overviews of topics of general interest intended to stimulating reflection and public debate on current issues. The ideas and opinions expressed in these documents are solely those of the authors, and do not necessarily reflect positions of CIRANO or its corporate, university, or government partners. 
+Maintainer-Name: Webmaster
+Maintainer-Email: webmestre@cirano.qc.ca
+Provider-Name: CIRANO
+Provider-Institution: RePEc:edi:ciranca
+Handle: RePEc:cir:cirbur
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: CIRANO Monographs
+Description: Separate treatise on a single subject or an aspect of it.
+Maintainer-Name: Webmaster
+Maintainer-Email: webmestre@cirano.qc.ca
+Provider-Name: CIRANO
+Provider-Institution: RePEc:edi:ciranca
+Handle: RePEc:cir:cirmon
+
+Template-type: ReDIF-Series 1.0
+Name: CIRANO For discussion...
+Description:  The papers For discussion... aim to report on the current status of the situation in a particular area and to encourage discussion. They also give a viewpoint or a set of suggestions to help the debate move forward. These documents are the sole responsibility of the authors and do not necessarily represent the positions of CIRANO.
+Maintainer-Name: Webmaster
+Maintainer-Email: webmestre@cirano.qc.ca
+Provider-Name: CIRANO
+Provider-Institution: RePEc:edi:ciranca
+Handle: RePEc:cir:cirtra
+

@@ -1,0 +1,8 @@
+Template-type: ReDIF-Series 1.0
+Name: Papers
+Provider-Name: arXiv.org
+Provider-Homepage: http://arxiv.org/
+Maintainer-Name: arXiv administrators
+Maintainer-Email: help@arxiv.org
+Type: ReDIF-Paper
+Handle: RePEc:arx:papers

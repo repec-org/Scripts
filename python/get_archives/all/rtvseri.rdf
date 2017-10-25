@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: CEIS Research Paper
+Description: CEIS Research Paper Series
+Type: ReDIF-Paper
+Provider-Name: Tor Vergata University, CEIS
+Provider-Homepage: http://www.ceistorvergata.it
+Provider-Phone: +390672595601
+Provider-Postal: CEIS - Centre for Economic and International Studies - Faculty of Economics - University of Rome "Tor Vergata" - Via Columbia, 2 00133 Roma
+Provider-Fax: +39062020687
+Provider-Institution: RePEc:edi:csrotit
+Maintainer-Name: Barbara Piazzi
+Maintainer-Email: piazzi@ceis.uniroma2.it
+Editor-Name: Tommaso Proietti
+Editor-Email: tommaso.proietti@uniroma2.it
+Editor-Workplace-Name: University of Rome "Tor Vergata", Department of Economics and Finance
+Editor-Workplace-Homepage: http://www.economia.uniroma2.it/def/
+Order-Email: segr.ceis@economia.uniroma2.it
+Order-Homepage: http://www.ceistorvergata.it
+Order-Postal: CEIS - Centre for Economic and International Studies - Faculty of Economics - University of Rome "Tor Vergata" - Via Columbia, 2 00133 Roma
+Handle: RePEc:rtv:ceisrp

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: School of Economics, La Trobe University
+Provider-Homepage: http://www.latrobe.edu.au/economics
+Provider-Institution: RePEc:edi:sblatau
+Maintainer-Name: Stephen Scoglio
+Maintainer-Email: s.scoglio@latrobe.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:trb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Research Papers
+Provider-Name: School of Economics, La Trobe University
+Provider-Homepage: http://www.latrobe.edu.au/economics
+Provider-Institution: RePEc:edi:sblatau
+Maintainer-Name: Stephen Scoglio
+Maintainer-Email: s.scoglio@latrobe.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:trb:rpaper

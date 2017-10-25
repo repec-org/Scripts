@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Annals of Faculty of Economics
+Provider-Name: University of Oradea, Faculty of Economics
+Provider-Homepage: http://anale.steconomiceuoradea.ro/
+Provider-Institution: RePEc:edi:feoraro
+Maintainer-Name: Catalin ZMOLE
+Maintainer-Email: czmole@uoradea.ro
+Type: ReDIF-Article
+Handle: RePEc:ora:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Oradea Journal of Business and Economics
+Provider-Name: University of Oradea, Faculty of Economics
+Provider-Homepage: http://ojbe.steconomiceuoradea.ro/
+Provider-Institution: RePEc:edi:feoraro
+Maintainer-Name: Tomina SAVEANU
+Maintainer-Email: tsaveanu@uoradea.ro
+Type: ReDIF-Article
+Handle: RePEc:ora:jrojbe

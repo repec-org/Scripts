@@ -1,0 +1,13 @@
+Template-type: ReDIF-Series 1.0
+Name: Volkswirtschaftliche Diskussionsbeiträge
+Description: A series of discussion papers from the Department of Economics 
+	     at the University of Siegen
+Type: ReDIF-Paper
+Provider-Name: Universität Siegen, Fakultät 
+	     Wirtschaftswissenschaften, Wirtschaftsinformatik und
+	     Wirtschaftsrecht
+Provider-Homepage: http://www.wiwi.uni-siegen.de/vwl/research/diskussionsbeitraege/
+Provider-Institution: RePEc:edi:fwsiede
+Maintainer-Name: Michael Gail
+Maintainer-Email: Michael.Gail@uni-siegen.de
+Handle: RePEc:sie:siegen

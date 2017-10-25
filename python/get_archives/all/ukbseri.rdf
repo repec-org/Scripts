@@ -1,0 +1,27 @@
+Template-Type: ReDIF-Series 1.0
+Name: Visnyk of the National Bank of Ukraine
+Provider-Name: National Bank of Ukraine, Monetary Policy and Economic Analysis Department
+Provider-Homepage: https://bank.gov.ua/control/en/publish/article?art_id=42678430&cat_id=22213835
+Provider-Institution: RePEc:edi:nbugvua
+Maintainer-Name: Roman Pidvysotskyi
+Maintainer-Email:journal@bank.gov.ua
+Type: ReDIF-Article
+Handle: RePEc:ukb:journl
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: National Bank of Ukraine, Monetary Policy and Economic Analysis Department
+Provider-Homepage: https://bank.gov.ua/control/en/publish/article?&art_id=41484450&cat_id=41306295
+Provider-Institution: RePEc:edi:nbugvua
+Maintainer-Name: Roman Pidvysotskyi
+Maintainer-Email:journal@bank.gov.ua
+Type: ReDIF-Paper
+Handle: RePEc:ukb:wpaper
+
+
+
+
+
+
+

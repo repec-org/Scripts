@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0 
+Name: SBP Working Paper Series 
+Description: SBP Working Paper Series started in 2001 with the objective to stimulate and generate discussions on different aspects of macroeconomic issues among the staff members of the State Bank of Pakistan. Papers published in this series are subject to intense internal review process. The views expressed in these papers are those of the author(s) not State Bank of Pakistan.  
+Provider-Name: State Bank of Pakistan, Research Department 
+Provider-Homepage: http://www.sbp.org.pk/repec/sbp/index.html 
+Provider-Institution: RePEc:edi:sbpgvpk
+Maintainer-Name:  Faisal Saleem
+Maintainer-Email: faisal.saleem@sbp.org.pk 
+Type: ReDIF-Paper 
+Handle: RePEc:sbp:wpaper 
+
+Template-type: ReDIF-Series 1.0 
+Name: SBP Research Bulletin 
+Description: The broader objective of the SBP-Research Bulletin is to enhance the scientific standards of the State Bank of Pakistan, and like any other scientific publication it aims at dissemination of knowledge particularly to policy makers, market stakeholders, and academic researchers. Papers published in the bulletin are subject to intense internal review process. The views expressed in these papers are those of the author(s) not State Bank of Pakistan.  
+Provider-Name: State Bank of Pakistan, Research Department 
+Provider-Institution: RePEc:edi:sbpgvpk 
+Maintainer-Name:  Faisal Saleem
+Maintainer-Email: faisal.saleem@sbp.org.pk 
+Type: ReDIF-Article 
+Handle: RePEc:sbp:journl

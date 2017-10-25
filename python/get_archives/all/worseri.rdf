@@ -1,0 +1,18 @@
+Template-Type: ReDIF-Series 1.0
+Name: Report
+Provider-Name: Werkstatt für Organisations- und Personalforschung
+Provider-Homepage: http://www.werkstatt-opf.de/
+Provider-Institution: RePEc:edi:worpfde
+Maintainer-Name: Simon Fietze
+Maintainer-Email: simonf@sam.sdu.dk
+ISSN: 1615-8261
+Type: ReDIF-Paper
+Handle: RePEc:wor:report
+Template-Type: ReDIF-Series 1.0
+Name: Work Report
+Provider-Name: Werkstatt für Organisations- und Personalforschung
+Provider-Homepage: http://www.werkstatt-opf.de/
+Maintainer-Name: Simon Fietze
+Maintainer-Email: simonf@sam.sdu.dk
+Type: ReDIF-Paper
+Handle: RePEc:wor:resrep

@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Indian Institute of Foreign Trade
+Provider-Homepage: ftp://wpaper.iift.ac.in/
+Provider-Institution: RePEc:edi:iifttin
+Maintainer-Name: S. Balasubramanian
+Maintainer-Email: bala@iift.ac.in
+Type: ReDIF-Paper
+Handle: RePEc:ift:wpaper
+

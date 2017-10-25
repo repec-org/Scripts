@@ -1,0 +1,11 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:ena
+Name: ENARPRI Publications
+Maintainer-Name: Eleni Kaditi
+Maintainer-Email: eleni.kaditi@ceps.be
+Maintainer-Phone: +32 2 229 3985
+Maintainer-Fax: +32 2 219 4151
+Description: This archive collects information about ENARPRI publications
+#URL: http://www.enarpri.org/RePEc/ena
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/ena/
+Homepage: http://enarpri.org

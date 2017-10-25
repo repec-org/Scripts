@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Macroeconomics and Finance Series 
+Provider-Name: Hamburg University, Department Wirtschaft und Politik
+Provider-Homepage: https://www.wiso.uni-hamburg.de/
+Provider-Institution: RePEc:edi:dwuhhde
+Maintainer-Name: Ulrich Fritsche
+Maintainer-Email: ulrich.fritsche@wiso.uni-hamburg.de
+Type: ReDIF-Paper
+Handle: RePEc:hep:macppr
+
+Template-type: ReDIF-Series 1.0
+Name: Socioeconomic Series
+Provider-Name: Hamburg University, Department Wirtschaft und Politik
+Provider-Homepage: https://www.wiso.uni-hamburg.de/
+Provider-Institution: RePEc:edi:dwuhhde
+Maintainer-Name: Marcelle Weber
+Maintainer-Email: marcelle.weber@wiso.uni-hamburg.de
+Type: ReDIF-Paper
+Handle: RePEc:hep:socppr

@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo sobre cooperación y desarrollo
+Description: 
+Provider-Name: Cátedra de Cooperación Internacional y con Iberoamérica (COIBA), Universidad de Cantabria
+Provider-Homepage: http://www.ciberoamericana.com
+Provider-Institution: RePEc:edi:cocanes
+Maintainer-Name: David G. Sobrao
+Maintainer-Email: gutierrezd@unican.es
+Type: ReDIF-Paper
+Handle: RePEc:cci:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Claves para el desarrollo
+Description: 
+Provider-Name: Cátedra de Cooperación Internacional y con Iberoamérica (COIBA), Universidad de Cantabria
+Provider-Homepage: http://www.ciberoamericana.com
+Provider-Institution: RePEc:edi:cocanes
+Maintainer-Name: David G. Sobrao
+Maintainer-Email: gutierrezd@unican.es
+Type: ReDIF-Paper
+Handle: RePEc:cci:bpaper

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: BEROC Working Paper Series
+Provider-Name: Belarusian Economic Research and Outreach Center (BEROC)
+Provider-Homepage: http://www.beroc.by
+Provider-Institution: RePEc:edi:berocby
+Maintainer-Name: Svetlana Yakubovskaya
+Maintainer-Email: beroc@beroc.by
+Type: ReDIF-Paper
+Handle: RePEc:bel:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: BEROC Policy Paper Series
+Provider-Name: Belarusian Economic Research and Outreach Center (BEROC)
+Provider-Homepage: http://www.beroc.by
+Provider-Institution: RePEc:edi:berocby
+Maintainer-Name: Svetlana Yakubovskaya
+Maintainer-Email: beroc@beroc.by
+Type: ReDIF-Paper
+Handle: RePEc:bel:ppaper

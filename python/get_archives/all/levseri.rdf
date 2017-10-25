@@ -1,0 +1,49 @@
+Template-Type: ReDIf-Series 1.0
+Name: Economics Working Paper Archive
+Description: Working papers present research in progress by Levy Institute scholars 
+ and conference participants. The purpose of the series is to disseminate ideas to 
+ and elicit comments from academics and professionals.
+Provider-Name: Levy Economics Institute
+Provider-Homepage: http://www.levyinstitute.org
+Maintainer-Name: Marie-Celeste Edwards
+Maintainer-Email: medwards@levy.org
+Handle: RePEc:lev:wrkpap
+
+Template-Type: ReDIf-Series 1.0
+Name: Economics Public Policy Brief Archive
+Description: Public Policy Briefs are papers on the policy implications of a broad spectrum 
+  of contemporary issues. 
+Provider-Name: Levy Economics Institute
+Provider-Homepage: http://www.levyinstitute.org
+Maintainer-Name: Marie-Celeste Edwards
+Maintainer-Email: medwards@levy.org
+Handle: RePEc:lev:levppb
+
+Template-Type: ReDIf-Series 1.0
+Name: Economics Policy Note Archive
+Description: Policy Notes are short, timely articles by Levy Institute scholars and other
+  contributors presenting up-to-date research conclusions or policy statements on a
+  wide range of topics for policymaking, business, and general audiences.
+Provider-Name: Levy Economics Institute
+Provider-Homepage: http://www.levyinstitute.org
+Maintainer-Name: Marie-Celeste Edwards
+Maintainer-Email: medwards@levy.org
+Handle: RePEc:lev:levypn
+
+Template-Type: ReDIf-Series 1.0
+Name: Economics Strategic Analysis Archive
+Description: Strategic Analysis.
+Provider-Name: Levy Economics Institute
+Provider-Homepage: http://www.levyinstitute.org
+Maintainer-Name: Marie-Celeste Edwards
+Maintainer-Email: medwards@levy.org
+Handle: RePEc:lev:levysa
+
+Template-Type: ReDIf-Series 1.0
+Name: Economics One-Pager Archive
+Description: One-Pagers are up-to-the-minute analysis of economic issues and policy advocacy. 
+Provider-Name: Levy Economics Institute
+Provider-Homepage: http://www.levyinstitute.org
+Maintainer-Name: Marie-Celeste Edwards
+Maintainer-Email: medwards@levy.org
+Handle: RePEc:lev:levyop

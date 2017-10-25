@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: Quaestus Multidisciplinary Research Journal
+Description: This is the official journal of the Department of Commerce, Tourism, Services, Faculty of Management in Tourism and Commerce Timisoara,
+"Dimitrie Cantemir" Christian University
+Provider-Name: Faculty of Management in Tourism and Commerce Timisoara, "Dimitrie Cantemir" Christian University, Timisoara, Romania
+Provider-Homepage: http://www.ucdctm.ro
+Provider-Institution: RePEc:edi:ttucdro
+Maintainer-Name: Luiza Caraivan
+Maintainer-Email: luiza.caraivan@ucdctm.ro
+Editor-Name: Cipriana Sava, Luiza Caraivan
+Editor-Email: luiza.caraivan@ucdctm.ro
+Type: ReDIF-Article
+Handle: RePEc:dcc:journl
+
+Template-type: ReDIF-Series 1.0
+Name: The Annals of Dimitrie Cantemir Christian University. Economy, Commerce and Tourism Series
+Description: This is the official journal of the Department of Commerce, Tourism, Services, Faculty of Management in Tourism and Commerce Bucharest,
+"Dimitrie Cantemir" Christian University Bucharest
+Provider-Name: Faculty of Management in Tourism and Commerce Bucharest, "Dimitrie Cantemir" Christian University, Bucharest, Romania
+Provider-Homepage: http://management.ucdc.ro/
+Provider-Institution: RePEc:edi:ttucdro
+Maintainer-Email: luiza.caraivan@ucdctm.ro
+Editor-Name: Emilia Pascu
+Editor-Email: emilia.pascu@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:dcc:adcect

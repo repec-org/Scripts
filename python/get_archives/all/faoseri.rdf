@@ -1,0 +1,53 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Agricultural and Development Economics Division of the Food and Agriculture Organization of the United Nations (FAO - ESA)
+Provider-Homepage: http://www.fao.org/es/esa/
+Provider-Phone:
+Provider-Postal: Agricultural Sector in Economic Development Service
+								 FAO 
+								 Viale delle Terme di Caracalla
+								 00153 Rome
+								 Italy
+Provider-Fax: +39 06 57055522
+Provider-Institution: RePEc:edi:faoooit
+Maintainer-Name: Gustavo Anríquez
+Maintainer-Email: Gustavo.Anriquez@fao.org
+Type: ReDIF-Paper
+Handle: RePEc:fao:wpaper
+
+ 
+Template-type: ReDIF-Series 1.0
+Name: The Electronic Journal of Agricultural and Development Economics
+Description: This is the official journal of the Agricultural and Development Economics Division of FAO
+Provider-Name: Food and Agriculture Organization of the United Nations
+Provider-Homepage: http://www.fao.org/es/esa/ 
+Provider-Phone:
+Provider-Postal: Agricultural Sector in Economic Development Service
+								 FAO 
+								 Viale delle Terme di Caracalla
+								 00153 Rome
+								 Italy
+Provider-Fax: +39 06 57055522
+Provider-Institution: RePEc:edi:faoooit
+Maintainer-Name: Gustavo Anríquez
+Maintainer-Email: Gustavo.Anriquez@fao.org
+Type: ReDIF-Article
+Handle: RePEc:fao:tejade
+
+
+Template-type: ReDIF-Series 1.0
+Name: FAO - Economic and Social Perspectives
+Provider-Name: Economic and Social Development Department of the Food and Agriculture Organization of the United Nations (FAO)
+Provider-Homepage: http://www.fao.org/economic/en/
+Provider-Phone:
+Provider-Postal: Economic and Social Development Department
+								 FAO 
+								 Viale delle Terme di Caracalla
+								 00153 Rome
+								 Italy
+Provider-Fax: +39 06 57055522
+Provider-Institution: RePEc:edi:faoooit
+Maintainer-Name: Denis Drechsler
+Maintainer-Email: ES-Policy-Briefs@fao.org
+Type: ReDIF-Paper
+Handle: RePEc:fao:pbrief

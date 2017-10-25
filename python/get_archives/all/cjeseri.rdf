@@ -1,0 +1,25 @@
+Template-type: ReDIF-Series 1.0
+Name: Canadian Journal of Economics
+Provider-Name: Canadian Economics Association
+Provider-Homepage: http://economics.ca/cje/
+Provider-Email: journals@economics.ca
+Provider-Postal: Canadian Economics Association
+	Prof. Steven Ambler, Secretary-Treasurer
+	c/o Olivier Lebert, CEA/CJE/CPP Office
+	C.P. 35006, 1221 Fleury Est
+	Montréal, Québec, Canada H2C 3K4
+Provider-Institution: RePEc:edi:ceaaaea
+Maintainer-Email: werner@sauder.ubc.ca
+Maintainer-Name: Prof. Werner Antweiler
+Type: ReDIF-Article
+Editor-Name: David Green
+Editor-Email: david.green@ubc.ca
+Editor-Postal: Prof. David Green
+	Managing Editor, Canadian Journal of Economics
+	c/o Olivier Lebert, CEA/CJE/CPP Office
+	C.P. 35006, 1221 Fleury Est
+	Montréal, Québec, Canada H2C 3K4
+Order-Email: journals@economics.ca
+Order-Homepage: http://economics.ca/en/membership.php
+Restriction: Online papers are only available to subscribers.
+Handle: RePEc:cje:issued

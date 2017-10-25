@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: International Tax Program Papers
+Description: Working Papers of the International Tax Program, Institute for International Business
+Provider-Name: International Tax Program, Institute for International Business, Joseph L. Rotman School of Management, University of Toronto
+Provider-Homepage: http://www-2.rotman.utoronto.ca/iib
+Provider-Institution: RePEc:edi:iitorca 
+Maintainer-Name: Richard Bird
+Maintainer-Email: iib@rotman.utoronto.ca
+Type: ReDIF-Paper
+Handle: RePEc:ttp:itpwps
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Series
+Description: Working Papers of the Rotman Institute for International Business
+Provider-Name: Rotman Institute for International Business, Joseph L. Rotman School of Management, University of Toronto
+Provider-Homepage: http://www-2.rotman.utoronto.ca/riib
+Provider-Institution: RePEc:edi:iitorca 
+Maintainer-Name: Wendy Dobson
+Maintainer-Email: riib@rotman.utoronto.ca
+Type: ReDIF-Paper
+Handle: RePEc:ttp:iibwps
+
+

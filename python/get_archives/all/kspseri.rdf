@@ -1,0 +1,89 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics and Political Economy
+Description: This is the official journal of KSP Journals
+Provider-Name: KSP Journals
+Provider-Homepage: http://www.kspjournals.org
+Provider-Postal: Istanbul, Turkey
+Provider-Email: editor-jepe@kspjournals.org
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: editor-jepe@kspjournals.org
+Editor-Name: Bilal KARGI
+Editor-Email: editor-jepe@kspjournals.org
+Type: ReDIF-Article
+Handle: RePEc:ksp:journ1
+ISSN: 2148-8347
+
+Template-type: ReDIF-Series 1.0
+Name: Turkish Economic Review
+Description: This is the official journal of KSP Journals
+Provider-Name: KSP Journals
+Provider-Homepage: http://www.kspjournals.org
+Provider-Postal: Istanbul, Turkey
+Provider-Email: editor-ter@kspjournals.org
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: editor-ter@kspjournals.org
+Editor-Name: Bilal KARGI
+Editor-Email: editor-ter@kspjournals.org
+Type: ReDIF-Article
+Handle: RePEc:ksp:journ2
+ISSN: 2149 - 0414
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economic and Social Thought
+Description: This is the official journal of KSP Journals
+Provider-Name: KSP Journals
+Provider-Homepage: http://www.kspjournals.org
+Provider-Postal: Istanbul, Turkey
+Provider-Email: editor-jest@kspjournals.org
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: editor-jest@kspjournals.org
+Editor-Name: Bilal KARGI
+Editor-Email: editor-jest@kspjournals.org
+Type: ReDIF-Article
+Handle: RePEc:ksp:journ3
+ISSN: 2149 - 0422
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Social and Administrative Sciences
+Description: This is the official journal of KSP Journals
+Provider-Name: KSP Journals
+Provider-Homepage: http://www.kspjournals.org
+Provider-Postal: Istanbul, Turkey
+Provider-Email: editor-jsas@kspjournals.org
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: editor-jsas@kspjournals.org
+Editor-Name: Bilal KARGI
+Editor-Email: editor-jsas@kspjournals.org
+Type: ReDIF-Article
+Handle: RePEc:ksp:journ4
+ISSN: 2149 - 0406
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics Library
+Description: This is the official journal of KSP Journals
+Provider-Name: KSP Journals
+Provider-Homepage: http://www.kspjournals.org
+Provider-Postal: Istanbul, Turkey
+Provider-Email: editor-jel@kspjournals.org
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: editor-jel@kspjournals.org
+Editor-Name: Bilal KARGI
+Editor-Email: editor-jel@kspjournals.org
+Type: ReDIF-Article
+Handle: RePEc:ksp:journ5
+ISSN: 2149 - 2379
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics Bibliography
+Description: This is the official journal of KSP Journals
+Provider-Name: KSP Journals
+Provider-Homepage: http://www.kspjournals.org
+Provider-Postal: Istanbul, Turkey
+Provider-Email: editor-jeb@kspjournals.org
+Maintainer-Name: Bilal KARGI
+Maintainer-Email: editor-jeb@kspjournals.org
+Editor-Name: Bilal KARGI
+Editor-Email: editor-jeb@kspjournals.org
+Type: ReDIF-Article
+Handle: RePEc:ksp:journ6
+ISSN: 2149 - 2387

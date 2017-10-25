@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+
+Name: ESRI Discussion paper series
+
+Provider-Name: Economic and Social Research Institute (ESRI)
+
+Provider-Institution: RePEc:edi:esrgvjp
+
+Maintainer-Name:KAWAMOTO Takuma
+Maintainer-Email:takuma.kawamoto@cao.go.jp
+Type: ReDIF-Paper 
+Handle: RePEc:esj:esridp
+
+Template-type:ReDIF-Series 1.0
+
+Name: Economic Analysis 
+Provider-Name: Economic and Social Research Institute (ESRI)
+
+Provider-Institution: RePEc:edi:esrgvjp
+
+Maintainer-Name:KAWAMOTO Takuma
+Maintainer-Email:takuma.kawamoto@cao.go.jp
+Type: ReDIF-Article 1.0
+Handle: RePEc:esj:esriea
+
+
+
+Template-type:ReDIF-Series 1.0
+
+Name: New ESRI Working Paper series
+
+Provider-Name: Economic and Social Research Institute (ESRI)
+
+Provider-Institution: RePEc:edi:esrgvjp
+
+Maintainer-Name:KAWAMOTO Takuma
+Maintainer-Email:takuma.kawamoto@cao.go.jp
+Type: ReDIF-Article 1.0
+Handle: RePEc:esj:esriwp

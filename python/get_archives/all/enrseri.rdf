@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Research Papers
+Provider-Name: University of Warwick, Warwick Business School, Enterprise Research Centre
+Provider-Homepage: http://web.warwick.ac.uk/fac/soc/enterpriseRepec/ 
+Provider-Institution: RePEc:edi:wbswauk
+Maintainer-Name: Olivia Garcia
+Maintainer-Email: Olivia.Garcia@wbs.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:enr:rpaper
+
+Template-type: ReDIF-Series 1.0
+Name: White Papers
+Provider-Name: University of Warwick, Warwick Business School, Enterprise Research Centre
+Provider-Homepage: http://web.warwick.ac.uk/fac/soc/enterpriseRepec/ 
+Provider-Institution: RePEc:edi:wbswauk
+Maintainer-Name: Olivia Garcia
+Maintainer-Email: Olivia.Garcia@wbs.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:enr:wpaper
+

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Tulane University, Department of Economics
+Provider-Homepage: http://econ.tulane.edu
+Provider-Institution: RePEc:edi:detulus
+Maintainer-Name: Rodrigo Aranda Balcazar
+Maintainer-Email: raranda@tulane.edu
+Type: ReDIF-Paper
+Handle: RePEc:tul:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Commitment to Equity (CEQ) Working Paper Series
+Provider-Name: Tulane University, Department of Economics
+Provider-Homepage: http://econ.tulane.edu
+Provider-Institution: RePEc:edi:detulus
+Maintainer-Name: Nora Lustig
+Maintainer-Email: nlustig@tulane.edu
+Type: ReDIF-Paper
+Handle: RePEc:tul:ceqwps

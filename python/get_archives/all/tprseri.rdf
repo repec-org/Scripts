@@ -1,0 +1,149 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: The Quarterly Journal of Economics
+Description: Papers published in The Quarterly Journal of Economics
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Robert J. Barro 
+Editor-Name: Edward L. Glaeser
+Editor-Email: eglaeser@harvard.edu
+Editor-Name: Lawrence F. Katz
+Editor-Email: lkatz@harvard.edu
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://mitpress.mit.edu/journal-home.tcl?issn=00335533
+Followup: RePEc:oup:qjecon
+Handle: RePEc:tpr:qjecon
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: The Review of Economics and Statistics
+Description: Papers published in The Review of Economics and Statistics
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Daron Acemoglu
+Editor-Email: daron@mit.edu
+Editor-Name: George J. Borjas
+Editor-Email: gborjas@harvard.edu
+Editor-Name: Dani Rodrik
+Editor-Email: dani_rodrik@harvard.edu
+Editor-Name: Julio J. Rotemberg
+Editor-EMail: jrotemberg@hbs.edu
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://mitpress.mit.edu/journal-home.tcl?issn=00346535
+Handle: RePEc:tpr:restat
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of the European Economic Association
+Description: Papers published in Journal of the European Economic Association
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Xavier Vives
+Editor-Email: XVives@iese.edu
+Editor-Name: George-Marios Angeletos
+Editor-Name: Orazio P. Attanasio
+Editor-Name: Fabio Canova
+Editor-Name: Roberto Perotti 
+Provider-Name: MIT Press
+Provider-Homepage: http://www.mitpressjournals.org/jeea
+Order-Homepage: http://www.mitpressjournals.org/jeea
+Followup: RePEc:bla:jeurec
+Handle: RePEc:tpr:jeurec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Asian Economic Papers
+Description: Papers published in Asian Economic Papers
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Jeffrey D. Sachs
+Editor-Name: Yunjong Wang
+Editor-Name: Wing Thye Woo
+ISSN: 1535-3516
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://www.mitpressjournals.org/loi/asep
+Handle: RePEc:tpr:asiaec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Global Environmental Politics 
+Description: Papers published in Global Environmental Politics 
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Peter Dauvergne
+ISSN: 1526-3800
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://www.mitpressjournals.org/loi/glep
+Handle: RePEc:tpr:glenvp
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Information Technologies and International Development
+Description: Papers published in Information Technologies and International Development
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Ernest J. Wilson III
+Editor-Name: Michael L. Best
+ISSN: 1544-7529
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://www.mitpressjournals.org/loi/itid
+Handle: RePEc:tpr:itintd
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Innovations: Technology, Governance, Globalization 
+Description: Papers published in Innovations: Technology, Governance, Globalization 
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Philip Auerswald
+Editor-Name: Iqbal Quadir
+ISSN: 1558-2477
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://www.mitpressjournals.org/loi/itgg
+Handle: RePEc:tpr:inntgg
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Education Finance and Policy
+Description: Papers published in Education Finance and Policy
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Thomas A. Downes
+Editor-Name: Dan Goldhaber
+ISSN: 1557-3060
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://www.mitpressjournals.org/loi/edfp
+Handle: RePEc:tpr:edfpol
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Asian Development Review
+Description: Papers published in Asian Development Review
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Masahiro Kawai
+ISSN: 0116-1105
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://www.mitpressjournals.org/loi/adev
+Handle: RePEc:tpr:adbadr
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: American Journal of Health Economics
+Description: Papers published in American Journal of Health Economics
+Maintainer-Name: Kristin Waites
+Maintainer-Email: kwaites@mit.edu
+Editor-Name: Frank Sloan
+ISSN: 2332-3493
+Provider-Name: MIT Press
+Provider-Homepage: http://mitpress.mit.edu/journals/
+Order-Homepage: http://www.mitpressjournals.org/loi/ajhe
+Handle: RePEc:tpr:amjhec

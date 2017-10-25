@@ -1,0 +1,40 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description:
+Classification-JEL:
+Notification: 
+Type: ReDIF-Paper
+Provider-Name: C.V. Starr Center for Applied Economics, New York University
+Provider-Homepage:  http://econ.as.nyu.edu/object/econ.cvstarr.html
+Provider-Postal: C.V. Starr Center, Department of Economics, New York University, 19 W. 4th Street, 6th Floor, New York, NY 10012
+Provider-Institution: RePEc:edi:aenyuus
+Provider-Phone: (212) 998-8936
+Provider-Fax: (212) 995-3932
+Maintainer-Name: Anne Stubing	
+Maintainer-Email: working@econ.as.nyu.edu
+Order-Email: working@econ.as.nyu.edu
+Order-Homepage:
+Order-Postal: C.V. Starr Center, Department of Economics, New York University, 19 W. 4th Street, 6th Floor, New York, NY 10012
+Handle: RePEc:cvs:starer
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Policy Papers
+Description:
+Classification-JEL:
+Notification: 
+Type: ReDIF-Paper
+Provider-Name: C.V. Starr Center for Applied Economics, New York University
+Provider-Homepage:  http://econ.as.nyu.edu/object/econ.cvstarr.html
+Provider-Postal: C.V. Starr Center, Department of Economics, New York University, 19 W. 4th Street, 6th Floor, New York, NY 10012
+Provider-Institution: RePEc:edi:aenyuus
+Provider-Phone: (212) 998-8936
+Provider-Fax: (212) 995-3932
+Maintainer-Name: Anne Stubing
+Maintainer-Email: working@econ.as.nyu.edu
+Order-Email: working@econ.as.nyu.edu
+Order-Homepage:
+Order-Postal: C.V. Starr Center, Department of Economics, New York University, 19 W. 4th Street, 6th Floor, New York, NY 10012
+Handle: RePEc:cvs:starep
+
+
+

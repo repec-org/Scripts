@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+Name: CEPR Discussion Papers
+Provider-Name: Centre for Economic Policy Research, Research School of Economics, Australian National University
+Provider-Homepage: http://rse.anu.edu.au/cepr.php
+Provider-Institution: RePEc:edi:cpanuau
+Maintainer-Email: web.cbe@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:auu:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: CEH Discussion Papers
+Provider-Name: Centre for Economic History, Research School of Economics, Australian National University
+Provider-Homepage: http://rse.anu.edu.au/CEH/
+Provider-Institution: RePEc:edi:chanuau
+Maintainer-Email: web.cbe@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:auu:hpaper
+
+Template-type: ReDIF-Series 1.0
+Name: GDSC Working Papers
+Provider-Name: Institute of Global Dynamic Systems
+Provider-Homepage: https://sites.google.com/site/institutegds
+Provider-Institution: RePEc:edi:eganuau
+Maintainer-Name: Drew Treasure
+Maintainer-Email: drew.treasure@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:auu:wpaper

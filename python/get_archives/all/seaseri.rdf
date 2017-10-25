@@ -1,0 +1,50 @@
+Template-type: ReDIF-Series 1.0
+Name: Research Studies
+Provider-Name: South East Asian Central Banks (SEACEN) Research and Training Centre
+Provider-Homepage: http://edirc.repec.org/data/seacemy.html
+Provider-Institution: RePEc:edi:seacemy
+Maintainer-Name: Yunyee
+Maintainer-Email: yunyee@seacen.org
+Type: ReDIF-Book
+Handle: RePEc:sea:RStudy
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional Papers
+Provider-Name: South East Asian Central Banks (SEACEN) Research and Training Centre
+Provider-Homepage: http://edirc.repec.org/data/seacemy.html
+Provider-Institution: RePEc:edi:seacemy
+Maintainer-Name: Yunyee
+Maintainer-Email: yunyee@seacen.org
+Type: ReDIF-Book
+Handle: RePEc:sea:OPaper
+
+Template-type: ReDIF-Series 1.0
+Name: Staff Papers
+Provider-Name: South East Asian Central Banks (SEACEN) Research and Training Centre
+Provider-Homepage: http://edirc.repec.org/data/seacemy.html
+Provider-Institution: RePEc:edi:seacemy
+Maintainer-Name: Yunyee
+Maintainer-Email: yunyee@seacen.org
+Type: ReDIF-Book
+Handle: RePEc:sea:SPaper
+
+Template-type: ReDIF-Series 1.0
+Name: SEACEN Financial Stability Journal
+Provider-Name: South East Asian Central Banks (SEACEN) Research and Training Centre
+Provider-Homepage: http://edirc.repec.org/data/seacemy.html
+Provider-Institution: RePEc:edi:seacemy
+Maintainer-Name: Yunyee
+Maintainer-Email: yunyee@seacen.org
+Type: ReDIF-Book
+Handle: RePEc:sea:Sfjrnl
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: South East Asian Central Banks (SEACEN) Research and Training Centre
+Provider-Homepage: http://edirc.repec.org/data/seacemy.html
+Provider-Institution: RePEc:edi:seacemy
+Maintainer-Name: Yunyee
+Maintainer-Email: yunyee@seacen.org
+Type: ReDIF-Book
+Handle: RePEc:sea:WPaper
+

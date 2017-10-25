@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: University of Regensburg Working Papers in Business, Economics and Management Information Systems 
+Provider-Name: University of Regensburg, Department of Economics
+Provider-Homepage: http://www.uni-regensburg.de/wirtschaftswissenschaften/fakultaet
+Provider-Institution: RePEc:edi:wfregde
+Maintainer-Name: Gernot Deinzer
+Maintainer-Email: gernot.deinzer@bibliothek.uni-regensburg.de
+Type: ReDIF-Paper
+Handle: RePEc:bay:rdwiwi
+
+Template-type: ReDIF-Series 1.0
+Name: Beiträge zur Immobilienwirtschaft 
+Provider-Name: University of Regensburg, Department of Economics
+Provider-Homepage: http://www.uni-regensburg.de/wirtschaftswissenschaften/fakultaet
+Provider-Institution: RePEc:edi:wfregde
+Maintainer-Name: Gernot Deinzer
+Maintainer-Email: gernot.deinzer@bibliothek.uni-regensburg.de
+Type: ReDIF-book
+Handle: RePEc:bay:birebs
+

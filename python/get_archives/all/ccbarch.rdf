@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Handle:RePEc:ccb
+Name: Centre for Central Banking Studies, Bank of England
+Maintainer-Email: Maria.Brady@bankofengland.co.uk
+Maintainer-Name: Maria Brady
+Description: This archive collects Handbooks and Lecture from the Centre for Central Banking Studies of the Bank of England
+#URL:http://www.bankofengland.co.uk/RePEc/ccb/
+URL: ftp://input.repec.org/pub/RePEc/ris/ccb/

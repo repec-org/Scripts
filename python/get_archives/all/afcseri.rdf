@@ -1,0 +1,50 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Association Française de Cliométrie (AFC)
+Provider-Homepage: http://www.cliometrie.org
+Provider-Institution: RePEc:edi:afcccea
+Maintainer-Name: 
+Maintainer-Email: webmaster@cliometrie.org
+Type: ReDIF-Paper
+Handle: RePEc:afc:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Cliometrica, Journal of Historical Economics and Econometric History
+Description: Cliometrica provides a leading forum for exchange of ideas and research in all facets, in all historical periods and in all geographical locations of historical economics. The journal encourages the methodological debate, the use of economic theory in general and model building in particular, the reliance upon quantification to buttress the models with historical data, the use of the more standard historical knowledge to broaden the understanding and suggesting new avenues of research, and the use of statistical theory and econometrics to combine models with data in a single consistent explanation. The highest standards of quality are promoted. All articles will be subject to Cliometrica's peer review process. On occasion, specialised topics may be presented in a special issue.
+Provider-Name: Association Française de Cliométrie (AFC)
+Provider-Homepage: http://www.cliometrie.org
+Provider-Institution: RePEc:edi:afcccea
+Maintainer-Name: 
+Maintainer-Email: webmaster@cliometrie.org
+Editor-Name: Claude Diebolt
+Editor-Email: cdiebolt@cliometrie.org
+Editor-Name: Dora Costa
+Editor-Name: Jean-Luc Demeulemeester
+Type: ReDIF-Article
+Handle: RePEc:afc:cliome
+
+Template-type: ReDIF-Series 1.0
+Name: Historical Social Research (Section 'Cliometrics')
+Provider-Name: Association Française de Cliométrie (AFC)
+Provider-Homepage: http://www.cliometrie.org
+Provider-Institution: RePEc:edi:afcccea
+Maintainer-Name: 
+Maintainer-Email: webmaster@cliometrie.org
+Editor-Name: Claude Diebolt
+Editor-Email: cdiebolt@cliometrie.org
+Type: ReDIF-Article
+Handle: RePEc:afc:histor
+
+Template-type: ReDIF-Series 1.0
+Name: Economies et Sociétés (Serie 'Histoire Economique Quantitative')
+Provider-Name: Association Française de Cliométrie (AFC)
+Provider-Homepage: http://www.cliometrie.org
+Provider-Institution: RePEc:edi:afcccea
+Maintainer-Name: 
+Maintainer-Email: webmaster@cliometrie.org
+Editor-Name: Jean-Claude Toutain
+Editor-Name: Claude Diebolt
+Editor-Email: cdiebolt@cliometrie.org
+Editor-Name: Albert Broder
+Type: ReDIF-Article
+Handle: RePEc:afc:ecosoc

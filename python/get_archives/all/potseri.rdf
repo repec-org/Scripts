@@ -1,0 +1,118 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Potsdam Economic Papers
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/intwipo/
+Provider-Institution: RePEc:edi:pvpotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler
+Maintainer-Email: verlag@uni-potsdam.de
+Editor-Name: Malcolm Dunn
+Editor-Email: mdunn@uni-potsdam.de
+ISSN: 2197-8077
+Handle: RePEc:pot:pecpap
+
+Template-type: ReDIF-Series 1.0
+Name: Potsdam Economic Studies
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/intwipo/
+Provider-Institution: RePEc:edi:pvpotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler
+Maintainer-Email: verlag@uni-potsdam.de
+Editor-Name: Malcolm Dunn
+Editor-Email: mdunn@uni-potsdam.de
+ISSN: 2196-9302
+Handle: RePEc:pot:pestud
+
+Template-type: ReDIF-Series 1.0
+Name: Potsdamer Schriften zu Statistik und Wirtschaft
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/wiso_dekanat/
+Provider-Institution: RePEc:edi:lspotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler
+Maintainer-Email: verlag@uni-potsdam.de
+Editor-Name: Hans Gerhard Strohe
+Editor-Email: hstrohe@uni.opole.pl
+ISSN: 2192-807X 
+Handle: RePEc:pot:psstwi
+
+Template-type: ReDIF-Series 1.0
+Name: Potsdamer Schriften zur Raumwirtschaft
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/u/ls_vwl_witheorie/
+Provider-Institution: RePEc:edi:ltpotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler
+Maintainer-Email: verlag@uni-potsdam.de
+Editor-Name: Klaus Schöler
+Editor-Email: schoeler@uni-potsdam.de
+ISSN: 2190-8710 
+Handle: RePEc:pot:psrawi
+
+Template-type: ReDIF-Series 1.0
+Name: Volkswirtschaftliche Diskussionsbeiträge
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/fakultaeten/wiso.html
+Provider-Institution: RePEc:edi:ltpotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler
+Maintainer-Email: verlag@uni-potsdam.de
+Editor-Name: Klaus Schöler
+Editor-Email: schoeler@uni-potsdam.de
+Handle: RePEc:pot:vwldis
+
+Template-type: ReDIF-Series 1.0
+Name: Finanzwissenschaftliche Diskussionsbeiträge
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/wiso_dekanat/
+Provider-Institution: RePEc:edi:lvpotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler 
+Maintainer-Email: verlag@uni-potsdam.de
+Order-Email: dgericke@uni-potsdam.de
+Editor-Name: Hans-Georg Petersen
+Editor-Email: hgpeter@uni-potsdam.de
+ISSN: 0948-7549
+Handle: RePEc:pot:fiwidp
+
+
+Template-type: ReDIF-Series 1.0
+Name: Finanzwissenschaftliche Diskussionsbeiträge : Special series. G, Arbeitspapiere des Deutsch-Georgischen Arbeitskreises für Finanz- und Sozialpolitik
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/wiso_dekanat/
+Provider-Institution: RePEc:edi:lvpotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler 
+Maintainer-Email: verlag@uni-potsdam.de
+Order-Email: dgericke@uni-potsdam.de
+Editor-Name: Hans-Georg Petersen
+Editor-Email: hgpeter@uni-potsdam.de
+ISSN: 0948-7549
+Handle: RePEc:pot:fiwidg
+
+Template-type: ReDIF-Series 1.0
+Name: Finanzwissenschaftliche Diskussionsbeiträge : Specials series: Industrial and social policies in countries in transition
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/wiso_dekanat/
+Provider-Institution: RePEc:edi:lvpotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler 
+Maintainer-Email: verlag@uni-potsdam.de
+Order-Email: dgericke@uni-potsdam.de
+Editor-Name: Hans-Georg Petersen
+Editor-Email: hgpeter@uni-potsdam.de
+ISSN: 0948-7549
+Handle: RePEc:pot:fiwids
+
+Template-type: ReDIF-Series 1.0
+Name: Statistische Diskussionsbeiträge
+Provider-Name: Universität Potsdam, Wirtschafts- und Sozialwissenschaftliche Fakultät
+Provider-Homepage: http://www.uni-potsdam.de/wiso_dekanat/
+Provider-Institution: RePEc:edi:lspotde
+Type: ReDIF-Paper
+Maintainer-Name: Marco Winkler
+Maintainer-Email: verlag@uni-potsdam.de
+Editor-Name: Hans Gerhard Strohe
+Editor-Email: strohe@uni-potsdam.de
+Handle: RePEc:pot:statdp

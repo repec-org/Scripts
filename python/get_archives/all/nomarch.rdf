@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:nom
+Name: Research Papers at Nottingham University Business School Malaysia Campus
+Maintainer-Name: Rasyad A. Parinduri
+Maintainer-Email: rasyad.parinduri@nottingham.edu.my
+Description: This archive collects research papers from the Nottingham University Business School Malaysia Campus
+#URL: ftp://ftp-group.nottingham.edu.my/RePEc/nom/
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/nom/

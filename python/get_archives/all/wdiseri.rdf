@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: William Davidson Institute Working Papers Series
+Description: Transition Economics
+Classification-JEL:
+Restriction:
+Notification:http://www.wdi.umich.edu/EN/common/notificationhomepage.aspx
+Type: ReDIF-Paper
+Provider-Name: William Davidson Institute at the University of Michigan
+Provider-Homepage: http://www.wdi.umich.edu
+Provider-Phone: 734 763-5020
+Provider-Postal: 724 E. University Ave, Wyly Hall 1st Flr, Ann Arbor MI 48109
+Provider-Fax:734 763-5850
+Provider-Institution: RePEc:edi:wdumius
+Maintainer-Name: WDI
+Maintainer-Email: wdi@umich.edu
+Handle:  RePEc:wdi:papers

@@ -1,0 +1,8 @@
+Template-type: ReDIF-Series 1.0
+Name: BCL working papers
+Description: This series contains all the working papers of the BCL since 1999
+Provider-Name: Central Bank of Luxembourg
+Provider-Homepage: http://www.bcl.lu/
+Maintainer-Email: thomas.mathae@bcl.lu
+Type: ReDIF-Paper
+Handle: RePEc:bcl:bclwop

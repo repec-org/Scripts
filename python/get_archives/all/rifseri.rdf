@@ -1,0 +1,104 @@
+Template-type: ReDIF-Series 1.0
+Name: ETLA Working Papers
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Paper
+Handle: RePEc:rif:wpaper
+Order-Email: orders@etla.fi
+ISSN: 2323-2420
+
+Template-type: ReDIF-Series 1.0
+Name: ETLA Reports
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Paper
+Handle: RePEc:rif:report
+Order-Email: orders@etla.fi
+ISSN: 2323-2447
+Predecessor: RePEc:rif:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: ETLA Brief
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Paper
+Handle: RePEc:rif:briefs
+Order-Email: orders@etla.fi
+ISSN: 2323-2463
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Paper
+Handle: RePEc:rif:dpaper
+Order-Email: orders@etla.fi
+ISSN: 0781-6847
+Followup: RePEc:rif:report
+
+Template-type: ReDIF-Series 1.0
+Name: ETLA A
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Book
+Handle: RePEc:rif:abooks
+Order-Email: orders@etla.fi
+
+Template-type: ReDIF-Series 1.0
+Name: ETLA B
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Book
+Handle: RePEc:rif:bbooks
+Order-Email: orders@etla.fi
+
+Template-type: ReDIF-Series 1.0
+Name: ETLA C
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Book
+Handle: RePEc:rif:cbooks
+Order-Email: orders@etla.fi
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Book
+Handle: RePEc:rif:otbook
+Order-Email: orders@etla.fi
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters
+Provider-Name: The Research Institute of the Finnish Economy
+Provider-Homepage: http://www.etla.fi/
+Provider-Institution: RePEc:edi:etlaafi
+Maintainer-Name: Kaija Hyvönen-Rajecki
+Maintainer-Email: info@etla.fi
+Type: ReDIF-Chapter
+Handle: RePEc:rif:otchap
+Order-Email: orders@etla.fi

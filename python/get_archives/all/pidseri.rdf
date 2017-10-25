@@ -1,0 +1,89 @@
+Template-type: ReDIF-Series 1.0
+Name: PIDE-Working Papers
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name: Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Paper
+Handle: RePEc:pid:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: The Pakistan Development Review
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name:  Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Article
+Handle: RePEc:pid:journl
+
+Template-type: ReDIF-Series 1.0
+Name: PIDE-Economic Digest
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name:  Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Article
+Handle: RePEc:pid:digest
+
+Template-type: ReDIF-Series 1.0
+Name: MIMAP Technical Paper Series 
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name: Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Paper
+Handle: RePEc:pid:mimaps
+
+Template-type: ReDIF-Series 1.0
+Name: CEECC Working Paper
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name: Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Paper
+Handle: RePEc:pid:ceeccp
+
+Template-type: ReDIF-Series 1.0
+Name: PIDE Monograph Series
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name: Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Paper
+Handle: RePEc:pid:monogr
+
+Template-type: ReDIF-Series 1.0
+Name: PLM Project Reports
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name: Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Paper
+Handle: RePEc:pid:plmrep
+
+Template-type: ReDIF-Series 1.0
+Name: PIDE Books
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name: Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-book
+Handle: RePEc:pid:pbooks
+
+Template-type: ReDIF-Series 1.0
+Name: Poverty and Social Dynamics Paper Series
+Provider-Name: Pakistan Institute of Development Economics
+Provider-Homepage: http://www.pide.org.pk
+Provider-Institution: RePEc:edi:pideipk
+Maintainer-Name: Khurram Iqbal
+Maintainer-Email: khurram@pide.org.pk
+Type: ReDIF-Paper
+Handle: RePEc:pid:psdpsr

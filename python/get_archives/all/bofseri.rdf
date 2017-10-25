@@ -1,0 +1,34 @@
+﻿Template-Type: ReDIF-Series 1.0 
+Name: Research Discussion Papers 
+Editor-Name: Jouko Vilmunen 
+Editor-Email: Jouko.Vilmunen@bof.fi 
+Provider-Name: Bank of Finland 
+Provider-Postal: Bank of Finland, P.O. Box 160, FI-00101 Helsinki, Finland 
+Provider-Homepage: http://www.suomenpankki.fi/en/ 
+Provider-Institution: RePEc:edi:bofgvfi 
+Maintainer-Name: Minna Nyman 
+Maintainer-Email: Minna.Nyman@bof.fi 
+Handle: RePEc:bof:bofrdp
+
+Template-Type: ReDIF-Series 1.0 
+Name: BOFIT Discussion Papers 
+Provider-Name: Bank of Finland, Institute for Economies in Transition 
+Provider-Postal: Bank of Finland, BOFIT, P.O. Box 160, FI-00101 Helsinki, Finland 
+Provider-Homepage: http://www.bofit.fi/en/ 
+Provider-Institution: RePEc:edi:bofitfi 
+Maintainer-Name: Minna Nyman
+Maintainer-Email: minna.nyman@bof.fi 
+Maintainer-Phone: +358 9 183 2268
+Maintainer-Fax:
+Handle: RePEc:bof:bofitp 
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Scientific Monographs
+Provider-Name: Bank of Finland 
+Provider-Postal: Bank of Finland, P.O. Box 160, FI-00101 Helsinki, Finland 
+Provider-Homepage: http://www.suomenpankki.fi/en/ 
+Provider-Institution: RePEc:edi:bofgvfi 
+Maintainer-Name: Minna Nyman 
+Maintainer-Email: research@bof.fi
+Handle: RePEc:bof:bofism

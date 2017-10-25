@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: Eastern Journal of European Studies
+Provider-Name: Centre for European Studies, Alexandru Ioan Cuza University
+Provider-Homepage: http://cse.uaic.ro
+Provider-Institution: RePEc:edi:csjesro
+Maintainer-Name: Alupului Ciprian
+Maintainer-Email: cde@uaic.ro
+Type: ReDIF-Article
+Handle: RePEc:jes:journl
+
+Template-type: ReDIF-Series 1.0
+Name: CES Working Papers
+Provider-Name: Centre for European Studies, Alexandru Ioan Cuza University
+Provider-Homepage: http://cse.uaic.ro
+Provider-Institution: RePEc:edi:csjesro
+Maintainer-Name: Alupului Ciprian
+Maintainer-Email: cde@uaic.ro
+Type: ReDIF-Article
+Handle: RePEc:jes:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: EURINT Proceedings
+Provider-Name: Centre for European Studies, Alexandru Ioan Cuza University
+Provider-Homepage: http://cse.uaic.ro
+Provider-Institution: RePEc:edi:csjesro
+Maintainer-Name: Alupului Ciprian
+Maintainer-Email: cde@uaic.ro
+Type: ReDIF-Chapter
+Handle: RePEc:jes:euri13
+
+Template-type: ReDIF-Series 1.0
+Name: EURINT
+Provider-Name: Centre for European Studies, Alexandru Ioan Cuza University
+Provider-Homepage: http://cse.uaic.ro
+Provider-Institution: RePEc:edi:csjesro
+Maintainer-Name: Alupului Ciprian
+Maintainer-Email: cde@uaic.ro
+Type: ReDIF-Article
+Handle: RePEc:jes:eurint

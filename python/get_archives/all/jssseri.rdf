@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Statistical Software
+Description: Papers published in Journal of Statistical Software
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Bettina Grün
+Editor-Workplace-Name: Department of Applied Statistics, Johannes Kepler University Linz, Austria
+Editor-Email: Bettina.Gruen@jku.at
+Editor-Name: Edzer Pebesma
+Editor-Workplace-Name: Institute for Geoinformatics, University of Münster, Germany
+Editor-Email: edzer.pebesma@uni-muenster.de
+Editor-Name: Achim Zeileis
+Editor-Workplace-Name: Department of Statistics and Mathematics, Wirtschaftsuniversität Wien
+Editor-Email: Achim.Zeileis@wu-wien.ac.at
+Provider-Name: Foundation for Open Access Statistics
+Provider-Homepage: http://www.jstatsoft.org/
+Handle: RePEc:jss:jstsof
+

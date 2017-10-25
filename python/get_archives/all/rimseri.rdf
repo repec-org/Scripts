@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Description: Working Papers of The Rimini Centre for Economic Analysis
+Type: ReDIF-Paper
+Provider-Name: The Rimini Centre for Economic Analysis
+Provider-Homepage: http://rcea.org
+Provider-Institution: RePEc:edi:rcfeait
+Maintainer-Name: Marco Savioli
+Maintainer-Email: marco.savioli@unisalento.it
+Handle: RePEc:rim:rimwps
+
+Template-type: ReDIF-Series 1.0
+Name: Professional Reports
+Description: Professional Reports of The Rimini Centre for Economic Analysis
+Type: ReDIF-Paper
+Provider-Name: The Rimini Centre for Economic Analysis
+Provider-Homepage: http://rcea.org
+Provider-Institution: RePEc:edi:rcfeait
+Maintainer-Name: Marco Savioli
+Maintainer-Email: marco.savioli@unisalento.it
+Handle: RePEc:rim:rimpre

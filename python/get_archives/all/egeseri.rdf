@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Ege University, Department of Economics
+Provider-Homepage: http://www.iibf.ege.edu.tr/economics/
+Provider-Institution: RePEc:edi:deegetr
+Maintainer-Name: Baris Gök
+Maintainer-Email: baris.gok@ege.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:ege:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Ege Academic Review
+Description: This is the official journal of Ege University Faculty of Economics and Administrative Sciences
+Provider-Name: Ege University Faculty of Economics and Administrative Sciences
+Provider-Homepage: http://iibf.ege.edu.tr/ENG/
+Provider-Institution: RePEc:edi:iiegetr
+Maintainer-Name: Baris Gök
+Maintainer-Email: baris.gok@ege.edu.tr
+Editor-Name: Özlem Önder
+Editor-Email: ozlem.onder@ege.edu.tr
+Type: ReDIF-Article
+Handle: RePEc:ege:journl
+

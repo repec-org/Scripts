@@ -1,0 +1,71 @@
+Template-type: ReDIF-Series 1.0
+Name: Heterogeneity and monetary policy
+Description: This archive collects papers for a research project on
+ Heterogeneous bank and trade credit markets and in local financial systems:
+ implications for regional growth and distributional effects of monetary
+ policy
+Provider-Name: Universita di Modena e Reggio Emilia, Dipartimento di
+ Economia Politica
+Provider-Institution: RePEc:edi:demodit
+Provider-Homepage: http://www.economia.unimore.it
+Maintainer-Name: Giuseppe Marotta
+Maintainer-Email: giuseppe.marotta@unimore.it
+Type: ReDIF-Paper
+Handle: RePEc:mod:modena
+
+
+Template-type: ReDIF-Series 1.0
+Name: Center for the Analysis of Public Policies (CAPP)
+Description: This archive collects papers on the evaluation of public policies
+Provider-Name: Universita di Modena e Reggio Emilia, Dipartimento di Economia "Marco Biagi"
+Provider-Institution: RePEc:edi:demodit
+Provider-Homepage: http://www.capp.unimore.it
+Maintainer-Name: Sara Colombini
+Maintainer-Email: sara.colombini@unimore.it
+Type: ReDIF-Paper
+Handle: RePEc:mod:cappmo
+
+
+Template-type: ReDIF-Series 1.0
+Name: Centro Studi di Banca e Finanza (CEFIN) (Center for Studies in Banking and Finance)
+Description: This archive collects working papers on banking and finance
+Provider-Name: Universita di Modena e Reggio Emilia, Dipartimento di Economia "Marco Biagi"
+Provider-Institution: RePEc:edi:demodit
+Provider-Homepage: http://www.economia.unimore.it
+Maintainer-Name: Giuseppe Marotta
+Maintainer-Email: giuseppe.marotta@unimore.it
+Type: ReDIF-Paper
+Handle: RePEc:mod:wcefin
+
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics
+Description: This archive collects working papers on economics, statistics, financial mathematics and economic history
+Provider-Name: University of Modena and Reggio E., Faculty of Economics "Marco Biagi"
+Provider-Institution: RePEc:edi:demodit
+Provider-Homepage: http://www.economia.unimore.it/
+Maintainer-Name: Sara Colombini
+Maintainer-Email: sara.colombini@unimore.it
+Type: ReDIF-Paper
+Handle: RePEc:mod:depeco
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics (DEMB)
+Description: This archive collects working papers on economics, statistics, financial mathematics and economic history
+Provider-Name: University of Modena and Reggio Emilia, Department of Economics "Marco Biagi"
+Provider-Institution: RePEc:edi:demodit
+Provider-Homepage: http://www.economia.unimore.it/
+Maintainer-Name: Sara Colombini
+Maintainer-Email: sara.colombini@unimore.it
+Type: ReDIF-Paper
+Handle: RePEc:mod:dembwp
+
+Template-type: ReDIF-Series 1.0
+Name: Center for Economic Research (RECent)
+Description: This archive collects working papers on economics, econometrics and statistics
+Provider-Name: University of Modena and Reggio E., Dept. of Economics "Marco Biagi"
+Provider-Institution: RePEc:edi:demodit
+Provider-Homepage: http://www.recent.unimore.it/
+Maintainer-Email: recent@unimore.it
+Type: ReDIF-Paper
+Handle: RePEc:mod:recent

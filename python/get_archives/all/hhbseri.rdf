@@ -1,0 +1,295 @@
+Template-Type: ReDIF-Series 1.0
+Name: SSE/EFI Working Paper Series in Business Administration
+Provider-Name: Stockholm School of Economics
+Provider-Postal: The Economic Research Institute, Stockholm School of Economics, P.O. Box 6501, SE 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/
+Provider-Institution: RePEc:edi:erhhsse
+Maintainer-Name: Helena Lundin
+Maintainer-Email: Helena.Lundin@hhs.se
+Handle: RePEc:hhb:hastba
+
+Template-Type: ReDIF-Series 1.0
+Name: FE rapport
+Provider-Name: University of Gothenburg, Department of Business Administration
+Provider-Postal: Dept of Business Adminstration, School of Business, Economics and Law, University of Gothenburg, Box 610, SE 405 30 Göteborg, Sweden 
+Provider-Homepage: http://www.handels.gu.se/fek/
+Provider-Institution: RePEc:edi:hhsguse
+Maintainer-Name: Maria Persson
+Maintainer-Email: Maria.Persson@handels.gu.se
+Handle: RePEc:hhb:gunwba
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Uppsala University, Department of Business Studies
+Provider-Postal: Department of Business Studies, Uppsala University, Box 513, SE-751 20 Uppsala, Sweden
+Provider-Homepage: http://www.fek.uu.se/
+Maintainer-Name: Sune Karlsson
+Maintainer-Email: sune.karlsson@oru.se
+Handle: RePEc:hhb:uufewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Occasional Papers
+Provider-Name: Uppsala University, Department of Business Studies
+Provider-Postal: Department of Business Studies, Uppsala University, Box 513, SE-751 20 Uppsala, Sweden
+Provider-Homepage: http://www.fek.uu.se/
+Maintainer-Name: Sune Karlsson
+Maintainer-Email: sune.karlsson@oru.se
+Handle: RePEc:hhb:uufeop
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Copenhagen Business School, Department of Management, Politics & Philosophy
+Provider-Postal: Department of Management, Politics and Philosophy, Copenhagen Business School,
+  Blaagaardsgade 23 B, DK-2200 Copenhagen N, Denmark
+Provider-Homepage: http://www.cbs.dk/departments/mpp/
+Provider-Institution: RePEc:edi:cbschdk
+Maintainer-Name: Lars Nondal
+Maintainer-Email: ln.lib@cbs.dk
+Handle: RePEc:hhb:cbslpf
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Copenhagen Business School, Department of International Economics and Management
+Provider-Postal: Department of International Economics and Management, Copenhagen Business School,
+  Howitzvej 60, DK-2000 Frederiksberg, Denmark
+Provider-Homepage: http://www.cbs.dk/departments/int/
+Provider-Institution: RePEc:edi:iicbsdk
+Maintainer-Name: Lars Nondal
+Maintainer-Email: ln.lib@cbs.dk
+Handle: RePEc:hhb:cbsint
+
+Template-Type: ReDIF-Series 1.0
+Name: MAPP Working Papers
+Editor-Name: Klaus G. Grunert
+Editor-Email: klg@asb.dk
+Provider-Name: University of Aarhus, Aarhus School of Business, The MAPP Centre
+Provider-Postal: The Aarhus School of Business, The MAPP Centre,
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/centres/mapp.aspx
+Provider-Institution: RePEc:edi:hahoadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarmap
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Editor-Name: Per Madsen
+Editor-Email: pem@asb.dk
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Management Science and Logistics
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/
+Provider-Institution: RePEc:edi:hahoadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarmsl
+
+Template-Type: ReDIF-Series 1.0
+Name: Finance Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarfin
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Management
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/man.aspx
+Provider-Institution: RePEc:edi:hahoadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aardom
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Editor-Name: Mats Alvesson
+Editor-Name: Lars Bengtsson
+Provider-Name: Lund University, Institute of Economic Research 
+Provider-Postal: Institutet för Ekonomisk Forskning, Box 7080,
+  SE-220 07 LUND, Sweden
+Provider-Homepage: http://www.lri.lu.se/
+Provider-Institution: RePEc:edi:ielunse
+Maintainer-Name: Elsbeth Andersson
+Maintainer-Email: Elsbeth.Andersson@fek.lu.se
+Handle: RePEc:hhb:lufewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Hanken School of Economics 
+Provider-Postal: Hanken School of Economics,
+  Arkadiankatu 22, P.O.B. 479; FIN 00101 Helsinki, Finland
+Provider-Homepage: http://www.hanken.fi
+Provider-Institution: RePEc:edi:shhhhfi
+Maintainer-Name: Staffan Dellringer
+Maintainer-Email: staffan.dellringer@hanken.fi
+Handle: RePEc:hhb:hanken
+
+Template-Type: ReDIF-Series 1.0
+Name: GRI-rapport
+Editor-Name: Sten Jönsson
+Editor-Email: Sten.Jonsson@gri.gu.se
+Provider-Name: University of Gothenburg, Gothenburg Research Institute GRI
+Provider-Postal: Gothenburg Research Institute, Box 600, SE 405 30 Göteborg, Sweden
+Provider-Homepage: http://www.handels.gu.se/gri/
+Provider-Institution: RePEc:edi:hhsguse
+Maintainer-Name: Lise-Lotte Walter
+Maintainer-Email: Lise-Lotte.Walter@gri.gu.se
+Handle: RePEc:hhb:gungri
+
+Template-Type: ReDIF-Series 1.0
+Name: Working paper in Studies of Organization and Society
+Editor-Name: Östen Ohlsson
+Editor-Email: osten.ohlsson@handels.gu.se
+Provider-Name: University of Gothenburg, Studies of Organization and Society, Department of Business Administration
+Provider-Postal: Studier av organisation och samhälle, Företagsekonomiska institutionen,
+ Handelshögskolan vid Göteborgs universitet, Box 610, SE-405 30 Göteborg, Sweden
+Provider-Homepage: http://www.handels.gu.se/SOS/
+Provider-Institution: RePEc:edi:hhsguse
+Maintainer-Name: Jens Anmark
+Maintainer-Email: Jens.Anmark@ub.gu.se
+Handle: RePEc:hhb:gunsos
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aaracc
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: University of Gothenburg, Logistics and Transport Research Group, Department of Business Administration
+Provider-Postal: Logistik och Transportekonomi, Företagsekonomiska institutionen,
+ Handelshögskolan vid Göteborgs universitet, Box 610, SE-405 30 Göteborg, Sweden
+Provider-Homepage: http://cent.hgus.gu.se/fek/logistikgruppen
+Provider-Institution: RePEc:edi:hhsguse
+Maintainer-Name: Jens Anmark
+Maintainer-Email: Jens.Anmark@ub.gu.se
+Handle: RePEc:hhb:gunltr
+
+Template-Type: ReDIF-Series 1.0
+Name: Sustainable Investment and Corporate Governance Working Papers
+Editor-Name: Pontus Cerin
+Editor-Email: cerin@kth.se
+Editor-Name:  Lars Hassel
+Provider-Name: Sustainable Investment Research Platform
+Provider-Postal: Economics of Corporate Sustainability Management, Department of Industrial Economics and Management,
+  Royal Institute of Technology, SE-100 44 Stockholm, SWEDEN
+Provider-Homepage: http://www.sirps.se
+Provider-Institution: RePEc:edi:iikthse
+Maintainer-Name: Pontus Cerin
+Maintainer-Email: cerin@kth.se
+Handle: RePEc:hhb:sicgwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Pink Machine Papers
+Editor-Name: Mikolaj Dymek
+Editor-Email: mikolaj.dymek@indek.kth.se
+Provider-Name: Royal Institute of Technology, Department of Industrial Economics and Management
+Provider-Postal: Department of Industrial Economics and Management,
+  Royal Institute of Technology, SE-100 44 Stockholm, SWEDEN
+Provider-Homepage: http://www.pinkmachine.com
+Provider-Institution: RePEc:edi:iikthse
+Maintainer-Name: Stefan Görling
+Maintainer-Email: stefan.gorling@indek.kth.se 
+Handle: RePEc:hhb:pinkwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Accounting Research Center Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarbac
+
+Template-Type: ReDIF-Series 1.0
+Name: Finance Research Group Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarbfi
+
+Template-Type: ReDIF-Series 1.0
+Name: Financial Reporting Research Group Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarbfr
+
+Template-Type: ReDIF-Series 1.0
+Name: Informatics Research Group Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarbin
+
+Template-Type: ReDIF-Series 1.0
+Name: CORAL Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarbls
+
+Template-Type: ReDIF-Series 1.0
+Name: Management Accounting Research Group Working Papers
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Business Studies
+Provider-Postal: The Aarhus School of Business, 
+  Fuglesangs Allé 4, DK-8210 Aarhus V, Denmark
+Provider-Homepage: http://www.asb.dk/about/departments/bs.aspx
+Provider-Institution: RePEc:edi:ifhhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhb:aarbma
+
+Template-Type: ReDIF-Series 1.0
+Name: JIBS Working Papers
+Editor-Name: Friederike Welter
+Editor-Email: friederike.welter@jibs.hj.se
+Provider-Name: Jönköping International Business School
+Provider-Postal: Jönköping International Business School, P.O. Box 1026, SE-551 11 Jönköping, Sweden
+Provider-Homepage: http://www.jibs.hj.se/
+Provider-Institution: RePEc:edi:ihhhjse
+Maintainer-Name: Susanne Hansson
+Maintainer-Email: susanne.hansson@jibs.hj.se
+Maintainer-Name: Stefan Carlstein
+Maintainer-Email: stefan.carlstein@bibl.hj.se
+Handle: RePEc:hhb:hjacfi
+
+Template-Type: ReDIF-Series 1.0
+Name: SSE Working Paper Series in Business Administration
+Provider-Name: Stockholm School of Economics
+Provider-Postal: Stockholm School of Economics, P.O. Box 6501, 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/
+Provider-Institution: RePEc:edi:hhstose
+Maintainer-Name: Helena Lundin
+Maintainer-Email: Helena.Lundin@hhs.se
+Handle: RePEc:hhb:hastma

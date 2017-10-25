@@ -1,0 +1,1152 @@
+﻿
+
+template-type: ReDIF-Series 1.0
+name: L'Actualité Economique
+editor-name: Bruce Shearer
+editor-email: bshearer@ecn.ulaval.ca
+maintainer-email: actualite.info@hec.ca
+maintainer-name: Bruce Shearer
+provider-name: Société Canadienne de Science Economique
+provider-email: patricia.power@hec.ca
+provider-homepage: http://www.scse.ca/
+provider-institution: RePEc:edi:scseeea
+type: ReDIF-Article
+handle: RePEc:ris:actuec
+
+template-type: ReDIF-Series 1.0
+name: Asian Development Review
+editor-name: Shang-Jin Wei
+editor-email: swei@adb.org
+maintainer-email: mstorres@adb.org
+maintainer-name: Maria Susan M. Torres
+followup: RePEc:tpr:adbadr
+provider-name: Asian Development Bank
+provider-homepage: http://www.adb.org
+provider-institution: RePEc:edi:eradbph
+type: ReDIF-Article
+handle: RePEc:ris:adbadr
+
+template-type: ReDIF-Series 1.0
+name: ADB Economics Working Paper Series
+editor-name: Maria Socorro Gochoco-Bautista
+editor-email: msbautista@adb.org
+maintainer-email: mstorres@adb.org
+maintainer-name: Maria Susan M. Torres
+provider-name: Asian Development Bank
+provider-homepage: http://www.adb.org
+provider-institution: RePEc:edi:eradbph
+handle: RePEc:ris:adbewp
+
+template-type: ReDIF-Series 1.0
+name: ADBI Policy Briefs
+editor-name: Marc Benger
+editor-email: mbenger@adbi.org
+maintainer-email: mbenger@adbi.org
+maintainer-name: Marc Benger
+provider-name: Asian Development Bank Institute
+provider-homepage: http://www.adbi.org/
+provider-institution: RePEc:edi:adbinjp
+provider-postal: Kasumigaseki Building 8F, 3-2-5, Kasumigaseki, Chiyoda-ku, Tokyo 100-6008, Japan
+handle: RePEc:ris:adbipb
+
+template-type: ReDIF-Series 1.0
+name: ADBI Working Papers
+editor-name: Fernando Ildefonso
+editor-email: fildefonso.consultant@adb.org
+maintainer-email: mbenger@adbi.org
+maintainer-name: Marc Benger
+provider-name: Asian Development Bank Institute
+provider-homepage: http://www.adbi.org/
+provider-institution: RePEc:edi:adbinjp
+provider-postal: Kasumigaseki Building 8F, 3-2-5, Kasumigaseki, Chiyoda-ku, Tokyo 100-6008, Japan
+handle: RePEc:ris:adbiwp
+
+template-type: ReDIF-Series 1.0
+name: Working Papers on Regional Economic Integration
+maintainer-email: ibdeleon.consultant@adb.org
+maintainer-name: Ivan B. de Leon
+provider-name: Asian Development Bank
+provider-homepage: http://www.adb.org
+provider-institution: RePEc:edi:oradbph
+handle: RePEc:ris:adbrei
+
+template-type: ReDIF-Series 1.0
+name: Ab Aeterno
+editor-name: Dimitris Michalopoulos
+editor-email: michalodimitris@gmail.com
+maintainer-email: michalodimitris@gmail.com
+maintainer-name: Dimitris Michalopoulos
+provider-name: Academy of Social and Political Research
+provider-homepage: http://www.academy-of-social-and-political-research.com/
+provider-institution: RePEc:edi:acsprgr
+type: ReDIF-Article
+handle: RePEc:ris:aetern
+
+template-type: ReDIF-Series 1.0
+name: AICCON Working Papers
+maintainer-email: paolo.venturi7@unibo.it
+maintainer-name: Paolo Venturi
+provider-name: Associazione Italiana per la Cultura della Cooperazione e del Non Profit
+provider-homepage: http://www.aiccon.it/
+provider-institution: RePEc:edi:aiccoea
+handle: RePEc:ris:aiccon
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+editor-name: Joseph Marchand
+editor-email: jmarchan@ualberta.ca
+editor-person: pma475
+maintainer-email: joseph.marchand@ualberta.ca
+maintainer-name: Joseph Marchand
+provider-name: University of Alberta, Department of Economics
+provider-homepage: http://www.ualberta.ca/economics
+provider-institution: RePEc:edi:deualca
+handle: RePEc:ris:albaec
+
+template-type: ReDIF-Series 1.0
+name: Applied Econometrics
+editor-name: Sergei Aivazian
+editor-email: p.ekonometrika@gmail.com
+maintainer-email: p.ekonometrika@gmail.com
+maintainer-name: Anatoly Peresetsky
+provider-name: Publishing House "SINERGIA PRESS"
+provider-homepage: http://appliedeconometrics.cemi.rssi.ru/
+type: ReDIF-Article
+handle: RePEc:ris:apltrx
+
+template-type: ReDIF-Series 1.0
+name: Bangladesh Development Studies
+editor-name: Khan Ahmed Sayeed Murshid
+editor-email: murshid@bids.org.bd
+maintainer-email: Mdilruba@bids.org.bd
+maintainer-name: Dilruba Mahhuba
+provider-name: Bangladesh Institute of Development Studies (BIDS)
+provider-email: bids@bdonline.com
+provider-homepage: http://www.bids.org.bd/
+provider-institution: RePEc:edi:bidssbd
+type: ReDIF-Article
+handle: RePEc:ris:badest
+
+template-type: ReDIF-Series 1.0
+name: Bulletin of Economic Theory and Analysis
+editor-name: Erginbay Ugurlu
+editor-email: editor@betajournals.org
+maintainer-email: editor@betajournals.org
+maintainer-name: Erginbay Ugurlu
+provider-name: BETA Journals
+provider-homepage: http://betajournals.org/
+type: ReDIF-Article
+handle: RePEc:ris:betajl
+
+template-type: ReDIF-Series 1.0
+name: Document de travail
+maintainer-email: s.dehmej@bkam.ma
+maintainer-name: Salim DEHMEJ
+provider-name: Bank Al-Maghrib, Département de la Recherche
+provider-homepage: http://www.bkam.ma/
+provider-institution: RePEc:edi:bamgvma
+handle: RePEc:ris:bkamdt
+
+template-type: ReDIF-Series 1.0
+name: Business and Economics Research Journal
+editor-name: Adem Anbar
+editor-email: ademanbar@hotmail.com
+maintainer-email: ademanbar@hotmail.com
+maintainer-name: Adem Anbar
+issn: 1309-2448
+provider-name: Uludag University, Faculty of Economics and Administrative Sciences
+provider-homepage: http://www.berjournal.com/
+provider-institution: RePEc:edi:iiulutr
+type: ReDIF-Article
+handle: RePEc:ris:buecrj
+
+template-type: ReDIF-Series 1.0
+name: Spatial and Organizational Dynamics Discussion Papers
+editor-name: T. Noronha
+editor-email: mtvaz@ualg.pt
+maintainer-email: sfernan@ualg.pt
+maintainer-name: Silvia Fernandes
+provider-name: CIEO-Research Centre for Spatial and Organizational Dynamics, University of Algarve
+provider-homepage: http://www.cieo.pt/
+provider-institution: RePEc:edi:cialgpt
+provider-postal: University of Algarve, Faculty of Economics, Campus de Gambelas, 8005-139 Faro, Portugal, email of President of the Centre: mtvaz@ualg.pt
+handle: RePEc:ris:cieodp
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+editor-name: Luis Pacheco
+editor-email: luisp@upt.pt
+maintainer-email: luisp@upt.pt
+maintainer-name: Luis Pacheco
+provider-name: Universidade Portucalense, Centro de Investigação em Gestão e Economia (CIGE)
+provider-homepage: http://www.uportu.pt/site-scripts/centro_pagina.asp?codmenu=71&codcentro=24
+provider-institution: RePEc:edi:ciupopt
+provider-postal: Universidade Portucalense – Economics and Management Department (CIGE – Centro de Investigação em Gestão e Economia), Rua Dr. António Bernardino de Almeida, 541-619, 4200 – 072 Porto, Portugal
+handle: RePEc:ris:cigewp
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+editor-name: Georges Dionne
+editor-email: georges.dionne@hec.ca
+maintainer-email: claire.boisvert@hec.ca
+maintainer-name: Claire Boisvert
+provider-name: HEC Montreal, Canada Research Chair in Risk Management
+provider-homepage: http://chairegestiondesrisques.hec.ca/
+provider-institution: RePEc:edi:hecmtca
+handle: RePEc:ris:crcrmw
+
+template-type: ReDIF-Series 1.0
+name: DEMQ Working Paper Series
+editor-name: DEMQ director: Prof. Roberto Cellini
+editor-email: cellini@unict.it
+editor-person: pce29
+maintainer-email: gcafiso@unict.it
+maintainer-email: lbonaventura@lex.unict.it
+maintainer-name: Gianluca Cafiso
+maintainer-name: Luigi Bonaventura
+provider-name: University of Catania, Department of Economics and Quantitative Methods
+provider-homepage: http://www.demq.unict.it/
+provider-institution: RePEc:edi:fecatit
+provider-postal: Corso Italia 55, 95129 - Catania, Italy
+handle: RePEc:ris:demqwp
+
+template-type: ReDIF-Series 1.0
+name: DG TRADE Chief Economist Notes
+editor-name: Lucian Cernat
+editor-email: Lucian.Cernat@ec.europa.eu
+maintainer-email: Zornitsa.Kutlina-Dimitrova@ec.europa.eu
+maintainer-name: Zornitsa Kutlina-Dimitrova
+provider-name: Directorate General for Trade, European Commission
+provider-homepage: http://ec.europa.eu/trade/
+provider-institution: RePEc:edi:dgtecbe
+handle: RePEc:ris:dgtcen
+
+template-type: ReDIF-Series 1.0
+name: School of Economics Working Paper Series
+maintainer-email: rcb63@drexel.edu
+maintainer-name: Richard C. Barnett
+provider-name: LeBow College of Business, Drexel University
+provider-homepage: http://www.lebow.drexel.edu/
+provider-institution: RePEc:edi:cbdreus
+type: ReDIF-Paper
+handle: RePEc:ris:drxlwp
+
+template-type: ReDIF-Series 1.0
+name: DUTH Research Papers in Economics
+editor-name: Periklis Gogas
+editor-email: pgkogkas@ierd.duth.gr
+editor-person: pgo217
+maintainer-email: pgkogkas@ierd.duth.gr
+maintainer-name: Periklis Gogas
+provider-name: Democritus University of Thrace, Department of Economics
+provider-homepage: http://www.econ.duth.gr/
+provider-institution: RePEc:edi:didutgr
+provider-postal: Department of Economics, University Campus, Komotini, 69100, Greece
+handle: RePEc:ris:duthrp
+
+template-type: ReDIF-Series 1.0
+name: East Asian Economic Review
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: eaer@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Article
+handle: RePEc:ris:eaerev
+
+template-type: ReDIF-Series 1.0
+name: Economia Internazionale / International Economics
+editor-name: Amedeo Amato
+editor-email: amatobis@gmail.com
+maintainer-email: angela.procopio@ge.camcom.it
+maintainer-name: Angela Procopio
+provider-name: Camera di Commercio Industria Artigianato Agricoltura di Genova
+provider-email: enquiry.usa@capco.com
+provider-homepage: http://www.iei1946.it/it/index.php
+provider-institution: RePEc:edi:cacogit
+provider-phone: +39 010 27041
+provider-postal: Via Garibaldi 4, 16124 Genova, Italy
+type: ReDIF-Article
+handle: RePEc:ris:ecoint
+
+template-type: ReDIF-Series 1.0
+name: Intersezioni e Asincronie (IEA)
+editor-name: Franca Bimbi
+editor-name: Luca Trappolin
+editor-email: luca.trappolin@unipd.it
+maintainer-email: edizioniguerini@gmail.com
+maintainer-name: Flavia Panfili
+provider-name: Edizioni Guerini e Associati
+provider-homepage: http://www.guerini.it/
+type: ReDIF-Book
+handle: RePEc:ris:egaiea
+
+template-type: ReDIF-Series 1.0
+name: EIB Economic Surveys
+editor-name: Kristian Uppenberg
+editor-email: k.uppenberg@eib.org
+maintainer-email: p.kanelliadou@eib.org
+maintainer-name: Polyxeni Kanelliadou
+provider-name: European Investment Bank
+provider-homepage: http://www.eib.org/
+provider-institution: RePEc:edi:eibeulu
+type: ReDIF-Book
+handle: RePEc:ris:eibbok
+
+template-type: ReDIF-Series 1.0
+name: Economic and Financial Reports
+editor-name: Economics Department
+editor-email: info@eib.org
+maintainer-email: p.kanelliadou@eib.org
+maintainer-name: Polyxeni Kanelliadou
+provider-name: European Investment Bank, Economics Department
+provider-homepage: http://www.eib.org/efs/
+provider-institution: RePEc:edi:ceeiblu
+handle: RePEc:ris:eibefr
+
+template-type: ReDIF-Series 1.0
+name: EIB Papers
+editor-name: Economics Department
+editor-email: info@eib.org
+maintainer-email: p.kanelliadou@eib.org
+maintainer-name: Polyxeni Kanelliadou
+provider-name: European Investment Bank, Economics Department
+provider-homepage: http://www.eib.org/efs/
+provider-institution: RePEc:edi:ceeiblu
+handle: RePEc:ris:eibpap
+
+template-type: ReDIF-Series 1.0
+name: European Journal of Economic and Social Systems
+editor-name: Bernard Paulré
+editor-email: paulre@univ-paris1.fr
+editor-name: Stefano Lucarelli
+editor-email: lucarelli@unibocconi.it
+maintainer-email: lucarelli@unibocconi.it
+maintainer-name: Stefano Lucarelli
+provider-name: Lavoisier
+provider-homepage: http://ejess.revuesonline.com/
+type: ReDIF-Article
+handle: RePEc:ris:ejessy
+
+template-type: ReDIF-Series 1.0
+name: Documentos de Trabajo
+editor-name: David López
+editor-email: dalm1986@gmail.com
+maintainer-email: prerodrigo@gmail.com
+maintainer-name: Rodrigo Lara
+provider-name: Estudios Nueva Economía
+provider-homepage: http://www.estudiosnuevaeconomia.cl/
+provider-institution: RePEc:edi:enecocl
+handle: RePEc:ris:enedoc
+
+template-type: ReDIF-Series 1.0
+name: Estudios Nueva Economía
+editor-name: Felipe Correa Mautz
+editor-email: fcorreamautz@gmail.com
+maintainer-email: prerodrigo@gmail.com
+maintainer-name: Rodrigo Lara
+provider-name: Estudios Nueva Economía
+provider-homepage: http://www.estudiosnuevaeconomia.cl/
+provider-institution: RePEc:edi:enecocl
+type: ReDIF-Article
+handle: RePEc:ris:eneene
+
+template-type: ReDIF-Series 1.0
+name: Etudes en Economie Islamique
+editor-name: Hilal Houssain
+editor-email: hhoussain@isdb.org
+editor-name: Anis Ben Khedher
+editor-email: akhedher@isdb.org
+maintainer-email: e-journal@isdb.org
+maintainer-email: f-journal@isdb.org
+maintainer-name: IRTI Staff
+provider-name: The Islamic Research and Training Institute (IRTI)
+provider-institution: RePEc:edi:irisbsa
+type: ReDIF-Article
+handle: RePEc:ris:etecis
+
+template-type: ReDIF-Series 1.0
+name: Ethics and Economics
+editor-name: Jérôme Ballet
+editor-email: jballetfr@yahoo.fr
+editor-person: pba514
+maintainer-email: david.robichaud@uottawa.ca
+maintainer-name: David Robichaud
+provider-name: CREUM, Université de Montréal
+provider-homepage: http://www.creum.umontreal.ca/
+type: ReDIF-Article
+handle: RePEc:ris:etheco
+
+template-type: ReDIF-Series 1.0
+name: European Economic Letters
+editor-name: Mike Taylor
+editor-email: aa@eelet.org.uk
+maintainer-email: aa@eelet.org.uk
+maintainer-name: Mike taylor
+provider-name: European Economics Letters Group
+provider-homepage: http://www.eelet.org.uk/
+type: ReDIF-Article
+handle: RePEc:ris:eueclt
+
+template-type: ReDIF-Series 1.0
+name: EWI Working Papers
+editor-name: Dietmar Lindenberger
+editor-email: dietmar.lindenberger@uni-koeln.de
+maintainer-email: sabine.williams@ewi.uni-koeln.de
+maintainer-name: Sabine Williams
+provider-name: Energiewirtschaftliches Institut an der Universitaet zu Koeln (EWI)
+provider-homepage: http://www.ewi.uni-koeln.de/
+provider-institution: RePEc:edi:ewikode
+handle: RePEc:ris:ewikln
+
+template-type: ReDIF-Series 1.0
+name: FCN Working Papers
+editor-name: Reinhard Madlener
+editor-email: rmadlener@eonerc.rwth-aachen.de
+maintainer-email: fcn-webmaster@eonerc.rwth-aachen.de
+maintainer-name: Hendrik Schmitz
+provider-name: E.ON Energy Research Center, Future Energy Consumer Needs and Behavior (FCN)
+provider-homepage: http://www.eonerc.rwth-aachen.de/fcn
+provider-institution: RePEc:edi:fceonde
+handle: RePEc:ris:fcnwpa
+
+template-type: ReDIF-Series 1.0
+name: GIAM Working Papers
+maintainer-email: renginnar@gmail.com
+maintainer-name: Renginar Senses Dayangac
+provider-name: Galatasaray University Economic Research Center
+provider-homepage: http://www.giam.gsu.edu.tr
+provider-institution: RePEc:edi:giamgtr
+handle: RePEc:ris:giamwp
+
+template-type: ReDIF-Series 1.0
+name: Sukkur IBA Journal of Management and Business
+editor-name: Khalid Ahmed
+editor-email: khalid.ahmed@iba-suk.edu.pk
+editor-person: pah136
+maintainer-email: irfan.memon@iba-suk.edu.pk
+maintainer-name: Irfan Ali Menon
+provider-name: Sukkur IBA University
+provider-homepage: http://sijmb.iba-suk.edu.pk
+provider-institution: RePEc:edi:sibaspk
+provider-postal: Office of Research, Innovation and Commercialization Sukkur Institute of Business Administration Airport Road Sukkur-65200, Sindh Pakistan
+type: ReDIF-Article
+handle: RePEc:ris:ibajmb
+
+template-type: ReDIF-Series 1.0
+name: 3ie Publications
+maintainer-email: rsharma@3ieimpact.org
+maintainer-name: Rajesh Sharma
+provider-name: International Initiative for Impact Evaluation (3ie)
+provider-homepage: http://www.3ieimpact.org/
+provider-institution: RePEc:edi:iiieein
+handle: RePEc:ris:iiierp
+
+template-type: ReDIF-Series 1.0
+name: Documentos de trabajo
+editor-name: Alejandro Mercado
+editor-email: amercado@ucb.edu.bo
+editor-person: pag87
+maintainer-email: tirza@ucb.edu.bo
+maintainer-name: Tirza Aguilar
+provider-name: Instituto de Investigaciones Socio-Económicas (IISEC), Universidad Católica Boliviana
+provider-homepage: http://www.iisec.ucb.edu.bo/
+provider-institution: RePEc:edi:iisecbo
+provider-postal: Av 14 de septiembre 4807, La Paz, Bolivia
+handle: RePEc:ris:iisecd
+
+template-type: ReDIF-Series 1.0
+name: Journal of Economic Integration
+editor-name: Jong-Eun Lee
+editor-email: ljongeun@sejong.ac.kr
+maintainer-email: jei@sejong.ac.kr
+maintainer-name: Jong-Eun Lee
+provider-name: Center for Economic Integration, Sejong University
+provider-homepage: http://www.e-jei.org/
+provider-institution: RePEc:edi:desejkr
+type: ReDIF-Article
+handle: RePEc:ris:integr
+
+template-type: ReDIF-Series 1.0
+name: INVESTIGACIONES REGIONALES - Journal of REGIONAL RESEARCH
+editor-name: Juan R. Cuadrado-Roura
+editor-email: jr.cuadrado@uah.es
+editor-person: pcu93
+maintainer-email: investig.regionales@uah.es
+maintainer-name: Julieta Llungo-Ortíz
+provider-name: Asociación Española de Ciencia Regional
+provider-homepage: http://www.aecr.org/
+provider-institution: RePEc:edi:aecrrea
+provider-postal: C/ Viladomat, 321 entresuelo - 08029 Barcelona, Teléfono y Fax: + 34 933101112, E-mail: info@aecr.org, Web: www.aecr.org, Web Investigaciones Regionales: www.investigacionesregionales.org
+type: ReDIF-Article
+handle: RePEc:ris:invreg
+
+template-type: ReDIF-Series 1.0
+name: Algorithmic Finance
+editor-name: Phil Maymin
+editor-email: philip@maymin.com
+maintainer-email: s.van.wijngaarden@iospress.nl
+maintainer-name: Saskia van Wijngaarden
+provider-name: IOS Press
+provider-homepage: http://www.iospress.nl/
+type: ReDIF-Article
+handle: RePEc:ris:iosalg
+
+template-type: ReDIF-Series 1.0
+name: Journal of Economic and Social Measurement
+editor-name: Charles G. Renfro
+editor-email: jesmeditor@gmail.com
+maintainer-email: s.van.wijngaarden@iospress.nl
+maintainer-name: Saskia van Wijngaarden
+provider-name: IOS Press
+provider-homepage: http://www.iospress.nl/
+type: ReDIF-Article
+handle: RePEc:ris:iosjes
+
+template-type: ReDIF-Series 1.0
+name: Journal of Statistics and Management Systems
+editor-name: Bal Kishan Dass
+editor-email: bkdass@tarupublications.com
+maintainer-email: s.van.wijngaarden@iospress.nl
+maintainer-name: Saskia van Wijngaarden
+provider-name: Taru Publications
+provider-homepage: http://www.tarupublications.com/
+type: ReDIF-Article
+handle: RePEc:ris:iosjsm
+
+template-type: ReDIF-Series 1.0
+name: Risk and Decision Analysis
+editor-name: Alain Bensoussan
+editor-email: axb046100@utdallas.edu
+editor-name: Charles Tapiero
+editor-email: ctapiero@poly.edu
+maintainer-email: s.van.wijngaarden@iospress.nl
+maintainer-name: Saskia van Wijngaarden
+provider-name: IOS Press
+provider-homepage: http://www.iospress.nl/
+type: ReDIF-Article
+handle: RePEc:ris:iosrda
+
+template-type: ReDIF-Series 1.0
+name: Statistical Journal of the IAOS
+editor-name: Frank Nolan
+editor-email: Frank.Nolan@ons.gov.uk
+maintainer-email: s.van.wijngaarden@iospress.nl
+maintainer-name: Saskia van Wijngaarden
+provider-name: IOS Press for IOAS
+provider-institution: RePEc:edi:ioassea
+type: ReDIF-Article
+handle: RePEc:ris:iossji
+
+template-type: ReDIF-Series 1.0
+name: Occasional Papers
+maintainer-email: r-division@isdb.org
+maintainer-name: Research Division
+provider-name: The Islamic Research and Teaching Institute (IRTI)
+provider-homepage: http://www.irti.org/
+provider-institution: RePEc:edi:irisbsa
+handle: RePEc:ris:irtiop
+
+template-type: ReDIF-Series 1.0
+name: Policy Papers
+maintainer-email: r-division@isdb.org
+maintainer-name: Research Division
+provider-name: The Islamic Research and Teaching Institute (IRTI)
+provider-homepage: http://www.irti.org/
+provider-institution: RePEc:edi:irisbsa
+handle: RePEc:ris:irtipp
+
+template-type: ReDIF-Series 1.0
+name: Research Papers
+maintainer-email: r-division@isdb.org
+maintainer-name: Research Division
+provider-name: The Islamic Research and Teaching Institute (IRTI)
+provider-homepage: http://www.irti.org/
+provider-institution: RePEc:edi:irisbsa
+handle: RePEc:ris:irtirp
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+maintainer-email: r-division@isdb.org
+maintainer-name: Research Division
+provider-name: The Islamic Research and Teaching Institute (IRTI)
+provider-homepage: http://www.irti.org/
+provider-institution: RePEc:edi:irisbsa
+handle: RePEc:ris:irtiwp
+
+template-type: ReDIF-Series 1.0
+name: Islamic Economic Studies
+editor-name: Salman Syed Ali
+editor-email: SSyedAli@isdb.org
+editor-name: Anis Ben Khedher
+editor-email: akhedher@isdb.org
+maintainer-email: e-journal@isdb.org
+maintainer-email: f-journal@isdb.org
+maintainer-name: IRTI Staff
+provider-name: The Islamic Research and Training Institute (IRTI)
+provider-institution: RePEc:edi:irisbsa
+type: ReDIF-Article
+handle: RePEc:ris:isecst
+
+template-type: ReDIF-Series 1.0
+name: دراسات اقتصادية اسلامية
+editor-name: Hilal Houssain
+editor-email: hhoussain@isdb.org
+editor-name: Anis Ben Khedher
+editor-email: akhedher@isdb.org
+maintainer-email: e-journal@isdb.org
+maintainer-email: f-journal@isdb.org
+maintainer-name: IRTI Staff
+provider-name: The Islamic Research and Training Institute (IRTI)
+provider-institution: RePEc:edi:irisbsa
+type: ReDIF-Article
+handle: RePEc:ris:isesar
+
+template-type: ReDIF-Series 1.0
+name: Journal of Economics, Finance and Administrative Science
+editor-name: Jorge Guillen
+editor-email: jguillen@esan.edu.pe
+maintainer-email: esanediciones@esan.edu.pe
+maintainer-name: ESAN Ediciones
+provider-name: Universidad ESAN
+provider-institution: RePEc:edi:esannpe
+type: ReDIF-Article
+handle: RePEc:ris:joefas
+
+template-type: ReDIF-Series 1.0
+name: Journal of Financial Perspectives
+editor-name: Ms Alina Stefan
+editor-email: astefan@uk.ey.com
+maintainer-email: astefan@uk.ey.com
+maintainer-name: Ms Alina Stefan
+provider-name: EY Global FS Institute
+provider-email: sshojai@uk.ey.com
+provider-homepage: http://www.ey.com
+provider-phone: +44 20 7951 2000
+provider-postal: 1 More London Place, London SE1 2AF, UK
+type: ReDIF-Article
+handle: RePEc:ris:jofipe
+
+template-type: ReDIF-Series 1.0
+name: Journal of Financial Transformation
+editor-name: Prof. Shahin Shojai
+editor-email: shahin.shojai@capco.com
+maintainer-email: shahin.shojai@capco.com
+maintainer-name: Prof. Shahin Shojai
+provider-name: Capco Institute
+provider-email: enquiry.usa@capco.com
+provider-homepage: http://www.capco.com/
+provider-phone: +1 212 284 8600
+provider-postal: 77 Water Street, 10th Floor, New York NY 10005
+type: ReDIF-Article
+handle: RePEc:ris:jofitr
+
+template-type: ReDIF-Series 1.0
+name: Journal of Regional Development and Planning
+editor-name: Rajarshi Majumder
+editor-email: jrdp.india@gmail.com
+maintainer-email: jrdp.india@gmail.com
+maintainer-name: Rajarshi Majumder
+provider-name: JRDP
+provider-homepage: http://www.jrdp.in
+provider-postal: Journal of Regional Development and Planning, c/o Rajarshi Majumder, University of Burdwan, Golapbag, Burdwan, INDIA - 713104
+type: ReDIF-Article
+handle: RePEc:ris:jrdpin
+
+template-type: ReDIF-Series 1.0
+name: Journal of Spatial and Organizational Dynamics
+editor-name: Patrícia Pinto
+editor-email: pvalle@ualg.pt
+maintainer-email: sfernan@ualg.pt
+maintainer-name: Silvia Fernandes
+provider-name: CIEO-Research Centre for Spatial and Organizational Dynamics, University of Algarve
+provider-homepage: http://www.cieo.pt/
+provider-institution: RePEc:edi:cialgpt
+provider-postal: University of Algarve, Faculty of Economics, Campus de Gambelas, 8005-139 Faro, Portugal, President of the Centre: Saul Neves de Jesus, E-mail: snjesus@ualg.pt
+type: ReDIF-Article
+handle: RePEc:ris:jspord
+
+template-type: ReDIF-Series 1.0
+name: The Journal of Transport and Land Use
+editor-name: David M. Levinson
+editor-email: levin031@umn.edu
+maintainer-email: mathi032@umn.edu
+maintainer-name: Arlene Mathison
+provider-name: Center for Transportation Studies, University of Minnesota
+provider-homepage: http://www.jtlu.org/index.php/jtlu
+provider-institution: RePEc:edi:ctumnus
+type: ReDIF-Article
+handle: RePEc:ris:jtralu
+
+template-type: ReDIF-Series 1.0
+name: APEC Study Series
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: jwseo@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Paper
+handle: RePEc:ris:kiepas
+
+template-type: ReDIF-Series 1.0
+name: Conference Proceedings
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: jwseo@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Paper
+handle: RePEc:ris:kiepcp
+
+template-type: ReDIF-Series 1.0
+name: Policy Analyses
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: jwseo@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Paper
+handle: RePEc:ris:kieppa
+
+template-type: ReDIF-Series 1.0
+name: Policy Reference
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: jwseo@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Paper
+handle: RePEc:ris:kiepre
+
+template-type: ReDIF-Series 1.0
+name: Staff Papers
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: jwseo@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Paper
+handle: RePEc:ris:kiepsp
+
+template-type: ReDIF-Series 1.0
+name: World Economy Brief
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: jwseo@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Paper
+handle: RePEc:ris:kiepwe
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+editor-name: Juwon Seo
+editor-email: jwseo@kiep.go.kr
+maintainer-email: jwseo@kiep.go.kr
+maintainer-name: Juwon Seo
+provider-name: Korea Institute for International Economic Policy
+provider-homepage: http://www.kiep.go.kr
+provider-institution: RePEc:edi:kieppkr
+provider-postal: [30147] 3rd Floor Building C Sejong National Research Complex 370 Sicheong-daero Sejong-si, Korea
+type: ReDIF-Paper
+handle: RePEc:ris:kiepwp
+
+template-type: ReDIF-Series 1.0
+name: Economics Discussion Papers
+editor-name: Andrea Ingianni
+editor-email: a.ingianni@kingston.ac.uk
+editor-person: pin85
+maintainer-email: a.ingianni@kingston.ac.uk
+maintainer-name: Andrea Ingianni
+provider-name: School of Economics, Kingston University London
+provider-homepage: http://fass.kingston.ac.uk/departments/economics/
+provider-institution: RePEc:edi:sekinuk
+provider-postal: Kingston University London, School of Economics, Penrhyn Road, Kingston upon Thames, Surrey, KT1 2EE, UK
+handle: RePEc:ris:kngedp
+
+template-type: ReDIF-Series 1.0
+name: MF Working Papers
+maintainer-email: mfwp@mofnet.gov.pl
+maintainer-name: Ministry of Finance in Poland
+provider-name: Ministry of Finance in Poland
+provider-homepage: http://www.mf.gov.pl/
+provider-institution: RePEc:edi:mfigvpl
+type: ReDIF-Paper
+handle: RePEc:ris:mfplwp
+
+template-type: ReDIF-Series 1.0
+name: NEPS Working Papers
+editor-name: Vincenzo Bove
+editor-email: vbove@essex.ac.uk
+editor-person: pbo461
+maintainer-email: vbove@essex.ac.uk
+maintainer-name: Vincenzo Bove
+provider-name: Network of European Peace Scientists
+provider-homepage: http://www.europeanpeacescientists.org/
+provider-institution: RePEc:edi:nepssea
+handle: RePEc:ris:nepswp
+
+template-type: ReDIF-Series 1.0
+name: Nobel Prize in Economics documents
+maintainer-email: zimmermann@stlouisfed.org
+maintainer-name: Christian Zimmermann
+provider-name: Nobel Prize Committee
+provider-homepage: http://www.nobelprize.org
+handle: RePEc:ris:nobelp
+
+template-type: ReDIF-Series 1.0
+name: NZIER Working Paper
+maintainer-email: library@nzier.org.nz
+maintainer-name: Sarah Spring
+provider-name: New Zealand Institute of Economic Research
+provider-homepage: http://www.nzier.org.nz/
+provider-institution: RePEc:edi:nziernz
+handle: RePEc:ris:nzierw
+
+template-type: ReDIF-Series 1.0
+name: Occasional Papers
+maintainer-email: hilary.devine@med.govt.nz
+maintainer-name: Hilary Devine
+provider-name: Ministry of Economic Development, New Zealand
+provider-homepage: http://www.med.govt.nz/
+provider-institution: RePEc:edi:medgvnz
+handle: RePEc:ris:nzmedo
+
+template-type: ReDIF-Series 1.0
+name: Research Reports
+maintainer-email: maps@pc.gov.au
+maintainer-name: MAPS
+provider-name: Productivity Commission, Government of Australia
+provider-homepage: http://www.pc.gov.au/
+provider-institution: RePEc:edi:pcgovau
+type: ReDIF-Book
+handle: RePEc:ris:prodcs
+
+template-type: ReDIF-Series 1.0
+name: Inquiry Reports
+maintainer-email: maps@pc.gov.au
+maintainer-name: MAPS
+provider-name: Productivity Commission, Government of Australia
+provider-homepage: http://www.pc.gov.au/
+provider-institution: RePEc:edi:pcgovau
+type: ReDIF-Book
+handle: RePEc:ris:prodir
+
+template-type: ReDIF-Series 1.0
+name: Research Papers
+maintainer-email: maps@pc.gov.au
+maintainer-name: MAPS
+provider-name: Productivity Commission, Government of Australia
+provider-homepage: http://www.pc.gov.au/
+provider-institution: RePEc:edi:pcgovau
+handle: RePEc:ris:prodrp
+
+template-type: ReDIF-Series 1.0
+name: Staff Working Papers
+maintainer-email: maps@pc.gov.au
+maintainer-name: MAPS
+provider-name: Productivity Commission, Government of Australia
+provider-homepage: http://www.pc.gov.au/
+provider-institution: RePEc:edi:pcgovau
+handle: RePEc:ris:prodsw
+
+template-type: ReDIF-Series 1.0
+name: Quarterly Journal of Applied Theories of Economics
+editor-name: Sakineh Sojoodi
+editor-email: sakinehsojoodi@gmail.com
+maintainer-email: sakinehsojoodi@gmail.com
+maintainer-name: Sakineh Sojoodi
+provider-name: Faculty of Economics, Management and Business, University of Tabriz
+provider-homepage: http://www.ecoj.tabrizu.ac.ir/
+provider-institution: RePEc:edi:fetabir
+type: ReDIF-Article
+handle: RePEc:ris:qjatoe
+
+template-type: ReDIF-Series 1.0
+name: QM&ET Working Papers
+editor-name: María Dolores Guilló
+editor-email: guillo@ua.es
+maintainer-email: carmona@ua.es
+maintainer-name: Julio Carmona
+provider-name: University of Alicante, D. Quantitative Methods and Economic Theory
+provider-homepage: http://web.ua.es/es/dmcte
+provider-institution: RePEc:edi:dmalies
+handle: RePEc:ris:qmetal
+
+template-type: ReDIF-Series 1.0
+name: QUANTERB Research Papers
+editor-name: Godwin Chukwudum Nwaobi
+editor-email: gcnwaobi@quanterb.org
+maintainer-email: gcnwaobi@quanterb.org
+maintainer-name: Godwin Chukwudum Nwaobi
+provider-name: Quantitative Economics Research Bureau
+provider-homepage: http://www.quanterb.org/
+provider-institution: RePEc:edi:quantng
+handle: RePEc:ris:quante
+
+template-type: ReDIF-Series 1.0
+name: Revista Latinoamericana de Desarrollo Economico
+editor-name: Tirza J. Aguilar Salas
+editor-email: tirza@ucb.edu.bo
+editor-person: pag87
+maintainer-email: tirza@ucb.edu.bo
+maintainer-name: Tirza July Aguilar Salas
+provider-name: Instituto de Investigaciones Socio-Económicas (IISEC), Universidad Católica Boliviana
+provider-homepage: http://www.iisec.ucb.edu.bo
+provider-institution: RePEc:edi:iisecbo
+provider-postal: Universidad católica Boliviana San Pablo, Instituto de Investigaciones Socio Económicas, Av. 14 de septiembre 4807. Obrajes, La Paz, Bolivia
+type: ReDIF-Article
+handle: RePEc:ris:revlde
+
+template-type: ReDIF-Series 1.0
+name: Center Research and Working Papers
+maintainer-email: mrhodes@ccga.edu
+maintainer-name: M. Taylor Rhodes
+provider-name: Reg Murphy Center for Economic and Policy Studies
+provider-homepage: http://www.ccga.edu/page.cfm?p=584
+provider-institution: RePEc:edi:rmccgus
+handle: RePEc:ris:rgcrwp
+
+template-type: ReDIF-Series 1.0
+name: Revista Nicolaita de Estudios Económicos
+editor-name: Mario Gomez Aguirre
+editor-email: reniesec@umich.mx
+maintainer-email: reniesec@umich.mx
+maintainer-name: Plinio Hernández Barriga
+provider-name: Universidad Michoacana de San Nicolás de Hidalgo, Instituto de Investigaciones Económicas y Empresariales
+provider-homepage: http://rnee.umich.mx
+provider-institution: RePEc:edi:iimicmx
+type: ReDIF-Article
+handle: RePEc:ris:rnicee
+
+template-type: ReDIF-Series 1.0
+name: Romaqua
+editor-name: Eduard Stan
+editor-email: eduard.stan@ara.ro
+maintainer-email: eduard.stan@ara.ro
+maintainer-name: Eduard Stan
+provider-name: Asociatia Romana a Apei (Romanian Water Association)
+provider-homepage: http://www.araromaqua.ro/
+type: ReDIF-Article
+handle: RePEc:ris:romaqu
+
+template-type: ReDIF-Series 1.0
+name: Working Papers in Economics
+editor-name: Jörg Paetzold
+editor-email: Joerg.Paetzold@sbg.ac.at
+editor-person: ppa774
+maintainer-email: Joerg.Paetzold@sbg.ac.at
+maintainer-name: Jörg Paetzold
+provider-name: University of Salzburg
+provider-homepage: http://www.uni-salzburg.at/index.php?id=31318
+provider-institution: RePEc:edi:iwsbgat
+handle: RePEc:ris:sbgwpe
+
+template-type: ReDIF-Series 1.0
+name: SEP Working Papers
+maintainer-email: ltarar@luiss.it
+maintainer-name: Layla Tarar
+provider-name: LUISS School of European Political Economy
+provider-homepage: http://sep.luiss.it/
+provider-institution: RePEc:edi:seluiit
+provider-postal: Via di Villa Emiliani, 14, 00197 Rome, Italy
+handle: RePEc:ris:sepewp
+
+template-type: ReDIF-Series 1.0
+name: Economics and Statistics Working Papers
+maintainer-email: juniperng@smu.edu.sg
+maintainer-name: Juniper Ng
+provider-name: Singapore Management University, School of Economics
+provider-homepage: http://www.economics.smu.edu.sg/
+provider-institution: RePEc:edi:sesmusg
+provider-postal: 90 Stamford Road, Sigapore 178903
+type: ReDIF-Paper
+handle: RePEc:ris:smuesw
+
+template-type: ReDIF-Series 1.0
+name: Annals of Spiru Haret University, Economic Series
+editor-name: Robert Dragomir
+editor-email: robert73d@yahoo.com
+editor-name: Constantin Mecu
+editor-email: revistaeconomie@yahoo.com
+maintainer-email: robert73d@yahoo.com
+maintainer-email: revistaeconomie@yahoo.com
+maintainer-name: Aurelian A BONDREA
+maintainer-name: Constantin Mecu
+provider-name: Universitatea Spiru Haret
+provider-homepage: http://anale-economie.spiruharet.ro/en/
+provider-institution: RePEc:edi:ffuspro
+provider-postal: no. 13 Street Ion Ghica, Quarter 3, Bucharest, Cod postal: 030045, tel: (004021) 455.1000; 314.00.75; 314.00.76, fax: (004021) 314.39.08, e-mail: info@spiruharet.ro
+type: ReDIF-Article
+handle: RePEc:ris:sphecs
+
+template-type: ReDIF-Series 1.0
+name: Papers
+editor-name: Alexandru Maftei
+editor-email: oraverein@gmail.com
+editor-name: Brindusa Covaci
+editor-email: bcovaci.fb@spiruharet.ro
+maintainer-email: brindusa.covaci@yahoo.com
+maintainer-name: Brindusa Covaci
+provider-name: Osterreichish-Rumanischer Akademischer Verein
+provider-homepage: http://www.oraverein.tk
+provider-institution: RePEc:edi:ffuspro
+provider-postal: Kuhn Platz 6 Wien
+handle: RePEc:ris:sphedp
+
+template-type: ReDIF-Series 1.0
+name: Economics, Business and Informatics Papers
+editor-name: Robert Dragomir
+editor-email: robert73d@yahoo.com
+maintainer-email: robert73d@yahoo.com
+maintainer-name: Robert Dragomir
+provider-name: Universitatea Spiru Haret, Facultatea de Contabilitate si Finance, Campulung-Muscel
+provider-homepage: http://www.spiruharet.ro/facultati/facultate.php?id=12
+provider-institution: RePEc:edi:fduspro
+handle: RePEc:ris:sphrpa
+
+template-type: ReDIF-Series 1.0
+name: Centro Sraffa Working Papers
+editor-name: Saverio M. Fratini
+editor-email: saveriomaria.fratini@uniroma3.it
+editor-name: Christian Gehrke
+editor-email: christian.gehrke@uni-graz.at
+editor-name: Antonella Palumbo
+editor-email: antonella.palumbo@uniroma3.it
+maintainer-email: saveriomaria.fratini@uniroma3.it
+maintainer-name: Saverio M. Fratini
+provider-name: Centro di Ricerche e Documentazione "Piero Sraffa"
+provider-homepage: http://www.centrosraffa.org/
+provider-institution: RePEc:edi:sraffit
+handle: RePEc:ris:sraffa
+
+template-type: ReDIF-Series 1.0
+name: UADE Textos de Discusión
+editor-name: Gustavo Ferro
+editor-email: gferro@uade.edu.ar
+editor-person: pfe218
+maintainer-email: mgonzalez@uade.edu.ar
+maintainer-name: Mariano E. Gonzalez
+provider-name: Instituto de Economía, Universidad Argentina de la Empresa
+provider-homepage: http://www.uade.edu.ar/paginas/InstEconomiaIDE.aspx
+provider-institution: RePEc:edi:ieuadar
+handle: RePEc:ris:uadetd
+
+template-type: ReDIF-Series 1.0
+name: UADE Working Papers
+editor-name: Gustavo Ferro
+editor-email: gferro@uade.edu.ar
+maintainer-email: mgonzalez@uade.edu.ar
+maintainer-name: Mariano E. Gonzalez
+provider-name: Instituto de Economía, Universidad Argentina de la Empresa
+provider-homepage: http://www.uade.edu.ar/paginas/InstEconomiaIDE.aspx
+provider-institution: RePEc:edi:ieuadar
+handle: RePEc:ris:uadewp
+
+template-type: ReDIF-Series 1.0
+name: UNCG Economics Working Papers
+maintainer-email: anlink@uncg.edu
+maintainer-name: Albert Link
+provider-name: University of North Carolina at Greensboro, Department of Economics
+provider-homepage: http://economics.uncg.edu
+provider-institution: RePEc:edi:edncgus
+provider-postal: UNC Greensboro, Department of Economics, PO Box 26170, Bryan Building 462, Greensboro, NC 27402
+handle: RePEc:ris:uncgec
+
+template-type: ReDIF-Series 1.0
+name: UTMS Journal of Economics
+editor-name: Prof. Zoran Ivanovic, PhD
+editor-email: profzorani@gmail.com
+maintainer-email: profzorani@gmail.com
+maintainer-name: Prof. Zoran Ivanovic, PhD
+provider-name: University of Tourism and Management, Skopje, Macedonia
+provider-homepage: http://www.utms.edu.mk/
+provider-institution: RePEc:edi:feutmmk
+type: ReDIF-Article
+handle: RePEc:ris:utmsje
+
+template-type: ReDIF-Series 1.0
+name: Economics Research Papers
+maintainer-email: malghalith@gmail.com
+maintainer-name: Moawia Alghalith
+provider-name: Department of Economics, University of the West Indies-St. Augustine
+provider-homepage: http://sta.uwi.edu/fss/economics
+provider-institution: RePEc:edi:deuwitt
+handle: RePEc:ris:uwierp
+
+template-type: ReDIF-Series 1.0
+name: Working Paper
+editor-name: Klaus Beckmann
+editor-email: wp-vwl@hsu-hh.de
+maintainer-email: wp-vwl@hsu-hh.de
+maintainer-name: Klaus Bekcmann
+provider-name: Helmut Schmidt University, Hamburg
+provider-homepage: http://www.hsu-hh.de/fgvwl/
+provider-institution: RePEc:edi:egbwhde
+handle: RePEc:ris:vhsuwp
+
+template-type: ReDIF-Series 1.0
+name: Voprosy Ekonomiki
+editor-name: Andrey Kotkovsky
+editor-email: akotkovsky@mail.ru
+maintainer-email: task@vopreco.ru
+maintainer-name: Tatiana Skrypnik
+provider-name: N.P. Redaktsiya zhurnala "Voprosy Ekonomiki"
+provider-homepage: http://www.vopreco.ru/
+type: ReDIF-Article
+handle: RePEc:ris:voprec
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+maintainer-email: fenneljl@wfu.edu
+maintainer-name: Jo Lowe
+provider-name: Wake Forest University, Economics Department
+provider-homepage: http://www.wfu.edu/academics/economics/
+provider-institution: RePEc:edi:dewfuus
+handle: RePEc:ris:wfuewp
+
+template-type: ReDIF-Series 1.0
+name: Working Papers Res
+editor-name: Pier Francesco Asso
+editor-email: pierfrancesco.asso@resricerche.it
+maintainer-email: maria.izzo@resricerche.it
+maintainer-name: Maria Izzo
+provider-name: Fondazione Res
+provider-homepage: http://www.resricerche.it/
+provider-institution: RePEc:edi:foresit
+provider-postal: Fondazione Res · Istituto di Ricerca su Economia e Società in Sicilia, Via Cerda, 24 · 90139 · Palermo
+handle: RePEc:ris:wpares
+
+template-type: ReDIF-Series 1.0
+name: Zeitschrift für interdisziplinäre ökonomische Forschung
+name: Journal of Interdisciplinary Economic Research
+editor-name: Sonja Keppler
+editor-email: sonja.keppler@allensbach-hochschule.de
+maintainer-email: Jeannette.schroeter@allensbach-hochschule.de
+maintainer-name: Jeannette Schröter
+provider-name: Allensbach Hochschule
+provider-homepage: https://www.allensbach-hochschule.de/
+provider-institution: RePEc:edi:allhsde
+type: ReDIF-Article
+handle: RePEc:ris:zfioef

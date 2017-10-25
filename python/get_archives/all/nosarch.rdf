@@ -1,0 +1,14 @@
+﻿
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:nos
+Name: Collections of Research Materials from Russian Social Science Organizations
+Description:
+  This archive includes a set of series provided by various Russian social
+  science
+  research organizations. All these sereis are maintained by Institute of
+  Economics and
+  Industrial Engineering SB RAS under Socionet project.
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+URL: ftp://socionet.ru/REDIF/nos
+

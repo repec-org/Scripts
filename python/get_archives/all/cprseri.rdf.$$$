@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Series 1.0
+Name: CEPR Discussion Papers
+Maintainer-Email: repec@cepr.org
+Publisher-Name: C.E.P.R. discussion papers
+Publisher-Postal: Centre for Economic Policy Research, 90--98
+  Goswell Road, London EC1V 7RR
+Publisher-Phone: 44 - 20 - 7878 2900
+Publisher-Fax: 44 - 20 - 7878 2999
+Order-Email: cepr@cepr.org
+Handle: RePEc:cpr:ceprdp
+
+Template-Type: ReDIF-Series 1.0
+Name: CEPR Financial Markets Paper
+Maintainer-Email: WoPEc@netec.mcc.ac.uk
+Order-Email: cepr@cepr.org
+Publisher-Name: European Science Foundation Network in Financial Markets,
+  c/o C.E.P.R, 90--98 Goswell Road, London EC1V 7DB
+Publisher-Phone: 44 - 171 - 878 2900
+Publisher-Fax: 44 - 20 - 7878 2999
+Order-Email: cepr@cepr.org
+Handle: RePEc:cpr:ceprfm

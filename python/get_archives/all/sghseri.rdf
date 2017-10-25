@@ -1,0 +1,59 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Collegium of Economic Analysis Annals
+Description: Each issue of CEA Annals is devoted to specific area of economic problems: macro- and microeconomics, economic policy, mathematical economics, and economic growth and business cycle, methods of measurement and analysis of economic, demographic and social processes and application of Information Technology etc.
+Provider-Name: Warsaw School of Economics, Collegium of Economic Analysis
+Provider-Homepage: http://rocznikikae.sgh.waw.pl/
+Provider-Homepage: http://kolegia.sgh.waw.pl/pl/KAE/Strony/default.aspx
+Provider-Institution: RePEc:edi:sgwawpl
+Maintainer-Name: Michał Bernardelli
+Maintainer-Email: michal.bernardelli@sgh.waw.pl
+Editor-Name: Joanna Plebaniak, Beata Czarnacka-Chrobot
+Editor-Email: bczarn@sgh.waw.pl
+Editor-Workplace-Name: Warsaw School of Economics, Collegium of Economic Analysis
+Editor-Workplace-Homepage: http://kolegia.sgh.waw.pl/pl/KAE/Strony/default.aspx
+ISSN: 1232-4671
+Type: ReDIF-Article
+Handle: RePEc:sgh:annals
+
+Template-type: ReDIF-Series 1.0
+Name: Gospodarka Narodowa
+Description: Gospodarka Narodowa is a Polish academic journal dealing with current economic and economic policy issues. Published since 1931, Gospodarka Narodowa is one of the oldest economic journals in Poland with a well-established position on the market. It publishes work by leading Polish and foreign economists with different theoretical and empirical approaches.
+Provider-Name: Warsaw School of Economics
+Provider-Homepage: http://gospodarkanarodowa.sgh.waw.pl/
+Provider-Institution: RePEc:edi:sgwawpl
+Maintainer-Name: Dariusz Nojszewski
+Maintainer-Email: dariusz.nojszewski@sgh.waw.pl
+Editor-Name: Tadeusz Smuga
+Editor-Email: tsmuga@interia.pl
+Editor-Workplace-Name: Warsaw School of Economics
+Editor-Workplace-Homepage: http://gospodarkanarodowa.sgh.waw.pl/
+ISSN: 2300-5238
+Type: ReDIF-Article
+Handle: RePEc:sgh:gosnar
+
+Template-type: ReDIF-Series 1.0
+Name: Econometric Research in Finance
+Description: The journal publishes empirical studies in finance and economics. The goal of Econometric Research in Finance is to promote modern quantitative methods (especially econometric models) and their applications in finance. Some of the main subjects covered by this journal include: financial econometrics and its applications, modeling and forecasting asset prices and returns, portfolio management and trading, market microstructure, behavioral finance, financial stability, financial risk, and financial crises, empirical studies in corporate finance, accounting, financial reporting, and financial regulations, and linkages between financial institutions, financial markets, and the real economy.
+Provider-Name: SGH Warsaw School of Economics, Collegium of Economic Analysis
+Provider-Homepage: http://erfin.org/
+Provider-Institution: RePEc:edi:sgwawpl
+Maintainer-Name: Dobromił Serwa
+Maintainer-Email: dserwa@sgh.waw.pl
+Editor-Name: Dobromił Serwa
+Editor-Email: dserwa@sgh.waw.pl
+Editor-Workplace-Name: SGH Warsaw School of Economics, Collegium of Economic Analysis
+Editor-Workplace-Homepage: http://kolegia.sgh.waw.pl/en/KAE/Pages/default.aspx
+ISSN: 2451-1935
+Type: ReDIF-Article
+Handle: RePEc:sgh:erfinj
+
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Warsaw School of Economics, Collegium of Economic Analysis
+Provider-Homepage: http://kolegia.sgh.waw.pl/pl/KAE/Strony/WorkingPapersKAE.aspx
+Provider-Institution: RePEc:edi:kawawpl
+Maintainer-Name: Jakub Muck
+Maintainer-Email: jmuck@sgh.waw.pl
+Type: ReDIF-Paper
+Handle: RePEc:sgh:kaewps

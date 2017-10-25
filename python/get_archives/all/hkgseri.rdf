@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Hong Kong Monetary Authority
+Provider-Homepage: http://www.info.gov.hk/hkma/
+Provider-Institution: RePEc:edi:magovhk
+Maintainer-Name: Simon Chan
+Maintainer-Email: sstchan@hkma.gov.hk
+Type: ReDIF-Paper
+Handle: RePEc:hkg:wpaper
+

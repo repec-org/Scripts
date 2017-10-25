@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Knowledge Horizons - Economics
+Description: This is the journal of the Department of Accounting and Audit, 
+Faculty of Finance, Banking and Accountancy Bucharest, "Dimitrie Cantemir" Christian University Bucharest
+Provider-Name: Faculty of Finance, Banking and Accountancy Bucharest,"Dimitrie Cantemir" Christian University Bucharest 
+Provider-Institution: RePEc:edi:ffucdro
+Maintainer-Name: Adi Sava
+Maintainer-Email: isavaa@yahoo.com 
+Type: ReDIF-Article
+Handle: RePEc:khe:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Academic Journal of Economic Studies
+Description: This is the journal of the Faculty of Finance, Banking and Accountancy Bucharest, "Dimitrie Cantemir" Christian University Bucharest
+Provider-Name: Faculty of Finance, Banking and Accountancy Bucharest,"Dimitrie Cantemir" Christian University Bucharest 
+Provider-Institution: RePEc:edi:ffucdro
+Maintainer-Name: Adi Sava
+Maintainer-Email: isavaa@yahoo.com
+Type: ReDIF-Article
+Handle: RePEc:khe:scajes

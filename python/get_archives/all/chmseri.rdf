@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: CMI Working Papers
+Provider-Name: CMI (Chr. Michelsen Institute), Bergen, Norway
+Provider-Homepage: https://www.cmi.no
+Provider-Institution: RePEc:edi:cmiiino
+Maintainer-Name: Robert Sjursen
+Maintainer-Email: robert.sjursen@cmi.no
+Type: ReDIF-Paper
+Handle: RePEc:chm:wpaper
+ISSN: 0805-505X

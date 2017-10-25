@@ -1,0 +1,89 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: C/C++ codes
+Description: C/C++ codes held at CodEc
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Publisher-Email: repec@repec.org
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: repec@repec.org
+Handle: RePEc:cod:ccplus
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: DOS and Windows codes
+Description: DOS and Windows codes held at CodEc
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Publisher-Email: repec@repec.org
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: repec@repec.org
+Handle: RePEc:cod:doswin
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Fortran codes
+Description: Fortran codes held at CodEc
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Publisher-Email: repec@repec.org
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: repec@repec.org
+Handle: RePEc:cod:fortra
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Gauss codes
+Description: Gauss codes held at CodEc
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Publisher-Email: repec@repec.org
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: repec@repec.org
+Handle: RePEc:cod:gaussi
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Mathematica codes
+Description: Mathematica codes held at CodEc
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Publisher-Email: repec@repec.org
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: repec@repec.org
+Handle: RePEc:cod:mathem
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Matlab codes
+Description: Matlab codes held at CodEc
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Publisher-Email: repec@repec.org
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: repec@repec.org
+Handle: RePEc:cod:matlab
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Rats codes
+Description: Rats codes held at CodEc
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Publisher-Email: repec@repec.org
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: repec@repec.org
+Handle: RePEc:cod:ratscd
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Octave codes
+Description: Octave codes (Octave-sources contributions) held at CodEc
+Editor-Name: John W. Eaton
+Editor-Email: jwe@bevo.che.wisc.edu
+# Publisher-Name: CodEc
+# Publisher-Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html
+# Maintainer-Name: Christopher F Baum
+Maintainer-Email: baum@bc.edu
+Handle: RePEc:cod:octave
+

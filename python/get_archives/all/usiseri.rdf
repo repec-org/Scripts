@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics University of Siena
+Description: This is a series for economists.
+Provider-Name: Department of Economics, University of Siena
+Provider-Institution: RePEc:edi:desieit
+Maintainer-Name: Fabrizio Becatti
+Maintainer-Email: fabrizio.becatti@unisi.it
+Handle: RePEc:usi:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Labsi Experimental Economics Laboratory University of Siena
+Description: This is a series for experimental economists.
+Provider-Name: University of Siena
+Provider-Institution: RePEc:edi:dpsieit
+Maintainer-Name: Alessandro Innocenti
+Maintainer-Email: alessandro.innocenti@unisi.it
+Handle: RePEc:usi:labsit
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economic Policy, Finance and Development (DEPFID) University of Siena
+Description: This is a series for economists.
+Provider-Name: Department of Economic Policy, Finance and Development (DEPFID), University of Siena
+Provider-Institution: RePEc:edi:dpsieit
+Maintainer-Name: Carlo Zappia
+Maintainer-Email: carlo.zappia@unisi.it
+Handle: RePEc:usi:depfid

@@ -1,0 +1,47 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Economics Working Papers
+Description: University of California at Berkeley Economics Working Papers
+Publisher-Name: University of California at Berkeley
+Publisher-Postal: University of California at Berkeley, Berkeley, CA USA
+Publisher-Homepage: http://www.haas.berkeley.edu/groups/iber/wps/econwp.html
+Publisher-Institution: RePEc:edi:debrkus
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Order-Email: iber@haas.berkeley.edu
+Order-Postal: IBER, F502 Haas Building, University of California, Berkeley CA 94720-1922
+Price: Individual hard copies are available for $3.50 within the USA and Canada; $6.00 for Europe and South America; and $7.50 for all
+ other areas. Prepayment is required. Make checks or money orders payable to "The
+ Regents of the University of California."
+Handle: RePEc:ucb:calbwp
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Center for International and Development Economics Research (CIDER) Working Papers
+Description: University of California at Berkeley CIDER Working Papers
+Publisher-Name: University of California at Berkeley
+Publisher-Postal: University of California at Berkeley, Berkeley, CA USA
+Publisher-Homepage: http://www.haas.berkeley.edu/groups/iber/wps/ciderwp.htm
+Publisher-Institution: RePEc:edi:debrkus
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Order-Email: iber@haas.berkeley.edu
+Order-Postal: IBER, F502 Haas Building, University of California at Berkeley, Berkeley CA 94720-1922
+Price: Single copies are free to academics (limit of 5); fee for corporations and nonacademics is $3.50 (U.S.A.) and $7.00 international. 
+Handle: RePEc:ucb:calbcd
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Research Program in Finance Working Papers
+Description: University of California at Berkeley Research Program in Finance Working Papers
+Publisher-Name: University of California at Berkeley
+Publisher-Postal: University of California at Berkeley, Berkeley, CA USA
+Publisher-Homepage: http://haas.berkeley.edu/finance/WP/rpflist.html
+Publisher-Institution: RePEc:edi:debrkus
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Order-Email: iber@haas.berkeley.edu
+Order-Postal: IBER, F502 Haas Building, University of California at Berkeley, Berkeley CA 94720-1922
+Price: Single copies are free to academics (limit of 3); fee for corporations and nonacademics is $5.00 (U.S.A.) and $7.50 international. 
+Handle: RePEc:ucb:calbrf
+

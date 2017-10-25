@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Romanian Distribution Committee
+Provider-Homepage: http://www.crd-aida.ro
+Maintainer-Name: Theodor Valentin Purcarea
+Maintainer-Email: office@crd-aida.ro
+Type: ReDIF-Paper
+Handle: RePEc:rdc:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Romanian Distribution Committee
+Provider-Homepage: http://www.crd-aida.ro
+Maintainer-Name: Theodor Valentin Purcare
+Maintainer-Email: office@crd-aida.ro
+Type: ReDIF-Book
+Handle: RePEc:rdc:book
+
+Template-type: ReDIF-Series 1.0
+Name: Romanian Distribution Committee Magazine
+Provider-Name: Romanian Distribution Committee
+Provider-Homepage: http://www.distribution-magazine.eu
+Maintainer-Name: Theodor Valentin Purcarea
+Maintainer-Email: office@crd-aida.ro
+Type: ReDIF-Article
+ISSN: 2069-0134
+Handle: RePEc:rdc:journl

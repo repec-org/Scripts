@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Herman Deleeck Centre for Social Policy, University of Antwerp
+Provider-Homepage: http://www.centreforsocialpolicy.eu
+Provider-Institution: RePEc:edi:csbuabe
+Maintainer-Name: Wim Van Lancker
+Maintainer-Email: Wim.VanLancker@uantwerpen.be
+Editor-Name: Zachary Parolin
+Editor-Email: Zachary.Parolin@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:hdl:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: ImPRovE Working Papers
+Description: The ImPRovE Discussion and Methodological Working Paper Series contains the output from the FP7-funded project ImPRovE
+Provider-Name: Herman Deleeck Centre for Social Policy, University of Antwerp
+Provider-Homepage: http://improve-research.eu
+Provider-Institution: RePEc:edi:csbuabe
+Maintainer-Name: Tim Goedemé
+Maintainer-Email: Tim.Goedeme@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:hdl:improv

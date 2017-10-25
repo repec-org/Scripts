@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: "Perspectives of Business Law” Journal
+Description: This is a journal that publishes articles, studies and jurisprudence analyses in all areas of legal sciences. Legal debates platform published in Romanian, English or French, the Journal wants to reach a bridge between legal science researchers from worldwide. The Journal opens its pages to authors from different countries, from the legal education space and from the practitioners of law, encouraging both publication of international interest studies covering comparative law, European Union law, international trade law, public international law, and the studies on the particularities of national law.
+Provider-Name: Societatea de Stiinte Juridice si Administrative (Society of Juridical and Administrative Sciences) 
+Provider-Homepage:http://www.adjuris.ro/
+Provider-Institution: RePEc:edi:aseeero 
+Maintainer-Name: Catalin-Silviu Sararu
+Maintainer-Email: catalin.sararu@businesslawconference.ro
+Type: ReDIF-Article
+Handle: RePEc:sja:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Description: We publish in English or French treaties, monographs, courses, theses, papers submitted to international conferences and essays. They are chosen according to the contribution which they can bring to the European and international doctrinal debate concerning the questions of Social Sciences.
+Provider-Name: Societatea de Stiinte Juridice si Administrative (Society of Juridical and Administrative Sciences) 
+Provider-Homepage:http://www.adjuris.ro/
+Provider-Institution: RePEc:edi:aseeero 
+Maintainer-Name: Catalin-Silviu Sararu
+Maintainer-Email: catalin.sararu@adjuris.ro
+Type: ReDIF-Book
+Handle: RePEc:sja:ebooks

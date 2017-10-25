@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: Ensayos Revista de Economia
+Description: Ensayos Revista de Economia es una revista arbitrada. Publica manuscritos y documentos de investigacion ineditos relacionados con todos los campos de la economia, la estadistica y las ciencias sociales afines, en espanol o en ingles. 
+Provider-Name: Universidad Autonoma de Nuevo Leon, Facultad de Economia
+Provider-Postal: Avenida Lazaro Cardenas 4600 Ote., Fraccionamiento Residencial Las Torres, C.P. 64930. Monterrey, Nuevo Leon. México. 
+Provider-Homepage: http://www.economia.uanl.mx
+Provider-Phone: +52 (81) 8329 4150
+Provider-Email: facec@uanl.mx
+Provider-Institution: RePEc:edi:feualmx
+Editor-Name: Edgar Mauricio Luna Domínguez
+Editor-Email: edgar.lunadmz@uanl.edu.mx
+Maintainer-Name: Dora María Vega Facio
+Maintainer-Email: dora.vega@uanl.mx
+Order-Email: ensayos@uanl.mx
+Type: ReDIF-Article
+Handle: RePEc:ere:journl

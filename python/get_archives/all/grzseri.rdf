@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: Graz Economics Papers
+Provider-Name: University of Graz, Department of Economics
+Provider-Homepage: http://volkswirtschaftslehre.uni-graz.at/
+Provider-Postal: University of Graz, Universitaetsstr. 15/F4, 8010 Graz, Austria
+Provider-Institution: RePEc:edi:vgrazat
+Maintainer-Name: Michael Scholz
+Maintainer-Email: michael.scholz@uni-graz.at 
+Order-Homepage: http://www100.uni-graz.at/vwlwww/forschung/RePEc/
+Type: ReDIF-Paper
+Handle: RePEc:grz:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series, Social and Economic Sciences
+Provider-Name: Faculty of Social and Economic Sciences, Karl-Franzens-University Graz
+Provider-Homepage: http://sowi.uni-graz.at/de/forschen/working-paper-series/
+Provider-Institution: RePEc:edi:fwgraat
+Maintainer-Name: Editorial team
+Maintainer-Email: sowi-wp@uni-graz.at
+Editor-Name: Stefan Palan
+Editor-Email: stefan.palan@uni-graz.at
+Editor-Name: Marc Reimann
+Editor-Email: marc.reimann@uni-graz.at
+ISSN: 2304-7658
+Type: ReDIF-Paper
+Handle: RePEc:grz:wpsses

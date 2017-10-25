@@ -1,0 +1,11 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: JEPS Working Papers
+Provider-Name: JEPS
+Provider-Homepage: http://jeps.repec.org/
+Provider-Institution: RePEc:jep:fvmande
+Maintainer-Name: Thomas Gall
+Maintainer-Email: jeps@gmx.net
+Editor-Name: Andrey Ivanov
+Editor-Email: jeps@gmx.net
+Type: ReDIF-Paper
+Handle: RePEc:jep:wpaper

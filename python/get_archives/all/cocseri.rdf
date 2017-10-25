@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)http://amaker.cofc.edu:8080/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8"><script id="twitter-wjs" src="./index_files/widgets.js"></script><script async="" src="./index_files/prum.min.js"></script><script type="text/javascript" async="" src="./index_files/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function t(n,e,o){function r(a){if(!e[a]){var i=e[a]={exports:{}};n[a][0].call(i.exports,function(t){var e=n[a][1][t];return r(e?e:t)},i,i.exports,t,n,e,o)}return e[a].exports}for(var a=0;a<o.length;a++)r(o[a]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=o[t];return e?e.apply(this,n):(r[t]||(r[t]=[]),void r[t].push(n))}var o={},r={};n.exports=e,e.queues=r,e.handlers=o},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=d.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){d.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=u.createElement("script");n.src=d.proto+t.agent,u.body.appendChild(n)}}function o(){"complete"===u.readyState&&r()}function r(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),s=window,u=s.document,p="addEventListener",l="attachEvent",c=(""+location).split("?")[0],d=n.exports={offset:a(),origin:c,features:[]};u[p]?(u[p]("DOMContentLoaded",r,!1),s[p]("load",e,!1)):(u[l]("onreadystatechange",o),s[l]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
+<title>
+College of Charleston
+</title>
+<meta content="The College of Charleston is a nationally recognized public liberal arts and sciences university. Founded in 1770, the College is among the nation’s top universities for quality education, student life and affordability." name="description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="http://www.cofc.edu/favicon.ico">
+<!-- Styles -->
+<link type="text/css" rel="stylesheet" href="./index_files/MyFontsWebfontsKit.css">
+<link type="text/css" rel="stylesheet" href="./index_files/style.css">
+<link type="text/css" rel="stylesheet" href="http://www.cofc.edu/css/style2.css?667703653">
+<link type="text/css" rel="stylesheet" href="http://www.cofc.edu/css/mega-menu.css?237175971">
+<link type="text/css" rel="stylesheet" href="./index_files/prettyPhoto.css">
+<!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- GA -->
+<script>var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-25348783-2']);_gaq.push(['_setDomainName','.cofc.edu']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://':'http://')+'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<!-- load jQuery -->
+<script src="./index_files/jquery.min.js"></script>
+<script src="./index_files/jquery.prettyPhoto.js"></script>
+<script src="./index_files/jquery.cycle2.min.js"></script>
+<script src="./index_files/jquery.hoverIntent.js"></script>
+<script src="./index_files/jquery.fitvids.js"></script>
+<script src="./index_files/jquery.zweatherfeed.min.js"></script>
+<script type="text/javascript">$(document).ready(function(){$('.showHero').click(function(){$('.cycle-slideshow').cycle('stop');})
+$("ul.nav li.dropdown").hoverIntent(mmShow,mmHide);});function mmShow(){$('section',this).show()}
+function mmHide(){$('section',this).hide()}</script> <script>var _prum=[['id','53050492abe53df672000000'],['mark','firstbyte',(new Date()).getTime()]];(function(){var s=document.getElementsByTagName('script')[0],p=document.createElement('script');p.async='async';p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();</script>
+</head>
+<body data-twttr-rendered="true" class=" hasGoogleVoiceExt" cz-shortcut-listen="true">
+<div style="background:yellow;">
+<div style="width:940px;margin:auto;padding:10px">
+At 1:45PM Thursday the College started experiencing significant problems with many computing systems and applications. IT is diagnosing the root cause. We cannot give an estimated time when normal service will be restored. We apologize for the inconvenience.
+</div></div>
+<div id="pg">
+<div id="hd">
+<div id="secondary-nav" class="navbar navbar-inverse navbar-static-top">
+<div class="navbar-inner">
+<div class="container">
+<a class="btn btn-navbar" data-toggle="collapse" data-target="#skywalker" style="padding:4px;margin-bottom:4px;background-image: linear-gradient(to bottom, #4D4D4D, #343434);background-color:#343434;">Tools</a>
+<ul class="nav pull-left">
+<li><a href="http://amaker.cofc.edu:8080/#" onclick="javascript:void(0)">Thu Apr 10, 2014 <span id="todaytemp"></span></a></li>
+</ul>
+<div id="skywalker" class="nav-collapse collapse">
+<ul class="nav pull-right">
+<li><a href="https://my.cofc.edu/">My Charleston</a></li>
+<li class="sep">|</li>
+<li><a href="http://www.cofc.edu/library/">Library</a></li>
+<li class="sep">|</li>
+<li><a href="http://www.cofc.edu/directory/">Directory</a></li>
+<li class="sep">|</li>
+<li><a href="http://www.cofc.edu/siteindex/">Site Index</a></li>
+<li class="sep">|</li>
+<li><a href="http://emergency.cofc.edu/">Emergency Info</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div> <!-- /.navbar -->
+<div class="container">
+<div id="hd-bg">
+<a class="brand" href="http://www.cofc.edu/"><img src="./index_files/cofc-logo.png" alt="CofC Logo" pagespeed_url_hash="3030862849"></a>
+<form action="http://www.cofc.edu/search/" method="get" name="topSearch">
+<input type="hidden" value="amaker.cofc.edu:8080" name="site">
+<div id="search" class="input-append">
+<input class="span2" id="appendedInput" type="text" placeholder="Search" name="q" title="Search CofC">
+<button class="btn" type="submit" title="Search"><i class="icon-search icon-white"></i></button>
+</div>
+<div class="radio" style="
+    float: right;
+    color: #fff;
+    font-size: 11px;
+    margin-right: 25px;
+">
+<label class="checkbox inline" style="font-size:10px;" for="site-cofc">
+<input type="radio" id="site-cofc" name="type" value="cofc" checked=""> CofC
+</label>
+<label class="checkbox inline" style="font-size:10px;" for="site-search">
+<input type="radio" id="site-search" name="type" value="site"> Site
+</label> </div>
+</form>
+</div>
+</div>
+<div id="primary-nav" class="navbar navbar-inverse navbar-static-top">
+<div class="navbar-inner">
+<div class="container">
+<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse" style="padding:4px">
+Menu
+</a>
+<div id="vader" class="nav-collapse collapse">
+<ul class="nav">
+<li><a href="http://www.cofc.edu/">Home</a></li>
+<li class="dropdown"><a id="admission-menu" href="http://cofc.edu/admission-and-financial-aid">Admission and Financial Aid</a>
+<section id="admission-sub" data-menu="admission-menu" class="mega dropdown-menu mega-menu-2 style-plain">
+<ul class="custom-column">
+<li class="nav-title">Admission</li>
+<li><a href="http://admissions.cofc.edu/applyingtothecollege/freshmen/">Freshmen</a></li>
+<li><a href="http://admissions.cofc.edu/applyingtothecollege/transfers/">Transfer Students</a></li>
+<li><a href="http://admissions.cofc.edu/applyingtothecollege/readmits/">Readmitted Students</a></li>
+<li><a href="http://admissions.cofc.edu/applyingtothecollege/international-students/index.php">International Students</a></li>
+<li><a href="http://honorscollege.cofc.edu/applytohonors/index.php">Honors College</a></li>
+<li><a href="http://gradschool.cofc.edu/applyingtograduateschool/index.php">Graduate School</a></li>
+<li><a href="http://bps.cofc.edu/">Bachelor of Professional Studies program</a></li>
+<li><a href="http://admissions.cofc.edu/applyingtothecollege/non-degreeprograms/">Non-degree Programs</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Costs and Aid</li>
+<li><a href="http://finaid.cofc.edu/financial-aid-information/cost-of-attendance/tuition-and-fees/index.php">Tuition and Fees</a></li>
+<li><a href="http://finaid.cofc.edu/">Financial Aid</a></li>
+<li><a href="http://finaid.cofc.edu/types-of-financial-aid/scholarships/index.php">Scholarships</a></li>
+<li><a href="http://finaid.cofc.edu/financial-aid-resources/npc/index.php">Net Price Calculator</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Additional Resources</li>
+<li><a href="http://careercenter.cofc.edu/">Career Center</a></li>
+<li><a href="http://careercenter.cofc.edu/students/getexperience.php">Internships</a></li>
+<li><a href="http://admissions.cofc.edu/explorethecollege/campusvisits/index.php">Visit the Campus</a></li>
+<li><a href="http://orientation.cofc.edu/">New Student Orientation</a></li>
+<li><a href="http://catalogs.cofc.edu/">Course Catalog</a></li>
+<li><a href="http://careercenter.cofc.edu/students/choosingmajor.php">Choosing a Major</a></li>
+<li><a href="http://www.cofc.edu/academics/majorsandminors/index.php">Majors and Minors</a></li>
+<li><a href="https://www.cofc.edu/campuslife/housinganddining/">Housing and Dining</a></li>
+<li><a href="http://admissions.cofc.edu/explorethecollege/campusvisits/index.php">Campus Tours</a></li>
+<li><a href="http://admissions.cofc.edu/explorethecollege/events/openhouses.php">Open Houses</a></li>
+<li><a href="http://treasurer.cofc.edu/">Treasurer's Office</a></li>
+</ul>
+<ul class="two-column" style="float:right">
+<li class="feature-title">Explore the College</li>
+<li><img class="feature-image" alt="image of students" src="./index_files/menufeature-admission2.jpg" style="max-width:100%" pagespeed_url_hash="2045004982"><p style="font-size:11px">Meet our <a href="http://www.cofc.edu/featureprofiles/">students</a> and <a href="http://www.cofc.edu/featureprofiles/">faculty</a>. See what our <a href="http://cofc.edu/featureprofiles/">alumni</a> are doing. Review the <a href="http://cofc.edu/about/year-in-review/">major events</a> of the past few years. Schedule a <a href="http://admissions.cofc.edu/explorethecollege/campusvisits/">visit</a>. You’ll get why this is a hot school.</p></li>
+</ul>
+</section>
+</li>
+<li class="dropdown"><a id="about-menu" href="http://www.cofc.edu/about">About</a>
+<section id="about-sub" data-menu="about-menu" class="mega dropdown-menu mega-menu-3 style-plain">
+<ul class="custom-column">
+<li class="nav-title">College Information</li>
+<li><a href="http://www.cofc.edu/about/ataglance/index.php">College at a Glance</a></li>
+<li><a href="http://admissions.cofc.edu/explorethecollege/campusvisits/index.php">Campus Tours</a></li>
+<li><a href="http://www.cofc.edu/visit/campusmaps.php">Campus Maps</a></li>
+<li><a href="http://www.cofc.edu/visit/">Visit the Campus</a></li>
+<li><a href="http://www.cofc.edu/about/guidesandrankings/index.php">College Guides and Rankings</a></li>
+<li><a href="http://www.cofc.edu/about/publications/index.php">Publications</a></li>
+<li><a href="http://www.cofc.edu/featureprofiles/student/index.php">Our Students</a></li>
+<li><a href="http://www.cofc.edu/featureprofiles/faculty/index.php">Our Faculty</a></li>
+<li><a href="http://www.cofc.edu/about/year-in-review/index.php">Year In Review</a></li>
+<li><a href="http://www.cofc.edu/about/historyandtraditions/index.php">History and Traditions</a></li>
+<li><a href="http://hr.cofc.edu/employment/index.php">Employment Opportunities</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Administration</li>
+<li><a href="http://trustees.cofc.edu/">Board of Trustees</a></li>
+<li><a href="http://president.cofc.edu/">Office of the President</a></li>
+<li><a href="http://academicaffairs.cofc.edu/">Academic Affairs</a></li>
+<li><a href="http://businessaffairs.cofc.edu/">Business Affairs</a></li>
+<li><a href="http://giving.cofc.edu/">Institutional Advancement</a></li>
+<li><a href="http://studentaffairs.cofc.edu/">Student Affairs</a></li>
+<li><a href="http://marcomm.cofc.edu/">Marketing and Communications</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">News and Information</li>
+<li><a href="http://news.cofc.edu/">Newsroom</a></li>
+<li><a href="http://blogs.cofc.edu/inthenews/">In the News</a></li>
+<li><a href="http://calendar.cofc.edu/">Campus Calendar</a></li>
+<li><a href="http://registrar.cofc.edu/calendars/index.php">Academic Calendar</a></li>
+<li><a href="http://social.cofc.edu/">Social Media</a></li>
+<li><a href="http://mediarelations.cofc.edu/">Media Relations</a></li>
+<li class="nav-title" style="margin-top:10px">Additional Resources</li>
+<li><a href="http://www.cofc.edu/academics/libraries/index.php">Libraries</a></li>
+<li><a href="http://hr.cofc.edu/">Human Resources</a></li>
+<li><a href="http://diversity.cofc.edu/">Institutional Diversity</a></li>
+<li><a href="http://irp.cofc.edu/">Institutional Research</a></li>
+<li><a href="http://policy.cofc.edu/">Policies and Procedures</a></li>
+</ul>
+<ul class="two-column" style="float:right">
+<li class="feature-title">Welcome to the "New" Charleston</li>
+<li><img class="feature-image" alt="image of President" src="./index_files/menufeature-about2.jpg" style="max-width:100%" pagespeed_url_hash="614289970"><span style="font-size:11px"><em><a href="http://president.cofc.edu/">P. George Benson, President</a></em></span><p style="font-size:11px">A top 10 fastest-growing city for software and Internet technology, an emerging hub for aerospace, and a hotbed for healthcare and biosciences.</p></li>
+</ul>
+</section>
+</li>
+<li class="dropdown"><a id="academics-menu" href="http://www.cofc.edu/academics/">Academics</a>
+<section id="academics-sub" data-menu="academics-menu" class="mega dropdown-menu mega-menu-2 style-plain">
+<ul class="custom-column">
+<li class="nav-title"><a href="http://www.cofc.edu/academics/majorsandminors/">▸ Majors and Minors</a></li>
+<li class="nav-title"><a href="http://www.cofc.edu/academics/colleges-and-schools/">▸ Colleges and Schools</a></li>
+<li class="nav-title"><a href="http://gradschool.cofc.edu/">▸ Graduate School</a></li>
+<li class="nav-title"><a href="http://honorscollege.cofc.edu/">▸ Honors College</a></li>
+<li class="nav-title"><a href="http://www.cofc.edu/academics/centersandinstitutes/">▸ Centers and Institutes</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Academic Resources</li>
+<li><a href="http://careercenter.cofc.edu/students/choosingmajor.php">Choosing a Major</a></li>
+<li><a href="http://catalogs.cofc.edu/">Course Catalogs/Classes</a></li>
+<li><a href="http://fye.cofc.edu/">First-Year Experience</a></li>
+<li><a href="http://north.cofc.edu/">North Campus</a></li>
+<li><a href="http://summer.cofc.edu/">Maymester and Summer Sessions</a></li>
+<li><a href="http://www.cofc.edu/academics/specialopportunities/studyabroad.php">Study Abroad</a></li>
+<li><a href="http://www.cofc.edu/academics/specialopportunities/undergraduateresearch.php">Undergraduate Research</a></li>
+<li><a href="http://people.cofc.edu/">Faculty Web Pages</a></li>
+<li><a href="http://www.cofc.edu/academics/libraries/">Libraries</a></li>
+<li><a href="http://geology.cofc.edu/nasa-space-grant/index.php">SC Space Grant Consortium</a></li>
+<li><a href="http://geology.cofc.edu/research/scgis-laboratory/index.php">SC-GIS Lab</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Support Services</li>
+<li><a href="http://advising.cofc.edu/">Academic Advising</a></li>
+<li><a href="http://cofc.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?storeId=65075&catalogId=10001&langId=-1">College Bookstore</a></li>
+<li><a href="http://careercenter.cofc.edu/">Career Center</a></li>
+<li><a href="http://csl.cofc.edu/">Center for Student Learning</a></li>
+<li><a href="http://disabilityservices.cofc.edu/">Disability Services</a></li>
+<li><a href="http://registrar.cofc.edu/">Registrar's Office</a></li>
+<li><a href="http://international.cofc.edu/">International Education</a></li>
+</ul>
+<ul class="two-column" style="float:right">
+<li class="feature-title">Make Your Mark</li>
+<li><img class="feature-image" src="./index_files/menufeature-academics2.jpg" style="max-width:100%" alt="Academic Menu Feature" pagespeed_url_hash="180590231"><p style="font-size:11px"><a href="http://www.youtube.com/watch?v=DQHxEDD5fww&list=PL0LMEEYebDVO55LlHjpTh5BGukq8vPxdP">Be curious</a>. <a href="http://www.youtube.com/watch?v=HCcjSonsL7g&list=PL5C843165F0C4F195&index=5">Explore</a>. <a href="http://www.youtube.com/watch?v=dQh_mlCfe_A">Question</a>. <a href="http://www.youtube.com/watch?v=gl_dEph-naY">Challenge</a> the status quo. Try the unfamiliar as well as the tried and true&nbsp; – and your academic experience will pay <a href="http://www.youtube.com/watch?v=W1_Swdmi4p8&list=PL0LMEEYebDVO55LlHjpTh5BGukq8vPxdP">big dividends</a>.</p></li>
+</ul>
+</section>
+</li>
+<li class="dropdown"><a id="campuslife-menu" href="http://www.cofc.edu/campuslife/">Campus Life</a>
+<section id="campuslife-sub" data-menu="campuslife-menu" class="mega dropdown-menu mega-menu-2 style-plain">
+<ul class="custom-column">
+<li class="nav-title">Extracurricular</li>
+<li><a href="http://www.cofc.edu/campuslife/clubsandorganizations/clubsandorganizationslist.php">Clubs and Organizations</a></li>
+<li><a href="http://www.cofc.edu/campuslife/sportsandrecreation/index.php">Sports Clubs</a></li>
+<li><a href="http://www.cofc.edu/campuslife/sportsandrecreation/intramurals.php">Recreational Sports</a></li>
+<li><a href="http://www.cofc.edu/campuslife/artsandculture/index.php">Arts and Culture</a></li>
+<li><a href="http://www.cofc.edu/campuslife/serviceandleadership/centerforcivicengagement.php">Center for Civic Engagement</a></li>
+<li><a href="http://www.cofc.edu/campuslife/serviceandleadership/higdonstudentleadershipcenter.php">Higdon Student Leadership Center</a></li>
+<li><a href="http://www.cofc.edu/campuslife/lifeincharleston/index.php">Around Charleston</a></li>
+</ul>
+<ul class="custom-column">
+<li style="margin-top:25px"><a href="http://greeks.cofc.edu/">Greek Life</a></li>
+<li><a href="http://reslife.cofc.edu/campus-housing/">Campus Housing</a></li>
+<li><a href="http://sterncenter.cofc.edu/">Stern Student Center</a></li>
+<li><a href="http://campusrec.cofc.edu/fitness/">Fitness Programs</a></li>
+<li><a href="http://campusrec.cofc.edu/outdoor-adventure/">Outdoor Adventure</a></li>
+<li><a href="http://president.cofc.edu/community-relations/rlc/orgs.php">Religious Organizations</a></li>
+<li><a href="http://cisternyardmedia.cofc.edu/">CisternYard Media</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Support Services</li>
+<li><a href="http://advising.cofc.edu/">Academic Advising</a></li>
+<li><a href="http://careercenter.cofc.edu/">Career Center</a></li>
+<li><a href="http://diversity.cofc.edu/">Center for Cultural Diversity</a></li>
+<li><a href="http://disabilityservices.cofc.edu/">Center for Disability Services</a></li>
+<li><a href="http://csl.cofc.edu/">Center for Student Learning</a></li>
+<li><a href="http://counseling.cofc.edu/">Counseling and Substance Abuse</a></li>
+<li><a href="http://msps.cofc.edu/">Multicultural Student Programs</a></li>
+<li><a href="http://studenthealth.cofc.edu/">Student Health Services</a></li>
+<li><a href="http://victimservices.cofc.edu/">Victim Services</a></li>
+</ul>
+<ul class="two-column" style="float:right">
+<li class="feature-title">The Good Life</li>
+<li><img class="feature-image" src="./index_files/menufeature-campuslife2.jpg" style="max-width:100%" alt="Campus Life Menu Feature" pagespeed_url_hash="548586056"><p style="font-size:11px"><a href="http://www.youtube.com/watch?v=ecee7tVvKY4">Take advantage of everything</a> the College has to offer. Use your imagination. Move outside your comfort zone. Look at every <a href="http://www.youtube.com/watch?v=3ODlxThaE3E">new experience</a> as an opportunity. And <a href="http://www.youtube.com/watch?v=sYmBhavUBMo">have fun</a>!</p></li>
+</ul>
+</section>
+</li>
+<li class="dropdown"><a id="athletics-menu" href="http://www.cofc.edu/athletics/">Athletics</a>
+<section id="athletics-sub" data-menu="athletics-menu" class="mega dropdown-menu mega-menu-5 style-plain">
+<ul class="custom-column">
+<li class="nav-title"><a href="http://www.cofcsports.com/">▸ Cougars Athletics Website</a></li>
+<li class="nav-title"><a href="http://www.cofcsports.com/ViewArticle.dbml?DB_OEM_ID=14800&ATCLID=728601">▸ Ticket Sales</a></li>
+<li class="nav-title"><a href="http://www.caasports.com/">▸ Colonial Athletic Association</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Men's Teams</li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7052&SPSID=64070">Baseball</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7055&SPSID=64091">Basketball</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7064&SPSID=64163">Cross Country</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7050&SPSID=64054">Golf</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7051&SPSID=64060">Soccer</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7062&SPSID=64151">Swimming and Diving</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7025&SPSID=69407">Tennis</a></li>
+<li style="margin-top:10px" class="nav-title">Co-ed Teams</li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7033&SPSID=104243">Cheerleading</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?DB_OEM_ID=14800&SPID=13348&SPSID=107856">Dance</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7838&SPSID=69368">Sailing</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Women's Teams</li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7056&SPSID=64098">Basketball</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7049&SPSID=69433">Cross Country</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=13348&SPSID=107856">Dance Team</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7839&SPSID=69444">Equestrian</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7032&SPSID=63987">Golf</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7838&SPSID=69368">Sailing</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=102295&SPSID=654153">Sand Volleyball</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7057&SPSID=64107">Soccer</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7058&SPSID=64113">Softball</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7027&SPSID=63975">Swimming and Diving</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7053&SPSID=64077">Tennis</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7063&SPSID=64159">Track and Field</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7054&SPSID=64085">Volleyball</a></li>
+</ul>
+<ul class="two-column" style="float:right">
+<li class="feature-title">Be a Fan</li>
+<li><img class="feature-image" src="./index_files/menufeature-athletics.jpg" style="max-width:100%" alt="Athletics Menu Feature" pagespeed_url_hash="2437065976"><p style="font-size:11px"></p><p>This is the home of <a href="http://www.cofc.edu/athletics/index.php">champions</a>. If action is your thing, we’ve got 21 <a href="http://www.cofcsports.com/">NCAA Division I teams</a> that compete in the <a href="http://www.caasports.com/">Colonial Athletic Association</a> for you to cheer for.</p></li>
+</ul>
+</section>
+</li>
+<li class="dropdown"><a id="alumni-menu" href="http://alumni.cofc.edu/">Alumni</a>
+<section id="alumni-sub" data-menu="alumni-menu" class="mega dropdown-menu mega-menu-5 style-plain">
+<ul class="custom-column">
+<li class="nav-title"><a href="http://alumni.cofc.edu/">▸ Alumni Home</a></li>
+<li class="nav-title"><a href="https://alumni.cofc.edu/benefits-and-services/career-services">▸ Alumni Career Center</a></li>
+<li class="nav-title"><a href="http://www.cofc.edu/featureprofiles/alumni/">▸ Alumni Profiles</a></li>
+<li class="nav-title"><a href="http://magazine.cofc.edu/">▸ <em>College of Charleston Magazine</em></a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Giving to the College</li>
+<li><a href="https://giving.cofc.edu/donate">Give Now!</a></li>
+<li><a href="http://giving.cofc.edu/ways-to-give">Ways to Give</a></li>
+<li><a href="http://giving.cofc.edu/areas-to-support">Areas of Support</a></li>
+<li><a href="http://giving.cofc.edu/areas-to-support/annual-giving-programs">College of Charleston Fund</a></li>
+<li><a href="http://giving.cofc.edu/ways-to-give/corporate-foundation-giving">Corporations and Foundations</a></li>
+<li><a href="http://giving.cofc.edu/ways-to-give/planned-giving">Estate Planning</a></li>
+<li><a href="http://foundation.cofc.edu/">The Foundation</a></li>
+<li><a href="http://www.cofcsports.com/SportSelect.dbml?DB_OEM_ID=14800&SPID=7877&SPSID=72922">Cougar Club</a></li>
+</ul>
+<ul class="custom-column">
+<li class="nav-title">Alumni Engagement</li>
+<li><a href="https://alumni.cofc.edu/events">Calendar of Events</a></li>
+<li><a href="https://alumni.cofc.edu/chapters-and-groups">Alumni Chapters</a></li>
+<li><a href="https://alumni.cofc.edu/benefits-and-services/mycofc/directory">Alumni Directory</a></li>
+<li><a href="https://alumni.cofc.edu/events/a-charleston-affair">A Charleston Affair</a></li>
+<li class="nav-title" style="padding-top: 5px;"> Alumni Services</li>
+<li><a href="https://alumni.cofc.edu/benefits-and-services">Alumni Benefits</a></li>
+<li><a href="https://alumni.cofc.edu/benefits-and-services/career-services">Alumni Career Services</a></li>
+<li><a href="https://alumni.cofc.edu/benefits-and-services/mycofc">MyCofC Online Community</a></li>
+</ul>
+<ul class="two-column" style="float:right">
+<li class="feature-title"><em>A Charleston Affair</em> weekend</li>
+<li><img class="feature-image" src="./index_files/menufeature-alumni3.jpg" style="max-width:100%" alt="Alumni Menu Feature" pagespeed_url_hash="4212285326">
+<p style="font-size:11px">Tickets to the 2014 A Charleston Affair are on sale now. Alumni, get your tickets to Saturday OR Sunday night. That's right, this year you have two nights of <a href="http://acaweekend.cofc.edu/">ACA.</a></p></li>
+</ul>
+</section>
+</li>
+</ul>
+</div><!-- .nav-collapse -->
+</div>
+</div>
+</div> <!-- /.navbar -->
+</div> <!-- /#hb --> <div id="bd">
+<div class="container">
+<div id="hero" class="row-fluid">
+<div id="hero-left" class="span4">
+<a class="livethelife" href="http://www.cofc.edu/featureprofiles/"></a>
+<ul id="pager">
+<li class="showHero topLeft">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-04n1.jpg" alt="Profile 01 thumbnail" pagespeed_url_hash="2465545127"></a>
+</li>
+<li class="showHero topCenter">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-02n.jpg" alt="Profile 02 thumbnail" pagespeed_url_hash="1507765550"></a>
+</li>
+<li class="showHero topRight">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-03n.jpg" alt="Profile 03 thumbnail" pagespeed_url_hash="1432549537"></a>
+</li>
+<li class="showHero middleLeft">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-01n4.jpg" alt="Profile 04 thumbnail" pagespeed_url_hash="2844166927"></a>
+</li>
+<li class="showHero middleRight">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-06n.jpg" alt="Profile 06 thumbnail" pagespeed_url_hash="1206901498"></a>
+</li>
+<li class="showHero bottomLeft">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-07n.jpg" alt="Profile 07 thumbnail" pagespeed_url_hash="1131685485"></a>
+</li>
+<li class="showHero bottomCenter">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-08n.jpg" alt="Profile 08 thumbnail" pagespeed_url_hash="1056469472"></a>
+</li>
+<li class="showHero bottomRight">
+<a href="http://amaker.cofc.edu:8080/#"><img src="./index_files/thumb-09n.jpg" alt="Profile 09 thumbnail" pagespeed_url_hash="981253459"></a>
+</li>
+</ul>
+</div>
+<div id="hero-right" class="span8 cycle-slideshow" data-cycle-log="false" data-cycle-loader="wait" speed="1000" data-cycle-timeout="9000" data-cycle-pager="#pager" data-cycle-pager-template="" data-cycle-slides=".targetDiv" data-cycle-pause-on-hover=".cycle-slideshow,.showHero" data-cycle-auto-height="647:302">
+<!-- Hero 1 begin -->
+<div id="hero-right-01" class="targetDiv"> <img src="./index_files/full-04n1.jpg" alt="Profile 01" pagespeed_url_hash="1013252034">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>Alumni in Action </h3>
+<p>Academy Award winners and more!</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a rel="prettyPhoto" href="http://www.youtube.com/watch?v=26G9KJN2LJE&feature=c4-overview&list=UU7uz5eStbaIddGGvNUxiP1Q">Watch the video</a></li>
+<li><a href="http://compsci.cofc.edu/">Visit the department</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li><a href="http://news.cofc.edu/2014/01/22/i-want-your-job-no-7-google-software-engineer/">Get with Google</a></li>
+<li><a href="http://www.cofc.edu/academics/majorsandminors/computer-science.php">Check out the major</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Hero 2 begin -->
+<div id="hero-right-02" class="targetDiv"> <img src="./index_files/full-02n.jpg" alt="Profile 02" pagespeed_url_hash="939317175">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>Cougar Sports</h3>
+<p>Our teams rock!</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a rel="prettyPhoto" href="http://youtu.be/1r__SRZdDOw">Catch the highlights</a></li>
+<li><a href="http://www.cofcsports.com/">Follow the teams</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li> <a href="http://www.cofc.edu/athletics/index.php" target="_blank">Meet our champions</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Hero 3 begin -->
+<div id="hero-right-03" class="targetDiv"> <img src="./index_files/full-03n.jpg" alt="Profile 03" pagespeed_url_hash="864101162">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>The Graduate School</h3>
+<p>An investment in your future</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a rel="prettyPhoto" href="http://www.youtube.com/watch?v=Se2b91LhyS4">Watch the video</a></li>
+<li><a href="http://gradschool.cofc.edu/">Visit the Graduate School</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li><a href="http://gradschool.cofc.edu/graduatedegreeprograms/">Learn about the programs</a></li>
+<li><a href="http://blogs.cofc.edu/gradschool/" target="_blank">Follow the blog</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Hero 4 begin -->
+<div id="hero-right-04" class="targetDiv"> <img src="./index_files/full-01a.jpg" alt="Profile 04" pagespeed_url_hash="1481001511">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>Public Health Honcho</h3>
+<p>Olivia Thompson, professor and game changer</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a href="http://www.cofc.edu/featureprofiles/fa35.php">Read her story</a></li>
+<li><a href="http://www.cofc.edu/academics/majorsandminors/publichealth.php">Check out the major</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li><a href="http://hhp.cofc.edu/">Visit the department</a></li>
+<li><a href="http://www.youtube.com/watch?v=nYJ9ezzYTT4">Watch the video</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Hero 6 begin -->
+<div id="hero-right-06" class="targetDiv"> <img src="./index_files/full-06n.jpg" alt="Profile 06" pagespeed_url_hash="638453123">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>Hollywood Actor</h3>
+<p>Matt Czuchry, Class of 1999</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a href="http://history.cofc.edu/">Visit the history department</a></li>
+<li><a href="http://www.cofc.edu/academics/majorsandminors/political-science.php">Learn about political science</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li><a target="_blank" href="http://www.cofcsports.com/SportSelect.dbml?&DB_OEM_ID=14800&SPID=7025&SPSID=69407">Follow the tennis team</a></li>
+<li><a rel="prettyPhoto" href="http://youtu.be/-HYAToWFOlg">Watch Matt’s show</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Hero 7 begin -->
+<div id="hero-right-07" class="targetDiv"> <img src="./index_files/full-07n.jpg" alt="Profile 07" pagespeed_url_hash="563237110">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>Grice Marine Lab</h3>
+<p>Marine biology hub</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a rel="prettyPhoto" href="http://www.youtube.com/watch?v=U3Cci0-Y95A&feature=c4-overview&list=UU7uz5eStbaIddGGvNUxiP1Q">Watch the video</a></li>
+<li><a href="http://gricemarinelab.cofc.edu/">Visit the lab</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li><a href="http://www.cofc.edu/academics/majorsandminors/marinebio.php">Check out the major</a></li>
+<li><a href="http://cofc.edu/academics/graduate-degree-progs/graduatedegreeslist/marinebio.php" target="_blank">See the master’s degree</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Hero 8 begin -->
+<div id="hero-right-08" class="targetDiv"> <img src="./index_files/full-08n.jpg" alt="Profile 08" pagespeed_url_hash="488021097">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>Campus Life</h3>
+<p>Residence halls galore!</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a rel="prettyPhoto" href="http://www.youtube.com/watch?v=vXY8G4Mjnp0">Watch the video </a></li><a rel="prettyPhoto" href="http://www.youtube.com/watch?v=vXY8G4Mjnp0">
+</a><li><a rel="prettyPhoto" href="http://www.youtube.com/watch?v=vXY8G4Mjnp0"></a><a href="http://campusrec.cofc.edu/facility-hours/george-street-fitness-center.php">Get in shape</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li> <a href="http://reslife.cofc.edu/campus-housing/index.php">Find more info</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Hero 9 begin -->
+<div id="hero-right-09" class="targetDiv"> <img src="./index_files/full-09n.jpg" alt="Profile 09" pagespeed_url_hash="412805084">
+<div id="hero-bar">
+<div id="hero-left-col">
+<h3>Global Perspectives</h3>
+<p>Andrew Sobiesou, international educator</p>
+</div>
+<div id="hero-right-col">
+<ul id="hero-sub-left">
+<li><a href="http://www.cofc.edu/featureprofiles/fa30.php">Read his story</a></li>
+<li><a href="http://international.cofc.edu/">Visit International Education</a></li>
+</ul>
+<ul id="hero-sub-right">
+<li><a href="http://www.flickr.com/photos/studyabroadcofc/7611156402/">Study abroad</a></li>
+<li><a href="http://spanish.cofc.edu/">See Hispanic studies</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<a name="bd-content"></a>
+<div class="row-fluid">
+<div class="span8">
+<div id="bd-primary-btns">
+<div class="btn-group">
+<button id="news-button" type="button" class="btn active" data-tab="#news">News</button> <button id="events-button" type="button" class="btn" data-tab="#events">Events</button> <button id="inthenews-button" type="button" class="btn" data-tab="#inthenews">In the News</button> <button id="facebook-button" type="button" class="btn" data-tab="#facebook">Facebook</button> <button id="twitter-button" type="button" class="btn" data-tab="#twitter">Twitter</button> <button id="youtube-button" type="button" class="btn" data-tab="#youtube">YouTube</button> <button id="photos-button" type="button" class="btn" data-tab="#photos">Flickr</button>
+</div>
+</div>
+<ul class="nav nav-tabs" style="display:none" id="bd-primary-tabs">
+<li class="active">
+<a href="http://amaker.cofc.edu:8080/#news" data-toggle="tab">News</a>
+</li>
+<li>
+<a href="http://amaker.cofc.edu:8080/#events" data-toggle="tab">Events</a>
+</li>
+<li>
+<a href="http://amaker.cofc.edu:8080/#inthenews" data-toggle="tab">In the News</a>
+</li>
+<li>
+<a href="http://amaker.cofc.edu:8080/#facebook" data-toggle="tab">Facebook</a>
+</li>
+<li>
+<a href="http://amaker.cofc.edu:8080/#twitter" data-toggle="tab">Twitter</a>
+</li>
+<li>
+<a href="http://amaker.cofc.edu:8080/#youtube" data-toggle="tab">YouTube</a>
+</li>
+<li>
+<a href="http://amaker.cofc.edu:8080/#photos" data-toggle="tab">Flickr</a>
+</li>
+</ul>
+<div id="primary-tabs" class="tab-content">
+<div class="tab-pane active" id="news">
+<div id="news-header"><div class="tab-title">College of Charleston News</div><div class="tab-rssicon"><a href="http://news.cofc.edu/feed/"><img width="16px" height="16px" src="./index_files/rss_icon_16x16.gif" alt="rss icon" pagespeed_url_hash="4083149321"></a></div><div class="tabs-more"><a href="http://news.cofc.edu/">More news ›</a></div>
+</div> <div class="item clearfix">
+<a class="feed-title" href="http://news.cofc.edu/2014/04/10/ready-two-students-take-ghana/" target="_self">Ready or Not: Two Students Take On Ghana</a><br>
+<small class="feed-date">10 April 2014 | 1:21 pm</small>
+<div class="feed-content clearfix">
+<img width="254" height="196" src="./index_files/tumblr_n3nt5tiBqi1tp3ug7o4_1280.jpg" class="attachment-large colorbox-7508  wp-post-image" alt="tumblr_n3nt5tiBqi1tp3ug7o4_1280" pagespeed_url_hash="2038781543">College of Charleston students Michelle Smith and Chance Cox live in Ghana for the semester, taking on two jobs and coursework for academic credit....<br>
+</div>
+</div>
+<div class="item clearfix">
+<a class="feed-title" href="http://news.cofc.edu/2014/04/10/theatre-music-students-push-boundaries-kills-monsters/" target="_self">Theatre and Music Students Push the Boundaries in “She Kills Monsters”</a><br>
+<small class="feed-date">10 April 2014 | 8:53 am</small>
+<div class="feed-content clearfix">
+<img width="254" height="196" src="./index_files/She-Kills-Monsters-Featured.png" class="attachment-large colorbox-7472  wp-post-image" alt="She Kills Monsters Featured" pagespeed_url_hash="4269015522">The set is unlike anything the theatre department has ever done and composition students wrote and recorded the entire score in less than two weeks. The students say if they weren't prepared for the real world before - they are now....<br>
+</div>
+</div>
+<div class="item clearfix">
+<a class="feed-title" href="http://news.cofc.edu/2014/04/09/charleston-hub-entrepreneurial-activity-students-taking-advantage/" target="_self">Charleston is the Ideal Place to Start a Business and Students are Taking Advantage</a><br>
+<small class="feed-date">9 April 2014 | 11:54 am</small>
+<div class="feed-content clearfix">
+<img width="254" height="196" src="./index_files/Silicon-Harbor-Featured.jpg" class="attachment-large colorbox-7466  wp-post-image" alt="Silicon Harbor Featured" pagespeed_url_hash="2382987478">Charleston, S.C. is exploding with entrepreneurial activity, and College of Charleston students are fueling the fire. They're securing venture capital, participating in business competitions, and ready for the new entrepreneurship minor....<br>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="events">
+<div id="events-header"><div class="tab-title">Events on Campus</div><div class="tab-rssicon"><a href="http://calendar.cofc.edu/RSSSyndicator.aspx?category=&location=&type=N&num=10&binary=Y&ics=Y"><img width="16px" height="16px" src="./index_files/rss_icon_16x16.gif" alt="rss icon" pagespeed_url_hash="4083149321"></a></div><div class="tabs-more"><a href="http://calendar.cofc.edu/CalendarNOW.aspx?fromdate=7/1/2013&todate=7/31/2013&display=Month&more=1/1/0001">More events ›</a></div>
+</div>
+<div class="item clearfix">
+<div class="feed-title"><a href="http://calendar.cofc.edu/EventList.aspx?view=EventDetails&eventidn=6826&information_id=18232&type=&rss=rss">How To "Quick Pickle" Workshop </a></div><small class="feed-date">Apr 10, 2014 - 3:00 pm</small><div class="feed-content clearfix">Join us for a workshop on how to "quick pickle" all of your favorite local vegetables! Hosted by Cait Etherton of Ambrose Farm Csa and pickling sage RJ Dye, the event will be held at the CofC Office... <br><a href="http://calendar.cofc.edu/EventList.aspx?view=EventDetails&eventidn=6826&information_id=18232&type=&rss=rss" target="_blank">Read More</a></div>
+</div>
+<div class="item clearfix">
+<div class="feed-title"><a href="http://calendar.cofc.edu/EventList.aspx?view=EventDetails&eventidn=6574&information_id=17602&type=&rss=rss">Special Edition Workshop </a></div><small class="feed-date">Apr 10, 2014 - 3:00 pm</small><div class="feed-content clearfix">Guest Speaker: Jolanda van Arnhem, MFA
+This topic will be announced closer to the date of the actual workshop! You can submit ideas to Melissa Hortman, hortmanmb@cofc.edu, of a topic you would like... <br><a href="http://calendar.cofc.edu/EventList.aspx?view=EventDetails&eventidn=6574&information_id=17602&type=&rss=rss" target="_blank">Read More</a></div>
+</div>
+<div class="item clearfix">
+<div class="feed-title"><a href="http://calendar.cofc.edu/EventList.aspx?view=EventDetails&eventidn=6567&information_id=17588&type=&rss=rss">Plan for Exams </a></div><small class="feed-date">Apr 11, 2014 - 12:00 pm</small><div class="feed-content clearfix">Are you prepared for the end of the semester? In this workshop, you will work on a comprehensive plan for the rest of the semester by assessing current statuses in each class and how to get in the... <br><a href="http://calendar.cofc.edu/EventList.aspx?view=EventDetails&eventidn=6567&information_id=17588&type=&rss=rss" target="_blank">Read More</a></div>
+</div>
+</div>
+<div class="tab-pane" id="inthenews">
+<div id="inthenews-header"><div class="tab-title">College of Charleston In the News</div><div class="tab-rssicon"><a href="http://blogs.cofc.edu/inthenews/feed/"><img width="16px" height="16px" src="./index_files/rss_icon_16x16.gif" alt="rss icon" pagespeed_url_hash="4083149321"></a></div><div class="tabs-more"><a href="http://blogs.cofc.edu/inthenews/">More news ›</a></div>
+</div> <div class="item clearfix">
+<a class="feed-title" href="http://blogs.cofc.edu/inthenews/2014/03/25/a-whale-of-a-find-fossil-sheds-light-on-cetacean-sonars-origin/" target="_self">A whale of a find: Fossil sheds light on cetacean sonar’s origin</a><br>
+<small class="feed-date">Posted on 25 March 2014 | 2:44 pm</small>
+<div class="feed-content clearfix">
+<img width="256" height="256" src="./index_files/1008914c0ae75c9efb5f9c0161fce9a2.png" alt="1008914c0ae75c9efb5f9c0161fce9a2" pagespeed_url_hash="2494717047">WASHINGTON (Reuters) – The deadly threat posed by German submarines during World War One helped spur scientists to develop sonar, using underwater sound signals to locate objects like subs that might be taking aim with a torpedo. In the 20th century, it was an important technological breakthrough. But it was old technology as far as […]...<br>
+<!--<a href="http://blogs.cofc.edu/inthenews/2014/03/25/a-whale-of-a-find-fossil-sheds-light-on-cetacean-sonars-origin/" target="_self">Read More</a>-->
+</div>
+</div> <div class="item clearfix">
+<a class="feed-title" href="http://blogs.cofc.edu/inthenews/2014/03/25/reviving-a-jewish-cemetery/" target="_self">Reviving a Jewish cemetery</a><br>
+<small class="feed-date">Posted on 25 March 2014 | 2:37 pm</small>
+<div class="feed-content clearfix">
+<img width="300" height="36" src="./index_files/postandcourier2.png" alt="postandcourier" pagespeed_url_hash="3236161868">Gary Zola, director of the American Jewish Archives in Cincinnati and a visiting professor at the College of Charleston, says the cemetery is definitely among the most significant and historic burial grounds for Jews in North America. “Without question, it’s a national treasure,” he says. &nbsp;...<br>
+<!--<a href="http://blogs.cofc.edu/inthenews/2014/03/25/reviving-a-jewish-cemetery/" target="_self">Read More</a>-->
+</div>
+</div> <div class="item clearfix">
+<a class="feed-title" href="http://blogs.cofc.edu/inthenews/2014/03/25/rivers-under-the-sea-mapping-finds-ancient-bottom-habitat/" target="_self">Rivers under the sea: Mapping finds ancient bottom habitat</a><br>
+<small class="feed-date">Posted on 25 March 2014 | 2:35 pm</small>
+<div class="feed-content clearfix">
+<img width="300" height="36" src="./index_files/postandcourier2.png" alt="postandcourier" pagespeed_url_hash="3236161868">The Lowcountry offshore is mostly barren sand bottom to the edge of the Continental Shelf – that’s conventional wisdom. But three times now, College of Charleston geologists have dropped high-tech imaging devices to map that bottom, and three times they found “these amazing features” they didn’t expect – ancient river channels....<br>
+<!--<a href="http://blogs.cofc.edu/inthenews/2014/03/25/rivers-under-the-sea-mapping-finds-ancient-bottom-habitat/" target="_self">Read More</a>-->
+</div>
+</div> </div>
+<div class="tab-pane" id="facebook">
+<!--                                  <div class="item clearfix">
+                                <small class="feed-date">Posted on 10 April 2014 | 1:14 pm</small>
+                                <div class="feed-content clearfix">
+                                #ThrowbackThursday In January 2012, <a href="https://www.facebook.com/profile.php?id=105550416146299" title="To tag someone, type @ and then the friend's name">Stephen Colbert</a> was rallying in the Cistern Yard, now he's been tapped for a new gig on the Late Show. #Congrats<br><br> C'mon back anytime!<br><br><a href="https://www.facebook.com/collegeofcharleston/photos/pcb.10152165155934902/10152165152759902/?type=1&amp;relevant_count=2" title="" target=""><img src="https://fbcdn-photos-h-a.akamaihd.net/hphotos-ak-frc3/t1.0-0/10171669_10152165152759902_7804867611749559662_s.jpg" alt=""></a><a href="https://www.facebook.com/collegeofcharleston/photos/pcb.10152165155934902/10152165152774902/?type=1&amp;relevant_count=1" title="" target=""><img src="https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-prn2/t1.0-0/10003252_10152165152774902_6630039346120246376_s.jpg" alt=""></a>                                <a href="http://www.facebook.com/collegeofcharleston/posts/10152165155934902" target="_blank">read more</a>
+                                </div>
+                                </div>
+                                                                <div class="item clearfix">
+                                <small class="feed-date">Posted on 9 April 2014 | 11:10 am</small>
+                                <div class="feed-content clearfix">
+                                Graduation is one month away. #EnjoyThisWhileYouCan<br><br><a href="https://www.facebook.com/collegeofcharleston/photos/a.130064244901.105496.10239169901/10152163219964902/?type=1&amp;relevant_count=1" title="" target=""><img src="https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-prn2/t1.0-0/10258188_10152163219964902_2496530214818295166_s.jpg" alt=""></a>                                <a href="https://www.facebook.com/collegeofcharleston/photos/a.130064244901.105496.10239169901/10152163219964902/?type=1" target="_blank">read more</a>
+                                </div>
+                                </div>
+                                                                <div class="item clearfix">
+                                <small class="feed-date">Posted on 7 April 2014 | 11:17 am</small>
+                                <div class="feed-content clearfix">
+                                In honor of #OpeningDay for the <a href="https://www.facebook.com/profile.php?id=95345703498" title="To tag someone, type @ and then the friend's name">Charleston RiverDogs</a>, Math Professor Martin Jones explains why no one has a .400 batting average anymore.<br><br><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxuGAAGqAn-Q%26list%3DUU7uz5eStbaIddGGvNUxiP1Q&amp;h=lAQHnZafF&amp;s=1" title="" target="" rel="nofollow"><img src="https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCyMb-fSch8O76p&amp;w=130&amp;h=130&amp;url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FxuGAAGqAn-Q%2Fmaxresdefault.jpg" alt=""></a><br><a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxuGAAGqAn-Q%26list%3DUU7uz5eStbaIddGGvNUxiP1Q&amp;h=EAQEqhtUW&amp;s=1" target="_blank" rel="nofollow">Why No One Hits .400 in Baseball Today -- Distribution of Batting Averages</a><br>www.youtube.com<br>Listen to Mathematics Professor Martin Jones explain how baseball has become specialized, meaning lower batting averages.                                <a href="http://www.facebook.com/collegeofcharleston/posts/10152159695279902" target="_blank">read more</a>
+                                </div>
+                                </div>
+                               -->
+<div id="fb-header">
+<div class="logo">
+<img src="./index_files/facebook-word.png" alt="facebook" width="92" pagespeed_url_hash="2359048842">
+</div>
+<div class="link">
+<a target="_blank" href="https://www.facebook.com/collegeofcharleston"><img src="./index_files/FB-LikeButton-online-72.png" alt="Like on Facebook" width="50" pagespeed_url_hash="2423902721"></a>
+</div>
+</div><!--<script type="text/javascript" src="http://output85.rssinclude.com/output?type=js&amp;id=713916&amp;hash=770da229d2faf927806f51561d01ecc4"></script>-->
+<iframe title="Facebook" src="./index_files/likebox.html" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:620px; height:395px;" allowtransparency="true">This is an iframe for Facebook content.</iframe>
+</div>
+<div class="tab-pane" id="twitter">
+<div id="tw-header">
+<img src="./index_files/twitter-bird.png" alt="twitter" width="24" pagespeed_url_hash="2410523216">
+</div><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-timeline twitter-timeline-rendered" title="Twitter Timeline" width="520" height="450" style="border: none; max-width: 100%; min-width: 180px;"></iframe> <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div class="tab-pane" id="youtube">
+<div id="yt-header">
+<div class="logo">
+<img src="./index_files/yt-logo.png" alt="youtube" width="60" pagespeed_url_hash="1094285870">
+</div>
+<div id="yt-subscribe">
+<a class="yt-button" href="http://www.youtube.com/user/CollegeofCharleston">
+<div id="video-icon"><img src="./index_files/video-icon.png" alt="youtube icon" pagespeed_url_hash="2020874734"></div>Subscribe</a>
+</div>
+<div id="ytmenu">
+<ul class="menuz">
+<li>
+<a href="http://www.youtube.com/user/CollegeofCharleston/videos" target="_blank">Videos</a>
+</li>
+<li>
+<a href="http://www.youtube.com/user/CollegeofCharleston/discussion" target="_blank">Discussion</a>
+</li>
+<li>
+<a href="http://www.youtube.com/user/CollegeofCharleston/about" target="_blank">About</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fitvid">
+<iframe title="YouTube" id="ytplayer" type="text/html" width="620" height="350" src="./index_files/videoseries.html" frameborder="0" allowfullscreen="">This is an iframe for YouTube.</iframe>
+</div>
+</div>
+<div class="tab-pane" id="photos">
+<div id="flickr-header" style="margin-bottom:20px;">
+<img src="./index_files/flickr-logo.png" alt="flicker" style="width:auto;border:none;padding:0" pagespeed_url_hash="2513907950">
+<div id="flickr-add">
+<a class="flickr-button" target="_blank" href="http://flickr.com/people/collegeofcharleston/relationship/">+ Add</a>
+</div>
+</div><object width="620" height="300">
+<param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fcollegeofcharleston%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fcollegeofcharleston%2F&amp;user_id=46218932@N05&amp;jump_to=">
+<param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984">
+<param name="allowFullScreen" value="true">
+<embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fcollegeofcharleston%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fcollegeofcharleston%2F&amp;user_id=46218932@N05&amp;jump_to=" width="620" height="300" alt="College of Charleston Flickr Slideshow">
+<noembed>
+Your browser does not support embed tag.
+</noembed>
+
+</object>
+<div id="fourRow">
+<div class="box-1">
+<a target="_blank" href="http://www.flickr.com/photos/collegeofcharleston/sets/72157634589520795/"><p>Research</p></a>
+</div>
+<div class="box-2">
+<a target="_blank" href="http://www.flickr.com/photos/collegeofcharleston/sets/72157634596050704/"><p>Academic Life</p></a>
+</div>
+<div class="box-3">
+<a target="_blank" href="http://www.flickr.com/photos/collegeofcharleston/sets/72157634596551204/"><p>Campus</p></a>
+</div>
+<div class="box-4">
+<a target="_blank" href="http://www.flickr.com/photos/collegeofcharleston/sets/72157634596091972/"><p>Student Life</p></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="span4">
+<div id="bd-secondary-btns">
+<div class="btn-group" data-toggle="buttons-checkbox">
+<a id="bd-btn-1" href="http://www.cofc.edu/apply/" class="btn">Apply</a> <a id="bd-btn-2" href="http://www.cofc.edu/visit/" class="btn">Visit</a>
+</div>
+</div>
+<div id="bd-secondary-content">
+<a href="http://trustees.cofc.edu/presidential-search/"><img class="thumbnail" src="./index_files/spotlight-1.jpg" alt="spotlight 1" pagespeed_url_hash="3877881070"></a> <a href="http://acaweekend.cofc.edu/"><img class="thumbnail" src="./index_files/spotlight-2.jpg" alt="spotlight 2" pagespeed_url_hash="4172380991"></a> <a href="http://social.cofc.edu/"><img class="thumbnail" src="./index_files/spotlight-3.jpg" alt="spotlight 3" pagespeed_url_hash="171913616"></a>
+</div>
+</div>
+</div>
+</div>
+</div><!-- /#bd -->
+<script type="text/javascript">$("#bd-primary-btns button").click(function(){$('#bd-primary-tabs a[href="'+$(this).attr('data-tab')+'"]').tab('show');$("#bd-primary-btns button").removeClass('active');$(this).addClass('active');});</script> <footer id="ft">
+<div id="social-media-bar">
+<a href="https://www.facebook.com/collegeofcharleston" target="_blank"><img alt="Facebook" src="./index_files/facebook-wh2.png" pagespeed_url_hash="3181522710"></a>
+<a href="http://www.flickr.com/photos/collegeofcharleston" target="_blank"><img alt="Flickr" src="./index_files/flickr-wh2.png" pagespeed_url_hash="2297705103"></a>
+<a href="https://foursquare.com/cofc" target="_blank"><img alt="FourSquare" src="./index_files/foursquare-wh2.png" pagespeed_url_hash="4176515759"></a>
+<a href="https://plus.google.com/u/0/104532845391958515458" target="_blank"><img alt="Google Plus" src="./index_files/googleplus-wh2.png" pagespeed_url_hash="1789458047"></a>
+<a href="http://instagram.com/collegeofcharleston" target="_blank"><img alt="Google Plus" src="./index_files/instagram-wh2.png" pagespeed_url_hash="2090377500"></a>
+<a href="http://www.linkedin.com/edu/school?id=19364" target="_blank"><img width="24" height="24" alt="LinkedIn" src="./index_files/linkedin-wh.png" pagespeed_url_hash="2049249291"></a>
+<a href="http://twitter.com/CofC" target="_blank"><img alt="Twitter" src="./index_files/twitter-wh2.png" pagespeed_url_hash="2849789"></a>
+<a href="http://www.youtube.com/user/collegeofcharleston" target="_blank"><img alt="YouTube" src="./index_files/youtube-wh2.png" pagespeed_url_hash="2846260065"></a>
+<a href="http://cofc.edu/about/socialmedia/index.php"><img alt="Other Social Media" src="./index_files/more-wh3.png" pagespeed_url_hash="2326864346"></a>
+</div>
+<div class="container">
+<div id="ft-wrapper">
+<div class="row-fluid">
+<div class="span5">
+<div id="footer-1">
+<a href="http://cofc.edu/visit/campusmaps.php">
+<img width="243" height="129" src="./index_files/footer-cofc-logo.png" alt="CofC Map Footer Logo" pagespeed_url_hash="897021977">
+</a>
+<address>
+66 George Street<br>
+Charleston, South Carolina 29424<br><span>
+<span id="gc-number-0" class="gc-cs-link" title="Call with Google Voice">843.805.5507</span>
+</span></address>
+</div>
+</div>
+<div class="span3">
+<div id="footer-2">
+<h5>Colleges and Schools</h5>
+<ul class="unstyled">
+<li><a href="http://sota.cofc.edu/">Arts</a></li>
+<li><a href="http://sb.cofc.edu/">Business</a></li>
+<li><a href="http://ehhp.cofc.edu/">Education, Health and Human Perfomance</a></li>
+<li><a href="http://hss.cofc.edu/">Humanities and Social Sciences</a></li>
+<li><a href="http://lcwa.cofc.edu/">Languages, Cultures and World Affairs</a></li>
+<li><a href="http://ssm.cofc.edu/">Sciences and Mathematics</a></li>
+<li><a href="http://gradschool.cofc.edu/">Graduate School</a></li>
+<li><a href="http://honorscollege.cofc.edu/">Honors College</a></li>
+</ul>
+</div>
+</div>
+<div class="span2">
+<div id="footer-3">
+<h5>Information For</h5>
+<ul class="unstyled">
+<li><a href="https://my.cofc.edu/cp/home/displaylogin">Current Students</a></li>
+<li><a href="https://my.cofc.edu/cp/home/displaylogin">Faculty and Staff</a></li>
+<li><a href="http://alumni.cofc.edu/">Alumni</a></li>
+<li><a href="http://www.cofc.edu/families/">Families/Parents</a></li>
+<li><a href="http://admissions.cofc.edu/applyingtothecollege/international-students/index.php">International Students</a></li>
+<li><a href="https://jobs.cofc.edu/">Job Applicants</a></li>
+</ul>
+</div>
+</div>
+<div class="span2">
+<div id="footer-4">
+<h5>Quick Links</h5>
+<ul class="unstyled">
+<li><a href="https://jobs.cofc.edu/">Campus Jobs</a></li>
+<li><a href="http://bookstore.cofc.edu/">Bookstore</a></li>
+<li><a href="http://giving.cofc.edu/">Giving</a></li>
+<li><a href="http://cofc.edu/about/contactus/">Contact Us</a></li>
+<li><a href="http://it.cofc.edu/">Information Technology</a></li>
+<li><a href="http://transparency.cofc.edu/">Transparency Spending</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span6">
+<div id="sub-footer-1">
+<a href="http://www.cofc.edu/policies/privacypolicy/">Privacy Policy</a>
+</div>
+</div>
+<div class="span6">
+<div id="sub-footer-2">
+Copyright © 2013 All Right Reserved. College of Charleston
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer><!-- #ft -->
+</div><!-- #pg -->
+<script src="./index_files/bootstrap.js"></script>
+<script>$(document).ready(function(){$('#todaytemp').weatherfeed(['USSC0051'],{"highlow":false,"unit":"f","wind":false,"link":false,"showerror":false});$(".mega").hover(function(){$('#'+$(this).attr('data-menu')).addClass('menu-hover');},function(){$('#'+$(this).attr('data-menu')).removeClass('menu-hover');});$(".fitvid").fitVids();$("a[rel^='prettyPhoto']").prettyPhoto();$("#aside-links a,#aside-social a, #aside-quick-links a").attr("target","_blank");});$("a[href^=mailto]").click(function(){var email=$(this).attr('href').replace(/mailto:/,'');_gaq.push(['_trackEvent','Click Email Address',email]);});</script>
+<!--
+    ******             ****   ****** 
+  **////**           /**/   **////**
+ **    //   ******  ****** **    // 
+/**        **////**///**/ /**       
+/**       /**   /**  /**  /**       
+//**    **/**   /**  /**  //**    **
+ //****** //******   /**   //****** 
+  //////   //////    //     //////  
+
+amaker.cofc.edu--> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"0cf84deaec","applicationID":"1228560","transactionName":"YQZQYBZXXUZSBUYIDVhMZ0YNGVpbVwNKTxJeEw==","queueTime":0,"applicationTime":829,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-380.min.js"}</script><script pagespeed_no_defer="">//<![CDATA[
+(function(){var e=encodeURIComponent,f=window,h=document,m="width",n="documentElement",p="height",q="length",r="prototype",s="body",t="&",u="&ci=",w="&n=",x="&rd=",y=",",z="?",A="Content-Type",B="Microsoft.XMLHTTP",C="Msxml2.XMLHTTP",D="POST",E="application/x-www-form-urlencoded",F="img",G="input",H="load",I="oh=",J="on",K="pagespeed_url_hash",L="url=",M=function(a,c,d){if(a.addEventListener)a.addEventListener(c,d,!1);else if(a.attachEvent)a.attachEvent(J+c,d);else{var b=a[J+c];a[J+c]=function(){d.call(this);b&&b.call(this)}}};f.pagespeed=f.pagespeed||{};var N=f.pagespeed,O=function(a,c,d,b,g){this.d=a;this.f=c;this.g=d;this.a=g;this.c={height:f.innerHeight||h[n].clientHeight||h[s].clientHeight,width:f.innerWidth||h[n].clientWidth||h[s].clientWidth};this.e=b;this.b={}};O[r].j=function(a){a=a.getBoundingClientRect();return{top:a.top+(void 0!==f.pageYOffset?f.pageYOffset:(h[n]||h[s].parentNode||h[s]).scrollTop),left:a.left+(void 0!==f.pageXOffset?f.pageXOffset:(h[n]||h[s].parentNode||h[s]).scrollLeft)}};O[r].i=function(a){if(0>=a.offsetWidth&&0>=a.offsetHeight)return!1;a=this.j(a);var c=a.top.toString()+y+a.left.toString();if(this.b.hasOwnProperty(c))return!1;this.b[c]=!0;return a.top<=this.c[p]&&a.left<=this.c[m]};O[r].l=function(){for(var a=[F,G],c=[],d={},b=0;b<a[q];++b)for(var g=h.getElementsByTagName(a[b]),k=0;k<g[q];++k){var v=g[k].getAttribute(K);v&&g[k].getBoundingClientRect&&this.i(g[k])&&!(v in d)&&(c.push(v),d[v]=!0)}b=!1;a=I+this.g;this.a&&(a+=w+this.a);if(0!=c[q]){a+=u+e(c[0]);for(b=1;b<c[q];++b){d=y+e(c[b]);if(131072<a[q]+d[q])break;a+=d}b=!0}this.e&&(d=x+e(JSON.stringify(this.h())),131072>=a[q]+d[q]&&(a+=d),b=!0);N.criticalImagesBeaconData=a;if(b){var c=this.d,b=this.f,l;if(f.XMLHttpRequest)l=new XMLHttpRequest;else if(f.ActiveXObject)try{l=new ActiveXObject(C)}catch(P){try{l=new ActiveXObject(B)}catch(Q){}}l&&(l.open(D,c+(-1==c.indexOf(z)?z:t)+L+e(b)),l.setRequestHeader(A,E),l.send(a))}};O[r].h=function(){for(var a={},c=h.getElementsByTagName(F),d=0;d<c[q];++d){var b=c[d],g=b.getAttribute(K);if("undefined"==typeof b.naturalWidth||"undefined"==typeof b.naturalHeight||"undefined"==typeof g)break;if("undefined"==typeof a[b.src]&&0<b[m]&&0<b[p]&&0<b.naturalWidth&&0<b.naturalHeight||"undefined"!=typeof a[b.src]&&b[m]>=a[b.src].n&&b[p]>=a[b.src].m)a[g]={renderedWidth:b[m],renderedHeight:b[p],originalWidth:b.naturalWidth,originalHeight:b.naturalHeight}}return a};N.k=function(a,c,d,b,g){var k=new O(a,c,d,b,g);M(f,H,function(){f.setTimeout(function(){k.l()},0)})};N.criticalImagesBeaconInit=N.k;})();pagespeed.criticalImagesBeaconInit('/mod_pagespeed_beacon','http://amaker.cofc.edu:8080/','Iegv8zAL1U',false,'rf7fsKpi4-o');
+//]]></script>
+<iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" style="display: none;"></iframe><script src="./index_files/nr-380.min.js"></script><script id="hiddenlpsubmitdiv" style="display: none;"></script><script>try{for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){ var lastpass_f = document.forms[lastpass_iter]; if(typeof(lastpass_f.lpsubmitorig2)=="undefined"){ lastpass_f.lpsubmitorig2 = lastpass_f.submit; lastpass_f.submit = function(){ var form=this; var customEvent = document.createEvent("Event"); customEvent.initEvent("lpCustomEvent", true, true); var d = document.getElementById("hiddenlpsubmitdiv"); if (d) {for(var i = 0; i < document.forms.length; i++){ if(document.forms[i]==form){ d.innerText=i; } } d.dispatchEvent(customEvent); }form.lpsubmitorig2(); } } }}catch(e){}</script><script type="text/javascript" src="./index_files/0cf84deaec"></script></body></html>

@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Queen's University, Department of Economics
+Provider-Homepage: http://qed.econ.queensu.ca/
+Provider-Institution: RePEc:edi:qedquca
+Maintainer-Name: Mark Babcock	
+Maintainer-Email: babcockm@econ.queensu.ca
+Type: ReDIF-Paper
+Handle: RePEc:qed:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Development Discussion Papers
+Description: Papers in applied Public Finance, Investment Appraisal and taxation
+Provider-Name: JDI Executive Programs
+Provider-Institution:  RePEc:edi:qedquca
+Maintainer-Name: Bahman Kashi
+Maintainer-Email: bkashi@econ.queensu.ca
+Editor-Name:  Glenn P. Jenkins
+Editor-Email: jenkins@econ.queensu.ca
+Type: ReDIF-Paper
+Handle: RePEc:qed:dpaper

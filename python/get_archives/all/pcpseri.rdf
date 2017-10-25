@@ -1,0 +1,63 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo / Working Papers
+Type: ReDIF-Paper
+Provider-Name: Departamento de Economía - Pontificia Universidad Católica del Perú
+Provider-Homepage: http://departamento.pucp.edu.pe/economia/
+Provider-Phone: (511) 626-2000 ext. 4950, 4951
+Provider-Postal: Av. Universitaria 1801, San Miguel, Lima, Perú
+Provider-Fax: (511) 626-2874
+Provider-Institution: repec:edi:depucpe
+Maintainer-Email: jrodrig@pucp.edu.pe
+Editor-Name: Jorge Rojas
+Editor-Email: jorge.rojas@pucp.edu.pe
+Editor-Workplace-Name: Departamento de Economía - Pontificia Universidad Católica del Perú
+Handle: RePEc:pcp:pucwps
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Economía
+Type: ReDIF-Article
+Provider-Name: Fondo Editorial de la Pontificia Universidad Católica del Perú
+Provider-Homepage: http://departamento.pucp.edu.pe/economia/
+Provider-Postal: Av. Universitaria 1801, San Miguel, Lima, Perú
+Provider-Institution: repec:edi:depucpe
+Maintainer-Email: jrodrig@pucp.edu.pe
+Editor-Name: Carlos Contreras
+Editor-Email: ccontre@pucp.edu.pe
+Editor-Workplace-Name: Departamento de Economía - Pontificia Universidad Católica del Perú
+Handle: RePEc:pcp:pucrev
+
+Template-type: ReDIF-Series 1.0
+Name: Libros PUCP / PUCP Books
+Provider-Name: Fondo Editorial de la Pontificia Universidad Católica del Perú
+Provider-Homepage: http://departamento.pucp.edu.pe/economia/
+Provider-Institution: repec:edi:depucpe
+Maintainer-Email: jrodrig@pucp.edu.pe
+Type: ReDIF-Book
+Handle: RePEc:pcp:puclib
+
+Template-type: ReDIF-Series 1.0
+Name: Capítulos de Libros PUCP / Chapters of PUCP books
+Provider-Name: Departamento de Economía - Pontificia Universidad Católica del Perú
+Provider-Homepage: http://departamento.pucp.edu.pe/economia/
+Provider-Institution: repec:edi:depucpe
+Maintainer-Email: jrodrig@pucp.edu.pe
+Type: ReDIF-Chapter
+Handle: RePEc:pcp:pucchp
+
+Template-type: ReDIF-Series 1.0
+Name: Libros de otras Editoriales
+Provider-Name: Departamento de Economía - Pontificia Universidad Católica del Perú
+Provider-Homepage: http://departamento.pucp.edu.pe/economia/
+Provider-Institution: repec:edi:depucpe
+Maintainer-Email: jrodrig@pucp.edu.pe
+Type: ReDIF-Book
+Handle: RePEc:pcp:pucotr
+
+Template-type: ReDIF-Series 1.0
+Name: Informes / Reports
+Type: ReDIF-Paper
+Provider-Name: Departamento de Economía - Pontificia Universidad Católica del Perú
+Provider-Homepage: http://departamento.pucp.edu.pe/economia/
+Provider-Institution: repec:edi:depucpe
+Maintainer-Email: jrodrig@pucp.edu.pe
+Handle: RePEc:pcp:pucinf

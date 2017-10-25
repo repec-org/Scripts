@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Mirror 1.0
+Machine: nber2.nber.org
+Archives-Included: all
+User: adrepec
+Group: adrepec
+Directory: /home/nber/adrepec/RePEc/nbr
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: T.Krichel@surrey.ac.uk
+Archive-Handle: RePEc:nbr

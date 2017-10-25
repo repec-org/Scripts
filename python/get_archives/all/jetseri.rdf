@@ -1,0 +1,41 @@
+Template-type: ReDIF-Series 1.0
+Name: IDE Discussion Papers
+Provider-Name: Institute of Developing Economies, Japan External Trade Organization(JETRO)
+Provider-Homepage: http://www.ide.go.jp/
+Provider-Institution: RePEc:edi:idegvjp 
+Maintainer-Name: Minami Tosa
+Maintainer-Email: ARRIDE-admin@ide.go.jp
+Type: ReDIF-Paper
+Handle: RePEc:jet:dpaper
+Order-Email: syuppan@ide.go.jp
+Order-Homepage: http://www.ide.go.jp/English/Publish/Order
+Order-Postal: Publication Office, IDE
+3-2-2 Wakaba, Mihama-ku, Chiba-shi, Chiba 261-8545 JAPAN 
+
+
+Template-type: ReDIF-Series 1.0
+Name: IDE Research  Papers
+Provider-Name: Institute of Developing Economies, Japan External Trade Organization(JETRO)
+Provider-Homepage: http://www.ide.go.jp/
+Provider-Institution: RePEc:edi:idegvjp 
+Maintainer-Name: Minami Tosa
+Maintainer-Email: ARRIDE-admin@ide.go.jp
+Type: ReDIF-Paper
+Handle: RePEc:jet:rpaper
+Order-Email: syuppan@ide.go.jp
+Order-Homepage: http://www.ide.go.jp/English/Publish/Order
+Order-Postal: Publication Office, IDE
+3-2-2 Wakaba, Mihama-ku, Chiba-shi, Chiba 261-8545 JAPAN 
+
+
+Template-type: ReDIF-Series 1.0
+Name: The Developing Economies
+Provider-Name: Institute of Developing Economies, Japan External Trade Organization(JETRO)
+Provider-Homepage:  http://www.ide.go.jp/
+Provider-Institution: RePEc:edi:idegvjp 
+Maintainer-Name: Minami Tosa 
+Maintainer-Email: ARRIDE-admin@ide.go.jp
+Type: ReDIF-Article
+Handle: RePEc:jet:deveco
+Order-Homepage: http://www.wiley.com/bw/subs.asp?ref=0012-1533
+ISSN: 0012-1533(Print), 1746-1049(Online)

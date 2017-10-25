@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Series 1.0 
+Name: HiCN Working Papers 
+Provider-Name: Households in Conflict Network
+Provider-Homepage: http://www.hicn.org  	
+Maintainer-Name: Alia Aghajanian 
+Maintainer-Email: info@hicn.org
+Maintainer-Email: tbrueck@diw.de
+Maintainer-Email: p.justino@ids.ac.uk
+Maintainer-Email: philip.verwimp@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:hic:wpaper
+
+Template-Type: ReDIF-Series 1.0 
+Name: HiCN Research Design Notes
+Provider-Name: Households in Conflict Network
+Provider-Homepage: http://www.hicn.org  	
+Maintainer-Name: Alia Aghajanian
+Maintainer-Email: info@hicn.org
+Maintainer-Email: tbrueck@diw.de
+Maintainer-Email: p.justino@ids.ac.uk
+Maintainer-Email: philip.verwimp@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:hic:resdes

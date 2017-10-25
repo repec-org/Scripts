@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Turkish Economic Association
+Provider-Homepage: http://www.tek.org.tr/
+Provider-Institution: RePEc:edi:tekkkea
+Maintainer-Name: Ercan Uygur
+Maintainer-Email: ercan.uygur@gmail.com
+Editor-Name: TEK Secretary
+Editor-Email: tektrtr@gmail.com
+Type: ReDIF-Paper
+Handle: RePEc:tek:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: Ekonomi-tek - International Economics Journal
+Provider-Name: Turkish Economic Association
+Provider-Homepage: http://www.tek.org.tr/
+Provider-Institution: RePEc:edi:tekkkea
+Maintainer-Name: Ercan Uygur
+Maintainer-Email: ercan.uygur@gmail.com
+Editor-Name: TEK Secretary
+Editor-Email: tektrtr@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:tek:journl
+

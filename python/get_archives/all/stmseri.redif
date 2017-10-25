@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: European Stability Mechanism
+Provider-Homepage: https://www.esm.europa.eu
+Provider-Institution: RePEc:edi:efseulu
+Maintainer-Name: Karol SISKIND
+Maintainer-Email: k.siskind@esm.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:stm:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: European Stability Mechanism
+Provider-Homepage: 
+Provider-Institution: RePEc:edi:efseulu
+Maintainer-Name: Karol SISKIND
+Maintainer-Email: k.siskind@esm.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:stm:dpaper
+X-whatever: <repec></repec>

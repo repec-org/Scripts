@@ -1,0 +1,15 @@
+
+			rewe
+			----
+
+ rewe tries to convert ReDIF data into html. It aims to be as flexible as
+ possible to allow you to create the presentation that you like.  
+
+
+ For more information please consult the configuration file rewe.conf.eg that
+ lives in this directory.
+
+ Comments welcome:
+
+ Jose Manuel Barrueco
+ barrueco@uv.es

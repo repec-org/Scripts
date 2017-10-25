@@ -1,0 +1,60 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Stata Journal
+Description: Papers published in the Stata Journal
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Maintainer-Name: Lisa Gilmore
+Maintainer-Email: lgilmore@stata.com
+Editor-Name: H. Joseph Newton
+Editor-Workplace-Name: Texas A&M University
+Editor-Email: jnewton@stat.tamu.edu
+Editor-Name: Nicholas J. Cox
+Editor-Workplace-Name: University of Durham
+Editor-Person: pco34
+Editor-Email: n.j.cox@durham.ac.uk
+Provider-Name: StataCorp LP
+Provider-Homepage: http://www.stata-journal.com/
+Order-Homepage: http://www.stata-journal.com/subscription.html
+Predecessor: RePEc:tsj:stbull
+Handle: RePEc:tsj:stataj
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Stata Press books
+Description: Books published by Stata Press
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Maintainer-Name: Lisa Gilmore
+Maintainer-Email: lgilmore@stata.com
+Provider-Name: StataCorp LP
+Provider-Homepage: http://www.stata-press.com/
+Handle: RePEc:tsj:spbook
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Chapter
+Name: Stata Press book chapters
+Description: Book chapters published by Stata Press
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Maintainer-Name: Lisa Gilmore
+Maintainer-Email: lgilmore@stata.com
+Provider-Name: StataCorp LP
+Provider-Homepage: http://www.stata-press.com/
+Handle: RePEc:tsj:spchap
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Stata Technical Bulletin
+Description: Papers published in the Stata Technical Bulletin
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Maintainer-Name: Lisa Gilmore
+Maintainer-Email: lgilmore@stata.com
+Editor-Name: H. Joseph Newton
+Editor-Workplace-Name: Texas A&M University
+Editor-Email: jnewton@stat.tamu.edu
+Provider-Name: StataCorp LP
+Provider-Homepage: http://stata-press.com/journals/stbj.html
+Followup: RePEc:tsj:stataj
+Handle: RePEc:tsj:stbull

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Lahore Journal of Economics
+Provider-Name: Department of Economics, The Lahore School of Economics
+Provider-Homepage: http://www.lahoreschoolofeconomics.edu.pk/EconomicsJournal/LJEIntro.aspx
+Provider-Institution: RePEc:edi:lsecopk
+Maintainer-Name: Shahid Salahuddin
+Maintainer-Email: shahidss@lahoreschool.edu.pk
+Type: ReDIF-Article
+Handle: RePEc:lje:journl
+
+Template-type: ReDIF-Series 1.0
+Name: CREB Working papers
+Provider-Name: Centre for Research in Economics and Business, The Lahore School of Economics
+Provider-Homepage: http://www.creb.org.pk
+Provider-Institution: RePEc:edi:lsecopk
+Maintainer-Name: Shahid Salahuddin
+Maintainer-Email: shahidss@lahoreschool.edu.pk
+Type: ReDIF-Paper
+Handle: RePEc:lje:wpaper

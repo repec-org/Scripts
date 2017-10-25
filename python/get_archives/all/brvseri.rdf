@@ -1,0 +1,23 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Medzinarodne vztahy (Journal of International Relations)
+Description: This is the premier scientific journal of the Faculty of International Relations at the University of Economics in Bratislava.
+Provider-Name: Ekonomická univerzita, Fakulta medzinárodných vzťahov
+Provider-Homepage: http://fmv.euba.sk
+Provider-Institution: RePEc:edi:eubaask
+Maintainer-Name: Samuel Goda
+Maintainer-Email: samuel.goda@euba.sk
+ISSN: 1336-1562
+Type: ReDIF-Article
+Handle: RePEc:brv:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Almanach (Actual Issues in World Economics and Politics)
+Description: This is the scholarly journal of the Faculty of International Relations at the University of Economics in Bratislava.
+Provider-Name: Ekonomická univerzita, Fakulta medzinárodných vzťahov
+Provider-Homepage: http://fmv.euba.sk
+Provider-Institution: RePEc:edi:eubaask
+Maintainer-Name: Martin Grančay
+Maintainer-Email: martin.grancay@euba.sk
+ISSN: 1337-0715
+Type: ReDIF-Article
+Handle: RePEc:brv:almnch

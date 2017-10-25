@@ -1,0 +1,95 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Description: This is the Working Paper Series of the Peterson Institute for International Economics, formerly the Institute for International Economics. In 1994 the Institute launched a series of working papers. The series is intended to convey the preliminary results of our ongoing research. The research described in these papers is preliminary and has not gone through the usual review process for Institute publications. The views expressed in these papers are those of the authors and do not necessarily reflect the views of the individual members of the Institute's Board or Advisory Committee. We welcome feedback from readers and encourage you to convey your comments and criticisms directly to the authors.
+Provider-Name: Peterson Institute for International Economics
+Provider-Homepage: http://www.piie.com
+Provider-Institution: RePEc:edi:iieeeus
+Maintainer-Name: Peterson Institute webmaster
+Maintainer-Email: webmaster@piie.com
+Type: ReDIF-Paper
+Handle: RePEc:iie:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Briefs 
+Description: This is the Policy Brief Series of the Peterson Institute for International Economics. The Institute’s Policy Briefs in International Economics are short papers that convey urgent policy problems and outline courses of action to resolve them. Each brief begins with an assessment of a current issue, then critiques existing policies, and concludes with policy recommendations. The views expressed in these policy briefs are those of the authors and do not necessarily reflect the views of the individual members of the Institute's Board of Directors or its Advisory Committee. We welcome feedback from readers and encourage you to convey your comments directly to the authors.
+Provider-Name: Peterson Institute for International Economics
+Provider-Homepage: http://www.piie.com
+Provider-Institution: RePEc:edi:iieeeus
+Maintainer-Name: Peterson Institute webmaster	
+Maintainer-Email: webmaster@piie.com
+Type: ReDIF-Paper
+Handle: RePEc:iie:pbrief
+
+Template-type: ReDIF-Series 1.0
+Name: PIIE Briefings 
+Description: The Institute's PIIE Briefings are compendiums of short papers, op-eds, event presentations, transcripts, testimony, speeches, and other materials--some of it previously published--focusing on one particular set of policy concerns. Their purpose is to provide background and policy recommendations from a variety of viewpoints on one subject of timely concern. PIIE Briefings usually open with an introduction and include a table of contents explaining the origin of each element. The views expressed are those of the individual authors and do not purport to reflect the views of the Institute, its Board of Directors or its Advisory Committee.
+Provider-Name: Peterson Institute for International Economics
+Provider-Homepage: http://www.piie.com
+Provider-Institution: RePEc:edi:iieeeus
+Maintainer-Name: Peterson Institute webmaster	
+Maintainer-Email: webmaster@piie.com
+Type: ReDIF-Paper
+Handle: RePEc:iie:piiebs
+
+Template-type: ReDIF-Series 1.0
+Name: Peterson Institute Press: All Books
+Description: All books published by the Peterson Institute for International Economics, including the Policy Analyses in International Economics and Special Report series.
+Classification-JEL: F0, F1, F3, F4
+Type: ReDIF-Book
+Provider-Name: Peterson Institute for International Economics
+Provider-Homepage: http://bookstore.piie.com/
+Provider-Phone: 202-328-9000
+Provider-Postal: 1750 Massachusetts Ave., NW, Washington, DC
+Provider-Fax: 202-328-5432
+Provider-Institution: RePEc:edi:iieeeus
+Maintainer-Name: Peterson Institute webmaster	
+Maintainer-Email: webmaster@piie.com
+Handle: RePEc:iie:ppress
+
+
+Template-type: ReDIF-Series 1.0
+Name: Peterson Institute Press: Policy Analyses in International Economics
+Description: Policy Analyses in International Economics series published by the Peterson Institute for International Economics. The policy analysis format is best used for topics of narrower scope than those addressed in a full-length book. The topic is typically of shorter-term interest, and the analysis may lead to one or more specific, immediate policy recommendations. The audience for the PAs may be broad, including policymakers at all levels as well as academic specialists. PAs should therefore not be overly technical; technical background materials (e.g., descriptions of econometric models) can be placed in an appendix. 
+Classification-JEL: F0, F1, F3, F4
+Type: ReDIF-Book
+Provider-Name: Peterson Institute for International Economics
+Provider-Homepage: http://bookstore.piie.com/
+Provider-Phone: 202-328-9000
+Provider-Postal: 1750 Massachusetts Ave., NW, Washington, DC
+Provider-Fax: 202-328-5432
+Provider-Institution: RePEc:edi:iieeeus
+Maintainer-Name: Peterson Institute webmaster	
+Maintainer-Email: webmaster@piie.com
+Handle: RePEc:iie:piiepa
+
+
+Template-type: ReDIF-Series 1.0
+Name: Peterson Institute Press: Special Reports
+Description: Special Reports series published by the Peterson Institute for International Economics.
+Classification-JEL: F0, F1, F3, F4
+Type: ReDIF-Book
+Provider-Name: Peterson Institute for International Economics
+Provider-Homepage: http://bookstore.piie.com/
+Provider-Phone: 202-328-9000
+Provider-Postal: 1750 Massachusetts Ave., NW, Washington, DC
+Provider-Fax: 202-328-5432
+Provider-Institution: RePEc:edi:iieeeus
+Maintainer-Name: Peterson Institute webmaster	
+Maintainer-Email: webmaster@piie.com
+Handle: RePEc:iie:piiesr
+
+
+Template-type: ReDIF-Series 1.0
+Name: Peterson Institute Press: Chapters
+Description: Chapters in edited volumes published by the Peterson Institute for International Economics.
+Classification-JEL: F0, F1, F3, F4
+Type: ReDIF-Chapter
+Provider-Name: Peterson Institute for International Economics
+Provider-Homepage: http://bookstore.piie.com/
+Provider-Phone: 202-328-9000
+Provider-Postal: 1750 Massachusetts Ave., NW, Washington, DC
+Provider-Fax: 202-328-5432
+Provider-Institution: RePEc:edi:iieeeus
+Maintainer-Name: Peterson Institute webmaster	
+Maintainer-Email: webmaster@piie.com
+Handle: RePEc:iie:piiech

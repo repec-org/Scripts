@@ -1,0 +1,115 @@
+Template-type: ReDIF-Series 1.0
+Name: Proceedings of International Academic Conferences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Jiri Rotschedl, Klara Cermakova
+Editor-Email: editor@iises.net
+ISSN: 2336-5617
+Type: ReDIF-Paper
+Handle: RePEc:sek:iacpro
+
+Template-type: ReDIF-Series 1.0
+Name: Proceedings of Arts & Humanities Conferences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Jiri Rotschedl
+Editor-Email: editor@iises.net
+ISSN: 2336-5617
+Type: ReDIF-Paper
+Handle: RePEc:sek:iahpro
+
+Template-type: ReDIF-Series 1.0
+Name: Proceedings of Economics and Finance Conferences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Jiri Rotschedl
+Editor-Email: editor@iises.net
+Type: ReDIF-Paper
+Handle: RePEc:sek:iefpro
+
+Template-type: ReDIF-Series 1.0
+Name: Proceedings of Law and Political Sciences Conferences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Jiri Rotschedl
+Editor-Email: editor@iises.net 
+Type: ReDIF-Paper
+Handle: RePEc:sek:ilppro
+
+Template-type: ReDIF-Series 1.0
+Name: Proceedings of Teaching and Education Conferences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Jiri Rotschedl
+Editor-Email: editor@iises.net 
+Type: ReDIF-Paper
+Handle: RePEc:sek:itepro
+
+Template-type: ReDIF-Series 1.0
+Name: Proceedings of Business and Management Conferences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Jiri Rotschedl
+Editor-Email: editor@iises.net
+Type: ReDIF-Paper
+Handle: RePEc:sek:ibmpro
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Economic Sciences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://ijoes.iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Robert Holman
+Editor-Email: editor@iises.net
+ISSN: 1804-9796
+Type: ReDIF-Article 
+Handle: RePEc:sek:jijoes
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Social Sciences
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://ijoss.iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Tana Kubatova
+Editor-Email: editor@iises.net
+ISSN: 1804-980X
+Type: ReDIF-Article 
+Handle: RePEc:sek:jijoss
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Teaching and Education
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://ijote.iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Tana Kubatova
+Editor-Email: editor@iises.net
+ISSN: 2336-2022
+Type: ReDIF-Article 
+Handle: RePEc:sek:jijote
+
+Template-type: ReDIF-Series 1.0
+Name: International Journal of Business and Management
+Provider-Name: International Institute of Social and Economic Sciences
+Provider-Homepage: http://ijobm.iises.net/
+Maintainer-Name: Klara Cermakova
+Maintainer-Email: iises@iises.net
+Editor-Name: Klara Cermakova, Tana Kubatova
+Editor-Email: editor@iises.net
+ISSN: 2336-2197
+Type: ReDIF-Article 
+Handle: RePEc:sek:jijobm

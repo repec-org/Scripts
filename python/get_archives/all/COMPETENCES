@@ -1,0 +1,124 @@
+This files documents who is competent in what in the RePEc project. Three
+levels of competence are indicated:
+(1) competent (writer of the script or very familiar with it)
+(2) somewhat familiar (sort of know how it works, can step in if (1)
+unavailable)
+(3) basic (has a vague idea and has access to scripts)
+
+remi
+(1) Sune Karlsson <Sune.Karlsson@esi.oru.se> (but no access to all)
+(2) Jose Manuel Barrueco <barrueco@uv.es>
+(3) Christian Zimmermann <christian.zimmermann@uconn.edu>
+
+rech, redif.spec
+(1) Ivan Kurmanov <kurmanov@openlib.org>
+(2) Thomas Krichel <krichel@openlib.org>
+
+all archive
+(1)  Thomas Krichel <krichel@openlib.org>
+(1) Kit Baum <baum@bc.edu>
+(2) Jose Manuel Barrueco <barrueco@uv.es>
+(2) Christian Zimmermann <christian.zimmermann@uconn.edu>
+
+all server
+(1)  Thomas Krichel <krichel@openlib.org>
+
+NEP scripts
+(3)  Thomas Krichel <krichel@openlib.org>
+
+NEP server
+(1)  Thomas Krichel <krichel@openlib.org>
+
+LogEc scripts, rstat.pl
+(1) Sune Karlsson <Sune.Karlsson@esi.oru.se>
+
+LogEc server
+(1) Sune Karlsson <Sune.Karlsson@esi.oru.se>
+(3) Lars-Inge Wixner <lars-inge.wixner@esi.oru.se> (reboot)
+(3) Anders Gustafsson <anders.gustafsson@esi.oru.se> (reboot)
+
+rr.pm, rc2.pm, redif.spec
+(1) Ivan Kurmanov <kurmanov@openlib.org>
+(3) Sune Karlsson <Sune.Karlsson@esi.oru.se>
+
+netec at hit-u account
+(1) Thomas Krichel <krichel@openlib.org>
+(2) Jose Manuel Barrueco <barrueco@uv.es>
+
+wop archive
+(1) Thomas Krichel <krichel@openlib.org>
+(2) Kit Baum <baum@bc.edu>
+
+wuk archive
+(1) Thomas Krichel <krichel@openlib.org>
+(2) Kit Baum <baum@bc.edu>
+
+fip archive
+(1) Thomas Krichel <krichel@openlib.org>
+(3) Diane Rosenberger <Diane.Rosenberger@sf.frb.org>
+
+fth archive
+(1) Thomas Krichel <krichel@openlib.org>
+(2) Kit Baum <baum@bc.edu>
+
+repec-admin owners
+(1) Christian Zimmermann <christian.zimmermann@uconn.edu>
+(1) Thomas Krichel <krichel@openlib.org>
+(3) Jose Manuel Barrueco <barrueco@uv.es>
+
+repec-tech owners
+(1) Thomas Krichel <krichel@openlib.org>
+(3) Jose Manuel Barrueco <barrueco@uv.es>
+
+nep-* owners
+(1) Bernado Batiz-Lazo <b.batiz@open.ac.uk>
+(1) J. S. Irons <irons@mit.edu>
+
+RePEc Author Service, script aspects
+(1) Ivan Kurmanov <kurmanov@openlib.org>
+(2) Christian Zimmermann <christian.zimmermann@uconn.edu>
+
+RePEc Author Service, user monitoring
+(1) Christian Zimmermann <christian.zimmermann@uconn.edu>
+(2) Ivan Kurmanov <kurmanov@openlib.org>
+
+RePEc Author Service, hardware
+(1) Christian Zimmermann <christian.zimmermann@uconn.edu> (local contact)
+(1) Robert Parks <bparks@wueconc.wuslt.edu> (hardware)
+(2) Thomas Krichel <krichel@openlib.org> (hardware)
+(2) Timothy Ruggieri <timothy.ruggieri@uconn.edu> (reboot)
+(3) Geoffrey Meigs <geoffrey.meigs@uconn.edu> (reboot)
+
+IDEAS
+(1) Christian Zimmermann <christian.zimmermann@uconn.edu>
+(2) Timothy Ruggieri <timothy.ruggieri@uconn.edu> (hardware, reboot)
+(3) Geoffrey Meigs <geoffrey.meigs@uconn.edu> (hardware, reboot)
+
+EconPapers
+(1) Sune Karlsson <sune.karlsson@esi.oru.se>
+(3) Lars-Inge Wixner <lars-inge.wixner@esi.oru.se> (reboot)
+(3) Anders Gustafsson <anders.gustafsson@esi.oru.se> (reboot)
+
+Monthly mailings
+(1) Christian Zimmermann <christian.zimmermann@uconn.edu>
+
+EDIRC
+(1) Christian Zimmermann <christian.zimmermann@uconn.edu>
+
+RePEc homepage
+(1) Kit Baum <baum@bc.edu>
+(2) Christian Zimmermann <christian.zimmermann@uconn.edu>
+
+CitEc
+(1) Jose Manuel Barrueco <barrueco@uv.es>
+
+carnation (CitEc) server
+(1) Thomas Krichel <krichel@openlib.org>
+
+repec.org domain, DNS entries
+(1) Kit Baum <baum@bc.edu>
+(1) Sune Karlsson <karlsson@esi.oru.se>
+
+archive registration database
+(1) Kit Baum <baum@bc.edu>
+(2) Christian Zimmermann <christian.zimmermann@uconn.edu>

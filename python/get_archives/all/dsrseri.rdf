@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Serie Working Papers
+Provider-Name: Universidad del Desarrollo, School of Business and Economics
+Provider-Homepage: http://negocios.udd.cl/
+Provider-Institution: RePEc:edi:feuddcl
+Maintainer-Name: Jean Sepulveda
+Maintainer-Email: jeansepulveda@udd.cl
+Type: ReDIF-Paper
+Handle: RePEc:dsr:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Past Working Papers
+Provider-Name: Universidad del Desarrollo, School of Business and Economics
+Provider-Homepage: http://negocios.udd.cl/
+Provider-Institution: RePEc:edi:feuddcl
+Maintainer-Name: Jean Sepulveda
+Maintainer-Email: jeansepulveda@udd.cl
+Type: ReDIF-Paper
+Handle: RePEc:dsr:pastwp

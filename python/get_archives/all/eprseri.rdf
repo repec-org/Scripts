@@ -1,0 +1,51 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics Working Papers
+Description: This series provides applied economics papers on European issues.
+Classification-JEL:
+Type: ReDIF-Paper
+Provider-Name: European Network of Economic Policy Research Institutes
+Provider-Homepage: http://www.enepri.org
+Provider-Phone: +32 2 229 3911
+Provider-Postal: ENEPRI
+ c/o CEPS
+ Place du Congrès 1
+ 1000 Brussels
+ Belgium
+Provider-Fax: +32 2 219 4151
+Provider-Institution: RePEc:edi:eneprea
+Maintainer-Name: CEPS
+Maintainer-Email: info@enepri.org
+Order-Email: info@enepri.org
+Order-Homepage: http://www.enepri.org
+Order-Postal: ENEPRI
+ c/o CEPS
+ Place du Congrès 1
+ 1000 Brussels
+ Belgium
+Handle: RePEc:epr:enepwp
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional Papers
+Description: This series provides non-technical economic policy recommendations.
+Classification-JEL:
+Type: ReDIF-Paper
+Provider-Name: European Network of Economic Policy Research Institutes
+Provider-Homepage: http://www.enepri.org
+Provider-Phone: +32 2 229 3911
+Provider-Postal: ENEPRI
+ c/o CEPS
+ Place du Congrès 1
+ 1000 Brussels
+ Belgium
+Provider-Fax: +32 2 219 4151
+Provider-Institution: RePEc:edi:eneprea
+Maintainer-Name: CEPS
+Maintainer-Email: info@enepri.org
+Order-Email: info@enepri.org
+Order-Homepage: http://www.enepri.org
+Order-Postal: ENEPRI
+ c/o CEPS
+ Place du Congrès 1
+ 1000 Brussels
+ Belgium
+Handle: RePEc:epr:enepop

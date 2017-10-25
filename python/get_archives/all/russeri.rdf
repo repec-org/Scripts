@@ -1,0 +1,1932 @@
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Classification-Scheme: экономика
+Name: Архив публикаций по экономике РАРДЭС
+Description: В архив помещаются электронные публикации по экономике по просьбе ученых, которые не могут это сделать самостоятельно через личную зону Соционет
+Publisher-Name: Соционет 
+Publisher-Homepage: http://socionet.ru/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: RePEc:rus:rardes
+
+Template-type: ReDIF-Series 1.0
+Name: Научные доклады EERC
+Description: Результаты исследований, выполненных при поддержке Консорциума экономических исследований и образования
+Classification-Scheme: экономика
+Type: ReDIF-Paper
+Provider-Name: EERC Россия и СНГ
+Provider-Homepage: http://www.eerc.ru
+Provider-Phone: +7(095)332-4415, 332-4425
+Provider-Postal: Россия, 117418, Москва, Нахимовский прт., 47, офис 919
+                 EERC Россия и СНГ
+Provider-Fax:   +1(202)478-1968
+Maintainer-Name: Людмила Семенова
+Maintainer-Email: semenova@eerc.ru
+Editor-Name: Людмила Семенова
+Editor-Email: semenova@eerc.ru
+Editor-Workplace-Name: EERC Россия и СНГ
+Editor-Workplace-Homepage: http://www.eerc.ru
+Order-Email: eerc@eerc.ru
+Order-Homepage: http://www.eerc.ru/publications/subscriptions/default.htm
+Order-Postal: Россия, 117418, Москва, Нахимовский прт., 47, офис 919
+              EERC Россия и СНГ
+Price: FREE
+Handle: RePEc:rus:eerrus
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article 
+Name: Журнал "Экономическая наука современной России"
+Publisher-Name: Центральный экономико-математический институт, webmaster@cemi.rssi.ru 
+Publisher-Homepage: http://www.cemi.rssi.ru/ecr/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:enmrcf
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article 
+Name: Статьи, опубликованные сотрудниками ЦЭМИ РАН
+Publisher-Name: Центральный Экономико-Математический Институт
+Publisher-Homepage: http://www.cemi.rssi.ru/rus/publicat/articles.htm
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:cemicf
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Онлайновый каталог новых поступлений библиотеки ИЭОПП СО РАН
+Description: Новые поступления начиная с 1997 г.
+Classification-scheme: экономика, социология
+Publisher-Name: Институт Экономики и ОПП СО РАН
+Publisher-Homepage: http://lib.ieie.nsc.ru/
+Editor-Name: Э.В. Новикова
+Editor-Email: nov@ieie.nsc.ru
+Maintainer-Name: Э.В. Новикова
+Maintainer-Email: nov@ieie.nsc.ru
+Handle: RePEc:rus:ieieli
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name:  Социологический журнал
+Classification-scheme: социология
+Publisher-Name: Институт социологии РАН.
+Publisher-Homepage:  http://win.www.nir.ru/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:socioj
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал "Полис" (ПОЛитические ИСследования.)
+Classification-scheme: политология
+Publisher-Name: Российская Ассоциация Политической Науки
+Publisher-Homepage: http://www.politstudies.ru/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:polstd
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономика. Экономические науки
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0600
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Общие вопросы экономических наук
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0601
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Марксистско-ленинская политическая экономия
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0605
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Немарксистская политическая экономия
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0607
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: История экономической мысли
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0609
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Наука управления экономикой. Учетно-экономические науки
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0635
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономическая география
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0641
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономическая история
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0643
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Мировая экономика. Международные экономические отношения
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0651
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономика социалистических стран
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0655
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономика капиталистических стран
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0657
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономика развивающихся стран
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0659
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Территориальная структура экономики. Пространственная (региональная) экономика
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0661
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Отраслевая структура экономики. Отраслевые и специальные экономические науки
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0671
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономические проблемы организации и управления народным хозяйством
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email: bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0675
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономика и организация предприятия. Управление предприятием
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email: bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0681
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Экономика отдельных стран
+Description: Новые поступления в фонд ГПНТБ СО РАН
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email: bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:gp0691
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Software
+Name: Программное обеспечение системы Соционет
+Description: Программное обеспечение, входящее в состав системы Соционет
+Classification-Scheme: экономика, социология
+Maintainer-Name: SERGEI PARINOV
+Maintainer-Email: parinov@ieie.nsc.ru
+Publisher-Name: Socionet Open Archives
+Publisher-Email: admin@socionet.ru
+Publisher-Homepage: http://spz.socionet.ru/archives/
+Handle: RePEc:rus:sosoft
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Книги, представленные на сайте Demoscope Weekly
+Classification-Scheme: демография
+Maintainer-Name: Kirill Reshetnikov
+Maintainer-Email: demosope@demoscope.ru
+Publisher-Name: Центр демографии и экологии человека
+Publisher-Homepage: http://www.demoscope.ru/
+Handle: RePEc:rus:demosc
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Электронные информационные ресурсы и публикации МВШСЭН
+Classification-Scheme: социология
+Maintainer-Name: Alexander Artamonov
+Maintainer-Email: art@msses.ru
+Maintainer-Name: Alexander Belov
+Publisher-Name: Московская высшая школа социальных и экономических наук
+Publisher-Homepage: http://rc.msses.ru/rc/
+Handle: RePEc:rus:mssrce
+
+Template-Type: ReDIF-Series 1.0
+Name: Тексты интервью из этнологических экспедиций (север России)
+Publisher-Name: Европейский университет в Санкт-Петербурге
+Classification-scheme: социология
+Publisher-Homepage: http://www.eu.spb.ru/
+Maintainer-Name: Philip Torchinsky
+Maintainer-Email: filip@eu.spb.ru
+Handle: RePEc:rus:eusp01
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Препринты РЭШ
+Maintainer-Name: Людмила Солнцева
+Maintainer-Email: lsolnzev@nes.ru
+Publisher-Name: Российская Экономическая Школа
+Publisher-Homepage: http://www.nes.ru
+Handle: RePEc:rus:nespub
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал Экономика и математические методы (ЭММ)
+Publisher-Name: Центральный Экономико-Математический Институт (ЦЭМИ)
+Publisher-Homepage: http://www.cemi.rssi.ru/emm/home.htm
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:cememm
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Электронные издания сотрудников ЦЭМИ
+Publisher-Name: Центральный Экономико-Математический Институт
+Publisher-Homepage: http://www.cemi.rssi.ru/rus/publicat/e-pubs.htm
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:cemepu
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Препринты сотрудников ЦЭМИ
+Publisher-Name: Центральный Экономико-Математический Институт
+Publisher-Homepage: http://www.cemi.rssi.ru/rus/publicat/preprint.htm
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:cempre
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Новые публикации ЦЭМИ РАН
+Publisher-Name: Центральный Экономико-Математический Институт
+Publisher-Homepage: http://www.cemi.rssi.ru/rus/publicat/newpubs.htm
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:cemnew
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Книги сотрудников ЦЭМИ
+Publisher-Name: Центральный Экономико-Математический Институт
+Publisher-Homepage: http://www.cemi.rssi.ru/rus/publicat/books.htm
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:cembuk
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал "Pro et Contra"
+Classification-Scheme: политология
+Maintainer-Name: Dmitri Basisty
+Maintainer-Email: webmaster@carnegie.ru
+Maintainer-Phone: +7(095)9358904
+Maintainer-Fax: +7(095)9358906
+Publisher-Name: Московский Центр Карнеги
+Publisher-Homepage: http://pubs.carnegie.ru/p&c/
+Publisher-Email: info@carnegie.ru
+Publisher-Phone: +7(095)9358904
+Publisher-Fax: +7(095)9358906
+Order-Postal: Россия, 103009, Москва, Тверская ул., 16/2
+Editor-Name: М. П. Павлова-Сильванская
+Editor-Email: journal@carnegie.ru
+Handle: RePEc:rus:prorus
+Description: С осени 1996 года Московский центр Карнеги выпускает на русском языке ежеквартальный журнал Pro et Contra по общественно значимым проблемам России и новых независимых государств. Номера журнала построены по тематическому принципу и посвящены (как правило, поочередно) вопросам либо внешней, либо внутренней политики в регионе. Журнал предлагает своим читателям многообразные подборки статей, дающих глубокую, взвешенную и разностороннюю оценку наиболее острых проблем современной общественно-политической жизни. На его страницах присутствуют и такие жанры, как портреты политических деятелей, очерки, книжные обзоры, рецензии и письма читателей.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Каталог изданий ИЭОПП СО РАН 
+Description: Новые поступления начиная с 1997 г.
+Classification-scheme: экономика, социология
+Publisher-Name: Институт Экономики и ОПП СО РАН
+Publisher-Homepage: http://lib.ieie.nsc.ru/
+Editor-Name: Э.В. Новикова
+Editor-Email: nov@ieie.nsc.ru
+Maintainer-Name: Э.В. Новикова
+Maintainer-Email: nov@ieie.nsc.ru
+Handle: RePEc:rus:ieiepu
+
+Template-Type: ReDIF-Series 1.0
+Name: Индикаторы экономической конъюнктуры
+Maintainer-Name: Golyshev G.A.
+Maintainer-Email: drag@forecast.ru
+Publisher-Name: Центр Макроэкономического анализа и краткосрочного прогнозирования
+Publisher-Homepage: http://forecast.ru
+Handle: RePEc:rus:forec1
+
+Template-Type: ReDIF-Series 1.0
+Name: Ежемесячные обзоры макроэкономической конъюнктуры
+Maintainer-Name: Golyshev G.A.
+Maintainer-Email: drag@forecast.ru
+Publisher-Name: Центр Макроэкономического анализа и краткосрочного прогнозирования
+Publisher-Homepage: http://forecast.ru
+Handle: RePEc:rus:foreca
+
+Template-Type: ReDIF-Series 1.0
+Name: Текущий список типов данных
+Type: ReDIF-Datatype
+Classification-scheme: 0
+Description:
+ В этих сериях (rus:dtypes,rus:discip)
+ лежат редиф-записи с описанием
+ каждого типа данных и дисциплины.
+ В этих записях фиксируется английское название
+ дисциплины (и типа данных). И эти записи являются
+ первоисточником соответствующих имен для всей нашей
+ системы.
+Handle: RuPEc:rus:dtypes
+
+Template-Type: ReDIF-Series 1.0
+Name: Текущий список дисциплин
+Type: ReDIF-Discipline
+Classification-scheme: 0
+Description:
+ В этих сериях (rus:dtypes,rus:discip)
+ лежат редиф-записи с описанием
+ каждого типа данных и дисциплины.
+ В этих записях фиксируется английское название
+ дисциплины (и типа данных). И эти записи являются
+ первоисточником соответствующих имен для всей нашей
+ системы.
+Handle: RuPEc:rus:discip
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Публикации сотрудников ИЭОПП СО РАН по региональной тематике с 1990 г.
+Classification-Scheme: экономика, социология
+Maintainer-Name: Galina Cheverda
+Maintainer-Email: region@ieie.nsc.ru
+Publisher-Name: Институт экономики и ОПП СО РАН (ИЭОПП СО РАН)
+Publisher-Homepage: http://www.ieie.nsc.ru/~sergeeva/
+Handle: RePEc:rus:ieiere
+Description: Эти публикации сделаны в последние 10 лет.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Монографии, сборники, учебники сотрудников ИЭОПП СО РАН по региональной тематике с 1990 г.
+Classification-Scheme: экономика, социология
+Maintainer-Name: Galina Cheverda
+Maintainer-Email: region@ieie.nsc.ru
+Publisher-Name: Институт экономики и ОПП СО РАН (ИЭОПП СО РАН)
+Publisher-Homepage: http://www.ieie.nsc.ru/~sergeeva/
+Handle: RePEc:rus:ieierb
+Description: Эти публикации сделаны в последние 10 лет.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Препринты сотрудников ИЭОПП СО РАН по региональной тематике с 1990 г.
+Classification-Scheme: экономика, социология
+Maintainer-Name: Galina Cheverda
+Maintainer-Email: region@ieie.nsc.ru
+Publisher-Name: Институт экономики и ОПП СО РАН (ИЭОПП СО РАН)
+Publisher-Homepage: http://www.ieie.nsc.ru/~sergeeva/
+Handle: RePEc:rus:ieierp
+Description: Эти публикации сделаны в последние 10 лет.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Издания Московского Центра Карнеги в 2001 г.
+Classification-Scheme: политология, социология, экономика
+Maintainer-Name: Дмитрий Басистый
+Maintainer-Email: webmaster@carnegie.ru
+Maintainer-Phone: +7(095)9358904
+Maintainer-Fax: +7(095)9358906
+Publisher-Name: Московский Центр Карнеги
+Publisher-Homepage: http://pubs.carnegie.ru/books/2001
+Publisher-Email: info@carnegie.ru
+Publisher-Phone: +7(095)9358904
+Publisher-Fax: +7(095)9358906
+Order-Postal: Россия, 103009, Москва, Тверская ул., д. 16/2
+Handle: RePEc:rus:pubs01
+Description: Книги, изданные Московским Центром Карнеги в 2001 г.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Издания Московского Центра Карнеги в 2000 г.
+Classification-Scheme: политология, социология, экономика
+Maintainer-Name: Дмитрий Басистый
+Maintainer-Email: webmaster@carnegie.ru
+Maintainer-Phone: +7(095)9358904
+Maintainer-Fax: +7(095)9358906
+Publisher-Name: Московский Центр Карнеги
+Publisher-Homepage: http://pubs.carnegie.ru/books/2000
+Publisher-Email: info@carnegie.ru
+Publisher-Phone: +7(095)9358904
+Publisher-Fax: +7(095)9358906
+Order-Postal: Россия, 103009, Москва, Тверская ул., д. 16/2
+Handle: RePEc:rus:pubs00
+Description: Книги, изданные Московским Центром Карнеги в 2001 г.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Социология в целом
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0400
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Общие вопросы социологии
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0401
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Общие проблемы современной социологии
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0411
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Методология социологии. Методика и техника социологических
+исследований
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0415
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Общество как система. Социальные отношения и процессы
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0421
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Социальные классы, общности и группы
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0441
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Социология сфер социальной жизни, социальных явлений и институтов
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0451
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Социология личности и поведения
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0461
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Историческая и региональная социология
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0471
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: История социологии
+Description: Новые поступления в фонд ГПНТБ СО РАН. Данные публикации могут
+быть
+  заказаны по МБА.
+Publisher-Name: ГПНТБ СО РАН
+Publisher-Homepage: http://www.spsl.nsc.ru/
+Editor-Name: Баженов С.Р.
+Editor-Email:  bazhenov@spsl.nsc.ru
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: socionet@ieie.nsc.ru
+Classification-scheme: социология
+Handle: RePEc:rus:gp0491
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Издания Московского Центра Карнеги в 1999 г.
+Classification-Scheme: политология, социология, экономика, история
+Maintainer-Name: Дмитрий Басистый
+Maintainer-Email: webmaster@carnegie.ru
+Maintainer-Phone: +7(095)9358904
+Maintainer-Fax: +7(095)9358906
+Publisher-Name: Московский Центр Карнеги
+Publisher-Homepage: http://pubs.carnegie.ru/books/1999
+Publisher-Email: info@carnegie.ru
+Publisher-Phone: +7(095)9358904
+Publisher-Fax: +7(095)9358906
+Order-Postal: Россия, 103009, Москва, Тверская ул., д. 16/2
+Handle: RePEc:rus:pubs99
+Description: Книги, изданные Московским Центром Карнеги в 1999 г.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Аналитические статьи и доклады
+Classification-Scheme: экономика
+Maintainer-Name: Golyshev G.A.
+Maintainer-Email: mail@forecast.ru
+Publisher-Name: Центр макроэкономического анализа и краткосрочного прогнозирования
+Publisher-Homepage: http://www.forecast.ru
+Publisher-Email: mail@forecast.ru
+Keywords: аналитика, макроэкономика, прогноз, экономические показатели, ВВП, финансы, промышленность, банки, валюта, резервы, активы, ликвиды
+Handle: RePEc:rus:forecb
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Интернет и современное общество
+Description: Набор коллекций включает разделы открытого Архива МЦ СПбГУ
+Classification-Scheme: экономика, социология
+Maintainer-Name: 1953-10-21:OLGA_STESIK
+Maintainer-Email: stes@icape.nw.ru
+Publisher-Name: МЦ СПбГУ
+Publisher-Email: RePEc@icape.nw.ru
+Publisher-Homepage: http://socionet.nw.ru/
+Handle: RePEc:rus:spbims
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Социологический форум
+Classification-Scheme: социология
+Maintainer-Name: Ольга Ечевская
+Maintainer-Email: etchevskaya@ngs.ru
+Publisher-Name: Русский Социологический Форум
+Publisher-Homepage: http://www.sociology.ru/forum/redak.html
+Handle: RePEc:rus:nsusfo
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал "Рубеж"
+Classification-Scheme: социология
+Maintainer-Name: Ольга Ечевская
+Maintainer-Email: etchevskaya@ngs.ru
+Publisher-Name: Сыктывкарский Государственный Университет
+Publisher-Homepage: http://ssu.komi.com:8101/
+Handle: RePEc:rus:nsusru
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал социологии и социальной антропологии
+Classification-Scheme: социология
+Maintainer-Name: Ольга Ечевская
+Maintainer-Email: etchevskaya@ngs.ru
+Publisher-Name: Факультет социологии Санкт-Петербургского государственного университета
+Publisher-Homepage: http://www.soc.pu.ru/cp1251/home.html
+Publisher-Email: vvk@soc.pu.ru
+Publisher-Phone: +007 812 1100077
+Publisher-Fax: +007 812 1100077
+Publisher-Name: Институт социологии Российской Академии Наук (Санкт-Петербургский филиал)
+Publisher-Phone: +007 812 2719223
+Publisher-Name: Русское социологическое общество имени  М.М.Ковалевского
+Handle: RePEc:rus:nsussa
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал "Экономическая социология"
+Classification-Scheme: социология
+Maintainer-Name: Ольга Ечевская
+Maintainer-Email: etchevskaya@ngs.ru
+Publisher-Name: Экономическая социология
+Publisher-Homepage: http://www.ecsoc.msses.ru/index.html
+Publisher-Email: ecsoc@msses.ru
+Editor-Name: Радаев Вадим Валерьевич
+Editor-Email: radaev@hse.ru
+Handle: RePEc:rus:nsuses
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Universitas
+Classification-Scheme: социология, политология, право
+Maintainer-Name: А. В. Белов
+Maintainer-Email: abelov@msses.ru
+Publisher-Name: Московская высшая школа социальных и экономических наук (МВШСЭН)
+Publisher-Homepage: http://www.universitas.ru
+Handle: RePEc:rus:mssrun
+Description: Программы курсов, разработанных и преподаваемых Московской высшей Школой социальных и экономических наук
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Лучшие студенческие работы кафедры общей социологии ЭФ НГУ
+Classification-Scheme: социология
+Maintainer-Name: Г. С. Сигарева
+Maintainer-Email: primula@admin.nsu.ru
+Publisher-Name: Кафедра общей социологии экономического факультета НГУ
+Publisher-Homepage: http://www.ieie.nsc.ru/~meta-nsk/
+Handle: RePEc:rus:nsusbe
+Description: Публикации отбираются по итогам защит курсовых работ, начиная с 2001 г.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Учебно-методические пособия кафедры общей социологии НГУ
+Classification-Scheme: социология
+Maintainer-Name: Сигарева Г.С.
+Maintainer-Email: primula@admin.nsu.ru
+Publisher-Name: Кафедра общей социологии экономического факультета НГУ
+Publisher-Homepage: http://www.ieie.nsc.ru/~meta-nsk/
+Handle: RePEc:rus:nsusme
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Темы курсовых работ с 1999 г.
+Classification-Scheme: социология
+Maintainer-Name: Г.С. Сигарева
+Maintainer-Email: primula@admin.nsu.ru
+Publisher-Name: Кафедра общей социологии экономического факультета НГУ
+Publisher-Homepage: http://www.ieie.nsc.ru/~meta-nsk/
+Handle: RePEc:rus:nsuste
+Description: Каталог тем курсовых работ, подготовленных под руководством преподавателей кафедра социологии
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Рабочие материалы Московского Центра Карнеги, 2001
+Maintainer-Name: Дмитрий Басистый
+Maintainer-Email: webmaster@carnegie.ru
+Maintainer-Phone: +7(095)9358904
+Maintainer-Fax: +7(095)9358904
+Publisher-Name: Московский Центр Карнеги
+Publisher-Homepage: http://pubs.carnegie.ru/workpapers
+Publisher-Email: info@carnegie.ru
+Publisher-Phone: +7(095)9358904
+Publisher-Fax: +7(095)9358906
+Handle: RePEc:rus:wp2001
+Description: Статьи и доклады, издаваемые Московским Центром Карнеги в серии "Рабочие материалы", обеспечивают читательской аудитории оперативный доступ к наиболее актуальным исследованиям по вопросам внешней и внутренней политики в России и Евразии. В серии публикуются либо промежуточные итоги работы, либо материалы, заслуживающие немедленного внимания читателей. Ваши отклики и комментарии просим направлять авторам работ по электронной почте или по вышеуказанному адресу.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Еженедельный демографический журнал "Демоскоп  Weekly"
+Classification-Scheme: демография
+Maintainer-Name: Кирилл Решетников
+Maintainer-Email: demoscope@demoscope.ru
+Publisher-Name: Центр демографии и экологии человека ИНП РАН
+Publisher-Homepage: http://demoscope.ru/
+Handle: RePEc:rus:demoaa
+Description: Демоскоп Weekly - еженедельная демографическая газета. Электронная версия
+ бюллетеня "Население и общество". Информационные аналитические материалы
+ по демографической ситуации, смертности, рождаемости, миграции, здоровью,
+ семье, занятости, уровню образу жизни населения в России во всем мире.
+
+Template-Type: ReDIF-Series 1.0
+Name: Тексты интервью по истории России
+Publisher-Name: Европейский университет в Санкт-Петербурге
+Publisher-Homepage: http://www.eu.spb.ru/
+Maintainer-Name: Philip Torchinsky
+Maintainer-Email: filip@eu.spb.ru
+Handle: RePEc:rus:eusp02
+
+Template-Type: ReDIF-Series 1.0
+Name: Тексты интервью. Социология.
+Publisher-Name: Европейский университет в Санкт-Петербурге
+Publisher-Homepage: http://www.eu.spb.ru/
+Maintainer-Name: Philip Torchinsky
+Maintainer-Email: filip@eu.spb.ru
+Handle: RePEc:rus:eusp03
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Публикации Григория Ханина
+Description: Эти публикации сделаны в последние 10 лет. 
+Classification-scheme: экономика
+Publisher-Name: Институт экономики и ОПП СО РАН (ИЭОПП СО РАН)
+Publisher-Homepage: http://www.ieie.nsc.ru/~sergeeva/
+Maintainer-Name: Galina Cheverda
+Maintainer-Email: region@ieie.nsc.ru
+Handle: RePEc:rus:khanin
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Лучшие студенческие работы
+Classification-Scheme: экономика
+Maintainer-Name: Людмила Солнцева
+Publisher-Name: Российская Экономическая Школа
+Publisher-Homepage: http://www.nes.ru/
+Handle: RePEc:rus:nesbsp
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Социологический Журнал: Статьи
+Classification-Scheme: социология
+Maintainer-Name: Г.С. Батыгин
+Maintainer-Email: batygin@isras.rssi.ru
+Publisher-Name: Институт социологии РАН
+Publisher-Homepage: http://www.nir.ru/Socio/scipubl/socjour.htm
+Handle: RePEc:rus:batart
+Description: Раздел "Статьи" полной онлайновой версии журнала "Социологические исследования".
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Социологический Журнал: Обзоры книг и статей
+Classification-Scheme: социология
+Maintainer-Name: Г.С. Батыгин
+Maintainer-Email: batygin@isras.rssi.ru
+Publisher-Name: Институт социологии РАН
+Publisher-Homepage: http://www.nir.ru/Socio/scipubl/socjour.htm
+Handle: RePEc:rus:batrev
+Description: Раздел "Обзоры книг и статей" полной онлайновой версии журнала "Социологические исследования".
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Курсы лекций РЭШ
+Classification-Scheme: экономика
+Maintainer-Name: Людмила Солнцева
+Maintainer-Email: lsolnzev@nes.ru
+Publisher-Name: Российская экономическая школа
+Publisher-Homepage: http://www.nes.ru/
+Handle: RePEc:rus:neslec
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Выступления на открытом семинаре РЭШ
+Maintainer-Name: Людмила Солнцева
+Maintainer-Email: lsolnzev@nes.ru
+Publisher-Name: Российская Экономическая Школа
+Publisher-Homepage: http://www.nes.ru
+Handle: RePEc:rus:nessem
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Отчеты о научной и научно-организационной деятельности института в целом, подразделений и исследователей ИЭОПП СО РАН
+Classification-Scheme: экономика, социология
+Maintainer-Name: Чеверда Г. М.
+Maintainer-Email: region@ieie.nsc.ru
+Publisher-Name: Институт экономики и организации промышленного производства СО РАН
+Publisher-Homepage: http://www.ieie.nsc.ru/
+Publisher-Email: ieie@ieie.nsc.ru
+Handle: RePEc:rus:ieiego
+Description: Отчеты о научной и научно организационной деятельности ИЭОПП СО РАН, начиная с 1998 г.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал "Регион: экономика и социология"
+Classification-Scheme: экономика, социология
+Maintainer-Name: Г.М. Чеверда
+Maintainer-Email: region@ieie.nsc.ru
+Publisher-Name: Институт экономики и организации промышленного производства СО РАН
+Publisher-Homepage: http://region.socionet.ru/
+Publisher-Email: kin@ieie.nsc.ru
+Handle: RePEc:rus:regior
+Description: Журнал, издаваемый ИЭиОПП СО РАН
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Публикации по проблематике "инновационная среда"
+Classification-Scheme: экономика
+Maintainer-Name: Galina Untura
+Maintainer-Email: untura@ieie.nsc.ru
+Publisher-Name: Институт экономики и организации промышленного производства СО РАН
+Publisher-Homepage: http://www.ieie.nsc.ru/
+Handle: RePEc:rus:untuin
+Description: Коллекция содержит поддборку публикаций разных авторов по структуре и механизму функционирования инновационной среды регионов в условиях рынка
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Вопросы Экономики
+Description: Ведущий в России теоретический и научно-практический журнал
+ общеэкономического содержания. Основан в 1929 году.
+ Аудитория: экономисты-исследователи, преподаватели и студенты вузов,
+ руководители
+ федеральных и региональных органов власти, отвечающие за разработку
+ экономической
+ политики, аналитические подразделения крупных предприятий, корпораций и
+ банков.
+ На страницах журнала:
+ а)экономическая теория;
+ б)профессиональный анализ хода экономических преобразований в России;
+ в)денежно-кредитная, инвестиционная и структурная политика;
+ г)социальная сфера;
+ д)экономика регионов;
+ е)аналитическая и статистическая информация о состоянии различных отраслей и
+ секторов
+ рынка;
+ ж)экономика предприятия, проблемы собственности, корпоративного управления,
+ малого
+  бизнеса;
+ з)мировая экономика;
+ и)экономическая история и др.
+Publisher-Name: НП <<Редакция журнала Вопросы экономики>>
+Publisher-Homepage: http://www.vopreco.ru/rus/year.html
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:rus:voprec
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Журнал "Мониторинг общественного мнения: экономические и социальные перемены"
+Classification-Scheme: социология
+Maintainer-Name: Мария
+Maintainer-Email: vmash@levada.ru
+Publisher-Name: Всероссийский центр изучения общественного мнения
+Publisher-Homepage: http://www.levada.ru
+Publisher-Email: direct@levada.ru
+Handle: RePEc:rus:uqfadp
+Description: Если Вы хотите знать сегодняшнее социальное самочувствие и настроение россиян, отслеживать ежемесячные сдвиги в популярности политических лидеров, рост или падение доверия людей к правительству, Президенту, их отношение к политике и конкретным мерам властей 
+ 
+ Если Вас интересуют изменения положения слоев российского общества, поляризация бедности и богатства, представления людей о социальной справедливости и способах ее достижения 
+ 
+ Если Вы нуждаетесь в информации о положении дел в российском бизнесе, тенденциях рынка потребительских товаров, запросах массовой аудитории  
+ 
+ Вы сможете найти ответы на эти и другие вопросы, связанные с происходящими в стране переменами, в информационном бюллетене "Мониторинг общественного мнения: экономические и социальные перемены", издаваемом ВЦИОМ. 
+ 
+ Каждый номер информационного бюллетеня Мониторинга приносит читателям свежую информацию о мнениях, настроениях и взглядах 2-3 тыс. человек. 
+ 
+ Данные массовых опросов населения, проводимых по репрезентативным для России выборкам, дополняются и углубляются результатами анкетирования квалифицированных экспертов, представителей новой элиты, предпринимателей, фермеров, безработных и многих других групп населения. 
+ 
+ По Мониторингу Вы можете следить за тем, что происходит в Сибири и на Дальнем Востоке, на Урале и в Поволжье, на Севере, в Центре и на Юге России, в крупных и малых городах, на селе. Мониторинг отражает ожидания и настроения различных поло-возрастных, образовательных, социально-профессиональных и доходных групп населения. 
+ 
+ Объективная, точная, регулярная и свежая информация Мониторинга полезна всем, кто говорит и принимает управленческие решения, кто занят анализом современного состояния и прогнозированием будущего развития российского общества. Информационный бюллетень Мониторинга - это высокоэффективный инструмент изучения российской действительности. 
+ 
+ Наш информационный бюллетень пригодится работникам органов управления, работникам аналитических центров, ученым, преподавателям, журналистам и другим специалистам, занимающимся проблемами России. Он нужен каждой библиотеке, особенно университетской или академической. 
+ 
+ Информационный бюллетень Мониторинга - солидное издание объемом 100 страниц, (140x21 мм). В нем публикуются аналитические статьи, таблицы распределения данных по группам населения, а также динамика основных социально-экономических показателей. 
+ 
+ Бюллетень подготавливается ведущими специалистами ВЦИОМ и Интерцентра (Междисциплинарного академического центра социальных наук). 
+ 
+ Информационный бюллетень распространяется по подписке. Периодичность выхода - 1 раз в два месяца.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Полнотекстовые статьи представленные в разделе "Аналитика" на сайте Demoscope Weekly
+Classification-Scheme: демография
+Maintainer-Name: Kirill Reshetnikov
+Maintainer-Email: demoscope@demoscope.ru
+Publisher-Name: Центр демографии и экологии человека
+Publisher-Homepage: http://www.demoscope.ru/
+Handle: RePEc:rus:demoan
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Архив рубрик еженедельного демографического журнала "Демоскоп  Weekly"
+Classification-Scheme: демография
+Maintainer-Name: Кирилл Решетников
+Maintainer-Email: demoscope@demoscope.ru
+Publisher-Name: Центр демографии и экологии человека
+Publisher-Homepage: http://www.demoscope.ru/
+Handle: RePEc:rus:demoar
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Scheme
+Name: Классификатор журнала ВЦИОМ
+Classification-Scheme: социология
+Maintainer-Name: Мария
+Maintainer-Email: vmash@levada.ru
+Publisher-Name: Всероссийский центр изучения общественного мнения
+Publisher-Homepage: http://www.levada.ru
+Publisher-Email: direct@levada.ru
+Handle: RePEc:rus:wciom1
+Description: Классификатор актуален только для материалов нашего журнала.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Статьи по экономике с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hseeco
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Статьи по менеджменту с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hseman
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Статьи по социологии с Образовательного портала
+Classification-Scheme: социология
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsesoc
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Аннотации на книги по экономике с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hseecb
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Аннотации на книги по социологии с Образовательного портала
+Classification-Scheme: социология
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsesob
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Аннотации на книги по менеджменту с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsemab
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Авторефераты диссертаций по экономике с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hseect
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Авторефераты диссертаций по социологии с Образовательного портала
+Classification-Scheme: социология
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsesot
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Авторефераты диссертаций по менеджменту с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsemat
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-News
+Name: Новости по экономике с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hseecw
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-News
+Name: Новости по социологии с Образовательного портала
+Classification-Scheme: социология
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsesow
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-News
+Name: Новости по менеджменту с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsemaw
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Chapter
+Name: Труды сотрудников ИЭиОПП
+Classification-Scheme: экономика, социология
+Editor-Name: Э.В. Новикова
+Editor-Email: nov@ieie.nsc.ru
+Maintainer-Name: Irina Glazatova
+Maintainer-Email: glazatova@ieie.nsc.ru
+Publisher-Name: Институт Экономики и Организации Промышленного Производства
+Publisher-Homepage: http://lib.ieie.nsc.ru/
+Handle: RePEc:rus:ieiets
+
+Template-type: ReDIF-Series 1.0
+Type: collection
+Name: Университетская информационная система РОССИЯ (УИС РОССИЯ)
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Университетская информационная система РОССИЯ
+Publisher-Homepage: http://www.cir.ru/
+Publisher-Email: webmaster@mail.cir.ru
+Publisher-Phone: (7-095)-939-3390
+Publisher-Fax: (7-095)-939-3390
+Handle: RePEc:rus:circol
+Description: Университетская  информационная система РОССИЯ (УИС РОССИЯ)
+  создана   и   поддерживается   как   база   электронных  ресурсов  для
+  исследований   и   образования   в   области   экономики,  социологии,
+  политологии,  международных  отношений  и  других  гуманитарных наук и
+  открыта   для  коллективного  доступа  университетов,  вузов,  научных
+  институтов РФ и специалистов.
+    УИС  РОССИЯ  формируется  из  электронных  версий первоисточников по
+  Соглашениям  о  сотрудничестве  с  правообладателями  ресурсов       -
+  информационными  партнерами  проекта  - и включает около 60 коллекций,
+  представленных в ретроспективе и обновляемых на регулярной основе:
+  - нормативные документы федерального уровня - законы, указы и
+    распоряжения Президента, постановления и распоряжения Правительства
+    РФ;
+  - постановления и стенограммы пленарных заседаний Государственной Думы 
+    Федерального Собрания РФ; 
+  - статистические данные Госкомстата России, Статкомитета СНГ; 
+  - аналитические публикации органов исполнительной власти РФ; 
+  - СМИ; 
+  - издания Московского университета; 
+  - научные журналы; 
+  - доклады, публикации и статистические массивы российских и
+    международных исследовательских центров;
+  - данные опросов общественного мнения. 
+    Работы  по  проекту  УИС  РОССИЯ  ведутся  с  1993  года,  с  1997
+  года  выполняются  совместно  по  Соглашению  о  сотрудничестве  между
+  Научно-исследовательским вычислительным центром МГУ им. М.В.Ломоносова
+  (НИВЦ    МГУ)   и   Автономной   некоммерческой   организацией   Центр
+  информационных исследований (АНО ЦИИ).
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: РЕЦЭП. Обзор экономики России.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Российско-европейский центр экономической политики
+Publisher-Homepage: http://www.recep.ru/ 
+Publisher-Email: recep@recep.glasnet.ru
+Publisher-Phone: (7-095)-232-3613
+Publisher-Fax: (7-095)-232-3739
+Handle: RePEc:rus:cirrec
+Description: Российско-европейский  центр экономической политики (РЕЦЭП)
+  является  независимой,  некоммерческой и политически не ангажированной
+  организацией,  созданной  с целью проведения исследований по проблемам
+  переходного   периода   в   России   при  помощи  современных  методов
+  экономического  анализа. В задачи Центра входит также консультирование
+  и  выработка  рекомендаций  по  формированию  экономической  политики.
+  Помимо  этого,  Центр  призван  содействовать общественному обсуждению
+  экономических   проблем  и  усилению  научного  потенциала  в  области
+  экономики.  Результаты  исследований  и  выводы о значении последних с
+  точки    зрения    экономической   политики   представляются   органам
+  государственного   управления   Российской   Федерации,  в  частности,
+  Министерству  экономики,  Министерству  финансов, Министерству труда и
+  социальной защиты, Центральному банку России и Государственной Думе, и
+  изучаются   этими   ведомствами  при  выработке  основных  направлений
+  политики  в  соответствующих  областях.  Деятельностью РЕЦЭП руководит
+  консорциум    научно-исследовательских    организаций,   возглавляемый
+  Стокгольмским   институтом   переходной  экономики  (SITE).  В  состав
+  консорциума  входят также Научно-исследовательский центр экономической
+  политики  (CEPR,  Лондон),  и  Департамент/лаборатория теоретических и
+  прикладных исследований (DELTA, Париж).
+    В системе УИС РОССИЯ электронная версия РЕЦЭПа появилась  в  1998 г.
+  Все  данные, выставляемые  системой, взяты из первоисточника на основе
+  Соглашения  о  сотрудничестве  с  правообладателем  ресурсов         -
+  информационным партнером проекта. Все данные обновляются на регулярной
+  основе.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Госкомстат России. Ежегодные статистические сборники.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Госкомстат России
+Publisher-Homepage: http://www.gks.ru/ 
+Publisher-Email: webmaster@gks.ru
+Publisher-Phone: (095) 207-4902
+Publisher-Fax: (095) 207-4087  
+Handle: RePEc:rus:cirgks
+Description: Ежегодные статистические сборники содержат сведения об
+  основных    социально-экономических    характеристиках    Российской
+  Федерации,  описание  географических      и   климатических  условий  
+  России,   данные   об   окружающей   среде     и    национальном 
+  богатстве.
+  Публикуется  информация о  населении, его занятости и денежных доходах,
+  сведения  о  социальной  сфере. Система национальных счетов содержит
+  показатели,  характеризующие макроэкономические аспекты формирования
+  и    функционирования    рыночной    экономики.   Представлена общая
+  характеристика   предприятий   и  организаций,  информация  о  малом
+  предпринимательстве,  крестьянских,  фермерских  хозяйствах        и
+  приватизации.
+  Значительное место в сборниках отведено показателям, которые освещают
+  положение  в отдельных отраслях экономики - промышленности, сельском
+  хозяйстве,   строительстве,   транспорте,   связи,   отраслях  сферы 
+  услуг.
+  Представлены    данные    о    научном    потенциале    России,
+  результатах  научных  разработок  и  инноваций, финансовом состоянии
+  предприятий и организаций, инвестициях, ценах и тарифах.
+  Внешнеэкономическую  деятельность характеризует информация о внешней
+  торговле   и   деятельности   предприятий  с  участием  иностранного
+  капитала.  В  сборнике  приведены данные по международным сравнениям
+  России с зарубежными странами.
+  По   отдельным   показателям   публикуются   статистические  данные,
+  позволяющие   провести   сопоставления   и   получить  более  полную
+  информацию о субъектах Российской Федерации.
+  Все  данные  выставляемые  системой  взяты из первоисточника на основе
+  Соглашения  о  сотрудничестве  с  правообладателем  ресурсов         -
+  информационным партнером проекта. 
+  В системе УИС РОССИЯ электронная версия РЕЦЭПа появилась  в  1996 г.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Госкомстат России. Социально-экономическое положение России.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Госкомстат России
+Publisher-Homepage: http://www.gks.ru/ 
+Publisher-Email: stat@gks.ru
+Publisher-Phone: (095) 207-4902
+Publisher-Fax: (095) 207-4087  
+Handle: RePEc:rus:circpr
+Description:  Ежемесячный  аналитический доклад Госкомстата  России,  
+  содержащий  оперативную  комплексную   информацию   о   
+  социально-экономическом  положении  страны,  субъектов  Российской  
+  Федерации,  отраслей    и  секторов экономики за последний месяц и 
+  за период с начала года.
+  Доклад   подготавливается  Госкомстатом  России  на  основе  данных,
+  получаемых  органами  государственной  статистики,  министерств    и
+  ведомств  Российской  Федерации (Министерства финансов, Министерства
+  внутренних  дел,  Министерства  транспорта,  Министерства  труда   и
+  социального   развития,   Государственного   таможенного   комитета,
+  Центрального банка и др.).
+  В  докладе  широко  представлена  информация  по  важнейшим отраслям
+  производства,   транспорту   и  связи,  внешнеэкономическим  связям,
+  оптовому  и  потребительскому  рынкам, ценам, финансам, рынку труда,
+  уровню жизни населения, демографической ситуации. Приводятся данные,
+  характеризующие   предпринимательскую   деятельность,   приватизацию
+  государственных и муниципальных предприятий. Сформированы приложения
+  по    отдельным   показателям   социально-экономического   положения
+  субъектов  и федеральных округов Российской Федерации, а также стран
+  СНГ.
+  Электронная версия доклада "Социально-экономическое положение России" 
+  представлена в  УИС РОССИЯ в ретроспективе с 1999 г.  Данные получены 
+  из   первоисточника   на   основе  Соглашения  о    сотрудничестве  с  
+  правообладателем  ресурсов   -  информационным   партнером   проекта.   
+  Все  данные  обновляются  на  регулярной основе.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Госкомстат России. Краткосрочные экономические показатели Российской Федерации.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Госкомстат России
+Publisher-Homepage: http://www.gks.ru/ 
+Publisher-Email: stat@gks.ru
+Publisher-Phone: (095) 207-4902
+Publisher-Fax: (095) 207-4087  
+Handle: RePEc:rus:cirshr
+Description:  Ежемесячное  статистическое издание  Госкомстата  России,  
+  содержащее  оперативную   комплексную   информацию   о   социально-
+  экономическом  положении  страны.
+  Представлена информация о помесячной (поквартальной) 
+  динамике важнейших показателей социально-экономического развития 
+  России в ретроспективе за ряд последних лет.  Материалы подготовлены 
+  Госкомстатом  России  на  основе  данных текущего статистического учета.
+  Издание содержит сведения о динамике основных макроэкономических 
+  показателей,   объема производства важнейших отраслей экономики, 
+  внешнеторгового   оборота, курса национальной валюты. Представлена 
+  оперативная информация о бюджетной системе страны, финансовой деятельности 
+  предприятий и организаций, динамике цен в отраслях экономики и на 
+  потребительском рынке, уровне  жизни населения России, структуре доходов. 
+  Имеются сведения об объеме производства отдельных видов промышленной 
+  продукции.
+  Электронная версия краткосрочных экономических показателей  представлена 
+  в  УИС РОССИЯ в ретроспективе с 1999 г.  Данные получены   из   
+  первоисточника   на   основе  Соглашения  о    сотрудничестве  с  
+  правообладателем  ресурсов   -  информационным   партнером   проекта.   
+  Все  данные  обновляются  на  регулярной основе.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Министерство экономического развития и торговли РФ. Мониторинг.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Министерство экономического развития и торговли РФ
+Publisher-Homepage: http://www.economy.gov.ru/ 
+Publisher-Email: presscenter@economy.gov.ru  
+Publisher-Phone: (095) 200-0353
+Handle: RePEc:rus:cirmrt
+Description:  Мониторинг  текущей  экономической  ситуации подготовлен
+  Министерством   экономического   развития   и   торговли  Российской
+  Федерации  на  основе  данных официальной статистики. Он публикуется
+  ежемесячно  и содержит аналитическую информацию о различных аспектах
+  социально-  экономического  развития  России.  Дается характеристика
+  общих  тенденций развития России в отчетном периоде, оценка основных
+  макроэкономических  показателей,  производства  и использования ВВП,
+  объемов производства в различных отраслях экономики (промышленность,
+  сельское  хозяйство,  транспорт, розничная торговля и платные услуги
+  населению).
+  Анализируются   показатели   уровня   инфляции,   динамики   цен  на
+  потребительском   рынке   и   в   отраслях   экономики.   Приводятся
+  характеристики  рынка труда, доходов населения и развития социальной
+  сферы.  Дается  оценка финансовой деятельности предприятий реального
+  сектора   экономики,  инвестиционной  активности.  Приводится  обзор
+  системы   государственных   финансов,   денежно-кредитной   политики
+  государства.  Публикуется  анализ  внешнеэкономической деятельности,
+  платежного  баланса,  регионального  развития.  Мониторинг  содержит
+  статистическое приложение.
+  Данные  электронной  версии мониторинга Министерства экономического
+  развития  и  торговли  РФ получены в УИС РОССИЯ из первоисточника на
+  основе  Соглашения  о  сотрудничестве  с правообладателем ресурсов -
+  информационным  партнером  проекта. Данные обновляются на регулярной
+  основе.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Фонд "Содействие развитию и построению Индекса Потребительских Настроений". Доклады.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Фонд "Содействие развитию и построению Индекса Потребительских Настроений".
+Publisher-Homepage: http://www.dcenter.ru/ 
+Publisher-Email:  info@dcenter.ru
+Publisher-Phone: (095) 207-4902
+Publisher-Fax: (095) 207-4087  
+Handle: RePEc:rus:ciripn
+Description:  ИПН строится на основе данных опросов общественного мнения, 
+  проводящихся    один   раз   в   два   месяца,   проводимых   ВЦИОМ.
+  Социологические  опросы  для  измерения ИПН проводятся по специально
+  спроектированной    трехступенчатой    стратифицированной   выборке,
+  репрезентирующей мнение взрослого (старше 16 лет) населения страны.
+  ИПН  является  ключевым  показателем  в  прогнозировании  перспектив
+  экономического  развития  в более чем тридцати странах, включая США,
+  Англию,  Германию,  Испанию.  Это  чувствительный  индикатор, дающий
+  возможность  краткосрочного  прогнозирования  развития  экономики  и
+  позволяющий  деловому  сектору грамотно и своевременно отреагировать
+  на изменяющиеся условия.
+  Данные   электронной   версии   Индекса  потребительских  настроений
+  получены  в  УИС  РОССИЯ  из  первоисточника  на основе Соглашения о
+  сотрудничестве   с   правообладателем   ресурсов   -  информационным
+  партнером проекта. Все данные обновляются на регулярной основе.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Межгосударственный статистический комитет СНГ. Статистический сборник.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Межгосударственный статистический комитет СНГ 
+Publisher-Homepage: http://www.cisstat.com/ 
+Publisher-Email: cisstat@online.ru
+Publisher-Phone: 207-40-86
+Publisher-Fax: 207-45-92, 207-31-12
+Handle: RePEc:rus:cirsng
+Description: Статистический сборник содержит данные об экономическом и
+  социальном  развитии  стран  Содружества  Независимых  Государств  в
+  сопоставлении  с  зарубежными  странами, а также общеэкономические и
+  социальные  показатели по странам мира, подготовленные, как правило,
+  на основе официальных публикаций международных организаций.
+  Данные      электронной      версии     статистического     сборника
+  Межгосударственного  статистического  комитета  СНГ  получены  в УИС
+  РОССИЯ  из  первоисточника  на  основе Соглашения о сотрудничестве с
+  правообладателем ресурсов - информационным партнером проекта. Данные
+  обновляются на регулярной основе.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Экономическая экспертная группа. Обзор экономических показателей.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Экономическая экспертная группа
+Publisher-Homepage: http://www.eeg.ru
+Publisher-Email: eeg@eeg.ru 
+Publisher-Phone: 956-6338, 956-8290, 926-4580, 926-4581
+Publisher-Fax: 956-6383
+Handle: RePEc:rus:cireeg
+Description: Экономическая экспертная группа (ЭЭГ) является российской
+  независимой    компанией,   специализирующейся   на   предоставлении
+  консультационных  услуг  по  проблемам  экономической  и  финансовой
+  политики  правительственным  структурам федерального и регионального
+  уровня.  ЭЭГ была создана в 1994 году с целью оказания аналитической
+  поддержки   Департаменту  макроэкономической  политики  Министерства
+  финансов  Российской  Федерации. Группа работает в тесном контакте с
+  Министерством  финансов  и  Министерством  экономического развития и
+  торговли.  ЭЭГ  обеспечивает  российское правительство аналитической
+  поддержкой    на    переговорах    с    международными   финансовыми
+  организациями,    Парижским   и   Лондонским   клубами   кредиторов,
+  международными   рейтинговыми  агентствами,  составляет  ежемесячные
+  обзоры   состояния   экономики   России,   участвует  в  ежемесячном
+  мониторинге   российской   экономики,  осуществляемом  Министерством
+  экономического  развития  и  торговли. По заданиям правительства ЭЭГ
+  регулярно    разрабатывает    кратко-,    средне-   и   долгосрочные
+  макроэкономические прогнозы.
+  Экономическая  экспертная  группа  работает  в  таких областях, как:
+  прогнозирование    макроэкономических   показателей,   моделирование
+  сценариев    экономической    политики,    детализированный   анализ
+  налогово-бюджетной   политики,   совершенствование  отношений  между
+  бюджетами   разного  уровня,  анализ  и  прогнозирование  финансовых
+  рынков,  управление  внутренним  и  внешним  долгом,  оценка влияния
+  внешнеэкономических  условий  на  развитие  экономики и отдельных ее
+  секторов.
+  В группе накоплен широкий набор моделей, описывающих как экономику в
+  целом  (с  учетом  связей  между структурой сбережения и накопления,
+  налогово-бюджетной политикой, долговой политикой, платежным балансом
+  и  денежно-кредитной  политикой),  так  и  отдельные  ее  показатели
+  (инфляцию,  обменный  курс,  бюджетные  доходы  и др.). В УИС РОССИЯ
+  представлена  электронная  версия  обзора экономических показателей,
+  ежемесячно  публикуемого  Экономической  экспертной  группой.  Обзор
+  содержит  статистические  данные  о  развитии  российской экономики,
+  календарь  основных  событий  и изменений в законодательстве, анализ
+  инфляционных   процессов,   развития  реального  сектора  экономики,
+  государственных   финансов,   кредитно-денежной   сферы,  финансовых
+  рынков, внешнеэкономических связей, финансов населения.
+  Публикации Экономической экспертной группы представлены в УИС РОССИЯ
+  в  ретроспективе  с  1998  г.  Все  данные,  выставляемые  системой,
+  получены  из  первоисточника на основе Соглашения о сотрудничестве с
+  правообладателем  ресурсов  -  информационным партнером проекта. Все
+  данные регулярно обновляются.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Бюро экономического анализа. Доклады.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Фонд "Бюро экономического анализа"
+Publisher-Homepage: http://www.beafnd.org
+Publisher-Email: bureau@beap.dol.ru
+Publisher-Phone: 937-6750 
+Publisher-Fax: 937-6753
+Handle: RePEc:rus:cirbea
+Description:  В  УИС РОССИЯ представлена электронная версия публикаций
+  независимой  аналитической  организации - Фонда "Бюро экономического
+  анализа".    Публикации  разделены  по  четырем  основным  разделам:
+  информационно-   аналитические   бюллетени,  аналитические  доклады,
+  аналитические   справки   и   опубликованные   исследования.  Данные
+  исследования  посвящены актуальным вопросам социально-экономического
+  развития  России.  В них рассматриваются отдельные проблемы развития
+  отраслей  экономики, уровня жизни населения, состояния рынка труда и
+  занятости,   внешнеэкономической  деятельности,  финансовым  рынков,
+  налогообложения   и  др.  Исследуются  тенденции  текущего  развития
+  экономики и социальной сферы, вопросы перехода к устойчивому росту и
+  формирования      эффективной      макроэкономической      политики.
+  Рассматриваются примеры эффективной социально-экономической политики
+  различных  зарубежных  стран.  Представлена  ретроспектива ежегодных
+  аналитических публикаций "Обзор экономической политики в России".
+  Публикации  Фонда  "Бюро  экономического анализа" представлены в УИС
+  РОССИЯ  в ретроспективе с 1997 г. Все данные, выставляемые системой,
+  получены  из  первоисточника на основе Соглашения о сотрудничестве с
+  правообладателем ресурсов - информационным партнером проекта. Данные
+  регулярно обновляются.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Аналитические материалы по бюджетным вопросам.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Handle: RePEc:rus:cirban
+Description: Коллекция содержит статьи и монографии по бюджетной тематике, 
+  предоставляемые  исследовательскими центрами и институтами, среди которых:
+  - Бюро экономического анализа;
+  - Институт "Восток-Запад";
+  - Институт экономики переходного периода;
+  - Центр развития;
+  - Центр фискальной политики;
+  - Экономическая экспертная группа
+  Публикации аналитических материалов по бюджетным вопросам представлены 
+  в УИС РОССИЯ в ретроспективе с 2000 г. Все данные, выставляемые системой, 
+  получены из первоисточника на основе Соглашения о сотрудничестве 
+  с правообладателем  ресурсов - информационным партнером проекта. 
+  Все данные регулярно обновляются.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Публикации научных журналов по бюджетным вопросам.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Handle: RePEc:rus:cirsmi
+Description: Коллекция содержит статьи по бюджетной и макроэкономической 
+  тематике, публикуемые в журналах "Проблемы прогнозирования" и "Вопросы 
+  экономики".
+  Публикации научных журналов по бюджетным вопросам представлены 
+  в УИС РОССИЯ в ретроспективе с 1994 г. Все данные, выставляемые  
+  системой, получены из первоисточника на основе Соглашения о сотрудничестве 
+  с правообладателем ресурсов - информационным партнером проекта. 
+  Все данные регулярно обновляются.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Материалы министерств и ведомств по бюджетным вопросам.
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Handle: RePEc:rus:cirofd
+Description: Коллекция содержит аналитические отчеты, заключения, комментарии 
+  и прочие материалы по бюджетной тематике, открыто публикуемые федеральными 
+  органами государственной власти, среди которых:
+  - Министерство финансов РФ;
+  - Министерство экономического развития и торговли РФ;
+  - Федеральное казначейство РФ;
+  - Счетная палата РФ;
+  Публикации Материалы министерств и ведомств по бюджетным вопросам
+  представлены в УИС РОССИЯ в ретроспективе с 1994 г. Все данные,  
+  выставляемые системой, получены из первоисточника на основе Соглашения 
+  о сотрудничестве с правообладателем ресурсов - информационным партнером 
+  проекта. Все данные регулярно обновляются.
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Совет Федерации ФС РФ. Аналитический вестник
+Maintainer-Name: Университетская информационная система РОССИЯ
+Maintainer-Homepage: http://www.cir.ru/
+Maintainer-Email: webmaster@mail.cir.ru
+Maintainer-Phone: (7-095)-939-3390
+Maintainer-Fax: (7-095)-939-3390
+Publisher-Name: Совет Федерации ФС РФ
+Publisher-Homepage: http://www.council.gov.ru/
+Publisher-Email: marginpost_sf@gov.ru  
+Publisher-Phone: 203-4936, 203-5445 
+Handle: RePEc:rus:cirvsf
+Description: Выпускается Аналитическим управлением Аппарата Совета Федерации 
+  с периодичностью - несколько раз в месяц. Издание посвящено разнообразным 
+  проблемам социально-экономического развития РФ, опыту и практике 
+  государственного управления, государственного строительства. 
+  Аналитический вестник представлен в ретроспективе с 1997 года. Все материалы 
+  получены из первоисточника на основе Соглашения о сотрудничестве с 
+  правообладателем ресурсов и регулярно обновляются.
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Classification-Scheme: социология
+Name: Статьи в области Социологии Интернета
+Description: В коллекцию помещены тезисы и статьи (написанные мной либо в соавторстве), лежащие в рамках социологии Интернета, затрагивающие проблемы методики исследования Интернета, основным результатам этих исследований, отдельным социальным проблемам функционирования Интернета. Большинство из приведенных статей опубликованы или публикуются в настоящий момент в различных научных изданиях.
+Maintainer-Name: Александр Биккулов
+Maintainer-Email: asbikkulov@mail.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Keywords: Интернет
+Handle: RePEc:rus:pjpews
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Единый архив социологических данных
+Description: Архив социологических данных
+Classification-Scheme: социология
+Maintainer-Name: Независимый интситут социальной политики
+Maintainer-Email: sofist@socpol.ru
+Publisher-Name: Независимый интситут социальной политики
+Publisher-Homepage: http://sofist.socpol.ru
+Handle: RePEc:rus:socpol
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Учебные программы по экономике с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hseecp
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Учебные программы по менеджменту с Образовательного портала
+Classification-Scheme: экономика
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsemap
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Учебные программы по социологии с Образовательного портала
+Classification-Scheme: социология
+Maintainer-Name: Образовательный портал Экономика, Социология, Менеджмент
+Maintainer-Homepage: http://www.ecsocman.edu.ru/
+Publisher-Name: Государственный университет - Высшая школа экономики
+Publisher-Homepage: http://www.hse.ru/
+Description: Специализированный образовательный портал - это система 
+ тематических профессиональных сайтов, выполненных по сходному замыслу и 
+ работающих в единых стандартах обмена информацией. Это некоммерческий проект. 
+ Все ресурсы находятся в открытом доступе. Это качественный профессиональный 
+ продукт. Все ресурсы оцениваются экспертами.
+Handle: RePEc:rus:hsesop
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Classification-Scheme: экономика
+Name: Теория управления организационными системами
+Maintainer-Name: Дмитрий Новиков
+Maintainer-Email: novikov@ipu.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:jezqun
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Classification-Scheme: экономика
+Name: Публикации Александра Варшавского
+Maintainer-Name: Александр Варшавский
+Maintainer-Email: varshav@cemi.rssi.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:rqfkuj
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Classification-Scheme: экономика
+Name: Публикации Александра Варшавского
+Maintainer-Name: Александр Варшавский
+Maintainer-Email: varshav@cemi.rssi.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:ballth
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Classification-Scheme: экономика
+Name: Публикации Александра Варшавского
+Maintainer-Name: Александр Варшавский
+Maintainer-Email: varshav@cemi.rssi.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:jlgcqo
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Classification-Scheme: экономика
+Name: Публикации Александра Варшавского
+Maintainer-Name: Александр Варшавский
+Maintainer-Email: varshav@cemi.rssi.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:qjvewn
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Classification-Scheme: психология
+Name: Психоанализ
+Maintainer-Name: Александр Крылов
+Maintainer-Email: a.krylov@mail.ru
+Provider-Name: Socionet
+Provider-Homepage: http://socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:yybapm
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Classification-Scheme: экономика
+Name: Паблик рилейшнз
+Maintainer-Name: Александр Крылов
+Maintainer-Email: a.krylov@mail.ru
+Publisher-Homepage: http://www.a-krylov.com/
+Provider-Name: Socionet
+Provider-Homepage: http://socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:rus:eywgkh
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Classification-Scheme: экономика,право
+Name: Экономическая несостоятельность, банкротство
+Maintainer-Name: Алексей Смольский
+Maintainer-Email: refor@mail.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Keywords: Интернет
+Handle: RePEc:rus:gjivgi
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Classification-Scheme: экономика
+Name: Экономика Беларуси, России, интеграция
+Maintainer-Name: Алексей Смольский
+Maintainer-Email: refor@mail.ru
+Provider-Name: Socionet
+Provider-Homepage: http://www.socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Keywords: Интернет
+Handle: RePEc:rus:duxznt
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Person
+Name: Персональные данные авторов из коллекций ООН РАН
+Description: Коллекция персональных данных авторов, чьи публикации,
+  размещенные в
+  Соционет в коллекциях институтов Отделения общественных наук (ООН) РАН,
+  отобраны
+  для передачи в Единое научное информационное пространство (ЕНИП) РАН
+Maintainer-Name: Sergey Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://socionet.ru/
+Handle: RePEc:rus:enippe
+
+Template-Type: ReDIF-series 1.0
+Type: ReDIF-Article
+Classification-Scheme: экономика
+Name: Международные экономические отношения
+Maintainer-Name: Дмитрий Тюпа
+Maintainer-Email: tuypa@rambler.ru
+Provider-Name: Socionet
+Provider-Homepage: http://socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Description: Международные экономические отношения,
+ внешнеэкономические связи, наука Украины и развивающихся стран мира.
+ Обзоры экспортно-импортных отношений Украины со странами  мира,
+ договорно-правовая база Украины с развивающимися странами.
+ Строительные обзоры на основе ведущих журналов мира по экономической
+ и строительной тематике. Интервью с ведущими редакторами
+ крупнейших научных журналов мира. Обзоры международных конференций.
+Handle: repec:rus:hqhuxw
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Научные отчеты ИЭОПП СО РАН
+Description: Поступления начиная с 1990 г.
+Classification-scheme: экономика, социология
+Publisher-Name: Институт Экономики и ОПП СО РАН
+Publisher-Homepage: http://lib.ieie.nsc.ru/
+Editor-Name: Э.В. Новикова
+Editor-Email: nov@ieie.nsc.ru
+Maintainer-Name: Э.В. Новикова
+Maintainer-Email: nov@ieie.nsc.ru
+Handle: RePEc:rus:ieiero
+

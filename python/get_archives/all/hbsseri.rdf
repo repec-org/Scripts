@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Harvard Business School Working Papers
+Provider-Name: Harvard Business School
+Provider-Homepage: http://www.hbs.edu/
+Provider-Institution: RePEc:edi:harbsus
+Maintainer-Name: Soebagio Notosoehardjo
+Maintainer-Email: snoto@hbs.edu
+Type: ReDIF-Paper
+Handle: RePEc:hbs:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Business History Review
+Provider-Name: Harvard Business School
+Provider-Homepage: http://www.hbs.edu/bhr/
+Provider-Institution: RePEc:edi:harbsus
+Maintainer-Name: Felice Whittum
+Maintainer-Email: fwhittum@hbs.edu
+Type: ReDIF-Article
+Handle: RePEc:hbs:journl

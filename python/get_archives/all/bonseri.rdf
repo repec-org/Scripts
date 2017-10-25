@@ -1,0 +1,64 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Discussion Paper Serie A 
+
+Description: Discussion Paper Serie A
+
+Type: ReDIF-Paper
+
+Provider-Name: University of Bonn, Germany
+
+Provider-Homepage: http://www.bgse.uni-bonn.de
+Provider-Postal: Bonn Graduate School of Economics, University of Bonn, Adenauerallee 24 - 26, 53113 Bonn, Germany
+Provider-Fax: +49 228 73 6884
+
+Maintainer-Name: BGSE Office
+
+Maintainer-Email: info.bgse@uni-bonn.de 
+
+Handle: RePEc:bon:bonsfa
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Discussion Paper Serie B
+
+Description: Discussion Paper Serie B
+
+Type: ReDIF-Paper
+
+Provider-Name: University of Bonn, Germany
+
+Provider-Homepage: http://www.bgse.uni-bonn.de
+Provider-Postal: Bonn Graduate School of Economics, University of Bonn, Adenauerallee 24 - 26, 53113 Bonn, Germany
+Provider-Fax: +49 228 73 6884
+
+Maintainer-Name: BGSE Office
+
+Maintainer-Email: info.bgse@uni-bonn.de 
+
+Handle: RePEc:bon:bonsfb
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Bonn Econ Discussion Papers
+
+Description: Bonn Econ Discussion Papers ( formerly ( bevor January 2000 ) Discussion Paper Serie x )
+
+Type: ReDIF-Paper
+
+Provider-Name: University of Bonn, Germany
+
+Provider-Homepage: http://www.bgse.uni-bonn.de
+
+Provider-Postal: Bonn Graduate School of Economics, University of Bonn, Adenauerallee 24 - 26, 53113 Bonn, Germany
+Provider-Fax: +49 228 73 6884
+
+Maintainer-Name: BGSE Office
+
+Maintainer-Email: info.bgse@uni-bonn.de 
+
+Handle: RePEc:bon:bonedp

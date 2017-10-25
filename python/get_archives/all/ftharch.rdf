@@ -1,0 +1,10 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:fth
+Name: BibEc Project
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Description: This archive collects information about holding of
+ printed papers on those sites that have not (yet) joined RePEc.
+URL: ftp://ftp.repec.org/RePEc/fth
+
+

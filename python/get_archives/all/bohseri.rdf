@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics Working Papers
+Provider-Name: University of South Bohemia in Ceske Budejovice, Faculty of Economics
+Provider-Homepage: http://ewp.ef.jcu.cz/
+Provider-Institution: RePEc:edi:efjcucz
+Maintainer-Name: Martin Pech
+Maintainer-Email: mpechac@ef.jcu.cz
+Type: ReDIF-Paper
+ISSN: 1804-5618 (print), 1804-9516 (online)
+Handle: RePEc:boh:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Acta Universitatis Bohemiae Meridionales
+Provider-Name: University of South Bohemia in Ceske Budejovice
+Provider-Homepage: http://acta.ef.jcu.cz/
+Provider-Institution: RePEc:edi:efjcucz
+Maintainer-Name: Šárka Steinová
+Maintainer-Email: acta@ef.jcu.cz
+Type: ReDIF-Article
+ISSN: 1212-3285 (print), 2336-4297 (online)
+Handle: RePEc:boh:actaub

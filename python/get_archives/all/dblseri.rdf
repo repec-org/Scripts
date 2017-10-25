@@ -1,0 +1,44 @@
+Template-Type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: CAF Development Bank Of Latinamerica
+Provider-Homepage: http://scioteca.caf.com/repec/dbl/dblbks/
+Provider-Institution: RePEc:edi:cafffve
+Description: General Books published by CAF
+Maintainer-Name: Pablo Rolando
+Maintainer-Email: prolando@caf.com
+Type: ReDIF-Book
+Handle: RePEc:dbl:dblbks
+
+Template-Type: ReDIF-Series 1.0
+Name: Economy & Development reports
+Provider-Name: CAF Development Bank Of Latinamerica
+Provider-Homepage: http://scioteca.caf.com/repec/dbl/dblrep/
+Provider-Institution: RePEc:edi:cafffve
+Description: This report is CAF’s flagship book. It addresses critical issues for the regional sustainable development and aims to contribute the design of the public policies.
+Maintainer-Name: Pablo Rolando
+Maintainer-Email: prolando@caf.com
+Type: ReDIF-Book
+Handle: RePEc:dbl:dblrep
+
+Template-Type: ReDIF-Series 1.0
+Name: Socioeconomic research working papers
+Provider-Name: CAF Development Bank Of Latinamerica
+Provider-Homepage: http://scioteca.caf.com/repec/dbl/dblpap/
+Provider-Institution: RePEc:edi:cafffve
+Description: Working papers produced and edited by CAF’s Socioeconomic Research Department. These papers inform and encourage the exchange of opinions on priority issues for Latin America.
+Maintainer-Name: Pablo Rolando
+Maintainer-Email: prolando@caf.com
+Type: ReDIF-Paper
+Handle: RePEc:dbl:dblwop
+
+Template-Type: ReDIF-Series 1.0
+Name: Sector/thematic working papers
+Provider-Name: CAF Development Bank Of Latinamerica
+Provider-Homepage: http://scioteca.caf.com/repec/dbl/dblpap/
+Provider-Institution: RePEc:edi:cafffve
+Description: This collection contains working documents on energy, water and sanitation, cities, urban development, climate change, infrastructure, transport, education, public policies, productivity, competitiveness, ICT, innovation, among others.
+Maintainer-Name: Pablo Rolando
+Maintainer-Email: prolando@caf.com
+Type: ReDIF-Paper
+Handle: RePEc:dbl:dblstp
+

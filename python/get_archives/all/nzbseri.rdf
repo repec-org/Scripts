@@ -1,0 +1,67 @@
+Template-type:ReDIF-Series 1.0
+Name: Reserve Bank of New Zealand Discussion Paper Series
+Description: Reserve Bank of New Zealand discussion and research papers present the 
+	detailed scholarly research of staff economists and visiting scholars. The papers
+ 	are published throughout the year mainly for academic and professional 	economists.
+Classification-JEL:
+Restriction:
+Notification:
+Type:
+Provider-Name: Reserve Bank of New Zealand
+Provider-Homepage: http://www.rbnz.govt.nz
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:rbngvnz
+Maintainer-Name: Reserve Bank of New Zealand Knowledge Centre
+Maintainer-Email: knowledge@rbnz.govt.nz
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:nzb:nzbdps
+
+Template-type:ReDIF-Series 1.0
+Name: Reserve Bank of New Zealand Bulletin
+Description: The Reserve Bank Bulletin is published quarterly and canvasses a wide range of issues
+	 related to both central banking and the New Zealand economy. On the record speeches of the Governor
+	 and Deputy Governors also feature regularly.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Article
+Provider-Name: Reserve Bank of New Zealand
+Provider-Homepage: http://www.rbnz.govt.nz
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:rbngvnz
+Maintainer-Name: Reserve Bank of New Zealand Knowledge Centre
+Maintainer-Email: knowledge@rbnz.govt.nz
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:nzb:nzbbul
+
+Template-type:ReDIF-Series 1.0
+Name: Reserve Bank of New Zealand Analytical Notes series
+Description: Reserve Bank of New Zealand analytical notes highlight some of the analytical work undertaken around the Bank.
+Classification-JEL:
+Restriction:
+Notification:
+Type:
+Provider-Name: Reserve Bank of New Zealand
+Provider-Homepage: http://www.rbnz.govt.nz
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:rbngvnz
+Maintainer-Name: Reserve Bank of New Zealand Knowledge Centre
+Maintainer-Email: knowledge@rbnz.govt.nz
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:nzb:nzbans
+

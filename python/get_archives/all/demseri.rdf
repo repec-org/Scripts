@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: MPIDR Working Papers
+Description: Working Papers of the Max Planck Institute for Demographic Research
+Provider-Name: Max Planck Institute for Demographic Research, Rostock, Germany
+Provider-Homepage: http://www.demogr.mpg.de/
+Maintainer-Name: Peter Wilhelm
+Maintainer-Email: wilhelm@demogr.mpg.de
+Type: ReDIF-Paper
+Handle: RePEc:dem:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Demographic Research
+Description: Demographic Research is a free, online, open access, peer-reviewed journal of the population sciences
+Provider-Name: Max Planck Institute for Demographic Research, Rostock, Germany
+Provider-Homepage: http://www.demogr.mpg.de/
+Maintainer-Name: Editorial Office
+Maintainer-Email: office@demographic-research.org
+Type: ReDIF-Article
+Handle: RePEc:dem:demres
+
+
+Template-type: ReDIF-Series 1.0
+Name: Demographic Research Special Collections
+Description: Demographic Research is a free, online, open access, peer-reviewed journal of the population sciences
+Provider-Name: Max Planck Institute for Demographic Research, Rostock, Germany
+Provider-Homepage: http://www.demogr.mpg.de/
+Maintainer-Name: Editorial Office
+Maintainer-Email: office@demographic-research.org
+Type: ReDIF-Article
+Handle: RePEc:dem:drspec

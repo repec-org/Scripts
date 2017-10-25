@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Series 1.0
+Name: Market monitor energy
+Maintainer-Name: Robert Hempenius
+Maintainer-Email: robert.hempenius@nma.nl
+Provider-Name: Department of Energy, Netherlands Competition Authority
+Provider-Homepage: http://www.nam.nl
+Provider-Institution: RePEc:edi:nmagvnl
+Type: ReDIF-Paper
+Handle: RePEc:nco:monito
+
+
+Template-type: ReDIF-Series 1.0
+Name: NMa Working Papers
+Provider-Name: Netherlands Competition Authority
+Provider-Homepage: http://www.nma.nl
+Provider-Institution: RePEc:edi:nmagvnl
+Maintainer-Name: Robert Hempenius
+Maintainer-Email: robert.hempenius@nma.nl
+Type: ReDIF-Paper
+Handle: RePEc:nco:wpaper

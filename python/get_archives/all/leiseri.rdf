@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Lester Ingber Papers
+Provider-Name: Lester Ingber 
+Maintainer-Email: ingber@ingber.com
+Type: ReDIF-Paper
+Handle: RePEc:lei:ingber
+ 
+Template-Type: ReDIF-Series 1.0
+Name:  Lester Ingber Books
+Provider-Name: Lester Ingber 
+Maintainer-Email: ingber@ingber.com
+Type: ReDIF-Book
+Handle: RePEc:lei:ingbks
+ 
+Template-Type: ReDIF-Series 1.0
+Name: Lester Ingber Software
+Type: ReDIF-Software
+Provider-Name: Lester Ingber
+Maintainer-Email: ingber@ingber.com
+Handle: RePEc:lei:ingsft
+

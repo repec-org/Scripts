@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:ein
+Name: Eindhoven Center for Innovation Studies (ECIS), Eindhoven University of Technology
+#Maintainer-Email: c.castaldi@tue.nl
+Maintainer-Email: econpapers@oru.se
+Description: This archive contains working papers authored or co-authored by members of the Eindhoven Center for Innovation Studies (ECIS)
+#URL: http://cms.tm.tue.nl/Ecis/RePEc/ein/
+URL: ftp://repec.oru.se/RePEc/legacy/ein/

@@ -1,0 +1,41 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Society and Economy
+Provider-Name: Akadémiai Kiadó, Hungary
+Provider-Homepage: http://www.akkrt.hu
+Provider-Institution: Akadémiai Kiadó Zrt.
+Maintainer-Name: Vajda, Lőrinc
+Maintainer-Email: Vajda.Lorinc@akkrt.hu
+Order-Email: journals@akkrt.hu
+Order-Homepage: http://www.akademiai.com
+Order-Postal: Akadémiai Kiadó Zrt., Prielle K. u. 21-35. Budapest, 1117, Hungary
+Price: Online Only Subscription Price: EUR 174 / USD 234 (valid only in North America (Canada, USA)); Print + Online Subscription Price: EUR 198 / USD 273 (valid only in North America (Canada, USA))
+Restriction: subscription
+Maintainer-Phone:
+Maintainer-Fax:
+Editor-Name: Trautmann, László
+Editor-Email: balazs.szentivanyi@uni-corvinus.hu
+Notification:
+ISSN: 1588-9726 (Print), 1588-970X (Online)
+Type: ReDIF-Article
+Handle: RePEc:aka:soceco
+
+Template-type: ReDIF-Series 1.0
+Name: Acta Oeconomica
+Provider-Name: Akadémiai Kiadó, Hungary
+Provider-Homepage: http://www.akkrt.hu
+Provider-Institution: Akadémiai Kiadó Zrt.
+Maintainer-Name: Vajda, Lőrinc 
+Maintainer-Email: Vajda.Lorinc@akkrt.hu
+Order-Email: journals@akkrt.hu
+Order-Homepage: http://www.akademiai.com
+Order-Postal: Akadémiai Kiadó Zrt., Prielle K. u. 21-35. Budapest, 1117, Hungary
+Price: Online Only Subscription Price: EUR 362 / USD 497 (valid only in North America (Canada, USA)); Print + Online Subscription Price: 420 / USD 576 (valid only in North America (Canada, USA))
+Restriction: subscription
+Maintainer-Phone:
+Maintainer-Fax:
+Editor-Name: Mihályi, Péter
+Editor-Email: judit.vanyai@krtk.mta.hu
+Notification:
+ISSN: 0001-6373 (Print), 1588-2659 (Online)
+Type: ReDIF-Article
+Handle: RePEc:aka:aoecon

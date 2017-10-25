@@ -1,0 +1,3676 @@
+﻿
+Template-Type: ReDIF-Series 1.0
+Name: The Annals of Regional Science
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Western Regional Science Association
+Provider-Homepage: http://www.wrsaonline.org/newsite/
+Provider-Institution: RePEc:edi:wrsaaea
+Editor-Name: Martin Andersson
+Editor-Email: martin.andersson@circle.lu.se 
+Editor-Name: E. Kim
+Editor-Email: euijune@snu.ac.kr
+Editor-Name: Janet E. Kohlhase
+Editor-Email: jkohlhase@uh.edu
+ISSN: 0570-1864
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://link.springer.com/journal/168
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30003826
+X-JournalID: 168
+Handle: RePEc:spr:anresc
+
+Template-Type: ReDIF-Series 1.0
+Name: Agricultural and Food Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Italian Society of Agricultural Economics (SIDEA)
+Provider-Homepage: http://www.agrifoodecon.com
+Provider-Institution: RePEc:edi:sideaea
+Editor-Name: Alessandro Banterle
+Editor-Email: alessandro.banterle@unimi.it 
+Editor-Name: Liesbeth Dries
+Editor-Email: liesbeth.dries@wur.nl 
+Editor-Name: Andrea Marchini
+Editor-Email: amarchin@unipg.it 
+Editor-Name: Carlo Russo
+Editor-Email: russocar@unicas.it 
+ISSN: 2193-7532 
+Order-Homepage: http://www.springer.com/economics/agricultural+economics/journal/40100
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40100
+X-Online: Yes
+Handle: RePEc:spr:agfoec
+
+Template-Type: ReDIF-Series 1.0
+Name: AStA Wirtschafts- und Sozialstatistisches Archiv
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Deutsche Statistische Gesellschaft - German Statistical Society
+Provider-Homepage: http://www.dstatg.de/de/startseite/
+Editor-Name: Ralf Münnich 
+Editor-Email: editor-asta@uni-trier.de 
+ISSN: 1863-8163
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/business%2C+economics+%26+finance/journal/11943/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11943
+Handle: RePEc:spr:astaws
+
+Template-Type: ReDIF-Series 1.0
+Name: Empirical Economics
+Provider-Name: Springer 
+Provider-Homepage: http://www.springer.com
+Editor-Name: Robert M. Kunst
+Editor-Email: kunst@ihs.ac.at
+Editor-Name: Badi H. Baltagi
+Editor-Email: bbaltagi@maxwell.syr.edu
+Editor-Name: Bertrand Candelon
+Editor-Email: b.candelon@maastrichtuniversity.nl
+Editor-Name: Subal C. Kumbhakar
+Editor-Email: kkar@binghamton.edu
+Editor-Name: Michael Lechner 
+Editor-Email: michael.lechner@unisg.ch
+ISSN: 1435-8921
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/econometrics/journal/181/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30026264
+X-JournalID: 181
+Handle: RePEc:spr:empeco
+
+Template-Type: ReDIF-Series 1.0
+Name: Economic Theory
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Society for the Advancement of Economic Theory (SAET) 
+Provider-Homepage: http://saet.uiowa.edu/
+Provider-Institution: RePEc:edi:saettea
+Editor-Name: Nichoals Yanneils
+Editor-Email: nyanneli@illinois.edu
+ISSN: 1432-0479 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/economic+theory/journal/199/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30030174
+X-JournalID: 199
+Handle: RePEc:spr:joecth
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Economics and Finance
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Academy of Economics and Finance 
+Provider-Homepage: http://economics-finance.org/
+Provider-Institution: RePEc:edi:aeffeea
+ISSN: 1055-0925 
+Editor-Name: James Payne
+Editor-Email: james.payne@gcsu.edu
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/12197/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12197
+Handle: RePEc:spr:jecfin
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Evolutionary Economics
+Provider-Name: Springer 
+Provider-Homepage: http://www.springer.com
+Editor-Name: Uwe Cantner
+Editor-Email: uwe.cantner@wiwi.uni-jena.de
+Editor-Name: Elias Dinopoulos
+Editor-Email: elias.dinopoulos@cba.ufl.edu
+Editor-Name: Horst Hanusch
+Editor-Email: horst.hanusch@wiwi.uni-augsburg.de
+Editor-Name: Luigi Orsenigo
+Editor-Email: orsenigo@ing.unibs.it
+ISSN: 1432-1386
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/191/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30030190
+X-JournalID: 191
+Handle: RePEc:spr:joevec
+
+Template-Type: ReDIF-Series 1.0
+Name: International Journal of Game Theory
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Game Theory Society
+Provider-Homepage: http://www.gametheorysociety.org/about.html
+Editor-Name: Shmuel Zamir
+Editor-Email: zamir@math.huji.ac.il
+Editor-Name: Vijay Krishna
+Editor-Email: vkrishna@psu.edu
+Editor-Name: Bernhard von Stengel
+Editor-Email: stengel@nash.lse.ac.uk
+ISSN: 1432-1270 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/economic+theory/journal/182/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30090530
+X-JournalID: 182
+Handle: RePEc:spr:jogath
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Population Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: European Society for Population Economics
+Provider-Homepage: http://www.espe.org/
+Provider-Institution: RePEc:edi:espeeea
+Editor-Name: K.F. Zimmermann
+Editor-Email: klaus.f.zimmermann@gmail.com
+ISSN: 1432-1475 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/population/journal/148/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30003169
+X-JournalID: 148
+Handle: RePEc:spr:jopoec
+
+Template-Type: ReDIF-Series 1.0
+Name: Finance and Stochastics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: M. Schweizer
+Editor-Email: finasto@math.ethz.ch
+ISSN: 1432-1122  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/mathematics/quantitative+finance/journal/780/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 780
+Handle: RePEc:spr:finsto
+
+Template-Type: ReDIF-Series 1.0
+Name: Mind & Society: Cognitive Studies in Economics and Social Sciences
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Fondazione Rosselli
+Provider-Homepage: http://www.fondazionerosselli.it
+Provider-Institution: RePEc:edi:lasfrit
+Editor-Name: Riccardo Viale
+Editor-Email: riccardo.viale@unimib.it 
+ISSN: 1593-7879 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11299
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11299
+Handle: RePEc:spr:minsoc
+
+Template-Type: ReDIF-Series 1.0
+Name: Social Choice and Welfare
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Society for Social Choice and Welfare
+Provider-Homepage: http://www.unicaen.fr/recherche/mrsh/scw/
+Provider-Institution: RePEc:edi:sscwwea 
+Editor-Name: Bhaskar Dutta 
+Editor-Email: b.dutta@warwick.ac.uk
+Editor-Name: Marc Fleurbaey
+Editor-Email: mfleurba@princeton.edu
+Editor-Name: Elizabeth Maggie Penn
+Editor-Email: epenn@uchicago.edu 
+Editor-Name: Clemens Puppe 
+Editor-Email: clemens.puppe@kit.edu
+ISSN: 1432-217X 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/economic+theory/journal/355
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30015221
+X-JournalID: 355
+Handle: RePEc:spr:sochwe
+
+Template-Type: ReDIF-Series 1.0
+Name: Review of Economic Design
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Society for Economic Design
+Provider-Homepage: https://sites.google.com/site/societyforeconomicdesign/
+Editor-Name: Atila Abdulkadiroglu
+Editor-Email: abdulkadiroglu@duke.edu
+Editor-Name: Fuhito Kojima
+Editor-Email: fuhitokomima1979@gmail.com 
+Editor-Name: Tilman Börgers
+Editor-Email: tborgers@umich.edu 
+ISSN: 1434-4750
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10058
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10058
+Handle: RePEc:spr:reecde
+
+Template-Type: ReDIF-Series 1.0
+Name: Intereconomics: Review of European Economic Policy
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: German National Library of Economics
+Provider-Homepage:  http://www.zbw.eu/de/
+Provider-Name: Centre for European Policy Studies (CEPS)
+Provider-Homepage:  https://www.ceps.eu/
+Editor-Name: Brigitte Preissl
+Editor-Email: b.preissl@zbw.eu 
+Editor-Name: Derek Kruse
+Editor-Email: d.kruse@zbw.edu
+ISSN: 0020-5346
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://link.springer.de/orders.htm
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10272
+Handle: RePEc:spr:intere
+
+Template-Type: ReDIF-Series 1.0
+Name: Decisions in Economics and Finance
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Associazione per la Matematica
+Provider-Homepage: http://www.amases.org/
+Editor-Name: Paolo Ghirardato
+Editor-Email: paolo.ghirardato@carloalberto.org 
+ISSN: 1593-8883
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/economic+theory/journal/10203/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10203
+Handle: RePEc:spr:decfin
+
+Template-Type: ReDIF-Series 1.0
+Name: Economics of Governance
+Provider-Name: Springer 
+Provider-Homepage: http://www.springer.com
+Editor-Name: Amihai Glazer 
+Editor-Email: aglazer@uci.edu
+Editor-Name: Marko Koethenbuerger
+Editor-Email: koethenbuerger@kof.ethz.ch
+ISSN: 1435-8131 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10101/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 30401846
+X-JournalID: 10101
+Handle: RePEc:spr:ecogov
+
+Template-Type: ReDIF-Series 1.0
+Name: Papers in Regional Science
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Regional Science Association International
+Provider-Homepage: http://www.regionalscience.org/ 
+Provider-Institution: RePEc:edi:rsaiiea
+Editor-Name: Raymond J.G.M. Florax
+Editor-Email: rflorax@feweb.vu.nl
+ISSN: 1435-5957 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/regional+science/journal/10110
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Followup: RePEc:bla:presci
+Handle: RePEc:spr:presci
+
+Template-Type: ReDIF-Series 1.0
+Name: Portuguese Economic Journal
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Instituto Superior de Economia e Gestao
+Provider-Homepage: https://www.iseg.ulisboa.pt/aquila/instituicao/ISEG/
+Editor-Name: Luís F. Costa
+Editor-Email: lukosta@iseg.ulisboa.pt
+ISSN: 1617-9838
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10258/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10258
+Handle: RePEc:spr:portec
+
+Template-Type: ReDIF-Series 1.0
+Name: Spanish Economic Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Spanish Economic Association
+Provider-Homepage: http://spaneconrev.org/
+Provider-Institution: RePEc:edi:aeeeeea
+Editor-Name: Eduardo Ley
+Editor-Email: spanish.economic.review@gmail.com 
+ISSN: 1435-5477 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10108?detailsPage=societies
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Followup: RePEc:spr:series
+X-JournalID: 30359031
+X-JournalID: 10108
+Handle: RePEc:spr:specre
+
+Template-Type: ReDIF-Series 1.0
+Name: Statistical Methods & Applications
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Società Italiana di Statistica
+Provider-Homepage: http://www.sis-statistica.it/
+Editor-Name: Tommaso Proietti
+Editor-Email: tommaso.proietti@uniroma2.it 
+ISSN: 1618-2510
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/10260/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10260
+Handle: RePEc:spr:stmapp
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Economic Interaction and Coordination
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Society for Economic Science with Heterogeneous Interacting Agents
+Provider-Homepage: http://eshia.bwl.uni-kiel.de/
+Provider-Institution: RePEc:edi:eshiaea
+Editor-Name: A. Namatame
+Editor-Email: nama@nda.ac.jp 
+Editor-Name: Thomas Lux
+Editor-Email: lux@bwl.uni-kiel.de 
+Editor-Name: Shu-Heng Chen
+Editor-Email: chchen@nccu.edu.tw 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/economic+theory/journal/11403/PS2
+ISSN: 1860-711X
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11403
+Handle: RePEc:spr:jeicoo
+
+Template-Type: ReDIF-Series 1.0
+Name: The European Journal of Health Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Deutsche Gesellschaft für Gesundheitsökonomie (DGGÖ)
+Provider-Homepage: https://www.dggoe.de/
+Provider-Institution: RePEc:edi:dggoeea 
+Editor-Name: J.-M.G.v.d. Schulenburg
+Editor-Email: EJHE@uni-bielefeld.de
+ISSN: 1618-7598
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/medicine/health+informatics/journal/10198/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10198
+Handle: RePEc:spr:eujhec
+
+Template-Type: ReDIF-Series 1.0
+Name: Review of World Economics (Weltwirtschaftliches Archiv)
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Institut für Weltwirtschaft (Kiel Institute for the World Economy)
+Provider-Homepage: https://www.ifw-kiel.de/
+Provider-Institution: RePEc:edi:iwkiede
+Editor-Name: Paul Bergin
+Editor-Email: prbergin@ucdavis.edu
+Editor-Name: Holger Görg
+Editor-Email: holger.goerg@ifw-kiel.de
+Editor-Name: Cédric Tille
+Editor-Email: cedric.tille@graduateinstitute.ch
+Editor-Name: Gerald Willmann
+Editor-Email: g.willmann@wiwi.uni-bielefeld.de
+ISSN: 1610-2878 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/international+economics/journal/10290/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10290
+Handle: RePEc:spr:weltar
+
+Template-Type: ReDIF-Series 1.0
+Name: Transition Studies Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Central Eastern European University Network (CEEUN)
+Editor-Name: G. Dominese
+Editor-Email: Giorgio.Dominese@ceeun.org
+ISSN:  1614-4007
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/european+integration/journal/11300
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11300
+Handle: RePEc:spr:trstrv
+
+Template-Type: ReDIF-Series 1.0
+Name: AStA Advances in Statistical Analysis
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: German Statistical Society
+Provider-Homepage: http://www.dstatg.de/de/startseite/
+Editor-Name: Göran Kauermann
+Editor-Email: gkauermann@stat.uni-muenchen.de
+Editor-Name: Yarema Okhrin
+Editor-Email: yarema.okhrin@wiwi.uni-augsburg.de
+ISSN: 0002-6018
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/10182/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-Note: Previously titled Allgemeines Statistisches Archiv
+Type: ReDIF-Article
+X-JournalID: 10182
+Handle: RePEc:spr:alstar
+
+Template-Type: ReDIF-Series 1.0
+Name: Computational Management Science
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Ruediger Schultz
+Editor-Email: schultz@math.uni-duisburg.de
+ISSN: 1619-697X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/operations+research/journal/10287/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10287
+Handle: RePEc:spr:comgts
+
+Template-Type: ReDIF-Series 1.0
+Name: Computational Statistics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Wataru Sakamoto
+Editor-Email: w-sakamoto@okayama-u.ac.jp 
+Editor-Name: Ricardo Cao
+Editor-Email: rcao@udc.es 
+Editor-Name: Jürgen  Symanzik
+Editor-Email: symanzik@math.usu.edu 
+ISSN: 0943-4062
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/180/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 180
+Handle: RePEc:spr:compst
+
+Template-Type: ReDIF-Series 1.0
+Name: Metrika: International Journal for Theoretical and Applied Statistics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: U. Kamps
+Editor-Email: metrika@rwth-aachen.de
+Editor-Name: Norbert Henze
+Editor-Email: Metrika@math.kit.edu
+ISSN: 0026-1335
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/184/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 184
+Handle: RePEc:spr:metrik
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Classification
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Classification Society
+Provider-Homepage: https://tcs.wildapricot.org/
+Editor-Name: Douglas Steinley
+Editor-Email: steinleyd@missouri.edu
+ISSN: 0176-4268
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/statistical+theory+and+methods/journal/357/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 357
+Handle: RePEc:spr:jclass
+
+Template-Type: ReDIF-Series 1.0
+Name: Annals of the Institute of Statistical Mathematics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Institute of Statistical Mathematics
+Provider-Homepage: http://www.ism.ac.jp/index_e.html
+Editor-Name: Tomoyuki Higuchi
+Editor-Email: higuchi@ism.ac.jp 
+ISSN: 0020-3157
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/10463/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10463
+Handle: RePEc:spr:aistmt
+
+Template-Type: ReDIF-Series 1.0
+Name: Statistical Inference for Stochastic Processes
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Denis Bosq
+Editor-Email: denis.bosq@upmc.fr 
+Editor-Name: Yury A. Kutoyants
+Editor-Email: kutoyants@univ-lemans.fr 
+Editor-Name: Marc Hallin
+Editor-Email: mhallin@ulb.ac.be 
+ISSN: 1387-0874
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/mathematics/probability/journal/11203/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11203
+Handle: RePEc:spr:sistpr
+
+Template-Type: ReDIF-Series 1.0
+Name: Psychometrika
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Psychometric Society
+Provider-Homepage: https://www.psychometricsociety.org/
+Editor-Name: Irini Moustaki
+Editor-Email: i.moustaki@lse.ac.uk 
+ISSN: 0033-3123
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/psychology/journal/11336/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11336
+Handle: RePEc:spr:psycho
+
+Template-Type: ReDIF-Series 1.0
+Name: TEST: An Official Journal of the Spanish Society of Statistics and Operations Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Sociedad de Estadística e Investigación Operativa
+Provider-Homepage: http://www.seio.es/
+Editor-Name: Alfonso Gordaliza
+Editor-Email: alfonso@eiouva.es
+Editor-Name: Ana F. Militino
+Editor-Email: militino@unavarra.es
+ISSN: 1133-0686 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/11749/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11749
+Handle: RePEc:spr:testjl
+
+Template-Type: ReDIF-Series 1.0
+Name: TOP: An Official Journal of the Spanish Society of Statistics and Operations Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Sociedad de Estadística e Investigación Operativa
+Provider-Homepage: http://www.seio.es/
+Editor-Name: Juan José Salazar González  
+Editor-Email: jjsalaza@ull.es
+Editor-Name: Gustavo Bergantiños  
+Editor-Email: gbergant@uvigo.es
+ISSN: 1134-5764	
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://link.springer.de/orders.htm
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11750
+Handle: RePEc:spr:topjnl
+
+Template-Type: ReDIF-Series 1.0
+Name: Wirtschaftsdienst
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: German National Library of Economics
+Provider-Homepage: http://www.zbw.eu/de/
+Provider-Institution: RePEc:edi:zbwkide
+Editor-Name: Brigitte Preissl
+Editor-Email: b.preissl@zbw.eu
+ISSN: 0043-6275	
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/policy/journal/10273
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10273
+Handle: RePEc:spr:wirtsc
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Happiness Studies
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Antonella Delle Fave  
+Editor-Email: antonella.dellefave@unimi.it 
+ISSN: 1389-4978	
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/social+sciences/wellbeing+%26+quality-of-life/journal/10902/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10902
+Handle: RePEc:spr:jhappi
+
+Template-Type: ReDIF-Series 1.0
+Name: International Review of Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Happiness Economics and Interpersonal Relations (HEIRS)
+Provider-Homepage: http://www.heirs.it/
+Editor-Name: Luigino Bruni
+Editor-Email: l.bruni@lumsa.it 
+ISSN: 1865-1704	
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/policy/journal/12232/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12232
+Handle: RePEc:spr:inrvec
+
+Template-Type: ReDIF-Series 1.0
+Name: Advances in Data Analysis and Classification
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: German Classification Society - Gesellschaft für Klassifikation (GfKl)
+Provider-Homepage: http://www.gfkl.org/en/
+Provider-Name: Japanese Classification Society (JCS)
+Provider-Homepage: http://www.bunrui.jp/en/
+Provider-Name: Classification and Data Analysis Group of the Italian Statistical Society (CLADAG)
+Provider-Homepage: http://dssm.unipa.it/cladag
+Provider-Name: International Federation of Classification Societies (IFCS)
+Provider-Homepage: http://www.classification-society.org/
+Editor-Name: H.-H. Bock
+Editor-Email: bock@stochastik.rwth-aachen.de
+Editor-Name: W. Gaul
+Editor-Email: wolfgang.gaul@kit.edu 
+Editor-Name: A. Okada
+Editor-Email: okada@tama.ac.jp 
+Editor-Name: M. Vichi
+Editor-Email: maurizio.vichi@uniroma1.it
+Editor-Name: C. Weihs
+Editor-Email: weihs@statistik.uni-dortmund.de 
+ISSN: 1862-5347	
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/statistical+theory+and+methods/journal/11634/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11634
+Handle: RePEc:spr:advdac
+
+Template-Type: ReDIF-Series 1.0
+Name: Statistical Papers 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: C. Müller
+Editor-Email: cmueller@statistik.tu-dortmund.de
+Editor-Name: W. Krämer
+Editor-Email: walterk@statistik.uni-dortmund.de
+Editor-Name: W.G. Müller
+Editor-Email: Werner.Mueller@jku.at
+ISSN: 0932-5026
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/business/journal/362
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 362
+Handle: RePEc:spr:stpapr
+
+Template-Type: ReDIF-Series 1.0
+Name: Frontiers of Economics in China
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Higher Education Press
+Editor-Name: Zhiqi Chen 
+ISSN: 1673-3568 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://journal.hep.com.cn/fec/EN/1673-3444/current.shtml
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Followup: RePEc:fec:journl
+X-JournalID: 11459
+Handle: RePEc:spr:frecch
+
+Template-Type: ReDIF-Series 1.0
+Name: Computational Optimization and Applications
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: William W. Hager
+Editor-Email: hager@math.ufl.edu
+ISSN: 0926-6003
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/math/journal/10589
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10589
+Handle: RePEc:spr:coopap
+
+Template-Type: ReDIF-Series 1.0
+Name: Forum for Social Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Association for Social Economics
+Provider-Homepage: http://socialeconomics.org/
+Editor-Name: J. Marangos
+Editor-Email: marangos@econ.soc.uoc.gr 
+ISSN: 0736-0932
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://link.springer.com/journal/12143
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Followup: RePEc:taf:fosoec
+X-JournalID: 12143
+Handle: RePEc:spr:fosoec
+
+Template-Type: ReDIF-Series 1.0
+Name: Mitigation and Adaptation Strategies for Global Change
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Robert Dixon
+Editor-Email: Robert.dixon@ee.doe.gov 
+ISSN: 1381-2386
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11027
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11027
+Handle: RePEc:spr:masfgc
+
+Template-Type: ReDIF-Series 1.0
+Name: International Environmental Agreements: Politics, Law and Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Joyeeta Gupta
+Editor-Email: j.gupta@uva.nl 
+ISSN: 1567-9764
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10784
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10784
+Handle: RePEc:spr:ieaple
+
+Template-Type: ReDIF-Series 1.0
+Name: Letters in Spatial and Resource Sciences
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com/ 
+Editor-Name: Henk Folmer 
+Editor-Email: h.folmer@rug.nl
+Editor-Name: Amitrajeet A. Batabyal
+Editor-Email: aabgsh@rit.edu
+ISSN: 1864-4031
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/12076
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12076
+Handle: RePEc:spr:lsprsc
+
+Template-Type: ReDIF-Series 1.0
+Name: The Review of Black Political Economy
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: National Economic Association
+Provider-Homepage: http://www.neaecon.org/
+Provider-Institution: RePEc:edi:neaaaea
+Editor-Name: C. Conrad
+Editor-Email: Cecilia_Conrad@scrippscollege.edu
+ISSN: 0034-6446
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/12114
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12114
+Handle: RePEc:spr:blkpoe
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Labor Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Ozkan Eren  
+ISSN: 0195-3613
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/12122
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Predecessor: RePEc:tra:jlabre
+Type: ReDIF-Article
+X-JournalID: 12122
+Handle: RePEc:spr:jlabre
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Global Optimization 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Sergiy Butenko  
+Editor-Email: butenko@tamu.edu 
+ISSN: 0925-5001
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business/operations+research/journal/10898
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10898
+Handle: RePEc:spr:jglopt
+
+Template-Type: ReDIF-Series 1.0
+Name: The Review of International Organizations
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: A. Dreher
+Editor-Email: mail@axel-dreher.de 
+ISSN: 1559-7431
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business/sociology/journal/11558
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11558
+Handle: RePEc:spr:revint
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Global Entrepreneurship Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: UNESCO Chair in Entrepreneurship
+Provider-Homepage: http://www.unesco.org/en/university-twinning-and-networking/access-by-region/asia-and-the-pacific/iran-islamic-republic-of/unesco-chair-in-entrepreneurship-908/
+Editor-Name: Nezameddin Faghih  
+Editor-Email: faghihnezam@gmail.com
+ISSN: 2251-7316 
+Order-Homepage: http://www.springer.com/entrepreneurship/journal/40497
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40497
+Handle: RePEc:spr:jglont
+
+Template-Type: ReDIF-Series 1.0
+Name: Central European Journal of Operations Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Slovak Society for Operations Research
+Provider-Homepage: http://www.fhi.sk/ssov
+Provider-Name: Hungarian Operational Research Society
+Provider-Homepage: http://www.mot.org.hu/index_en.html
+Provider-Name: Czech Society for Operations Research
+Provider-Homepage: http://nb.vse.cz/csov/english.htm
+Provider-Name: Österr. Gesellschaft für Operations Research (ÖGOR)
+Provider-Homepage: http://www.oegor.at/
+Provider-Name: Slovenian Society Informatika - Section for Operational Research
+Provider-Homepage: http://www.drustvo-informatika.si/sekcije/sor/
+Provider-Name: Croatian Operational Research Society
+Provider-Homepage: http://hdoi.hr/en_US/en/
+Editor-Name: Ulrike Leopold-Wildburger
+Editor-Email: ulrike.leopold@uni-graz.at
+ISSN: 1435-246X 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business/operations+research/journal/10100
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10100
+Handle: RePEc:spr:cejnor
+
+Template-Type: ReDIF-Series 1.0
+Name: Service Business
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Pan-Pacific Business Association 
+Provider-Homepage: http://www.panpacificbusiness.org/
+Editor-Name: S.M. Lee
+Editor-Email: slee1@unl.edu
+Editor-Name: J. Millet Roig
+Editor-Email: jmillet@eln.upv.es
+ISSN: 1862-8516
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business/journal/11628
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11628
+Handle: RePEc:spr:svcbiz
+
+Template-Type: ReDIF-Series 1.0
+Name: Review of Managerial Science
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: R. Ewert
+Editor-Email: ralf.ewert@uni-graz.at 
+Editor-Name: W. Kürsten
+Editor-Email: wolfgang.kuersten@wiwi.uni-jena.de 
+ISSN: 1863-6683
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business/journal/11846
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11846
+Handle: RePEc:spr:rvmgts
+
+Template-Type: ReDIF-Series 1.0
+Name: International Review on Public and Nonprofit Marketing
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: International Association of Public and Non-Profit Marketing
+Provider-Homepage: http://www.aimpn.org/
+Editor-Name: Helena Maria Alves  
+Editor-Email: halves@ubi.pt 
+ISSN: 1865-1984
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business/journal/12208
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12208
+Handle: RePEc:spr:irpnmk
+
+Template-Type: ReDIF-Series 1.0
+Name: Food Security: The Science, Sociology and Economics of Food Production and Access to Food
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The International Society for Plant Pathology
+Provider-Homepage: http://www.isppweb.org/foodsecurity_background.asp
+Editor-Name: R.N. Strange
+Editor-Email: r.strange@sbc.bbk.ac.uk 
+ISSN: 1876-4517
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/life+sciences/agriculture/journal/12571
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12571
+Handle: RePEc:spr:ssefpa
+
+Template-Type: ReDIF-Series 1.0
+Name: Environmental Economics and Policy Studies
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Society for Environmental Economics and Policy Studies - SEEPS
+Provider-Homepage: http://www.seeps.org/
+Provider-Institution: RePEc:edi:seepsea
+Editor-Name: Ken-Ichi Akao  
+Editor-Email: akao@waseda.ac.jp 
+ISSN: 1432-847X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/environmental/journal/10018
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10018
+Handle: RePEc:spr:envpol
+
+Template-Type: ReDIF-Series 1.0
+Name: SERIEs: Journal of the Spanish Economic Association
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Spanish Economic Association
+Provider-Homepage: http://www.asesec.org/index.php?idioma=en
+Provider-Institution: RePEc:edi:aeeeeea
+Editor-Name: Nezih Guner
+Editor-Email: nezih.guner@uab.es
+ISSN: 1869-4187
+Order-Homepage: http://www.springer.com/economics/journal/13209
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Predecessor: RePEc:spr:specre
+Predecessor: RePEc:iec:inveco
+X-JournalID: 13209
+Handle: RePEc:spr:series
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of the Knowledge Economy
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Portland International Center for Management of Engineering and Technology (PICMET)
+Provider-Homepage: http://www.picmet.org/main/
+Editor-Name: Elias G. Carayannis
+Editor-Email: caraye@gwu.edu 
+ISSN: 1868-7865
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/13132
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13132
+Handle: RePEc:spr:jknowl
+
+Template-Type: ReDIF-Series 1.0
+Name: Climatic Change
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: M. Oppenheimer
+Editor-Email: omichael@princeton.edu 
+Editor-Name: G. Yohe
+Editor-Email: gyohe@wesleyan.edu 
+ISSN: 0165-0009
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10584
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10584
+Handle: RePEc:spr:climat
+
+Template-Type: ReDIF-Series 1.0
+Name: Dynamic Games and Applications
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Georges Zaccour
+Editor-Email: Georges.Zaccour@gerad.ca 
+ISSN: 2153-0785
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/13235
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13235
+Handle: RePEc:spr:dyngam
+
+Template-Type: ReDIF-Series 1.0
+Name: The European Physical Journal B: Condensed Matter and Complex Systems
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: EDP Sciences
+Provider-Homepage: http://publications.edpsciences.org/
+Editor-Name: P. Hänggi
+Editor-Email: hanggi@physik.uni-augsburg.de 
+Editor-Name: Angel Rubio
+Editor-Email: angel.rubio@ehu.es 
+ISSN: 1434-6028
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10051
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10051
+Handle: RePEc:spr:eurphb
+
+Template-Type: ReDIF-Series 1.0
+Name: Quality & Quantity: International Journal of Methodology
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Vittorio Capecchi  
+Editor-Email: vittorio.capecchi@unibo.it 
+ISSN: 0033-5177
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11135
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11135
+Handle: RePEc:spr:qualqt
+
+Template-Type: ReDIF-Series 1.0
+Name: Social Indicators Research: An International and Interdisciplinary Journal for Quality-of-Life Measurement
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Filomena Maggino  
+Editor-Email: filomena.maggino@unifi.it 
+ISSN: 0303-8300
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11135
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11205
+Handle: RePEc:spr:soinre
+
+Template-Type: ReDIF-Series 1.0
+Name: Health Economics Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com/economics/journal/13561
+Editor-Name: J. Matthias Graf von der Schulenburg 
+Editor-Email: jms@ivbl.uni-hannover.de 
+ISSN: 2191-1991
+Order-Homepage: http://www.springer.com/journal/13561
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13561
+X-Online: Yes
+Handle: RePEc:spr:hecrev
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Environmental Studies and Sciences 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Association of Environmental Studies and Sciences
+Provider-Homepage: https://aessonline.org/
+Editor-Name: Walter A. Rosenbaum  
+Editor-Email: tonyros@ufl.edu 
+ISSN: 2190-6483 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/13412
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13412
+Handle: RePEc:spr:jenvss
+
+Template-Type: ReDIF-Series 1.0
+Name: Environment, Development and Sustainability: A Multidisciplinary Approach to the Theory and Practice of Sustainable Development 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Luc Hens
+Editor-Email: luchens51@gmail.com 
+ISSN: 1573-2975 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10668
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10668
+Handle: RePEc:spr:endesu
+
+Template-Type: ReDIF-Series 1.0
+Name: Demography
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Population Association of America (PAA)
+Provider-Homepage: http://www.populationassociation.org/
+Editor-Name: John D. Iceland  
+Editor-Email: demography@psu.edu 
+Editor-Name: Stephen A. Matthews  
+Editor-Email: demography@psu.edu 
+Editor-Name: Jenny Van Hook  
+Editor-Email: demography@psu.edu 
+ISSN: 1533-7790
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/13524
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13524
+Handle: RePEc:spr:demogr
+
+Template-Type: ReDIF-Series 1.0
+Name: Mineral Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Raw Materials Group (RMG)
+Provider-Name: Luleå University of Technology 
+Provider-Homepage: http://www.ltu.se/?l=en
+Editor-Name: Magnus Ericsson  
+Editor-Email: magnus.ericsson@rmg.se
+Editor-Name: Patrik Söderholm   
+Editor-Email: patrik.soderholm@ltu.se  
+ISSN: 2191-2211
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/13563
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13563
+Handle: RePEc:spr:minecn
+
+Template-Type: ReDIF-Series 1.0
+Name: IZA Journal of Labor Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)
+Provider-Homepage: http://www.iza.org/en/webcontent/index_html?lang=en
+Editor-Name: Joni Hersch  
+Editor-Email: joni.hersch@vanderbilt.edu 
+Editor-Name: Pierre Cahuc   
+Editor-Email: cahuc@ensae.fr  
+ISSN: 2193-8997
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40172
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40172
+X-Online: Yes
+Handle: RePEc:spr:izalbr
+
+Template-Type: ReDIF-Series 1.0
+Name: IZA Journal of Labor Policy
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)
+Provider-Homepage: http://www.iza.org/en/webcontent/index_html?lang=en
+Editor-Name: Juan F. Jimeno  
+Editor-Email: juan.jimeno@bde.es 
+Editor-Name: David Neumark  
+Editor-Email: dneumark@ucl.edu 
+Editor-Name: Núria Rodríguez-Planas  
+Editor-Email: rodriguez-planas@iza.org
+ISSN: 2193-9004
+Order-Homepage: http://www.springer.com/economics/journal/40173
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40173
+X-Online: Yes
+Handle: RePEc:spr:izalpo
+
+Template-Type: ReDIF-Series 1.0
+Name: IZA Journal of European Labor Studies
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)
+Provider-Homepage: http://www.iza.org/en/webcontent/index_html?lang=en
+Editor-Name: Sara de la Rica  
+Editor-Email: sara.delarica@ehu.es 
+Editor-Name: Alan Barrett  
+Editor-Email: baretal@tcd.ie 
+Editor-Name: Martin  Kahanec  
+Editor-Email: Kahanec@iza.org 
+ISSN: 2193-9012
+Order-Homepage: http://www.springer.com/economics/journal/40174
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40174
+X-Online: Yes
+Handle: RePEc:spr:izaels
+
+Template-Type: ReDIF-Series 1.0
+Name: IZA Journal of Labor & Development
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)
+Provider-Homepage: http://www.iza.org/en/webcontent/index_html?lang=en
+Editor-Name: David Lam
+Editor-Email: davidl@umich.edu 
+Editor-Name: Hartmut Lehmann  
+Editor-Email: hartmut.lehmann@unibo.it 
+Editor-Name: Jackline Wahba  
+Editor-Email: j.wahba@soton.ac.uk 
+ISSN: 2193-9020
+Order-Homepage: http://www.springer.com/economics/journal/40175
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40175
+X-Online: Yes
+Handle: RePEc:spr:izaldv
+
+Template-Type: ReDIF-Series 1.0
+Name: IZA Journal of Migration
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)
+Provider-Homepage: http://www.iza.org/en/webcontent/index_html?lang=en
+Editor-Name: Amelie F. Constant 
+Editor-Email: constant@iza.org 
+Editor-Name:  Denis Fougère  
+Editor-Email: denis.fougere@ensae.fr 
+Editor-Name: Tommaso Colussi   
+Editor-Email: colussi@iza.org 
+ISSN: 2193-9039
+Order-Homepage: http://www.springer.com/economics/journal/40176
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40176
+X-Online: Yes
+Handle: RePEc:spr:izamig
+
+Template-Type: ReDIF-Series 1.0
+Name: PharmacoEconomics 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Timothy Wrightson  
+Editor-Email: Timothy.Wrightson@springer.com 
+Editor-Name: Christopher I. Carswell  
+Editor-Email: Chris.Carswell@springer.com 
+ISSN: 1170-7690
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40273
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40273
+Handle: RePEc:spr:pharme
+
+Template-Type: ReDIF-Series 1.0
+Name: Applied Health Economics and Health Policy
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Timothy Wrightson
+Editor-Email: Timothy.Wrightson@springer.com 
+ISSN: 1175-5652
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40258
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40258
+Handle: RePEc:spr:aphecp
+
+Template-Type: ReDIF-Series 1.0
+Name: Agriculture and Human Values
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Agriculture, Food, & Human Values Society (AFHVS)
+Provider-Homepage: https://afhvs.wildapricot.org/
+Editor-Name:  Harvey S. James Jr. 
+Editor-Email: HJames@missouri.edu 
+ISSN: 0889-048X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10460
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10460
+Handle: RePEc:spr:agrhuv
+
+Template-Type: ReDIF-Series 1.0
+Name: The Patient: Patient-Centered Outcomes Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Johns Hopkins Bloomberg School of Public Health
+Provider-Homepage: http://www.jhsph.edu/
+Editor-Name: Christopher I. Carswell  
+Editor-Email: Chris.Carswell@springer.com 
+ISSN: 0889-048X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40271
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40271
+Handle: RePEc:spr:patien
+
+Template-Type: ReDIF-Series 1.0
+Name: METRON
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Sapienza Università di Roma 
+Provider-Homepage: http://www.uniroma1.it/
+Editor-Name: Giovanni Maria Giorgi  
+Editor-Email: giovanni.giorgi@uniroma1.it 
+ISSN: 0026-1424
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40300
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40300
+Handle: RePEc:spr:metron
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal for Labour Market Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Institute for Employment Research/ Institut für Arbeitsmarkt- und Berufsforschung (IAB)
+Provider-Homepage: http://www.iab.de/196/section.aspx 
+Editor-Name: Joachim Möller  
+Editor-Email: joachim.moeller@iab.de 
+ISSN: 1614-3485
+Order-Homepage: http://www.springer.com/economics/journal/12651
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12651
+Handle: RePEc:spr:jlabrs
+
+Template-Type: ReDIF-Series 1.0
+Name: Business & Information Systems Engineering: The International Journal of WIRTSCHAFTSINFORMATIK 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Gesellschaft für Informatik e.V. (GI)
+Provider-Homepage: https://www.gi.de/
+Editor-Name: Martin Bichler  
+Editor-Email: bichler@in.tum.de 
+ISSN: 1867-0202
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/12599
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12599
+Handle: RePEc:spr:binfse
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Economic Structures
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Pan-Pacific Association of Input-Output Studies (PAPAIOS)
+Provider-Homepage: http://papaios-jes.com/index-en.html
+Provider-Institution: RePEc:edi:papaiea
+Editor-Name: Shigemi Kagawa  
+Editor-Email: kagawa@en.kyushu-u.ac.jp 
+Editor-Name: Kazuhiko Nishimura  
+Editor-Email: nishimura@n-fukushi.ac.jp 
+ISSN: 2193-2409
+Order-Homepage: http://www.springer.com/economics/journal/40008
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40008
+X-Online: Yes
+Handle: RePEc:spr:jecstr
+
+Template-Type: ReDIF-Series 1.0
+Name: Latin American Economic Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Centro de Investigaciòn y Docencia Económica (CIDE)
+Provider-Homepage: http://www.cide.edu/
+Editor-Name: Susan W. Parker  
+Editor-Email: susan.parker@cide.edu 
+Editor-Name: Kaniska Dam   
+Editor-Email: kaniska.dam@cide.edu
+Editor-Name: Gonzalo Castañeda  
+Editor-Email: gonzalo.castaneda@cide.edu 
+ISSN: 2196-436X
+Order-Homepage: http://www.springer.com/economics/journal/40503
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40503
+X-Online: Yes
+Handle: RePEc:spr:laecrv
+
+Template-Type: ReDIF-Series 1.0
+Name: Review of Regional Research: Jahrbuch für Regionalwissenschaft
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Gesellschaft für Regionalforschung (GfR)
+Provider-Homepage: http://gfr.ersa.org/
+Provider-Institution: RePEc:edi:gfrrrea
+Editor-Name: Thomas Brenner
+Editor-Email: brenner@innopoli.de
+Editor-Name: Georg Hirte
+Editor-Email: georg.hirte@tu-dresden.de
+ISSN: 1613-9836  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10037
+X-Note: Previously titled Jahrbuch für Regionalwissenschaft
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10037
+Handle: RePEc:spr:jahrfr
+
+Template-Type: ReDIF-Series 1.0
+Name: Natural Hazards: Journal of the International Society for the Prevention and Mitigation of Natural Hazards
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: International Society for the Prevention and Mitigation of Natural Hazards
+Editor-Name: Thomas Glade
+Editor-Email: thomas.glade@univie.ac.at 
+Editor-Name: Tad S. Murty
+Editor-Email: smurty@hotmail.com
+Editor-Name: Vladimír Schenk
+Editor-Email: vschenk@seznam.cz
+ISSN: 1573-0840  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11069
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11069
+Handle: RePEc:spr:nathaz
+
+Template-Type: ReDIF-Series 1.0
+Name: Mathematical Methods of Operations Research 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Gesellschaft für Operations Research (GOR)
+Provider-Homepage: https://gor.uni-paderborn.de/index.php?id=7
+Provider-Name: Nederlands Genootschap voor Besliskunde (NGB)
+Provider-Homepage: http://www.ngb-online.nl/
+Editor-Name: Oliver Stein
+Editor-Email: stein@kit.edu
+ISSN: 1432-5217
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/00186
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 186
+Handle: RePEc:spr:mathme
+
+Template-Type: ReDIF-Series 1.0
+Name: Water Resources Management: An International Journal, Published for the European Water Resources Association (EWRA) 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: European Water Resources Association (EWRA) 
+Provider-Homepage: http://www.ewra.net/
+Editor-Name: G. Tsakiris
+Editor-Email: gtsakir@central.ntua.gr
+ISSN: 1573-1650 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11269
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11269
+Handle: RePEc:spr:waterr
+
+Template-Type: ReDIF-Series 1.0
+Name: Eurasian Business Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Eurasia Business and Economics Society
+Provider-Homepage: http://www.ebesweb.org/ 
+Provider-Institution: RePEc:edi:ebessea
+Editor-Name: Marco Vivarelli  
+Editor-Email: marco.vivarelli@unicatt.it 
+ISSN: 2147-4281 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40821
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40821
+Handle: RePEc:spr:eurasi
+
+Template-Type: ReDIF-Series 1.0
+Name: Eurasian Economic Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Eurasia Business and Economics Society
+Provider-Homepage: http://www.ebesweb.org/ 
+Provider-Institution: RePEc:edi:ebessea
+Editor-Name: Peter Rangazas 
+Editor-Email: praganza@iupui.edu 
+ISSN: 2147-429X 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40822
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40822
+Handle: RePEc:spr:eurase
+
+Template-Type: ReDIF-Series 1.0
+Name: European Journal of Population 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: European Association for Population Studies
+Provider-Homepage: http://www.eaps.nl/
+Editor-Name: Helga A.G. de Valk
+Editor-Email: ejp@nidi.nl
+ISSN: 1572-9885
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/10680
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10680
+Handle: RePEc:spr:eurpop
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Management Control: Zeitschrift für Planung und Unternehmenssteuerung
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Thomas Günther
+Editor-Email: Lehrstuhl.controlling@mailbox.tu-dresden.de
+ISSN: 2191-477X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/187
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 187
+Handle: RePEc:spr:jmgtco
+
+Template-Type: ReDIF-Series 1.0
+Name: Drug Safety 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com/economics/journal/40264
+Editor-Name: Nitin Joshi
+Editor-Email: nitin.joshi@springer.com 
+ISSN: 1179-1942  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/adis/journal/40264
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40264
+Handle: RePEc:spr:drugsa
+
+Template-Type: ReDIF-Series 1.0
+Name: Italian Economic Journal: A Continuation of Rivista Italiana degli Economisti and Giornale degli Economisti 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Società Italiana degli Economisti (Italian Economic Association) 
+Provider-Homepage: http://www.siecon.org/online/en/
+Provider-Institution: RePEc:edi:sieeeea
+Editor-Name: Roberto Cellini
+Editor-Email: cellini@unict.it 
+ISSN: 2199-3238 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40797
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Predecessor: RePEc:mul:jqat1f
+X-JournalID: 40797
+Handle: RePEc:spr:italej
+
+Template-Type: ReDIF-Series 1.0
+Name: Economia e Politica Industriale: Journal of Industrial and Business Economics 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Associazione Amici di Economia e Politica Industriale
+Editor-Name: C. Cambini
+Editor-Email: carlo.cambini@polito.it 
+Editor-Name: M.G. Colombo
+Editor-Email: massimo.colombo@polimi.it 
+Editor-Name: L. Piscitello
+Editor-Email: lucia.piscitello@polimi.it 
+Editor-Name: L. Rondi
+Editor-Email: laura.rondi@polito.it 
+Editor-Name: A. Zanfei
+Editor-Email: antonello.zanfei@uniurb.it 
+ISSN: 1972-4977 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40812
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Predecessor: RePEc:fan:polipo
+X-JournalID: 40812
+Handle: RePEc:spr:epolin
+
+Template-Type: ReDIF-Series 1.0
+Name: Economia Politica: Journal of Analytical and Institutional Economics 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Fondazione Edison
+Provider-Homepage: http://www.fondazioneedison.it/it/
+ISSN: 1973-820X
+Editor-Name: Alberto Quadrio Curzio  
+Editor-Email: alberto.quadriocurzio@unicatt.it 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40888
+Predecessor: RePEc:mul:jb33yl
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40888
+Handle: RePEc:spr:epolit
+
+Template-Type: ReDIF-Series 1.0
+Name: Customer Needs and Solutions 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Institute for Sustainable Innovation and Growth (iSIG)
+Provider-Homepage: http://www.planetding.org/service/isig.php
+Editor-Name: Min Ding
+Editor-Email: minding@psu.edu 
+ISSN: 2196-2928
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40547
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40547
+Handle: RePEc:spr:custns
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Social and Economic Development
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Institute for Social and Economic Change
+Provider-Homepage: http://www.isec.ac.in/
+Editor-Name:  M.G. Chandrakanth  
+Editor-Email: mgchandrakanth@gmail.com 
+Editor-Name:  D. Rajasekhar  
+Editor-Email: raja@isec.ac.in 
+Editor-Name: Anand Inbanathan  
+Editor-Email: anand@isec.ac.in
+Editor-Name:  S. Madheswaran 
+Editor-Email: madhes@isec.ac.in 
+ISSN: 2199-6873  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40847
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40847
+Handle: RePEc:spr:jsecdv
+
+Template-Type: ReDIF-Series 1.0
+Name: International Journal of Public Health
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Swiss School of Public Health (SSPH+)
+Provider-Homepage: http://www.ssphplus.ch/sharepoint/ssphplus.html
+Editor-Name: Thomas Kohlmann  
+Editor-Email: thomas.kohlmann@uni-greifswald.de 
+Editor-Name: Nino Künzli  
+Editor-Email: nino.kuenzli@unibas.ch 
+Editor-Name: Andrea Madarasova Geckova  
+Editor-Email: geckova@kosice.upjs.sk 
+ISSN: 1661-8564 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/00038
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 38
+Handle: RePEc:spr:ijphth
+
+Template-Type: ReDIF-Series 1.0
+Name: Annals of Operations Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Endre Boros
+Editor-Email: boros@rutgers.edu 
+ISSN: 1572-9338 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10479
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10479
+Handle: RePEc:spr:annopr
+
+Template-Type: ReDIF-Series 1.0
+Name: Scientometrics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Akadémiai Kiadó
+Provider-Homepage: http://akkrt.hu/
+Editor-Name: Wolfgang Glänzel  
+Editor-Email: wolfgang.glanzel@kuleuven.be 
+ISSN: 1588-2861 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11192
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Handle: RePEc:spr:scient
+
+Template-Type: ReDIF-Series 1.0
+Name: Schmalenbach Business Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Schmalenbach-Gesellschaft
+Provider-Homepage: http://www.schmalenbach.org/index.php/schmalenbach-gesellschaft
+Editor-Name: Alfred Wagenhofer
+Editor-Email: alfred.wagenhofer@uni-graz.at 
+ISSN: 1439-2917  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/41464
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+Predecessor: RePEc:sbr
+X-JournalID: 41464 
+Handle: RePEc:spr:schmbr
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Homo Oeconomicus: Journal of Behavioral and Institutional Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: M.J. Holler
+Editor-Email: holler@econ.uni-hamburg.de 
+Editor-Name: M. Kocher
+Editor-Email: martin.kocher@lrz.uni-muenchen.de
+Editor-Name: K.K. Sieberg
+Editor-Email: katri.sieberg@uta.fi 
+ISSN: 2366-6161 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/41412
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41412
+Handle: RePEc:spr:homoec
+
+Template-Type: ReDIF-Series 1.0
+Name: Biophysical Economics and Resource Quality
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+ISSN: 2366-0120 
+Restriction: Access to the full text of the articles in this series is restricted.
+Editor-Name: C.A.S. Hall
+Editor-Email: chall@esf.edu 
+Editor-Name: U. Bardi
+Editor-Email: bardi@unifi.it 
+Order-Homepage: http://www.springer.com/journal/41247
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41247
+Handle: RePEc:spr:bioerq
+
+Template-Type: ReDIF-Series 1.0
+Name: Research in Higher Education
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Association for Institutional Research
+Provider-Homepage: http://www.airweb.org/pages/default.aspx
+Editor-Name: Robert K. Toutkoushian
+Editor-Email: rtoutkou@uga.edu  
+ISSN: 1573-188X 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11162
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11162
+Handle: RePEc:spr:reihed
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of the Economic Science Association
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Economic Science Association
+Provider-Homepage: https://www.economicscience.org/index.html
+Provider-Institution: RePEc:edi:esaaaea
+Editor-Name: Nikos Nikiforakis  
+Editor-Email: nikos.nikiforakis@nyu.edu
+Editor-Name: Robert Slonim  
+Editor-Email: robert.slonim@sydney.edu.au  
+ISSN: 2199-6784 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/40881
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40881 
+Handle: RePEc:spr:jesaex
+
+Template-Type: ReDIF-Series 1.0
+Name: Economic Theory Bulletin
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Society for the Advancement of Economic Theory (SAET)
+Provider-Homepage: http://www.saet.uiowa.edu/
+Provider-Institution: RePEc:edi:saettea
+Editor-Name: Nicholas C. Yannelis
+Editor-Email: nicholasyannelis@gmail.com 
+ISSN: 2196-1093
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40505
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40505 
+Handle: RePEc:spr:etbull
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Business Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Günter Fandel  
+Editor-Email: jbe@FernUni-Hagen.de 
+ISSN: 1861-8928 
+X-Note: Previously published under the title Zeitschrift für Betriebswirtschaft
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11573
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11573 
+Handle: RePEc:spr:jbecon
+
+Template-Type: ReDIF-Series 1.0
+Name: Management International Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Michael-Jörg Oesterle  
+Editor-Email: michael-joerg.oesterle@bwi.uni-stuttgart.de
+Editor-Name: Joachim Wolf   
+Editor-Email: wolf@bwl.uni-kiel.de 
+ISSN: 1861-8901
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11575
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11575
+Handle: RePEc:spr:manint
+
+Template-Type: ReDIF-Series 1.0
+Name: Management Review Quarterly 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Vienna University of Economics and Business
+Provider-Homepage: https://www.wu.ac.at/en/
+Editor-Name: Thomas Reutterer  
+Editor-Email: thomas.reutterer@wu.ac.at  
+Editor-Name: Jonas F. Puck  
+Editor-Email: jonas.puck@wu.ac.at 
+Editor-Name: Engelbert Dockner  
+Editor-Email: engelbert.dockner@wu.ac.at  
+Editor-Name: Anne d'Arcy
+Editor-Email: anne.darcy@wu.ac.at
+ISSN: 2198-1639  
+X-Note: Previously published under the title Journal für Betriebswirtschaft 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11301
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11301
+Handle: RePEc:spr:manrev
+
+Template-Type: ReDIF-Series 1.0
+Name: Cliometrica
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Cliometric Society (Association Francaise de Cliométrie)
+Provider-Homepage: http://cliometrics.org/
+Provider-Institution: RePEc:edi:cliosea
+Editor-Name: Claude Diebolt  
+Editor-Email: cdiebolt@unistra.fr
+ISSN: 1863-2513 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/11698
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11698
+Handle: RePEc:spr:cliomt
+
+Template-Type: ReDIF-Series 1.0
+Name: Business Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: German Academic Association for Business Research
+Provider-Homepage: http://vhbonline.org/startseite/
+Provider-Institution: RePEc:edi:vhbbbea
+Editor-Name: Thomas Gehrig   
+Editor-Email: thomas.gehrig@univie.ac.at
+ISSN: 2198-2627
+Order-Homepage: http://www.springer.com/journal/40685
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40685
+Handle: RePEc:spr:busres
+
+Template-Type: ReDIF-Series 1.0
+Name: The Journal of Economic Inequality
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Society for the Study of Economic Inequality
+Provider-Homepage: http://www.ecineq.org/
+Provider-Institution: RePEc:edi:ecineea
+Editor-Name: Stephen Jenkins
+Editor-Email: s.jenkins@lse.ac.uk 
+ISSN: 1573-8701
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10888
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10888
+Handle: RePEc:spr:joecin
+
+Template-Type: ReDIF-Series 1.0
+Name: Computational and Mathematical Organization Theory
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Terrill Frantz
+Editor-Email: terrill@phbs.pku.edu.cn
+Editor-Name: Kathleen Carley
+Editor-Email: kathleen.carley@cs.cmu.edu
+ISSN: 1572-9346
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10588
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10588
+Handle: RePEc:spr:comaot
+
+Template-Type: ReDIF-Series 1.0
+Name: Electronic Commerce Research 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: James Westland
+Editor-Email: westland@uic.edu 
+ISSN: 1572-9362
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10660
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10660
+Handle: RePEc:spr:elcore
+
+Template-Type: ReDIF-Series 1.0
+Name: Flexible Services and Manufacturing Journal
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Hans Günther
+Editor-Email: hans-otto.guenther@hotmail.de 
+ISSN: 1936-6590
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10696
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10696
+Handle: RePEc:spr:flsman
+
+Template-Type: ReDIF-Series 1.0
+Name: Fuzzy Optimization and Decision Making
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Shu-Cherng Fang
+Editor-Email: fang@ncsu.edu
+Editor-Name: Boading Liu
+Editor-Email: liu@tsinghua.edu.cn
+ISSN: 1573-2908 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10700
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10700
+Handle: RePEc:spr:fuzodm
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Heuristics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Manuel Laguna
+Editor-Email: laguna@colorado.edu
+ISSN: 1572-9397  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10732
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10732
+Handle: RePEc:spr:joheur 
+
+Template-Type: ReDIF-Series 1.0
+Name: Information Systems Frontiers
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Ram Ramesh
+Editor-Email: rramesh@buffalo.edu
+Editor-Name: Raghav Rao
+Editor-Email: mgmtrao@buffalo.edu
+ISSN: 1572-9419 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10796
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10796
+Handle: RePEc:spr:infosf
+
+Template-Type: ReDIF-Series 1.0
+Name: Information Technology and Management
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Raymond Patterson
+Editor-Email: ray.patterson@business.ualberta.ca 
+Editor-Name: Erik Rolland
+Editor-Email: erolland@ucmerced.edu 
+ISSN: 1573-7667
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10799
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10799
+Handle: RePEc:spr:infotm 
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Intelligent Manufacturing
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Andrew Kusiak
+Editor-Email: andrew-kusiak@uiowa.edu
+ISSN: 1572-8145  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10845
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10845
+Handle: RePEc:spr:joinma 
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Scheduling
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Edmund Burke
+Editor-Email: e.burke@qmul.ac.uk
+Editor-Name: Michael Pinedo
+Editor-Email: mpinedo@stern.nyu.edu
+ISSN: 1099-1425
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10951
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10951
+Handle: RePEc:spr:jsched
+
+Template-Type: ReDIF-Series 1.0
+Name: Operations Management Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Jan Olhager
+Editor-Email: jan.olhager@tlog.lth.se
+Editor-Name: Scott Shafer
+Editor-Email: shafersm@wfu.edu
+ISSN: 1936-9743
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/12063
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12063
+Handle: RePEc:spr:opmare
+
+Template-Type: ReDIF-Series 1.0
+Name: Queueing Systems: Theory and Applications
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Sergey Foss
+Editor-Email: s.foss@hw.ac.uk
+ISSN: 1572-9443
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11134/
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11134
+Handle: RePEc:spr:queues
+
+Template-Type: ReDIF-Series 1.0
+Name: Systemic Practice and Action Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Robert Flood
+Editor-Email: ed.spar@tiscali.co.uk 
+ISSN: 1573-9295
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11213
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11213
+Handle: RePEc:spr:syspar
+
+Template-Type: ReDIF-Series 1.0
+Name: Telecommunication Systems: Modelling, Analysis, Design and Management
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Muhammad Khan
+Editor-Email: mkhurram@ksu.edu.sa 
+ISSN: 1572-9451  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11235
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11235
+Handle: RePEc:spr:telsys 
+
+Template-Type: ReDIF-Series 1.0
+Name: Lifetime Data Analysis: An International Journal Devoted to Statistical Methods and Applications for Time-to-Event Data
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Mei-Ling Ting Lee
+Editor-Email: mltlee@umd.edu
+ISSN: 1572-9249
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10985
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10985
+Handle: RePEc:spr:lifeda 
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Agricultural, Biological and Environmental Statistics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The International Biometric Society
+Provider-Homepage: http://www.biometricsociety.org/
+Provider-Name: American Statistical Association
+Provider-Homepage: http://www.amstat.org/
+Editor-Name: Stephen Buckland
+Editor-Email: steve@st-andrews.ac.uk
+ISSN: 1537-2693  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/13253
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13253
+Handle: RePEc:spr:jagbes 
+
+Template-Type: ReDIF-Series 1.0
+Name: Statistics in Biosciences 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: International Chinese Statistical Association
+Provider-Homepage: http://www.icsa.org/
+Editor-Name: Hongyu Zhao
+Editor-Email: hongyu.zhao@yale.edu
+Editor-Name: Xihong Lin
+Editor-Email: xlin@hsph.harvard.edu
+ISSN: 1867-1772
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/12561
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12561
+Handle: RePEc:spr:stabio
+
+Template-Type: ReDIF-Series 1.0
+Name: Injury Epidemiology
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Columbia University Medical Center
+Provider-Homepage: https://www.cuinjuryresearch.org/
+Editor-Name: Guohua Li
+Editor-Email: gl2240@columbia.edu
+ISSN: 2197-1714  
+Order-Homepage:
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40621
+Handle: RePEc:spr:injepi 
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Statistical Distributions and Applications
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Felix Famoye
+Editor-Email: felix.famoye@cmich.edu
+Editor-Name: Carl Lee
+Editor-Email: carl.lee@cmich.edu
+ISSN: 2195-5832
+Order-Homepage: http://www.springer.com/statistics/journal/40488
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40488
+Handle: RePEc:spr:jstada
+
+Template-Type: ReDIF-Series 1.0
+Name: International Entrepreneurship and Management Journal
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Salvador Roig
+Editor-Email: Salvador.Roig@uv.es 
+ISSN: 1555-1938 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/entrepreneurship/journal/11365
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11365
+Handle: RePEc:spr:intemj  
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Organization Design
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Organizational Design Community
+Provider-Homepage: http://orgdesigncomm.com/
+Editor-Name: Børge Obel
+Editor-Email: bo@icoa.au.dk
+Editor-Name: Charles C. Snow
+Editor-Email: csnow@psu.edu 
+ISSN: 2245-408X 
+Order-Homepage: http://www.springer.com/journal/41469
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41469
+Handle: RePEc:spr:jorgde
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Transportation Security
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Andrew Thomas
+Editor-Email: art@uakron.edu 
+ISSN: 1938-775X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/12198
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12198
+Handle: RePEc:spr:jtrsec 
+
+Template-Type: ReDIF-Series 1.0
+Name: Review of Accounting Studies
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Paul Fischer
+Editor-Email: pef@wharton.upenn.edu 
+ISSN: 1573-7136
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/accounting/journal/11142
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11142
+Handle: RePEc:spr:reaccs 
+
+Template-Type: ReDIF-Series 1.0
+Name: OPSEARCH
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Operational Research Society of India
+Provider-Homepage: http://www.orsi.in/
+Editor-Name: Birendra Mandal
+Editor-Email: biren@isical.ac.in 
+ISSN: 0975-0320
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/operations+research/journal/12597
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12597
+Handle: RePEc:spr:opsear
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Quantitative Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Indian Econometric Society (TIES)
+Provider-Homepage: http://www.tiesindia.net/
+Provider-Institution: RePEc:edi:tiesoea
+Editor-Name: Dilip Nachane
+Editor-Email: nachane@igidr.ac.in  
+Editor-Name: P.G. Babu
+Editor-Email: babu@igidr.ac.in
+ISSN: 2364-1045
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/journal/40953
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40953
+Handle: RePEc:spr:jqecon
+
+Template-Type: ReDIF-Series 1.0
+Name: Sankhya A: The Indian Journal of Statistics 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Indian Statistical Institute
+Provider-Homepage: http://www.isical.ac.in/
+Editor-Name: Dipak Dey
+Editor-Email: dipak.dey@uconn.edu 
+ISSN: 0976-8378
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/13171
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13171
+Handle: RePEc:spr:sankha
+
+Template-Type: ReDIF-Series 1.0
+Name: Sankhya B: The Indian Journal of Statistics 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Indian Statistical Institute
+Provider-Homepage: http://www.isical.ac.in/
+Editor-Name: Dipak Dey
+Editor-Email: dipak.dey@uconn.edu 
+ISSN: 0976-8394
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/statistics/journal/13571
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13571
+Handle: RePEc:spr:sankhb
+
+Template-Type: ReDIF-Series 1.0
+Name: International Journal of System Assurance Engineering and Management
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Society for Reliability, Engineering Quality and Operations Management (SREQOM),India, and Division of Operation and Maintenance, Lulea University of Technology, Sweden
+Provider-Homepage: http://www.ltu.se/org/sbn/Avdelningar/Drift-underhall-och-akustik?l=en
+Editor-Name: P.K. Kapur
+Editor-Email: pkkapur1@gmail.com
+Editor-Name: A.K. Verma
+Editor-Email: akvmanas@gmail.com
+Editor-Name: U. Kumar
+Editor-Email: uday.kumar@ltu.se 
+ISSN: 0976-4348
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/engineering/journal/13198
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13198
+Handle: RePEc:spr:ijsaem
+
+Template-Type: ReDIF-Series 1.0
+Name: Global Journal of Flexible Systems Management
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Global Institute of Flexible Systems Management
+Provider-Homepage: http://giftsociety.org/
+Editor-Name: Sushil
+Editor-Email: profsushil@gmail.com 
+ISSN: 0974-0198
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/40171
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40171
+Handle: RePEc:spr:gjofsm
+
+Template-Type: ReDIF-Series 1.0
+Name: DECISION: Official Journal of the Indian Institute of Management Calcutta
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Indian Institute of Management Calcutta
+Provider-Homepage: https://www.iimcal.ac.in/
+Editor-Name: Rajesh Babu
+Editor-Email: rajeshbabu@iimcal.ac.in
+ISSN: 2197-1722
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/40622
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40622
+Handle: RePEc:spr:decisn
+
+Template-Type: ReDIF-Series 1.0
+Name: The Indian Journal of Labour Economics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: The Indian Society of Labour Economics (ISLE)
+Provider-Homepage: http://www.isleijle.org/ijle/
+Provider-Institution: RePEc:edi:isleeea
+Editor-Name: Alakh Sharma
+Editor-Email: alakh.sharma@ihdindia.org
+ISSN: 0019-5308
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/41027
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41027
+Handle: RePEc:spr:ijlaec
+
+Template-Type: ReDIF-Series 1.0
+Name: Applied Research in Quality of Life
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: International Society for Quality-of-Life Studies
+Provider-Homepage: http://www.isqols.org/
+Editor-Name: Daniel Shek
+Editor-Email: daniel.shek@polyu.edu.hk 
+ISSN: 1871-2584
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/11482
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 11482
+Handle: RePEc:spr:ariqol
+
+Template-Type: ReDIF-Series 1.0
+Name: Humanistic Management Journal
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Michael Pirson
+Editor-Email: pirson@fordham.edu 
+ISSN: 2366-603X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/41463
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41463
+Handle: RePEc:spr:humman
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Global Entrepeneurship Research
+Provider-Name: Springer
+Editor-Name: Nezameddin Faghih
+Editor-Email: faghihnezam@gmail.com 
+ISSN: 2251-7316  
+Order-Homepage: http://www.springer.com/business+%26+management/entrepreneurship/journal/40497
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40497
+Handle: RePEc:spr:jgloer
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Optimization Theory and Applications
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Franco Giannessi  
+Editor-Email: gianness@dm.unipi.it 
+Editor-Name: David G.  Hull  
+Editor-Email: dghull@mail.utexas.edu 
+ISSN: 0022-3239  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/mathematics/journal/10957/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10957
+Handle: RePEc:spr:joptap
+
+Template-Type: ReDIF-Series 1.0
+Name: AMS Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Academy of Marketing Science 
+Provider-Homepage: http://www.ams-web.org/
+Editor-Name: Manjit S. Yadav
+Editor-Email: MYadav@mays.tamu.edu 
+ISSN: 1869-814X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/journal/13162
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13162
+Handle: RePEc:spr:amsrev
+
+Template-Type: ReDIF-Series 1.0
+Name: Group Decision and Negotiation
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Gregory E. Kersten
+Editor-Email: gregory.kersten@concordia.ca
+ISSN: 0926-2644 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/journal/10726/PS2
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10726
+Handle: RePEc:spr:grdene
+
+Template-Type: ReDIF-Series 1.0
+Name: Zeitschrift für Immobilienökonomie (German Journal of Real Estate Research) 
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Gesellschaft für Immobilienwirtschaftliche Forschung e. V.
+Provider-Homepage: https://www.gif-ev.de/
+Editor-Name: Kristen Wellner
+Editor-Email: kristin.wellner@tu-berlin.de  
+ISSN: 2198-8021
+Order-Homepage: http://www.springer.com/journal/41056
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41056
+Handle: RePEc:spr:gjorer
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Information Systems and e-Business Management
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Jörg Becker
+Editor-Email: becker@wi.uni-muenster.de
+Editor-Name: Michael J. Shaw 
+Editor-Email: mjshaw@cba.uiuc.edu 
+ISSN: 1617-9846  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/business+information+systems/journal/10257
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 10257
+Handle: RePEc:spr:infsem
+
+Template-Type: ReDIF-Series 1.0
+Name: Electronic Markets
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: IIM University of St. Gallen
+Provider-Homepage: http://www.unisg.ch/en
+Editor-Name: Rainer Alt
+Editor-Email: rainer.alt@uni-leipzig.de 
+Editor-Name: Hans-Dieter Zimmermann 
+Editor-Email: hansdieter.zimmermann@fhsg.ch 
+ISSN: 1019-6781 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/business+information+systems/journal/12525
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 12525
+Handle: RePEc:spr:elmark
+
+Template-Type: ReDIF-Series 1.0
+Name: OR Spectrum: Quantitative Approaches in Management
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Gesellschaft für Operations Research e.V.
+Provider-Homepage: http://www.gor-ev.de/
+Editor-Name: Rainer Kolisch    
+Editor-Email: rainer.kolisch@tum.de
+ISSN: 0171-6468  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/operations+research/journal/291
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 291
+Handle: RePEc:spr:orspec
+
+Template-Type: ReDIF-Series 1.0
+Name: EURO Journal on Computational Optimization
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: EURO - The Association of European Operational Research Societies
+Provider-Homepage: https://www.euro-online.org/web/pages/1/home
+Editor-Name: Martine C. Labbé
+Editor-Email: mlabbe@ulb.ac.be
+ISSN: 2192-4406  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/operations+research/journal/13675
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13675
+Handle: RePEc:spr:eurjco
+
+Template-Type: ReDIF-Series 1.0
+Name: EURO Journal on Transportation and Logistics
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: EURO - The Association of European Operational Research Societies
+Provider-Homepage: https://www.euro-online.org/web/pages/1/home
+Editor-Name: Michel Bierlaire
+Editor-Email: michel.bierlaire@epfl.ch  
+ISSN: 2192-4376 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/operations+research/journal/13676
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 13676
+Handle: RePEc:spr:eurjtl
+
+Template-Type: ReDIF-Series 1.0
+Name: EURO Journal on Decision Processes
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: EURO - The Association of European Operational Research Societies
+Provider-Homepage: https://www.euro-online.org/web/pages/1/home
+Editor-Name: Vincent Mousseau
+Editor-Email: vincent.mousseau@ecp.fr 
+ISSN: 2193-9438
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/operations+research/journal/40070
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40070
+Handle: RePEc:spr:eurjdp
+
+Template-Type: ReDIF-Series 1.0
+Name: Information Technology & Tourism
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Francesco Ricci
+Editor-Email: fricci@unibz.it 
+ISSN: 1098-3058  
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/business+information+systems/journal/40558
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40558
+Handle: RePEc:spr:infott
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Business Cycle Research
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Centre for International Research on Economic Tendency Surveys (CIRET)
+Provider-Homepage: http://www.kof.ethz.ch
+Editor-Name: Michael Graff
+Editor-Email: graff@kof.ethz.ch 
+ISSN: 2509-7962
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/economics/macroeconomics/journal/41549
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41549 
+Handle: RePEc:spr:jbuscr
+
+Template-Type: ReDIF-Series 1.0
+Name: PharmacoEconomics - Open
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Timothy Wrightson
+Editor-Email: Timothy.Wrightson@springer.com
+Editor-Name: Christopher Carswell
+Editor-Email: Chris.Carswell@springer.com
+ISSN: 2509-4262
+Order-Homepage: http://www.springer.com/adis/journal/41669
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41669
+Handle: RePEc:spr:pharmo
+
+Template-Type: ReDIF-Series 1.0
+Name: China Finance and Economic Review
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Editor-Name: Shunan Yu
+Editor-Email: shunan.yu@springer.com
+ISSN: 2196-5633 
+Order-Homepage: http://www.springer.com/economics/macroeconomics/journal/40589
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40589
+Handle: RePEc:spr:chfecr
+
+Template-Type: ReDIF-Series 1.0
+Name: Financial Innovation
+Provider-Name: Springer
+Provider-Homepage: http://www.springer.com
+Provider-Name: Southwestern University of Finance and Economics
+Provider-Homepage: https://e.swufe.edu.cn/ 
+Editor-Name: J. Leon Zhao
+Editor-Email: jlzhao@cityu.edu.hk  
+Editor-Name: Zongyi
+Editor-Email: zyzhang@swufe.edu.cn 
+ISSN: 2199-4730 
+Order-Homepage: http://www.springer.com/economics/macroeconomics/journal/40589 
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 40854
+Handle: RePEc:spr:fininn
+
+Template-type: ReDIF-Series 1.0
+
+Name: Advanced Studies in Theoretical and Applied Econometrics
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Badi Baltagi
+Editor-Email: bbaltagi@maxwell.syr.edu
+Editor-Name: Yongmiao Hong
+Editor-Email: yh20@cornell.edu
+Editor-Name: Gary Koop
+Editor-Email: gary.koop@strath.ac.uk
+Editor-Name: Walter Krämer
+Editor-Email: walterk@statistik.uni-dortmund.de
+ISSN: 1570-5811
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/series/5667
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:adstae
+
+Template-type: ReDIF-Series 1.0
+
+Name: Advances in African Economic, Social and Political Development
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Diery Seck
+Editor-Email: d.seck@crepol.org
+Editor-Name: Juliet Elu
+Editor-Email: jelu@morehouse.edu
+Editor-Name: Yaw Nyarko
+Editor-Email: yaw.nyarko@nyu.edu
+ISSN: 2198-7262
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/series/11885
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:aaespd
+
+Template-type: ReDIF-Series 1.0
+
+Name: Advances in Spatial Science
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Manfred Fischer
+Editor-Email: manfred.fischer@wu.ac.at
+Editor-Name: Jean Claude Thill
+Editor-Email: jean-claude.thill@uncc.edu
+Editor-Name: Jouke van Dijk
+Editor-Email: jouke.van.dijk@rug.nl
+Editor-Name: Hans Westlund
+Editor-Email: hans.westlund@jibs.hj.se
+ISSN: 1430-9602
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/series/3302
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:adspsc
+
+Template-type: ReDIF-Series 1.0
+
+Name: Dynamic Modeling and Econometrics in Economics and Finance
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Stefan Mittnik
+Editor-Email: finmetrics@stat.uni-muenchen.de 
+Editor-Name: Willi Semmler
+Editor-Email: semmlerw@newschool.edu
+ISSN: 1566-0419
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/5859
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:dymeef
+
+Template-type: ReDIF-Series 1.0
+
+Name: Economic Complexity and Evolution
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Ulwe Cantner
+Editor-Email: uwe.cantner@uni-jena.de
+Editor-Name: Kurt Dopfer
+Editor-Email: kurt.dopfer@unisg.ch
+Editor-Name: John Foster
+Editor-Email: j.foster@uq.edu.au
+Editor-Name: Andreas Pyka
+Editor-Email: inno@uni-hohenheim.ed
+Editor-Name: Paolo Saviotti
+Editor-Email: ppsavio@grenoble.inra.fr
+ISSN: 2199-3173
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/11583
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:eccoev
+
+Template-type: ReDIF-Series 1.0
+
+Name: Economic Studies in Inequality, Social Exclusion, and Well-Being
+
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Jacques Silber
+Editor-Email: jsilber_2000@yahoo.com
+ISSN: 2364-107X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/7140
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:esisew
+
+Template-type: ReDIF-Series 1.0
+
+Name: Financial and Monetary Policy Studies
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Ansgar Belke
+Editor-Email: ansgar.belke@uni-due.de  
+ISSN: 0921-8580
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/5982
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:fimops
+
+Template-type: ReDIF-Series 1.0
+
+Name: India Studies in Business and Economics
+
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+ISSN: 2198-0012
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/11234
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:isbuec
+
+Template-type: ReDIF-Series 1.0
+
+Name: Innovation, Technology, and Knowledge Management
+
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Elias G. Carayannis
+Editor-Email: caraye@gwu.edu
+ISSN: 2197-5698
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/8124
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:inntkm
+
+Template-type: ReDIF-Series 1.0
+
+Name: International Series in Operations Research and Management Science
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Camille C. Price
+Editor-Email: camille@sfasu.edu
+Editor-Name: Joe Zhu
+Editor-Email: jzhu@wpi.edu
+Editor-Name: Frederick S. Hillier
+Editor-Email: fhillier@stanford.edu
+ISSN: 0884-8289
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/6161
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:isorms
+
+Template-type: ReDIF-Series 1.0
+
+Name: International Studies in Entrepreneurship
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Zoltan J. Acs
+Editor-Email: zacs@thegedi.org
+Editor-Name: David B. Audretsch
+Editor-Email: daudrets@indiana.edu
+ISSN: 1572-1922
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/6149
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:insten
+
+Template-type: ReDIF-Series 1.0
+
+Name: Lecture Notes in Economics and Mathematical Systems
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Gunter Fandel
+Editor-Email: guenter.fandel@fernuni-hagen.de
+Editor-Name: Walter Trockel
+Editor-Email: wtrockel@wiwi.uni-bielefeld.de 
+ISSN: 0075-8442
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/300
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:lnecms
+
+Template-type: ReDIF-Series 1.0
+
+Name: Population Economics
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Klaus F. Zimmermann
+Editor-Email: klaus.f.zimmermann@gmail.com 
+ISSN: 1431-6978
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/2190
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:popeco
+
+Template-type: ReDIF-Series 1.0
+
+Name: Springer Proceedings in Business and Economics
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+ISSN: 2198-7246
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/11960
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:prbuec
+
+Template-type: ReDIF-Series 1.0
+
+Name: Sports Economics, Management and Policy
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Dennis Coates
+Editor-Email: coates@umbc.edu
+ISSN: 2191-298X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/8343
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:sempol
+
+Template-type: ReDIF-Series 1.0
+
+Name: Springer Series in Game Theory
+
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Bernhard von Stengel
+Editor-Email: stengel@lse.ac.uk
+ISSN: 1868-517X
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/8107
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:spsgth
+
+Template-type: ReDIF-Series 1.0
+
+Name: Springer Texts in Business and Economics
+
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+ISSN: 2192-4333
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/10099
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:sptbec
+
+Template-type: ReDIF-Series 1.0
+
+Name: SpringerBriefs in Economics
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+ISSN: 2191-5504
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/8876
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:spbrec
+
+Template-type: ReDIF-Series 1.0
+
+Name: Studies in Choice and Welfare
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Marc Fleurbaey
+Editor-Email: mfleurba@princeton.edu
+Editor-Name: Maurice Salles
+Editor-Email: maurice.salles@unicaen.fr
+ISSN: 1614-0311
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/6869
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:stchwe
+
+Template-type: ReDIF-Series 1.0
+
+Name: Studies in Economic History
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Tetsuji Okazaki
+Editor-Email: okazaki@e.u-tokyo.ac.jp 
+ISSN: 2364-1797
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/13279
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:stechi
+
+Template-type: ReDIF-Series 1.0
+
+Name: Studies in Economic Theory
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Nicholas C. Yannelis
+Editor-Email: nicholasyannelis@gmail.com
+Editor-Name: Timothy J. Kehoe
+Editor-Email: tkehoe@umn.edu
+Editor-Name: Bernard Cornet
+Editor-Email: bernard.cornet@univ.paris1.fr
+ISSN: 1431-8849
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/2584
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:stecth
+
+Template-type: ReDIF-Series 1.0
+
+Name: Studies in Empirical Economics
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Badi H. Baltagi
+Editor-Email: bbaltagi@maxwell.syr.edu
+Editor-Name: Bernd Fitzenberger
+Editor-Email: bernd.fitzenberger@vwl.uni-freiburg.de
+Editor-Name: Robert M. Kunst
+Editor-Email: kunst@ihssv.wsr.ac.at 
+Editor-Name: Heather M. Anderson
+Editor-Email: heather.anderson@monash.edu
+ISSN: 1431-8830
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/1232
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:stemec
+
+Template-type: ReDIF-Series 1.0
+
+Name: Studies in Public Choice
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Randall G. Holcombe
+ISSN: 0924-4700
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/6550
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:stpuch
+
+Template-type: ReDIF-Series 1.0
+
+Name: The European Heritage in Economics and the Social Sciences
+
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Jurgen Georg Backhaus
+Editor-Email: juergen.backhaus@uni-erfurt.de
+ISSN: 1572-1744
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/5902
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:euhess
+
+Template-type: ReDIF-Series 1.0
+
+Name: Theory and Decision Library C
+Provider-Name:
+ Springer
+Provider-Homepage:
+ http://www.springer.com
+Editor-Name: Herve Moulin
+Editor-Email: herve.moulin@glasgow.ac.uk
+Editor-Name: Hans Peters
+Editor-Email: h.peters@maastrichtuniversity.nl 
+ISSN: 0924-6126
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: https://www.springer.com/series/6618
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Book
+Handle: RePEc:spr:thdlic

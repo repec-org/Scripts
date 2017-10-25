@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers MOISA
+Provider-Name: UMR MOISA : Marchés, Organisations, Institutions et Stratégies d'Acteurs : CIHEAM-IAMM, CIRAD, INRA, Montpellier SupAgro - Montpellier, France
+Provider-Homepage: http://www1.montpellier.inra.fr/moisa/
+Provider-Institution: RePEc:edi:moisafr
+Maintainer-Name: Isabelle Perez
+Maintainer-Email: perez@supagro.inra.fr
+Type: ReDIF-Paper
+Handle: RePEc:umr:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Research serial MOISA
+Description: This is the serial published by the MOISA UMR
+Provider-Name: UMR MOISA : Marchés, Organisations, Institutions et Stratégies d'Acteurs : CIHEAM-IAMM, CIRAD, INRA, Montpellier SupAgro - Montpellier, France
+Provider-Homepage: http://www1.montpellier.inra.fr/moisa/
+Provider-Institution: RePEc:edi:moisafr
+Maintainer-Name: Isabelle Perez
+Maintainer-Email: perez@supagro.inra.fr
+ISSN: 1637-6529
+Type: ReDIF-Book
+Handle: RePEc:umr:ecbook

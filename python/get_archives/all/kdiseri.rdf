@@ -1,0 +1,63 @@
+Template-Type: ReDIF-Series 1.0
+Name: KDI Journal of Economic Policy
+Provider-Name: Korea Development Institute (KDI)
+Provider-Homepage: http://www.kdi.re.kr/kdi_eng/
+Provider-Institution: RePEc:edi:kdiiikr
+Maintainer-Name: SungSun Kim
+Maintainer-Email: book@kdi.re.kr
+Editor-Name: Kyungsoo Choi
+Editor-Email: book@kdi.re.kr
+ISSN: 1738-656X
+Type: ReDIF-Article
+Handle: RePEc:kdi:journl
+
+Template-Type: ReDIF-Series 1.0
+Name: KDI Focus
+Provider-Name: Korea Development Institute (KDI)
+Provider-Homepage: http://www.kdi.re.kr/kdi_eng/
+Provider-Institution: RePEc:edi:kdiiikr
+Maintainer-Name: SungSun Kim
+Maintainer-Email: book@kdi.re.kr
+Type: ReDIF-Article
+Handle: RePEc:kdi:kdifoc
+
+Template-Type: ReDIF-Series 1.0
+Name: KDI Forum
+Provider-Name: Korea Development Institute (KDI)
+Provider-Homepage: http://www.kdi.re.kr/kdi_eng/
+Provider-Institution: RePEc:edi:kdiiikr
+Maintainer-Name: SungSun Kim
+Maintainer-Email: book@kdi.re.kr
+Type: ReDIF-Article
+Handle: RePEc:kdi:kdifor
+
+Template-Type: ReDIF-Series 1.0
+Name: KDI Research Monograph
+Provider-Name: Korea Development Institute (KDI)
+Provider-Homepage: http://www.kdi.re.kr/kdi_eng/
+Provider-Institution: RePEc:edi:kdiiikr
+Maintainer-Name: SungSun Kim
+Maintainer-Email: book@kdi.re.kr
+Type: ReDIF-Article
+Handle: RePEc:kdi:kdires
+
+Template-Type: ReDIF-Series 1.0
+Name: KDI Policy Study
+Provider-Name: Korea Development Institute (KDI)
+Provider-Homepage: http://www.kdi.re.kr/kdi_eng/
+Provider-Institution: RePEc:edi:kdiiikr
+Maintainer-Name: SungSun Kim
+Maintainer-Email: book@kdi.re.kr
+Type: ReDIF-Article
+Handle: RePEc:kdi:kdipol
+
+Template-Type: ReDIF-Series 1.0
+Name: KDI Feature Article
+Provider-Name: Korea Development Institute (KDI)
+Provider-Homepage: http://www.kdi.re.kr/kdi_eng/
+Provider-Institution: RePEc:edi:kdiiikr
+Maintainer-Name: SungSun Kim
+Maintainer-Email: book@kdi.re.kr
+Type: ReDIF-Article
+Handle: RePEc:kdi:kdifea
+

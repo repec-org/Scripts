@@ -1,0 +1,66 @@
+Template-type: ReDIF-Series 1.0
+Name: Papers
+Provider-Name: Economic and Social Research Institute (ESRI)
+Provider-Homepage: http://www.esri.ie
+Provider-Institution: RePEc:edi:esriiie
+Maintainer-Name: Sarah Burns
+Maintainer-Email: sarah.burns@esri.ie
+Type: ReDIF-Paper
+Handle: RePEc:esr:WPAPER
+
+Template-type: ReDIF-Series 1.0
+Name: Research Series
+Provider-Name: Economic and Social Research Institute (ESRI)
+Provider-Homepage: http://www.esri.ie
+Provider-Institution: RePEc:edi:esriiie
+Maintainer-Name: Sarah Burns
+Maintainer-Email: sarah.burns@esri.ie
+Type: ReDIF-Book
+Handle: RePEc:esr:RESSER
+
+Template-type: ReDIF-Series 1.0
+Name: Forecasting Report 
+Provider-Name: Economic and Social Research Institute (ESRI)
+Provider-Homepage: http://www.esri.ie
+Provider-Institution: RePEc:edi:esriiie
+Maintainer-Name: Sarah Burns
+Maintainer-Email: sarah.burns@esri.ie
+Type: ReDIF-Book
+Handle: RePEc:esr:FORCAS
+
+Template-type: ReDIF-Series 1.0
+Name: Quarterly Economic Commentary: Special Articles
+Type: ReDIF-Article
+Provider-Name: Economic and Social Research Institute (ESRI)
+Provider-Homepage: http://www.esri.ie
+Provider-Institution: RePEc:edi:esriiie
+Maintainer-Name: Sarah Burns
+Maintainer-Email: sarah.burns@esri.ie
+Handle: RePEc:esr:QECSAS
+
+Template-type: ReDIF-Series 1.0
+Name: Book Chapters 
+Provider-Name: Economic and Social Research Institute (ESRI)
+Provider-Homepage: http://www.esri.ie
+Provider-Institution: RePEc:edi:esriiie
+Maintainer-Name: Sarah Burns
+Maintainer-Email: sarah.burns@esri.ie
+Type: ReDIF-Chapter
+Handle: RePEc:esr:CHAPTR
+
+Template-type: ReDIF-Series 1.0
+Name: Research Notes
+Type: ReDIF-Paper
+Provider-Name: Economic and Social Research Institute (ESRI)
+Provider-Homepage: http://www.esri.ie
+Provider-Institution: RePEc:edi:esriiie
+Maintainer-Name: Sarah Burns
+Maintainer-Email: sarah.burns@esri.ie
+Handle: RePEc:esr:RESNOT
+
+
+
+
+
+
+

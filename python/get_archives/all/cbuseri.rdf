@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Annals - Economy Series
+Provider-Name: Constantin Brancusi University, Faculty of Economics
+Provider-Homepage: http://www.utgjiu.ro/fse_new/
+Provider-Institution: RePEc:edi:fetgjro
+Maintainer-Name: Ecobici Nicolae
+Maintainer-Email: nicu.ecobici@utgjiu.ro
+Type: ReDIF-Article
+Handle: RePEc:cbu:jrnlec
+ISSN: 1844-7007
+
+Template-type: ReDIF-Series 1.0
+Name: Annals - Juridical Science Series
+Provider-Name: Constantin Brancusi University, Faculty of Juridical Sciences
+Provider-Homepage: http://www.utgjiu.ro/fsj/
+Provider-Institution: RePEc:edi:fetgjro
+Maintainer-Name: Trocan Laura Magdalena
+Maintainer-Email: fsjdreptucb@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:cbu:jrnlju
+ISSN: 1844-7015

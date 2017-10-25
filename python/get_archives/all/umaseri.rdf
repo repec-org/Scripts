@@ -1,0 +1,60 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: These are working papers written by PERI faculty and affiliated 
+	faculty.
+Type: ReDIF-Paper
+Provider-Name: Political Economy Research Institute, University of Massachusetts 
+	at Amherst
+Provider-Homepage: http:///
+Provider-Phone: (413) 545-6355
+Provider-Fax: (413) 545-2921
+Provider-Institution: RePEc:edi:permaus
+Maintainer-Name: Judy Fogg
+Maintainer-Email: peri@econs.umass.edu
+Handle: RePEc:uma:periwp
+
+Template-type: ReDIF-Series 1.0
+Name: Research Reports
+Description: These are research reports written by PERI faculty and affiliated 
+	faculty.
+Type: ReDIF-Paper
+Provider-Name: Political Economy Research Institute, University of Massachusetts 
+	at Amherst
+Provider-Homepage: http:///
+Provider-Phone: (413) 545-6355
+Provider-Fax: (413) 545-2921
+Provider-Institution: RePEc:edi:permaus
+Maintainer-Name: Judy Fogg
+Maintainer-Email: peri@econs.umass.edu
+Handle: RePEc:uma:perirr
+
+Template-type: ReDIF-Series 1.0
+Name: Published Studies
+Description: These are published studies written by PERI faculty and affiliated 
+	faculty.
+Type: ReDIF-Paper
+Provider-Name: Political Economy Research Institute, University of Massachusetts 
+	at Amherst
+Provider-Homepage: http:///
+Provider-Phone: (413) 545-6355
+Provider-Fax: (413) 545-2921
+Provider-Institution: RePEc:edi:permaus
+Maintainer-Name: Judy Fogg
+Maintainer-Email: peri@econs.umass.edu
+Handle: RePEc:uma:perips
+
+Template-type: ReDIF-Series 1.0
+Name: Research Briefs
+Description: These are research briefs written by PERI faculty and affiliated 
+	faculty.
+Type: ReDIF-Paper
+Provider-Name: Political Economy Research Institute, University of Massachusetts 
+	at Amherst
+Provider-Homepage: http:///
+Provider-Phone: (413) 545-6355
+Provider-Fax: (413) 545-2921
+Provider-Institution: RePEc:edi:permaus
+Maintainer-Name: Judy Fogg
+Maintainer-Email: peri@econs.umass.edu
+Handle: RePEc:uma:perirb
+

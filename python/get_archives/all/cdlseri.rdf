@@ -1,0 +1,333 @@
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Berkeley Olin Program in Law & Economics, Working Paper Series
+Description: Working Papers from the Berkeley Olin Program in Law & Economics
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Berkeley Olin Program in Law & Economics
+Provider-Homepage: http://www.escholarship.org/repec/blewp/
+Provider-Institution: RePEc:edi:lebrkus
+Handle: RePEc:cdl:oplwec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Berkeley Program on Housing and Urban Policy, Working Paper Series
+Description: Working Papers from the Berkeley Program on Housing and Urban Policy, 
+ Institute for Business and Economic Research, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Berkeley Program on Housing and Urban Policy
+Provider-Homepage: http://www.escholarship.org/repec/iber_bphup/
+Provider-Institution: RePEc:edi:ibbrkus
+Handle: RePEc:cdl:bphupl
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Center for Culture, Organizations and Politics, Working Paper Series
+Description: Working Papers from the Center for Culture, Organizations and Politics 
+ of the Institute for Research on Labor and Employment, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Center for Culture, Organizations and Politics 
+ of theInstitute for Research on Labor and Employment, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iir_ccop/
+Provider-Institution: RePEc:edi:irucbus
+Handle: RePEc:cdl:cuorpo
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Center for International and Development Economics Research, Working Paper Series
+Description: Working Papers from the Center for International and Development Economics Research, 
+ Institute for Business and Economic Research, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Center for International and Development Economics Research, 
+ Institute for Business and Economic Research, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iber_cider/
+Provider-Institution: RePEc:edi:ibbrkus
+Handle: RePEc:cdl:ciders
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Competition Policy Center, Working Paper Series
+Description: Working Papers from the Competition Policy Center, 
+ Institute for Business and Economic Research, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Competition Policy Center, 
+ Institute for Business and Economic Research, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iber_cpc/
+Provider-Institution: RePEc:edi:ibbrkus
+Handle: RePEc:cdl:compol
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Department of Economics, Working Paper Series
+Description: Working Papers from the Department of Economics, 
+ Institute for Business and Economic Research, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Department of Economics, 
+ Institute for Business and Economic Research, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iber_econ/
+Provider-Institution: RePEc:edi:ibbrkus
+Handle: RePEc:cdl:econwp
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Fisher Center for Real Estate & Urban Economics, Research Reports
+Description: Research Reports from the Fisher Center for Real Estate & Urban Economics, 
+ Institute for Business and Economic Research, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Fisher Center for Real Estate & Urban Economics, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iber_fcreue_reports/
+Provider-Institution: RePEc:edi:ibbrkus
+Handle: RePEc:cdl:fisher
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Research Program in Finance, Working Paper Series
+Description: Working Papers from the Research Program in Finance, 
+ Institute for Business and Economic Research, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Research Program in Finance, 
+ Institute for Business and Economic Research, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iber_finance/
+Provider-Institution: RePEc:edi:ibbrkus
+Handle: RePEc:cdl:rpfina
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Institute for Research on Labor and Employment, Working Paper Series
+Description: Working Papers from the Institute for Research on Labor and Employment, 
+ UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Institute of Industrial Relations, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iir_iirwps/
+Provider-Institution: RePEc:edi:irucbus
+Handle: RePEc:cdl:indrel
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Institute of Transportation Studies, Research Reports, Working Papers, Proceedings
+Description: Publications of the Institute of Transportation Studies, 
+ UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Institute of Transportation Studies, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/its/
+Provider-Institution: RePEc:edi:itucbus
+Handle: RePEc:cdl:itsrrp
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California Transportation Center, Working Papers
+Description: Publications of the University of California Transportation Center
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: University of California Transportation Center
+Provider-Homepage: http://www.escholarship.org/repec/uctc/
+Provider-Institution: RePEc:edi:itucbus
+Handle: RePEc:cdl:uctcwp
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Program in Soviet and Post-Soviet Studies, Working Paper Series
+Description: Working Papers from the Program in Soviet and Post-Soviet Studies, 
+ UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Institute of Slavic, East European, and Eurasian Studies, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/iseees_bps/
+Handle: RePEc:cdl:bpspss
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Institute of European Studies, Working Paper Series
+Description: Working Papers from the Institute of European Studies, 
+ UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Institute of European Studies, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/ies/
+Handle: RePEc:cdl:bineur
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Institute on Global Conflict and Cooperation, Working Paper Series
+Description: Working Papers from the Institute on Global Conflict and Cooperation, 
+ University of California
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Institute on Global Conflict and Cooperation, University of California
+Provider-Homepage: http://www.escholarship.org/repec/igcc/
+Handle: RePEc:cdl:globco
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Institute of Transportation Studies, Working Paper Series
+Description: Working Papers of the Institute of Transportation Studies, 
+ UC Davis
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Institute of Transportation Studies, UC Davis
+Provider-Homepage: http://www.escholarship.org/repec/itsdavis/
+Provider-Institution: RePEc:edi:itucdus
+Handle: RePEc:cdl:itsdav
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Institute for Social Science Research, Working Paper Series
+Description: Working Papers of the Institute for Social Science Research, 
+ UCLA
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Institute for Social Science Research, UCLA
+Provider-Homepage: http://www.escholarship.org/repec/issr/
+Handle: RePEc:cdl:issres
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Center for Global, International and Regional Studies, Working Paper Series
+Description: Working Papers of the Center for Global, International and Regional Studies, 
+ UC Santa Cruz
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Center for Global, International and Regional Studies, UC Santa Cruz
+Provider-Homepage: http://www.escholarship.org/repec/cgirs/
+Handle: RePEc:cdl:glinre
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at Santa Barbara, Economics Working Paper Series
+Description: Working Papers of the Department of Economics, UC Santa Barbara
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Department of Economics, UC Santa Barbara
+Provider-Homepage: http://www.escholarship.org/repec/ucsbecon_dwp/
+Provider-Institution: RePEc:edi:educsus
+Handle: RePEc:cdl:ucsbec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at Santa Barbara, Recent Works in Economics
+Description: Department of Economics Recent Works, UC Santa Barbara
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Department of Economics, UC Santa Barbara
+Provider-Homepage: http://www.escholarship.org/repec/ucsbecon_rw/
+Provider-Institution: RePEc:edi:educsus
+Handle: RePEc:cdl:ucsbrw
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at Los Angeles, Research Program in Pharmaceutical Economics and Policy
+Description: Working Papers of the Research Program in Pharmaceutical Economics and Policy, UCLA
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Research Program in Pharmaceutical Economics and Policy, UCLA
+Provider-Homepage: http://www.escholarship.org/repec/pep/
+Handle: RePEc:cdl:uclaph
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at Los Angeles, Anderson Graduate School of Management
+Description: Working Papers in Finance of the Anderson Graduate School of Management, UCLA
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Anderson Graduate School of Management, UCLA
+Provider-Homepage: http://www.escholarship.org/repec/anderson_fin/
+Provider-Institution:  RePEc:edi:aguclus
+Handle: RePEc:cdl:anderf
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: UCAIS Berkeley Roundtable on the International Economy, Working Paper Series
+Description: Working Papers from the UCAIS Berkeley Roundtable on the International Economy, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: UCAIS Berkeley Roundtable on the International Economy, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/brie
+Provider-Institution: RePEc:edi:brbrkus
+Handle: RePEc:cdl:ucbrie
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Department of Agricultural & Resource Economics, UC Berkeley, Working Paper Series
+Description: Working Papers from the Department of Agricultural & Resource Economics, UC Berkeley
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Department of Agricultural & Resource Economics, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/are_ucb/
+Provider-Institution: RePEc:edi:dabrkus
+Handle: RePEc:cdl:agrebk
+
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at San Diego, Economics Working Paper Series
+Description: Working Papers of the Department of Economics, UC San Diego
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Department of Economics, UC San Diego
+Provider-Homepage: http://www.escholarship.org/repec/ucsdecon/
+Provider-Institution: RePEc:edi:deucsus
+Handle: RePEc:cdl:ucsdec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at San Francisco, Center for Tobacco Control Research and Education
+Description: Working Papers of the Center for Tobacco Control Research and Education
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Center for Tobacco Control Research and Education, UC San Francisco
+Provider-Homepage: http://www.escholarship.org/repec/ctcre/
+Handle: RePEc:cdl:ctcres
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at San Diego, Center for U.S.-Mexican Studies
+Description: Working Papers of the Center for U.S.-Mexican Studies
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Center for U.S.-Mexican Studies, UC San Diego
+Provider-Homepage: http://www.escholarship.org/repec/usmex/
+Handle: RePEc:cdl:usmexi
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: University of California at Berkeley, Center for Studies in Higher Education
+Description: Working Papers of the Center for Studies in Higher Education
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Center for Studies in Higher Education, UC Berkeley
+Provider-Homepage: http://www.escholarship.org/repec/cshe/
+Handle: RePEc:cdl:cshedu
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Santa Cruz Center for International Economics, Working Paper Series
+Description: Working Papers of the Center for International Economics, 
+ UC Santa Cruz
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Center for International Economics, UC Santa Cruz
+Provider-Homepage: http://www.escholarship.org/repec/sccie/
+Provider-Institution: RePEc:edi:ciucsus
+Handle: RePEc:cdl:scciec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Santa Cruz Department of Economics, Working Paper Series
+Description: Working Papers of the Department of Economics, 
+ UC Santa Cruz
+Maintainer-Name: Lisa Schiff
+Maintainer-Email: lisa.schiff@ucop.edu
+Provider-Name: Department of Economics, UC Santa Cruz
+Provider-Homepage: http://www.escholarship.org/repec/ucscecon/
+Provider-Institution: RePEc:edi:ecucsus
+Handle: RePEc:cdl:ucscec

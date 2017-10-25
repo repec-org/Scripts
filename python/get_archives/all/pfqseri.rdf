@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Public Finance Quarterly
+Description: The Public Finance Quarterly deals mainly with the issues of public finances, is published quarterly under the administration of the State Audit Office of Hungary as editor. This professional periodical includes in a single volume the Hungarian and English versions of the published writings, has more than fifty year tradition and a permanent structure of topics for the published writings.
+Provider-Name: State Audit Office of Hungary
+Provider-Homepage: https://www.asz.hu
+Maintainer-Name: Pal Peter Kolozsi
+Maintainer-Email: kolozsipp@asz.hu
+Editor-Name: Erzsebet Nemeth
+Editor-Email: nemethe@asz.hu
+Type: ReDIF-Article
+Handle: RePEc:pfq:journl

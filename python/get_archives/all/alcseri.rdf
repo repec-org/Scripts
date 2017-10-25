@@ -1,0 +1,49 @@
+Template-type: ReDIF-Series 1.0
+Name: Doctorado en Economía- documentos de trabajo
+Description: This is a economics working paper series.
+Classification-JEL:C,D,E,J
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Programa de doctorado en Economía. Universidad de Alcalá.
+Provider-Homepage:http://www3.uah.es/alcametrica
+Provider-Phone:+0034-91-8854201
+Provider-Postal: Alcalá de Henares 28803
+Provider-Fax:+0034-91-8854201
+Provider-Institution: RePEc:edi:fcalces
+Maintainer-Name: Juan Muro
+Maintainer-Email: juan.muro@uah.es
+Editor-Name: José M. Arranz
+Editor-Email: josem.arranz@uah.es
+Editor-Workplace-Name: Universidad de Alcalá
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:alc:alcddt
+
+Template-type: ReDIF-Series 1.0
+Name: Alcamentos
+Description: Economics working paper series.
+Classification-JEL:C,D,E,J
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Universidad de Alcalá, Departamento de Economía.
+Provider-Homepage: http://www3.uah.es/alcametrica
+Provider-Phone:+0034-91-8854201
+Provider-Postal: Alcalá de Henares 28803
+Provider-Fax:+0034-91-8854201
+Provider-Institution: RePEc:edi:dsuahes
+Maintainer-Name: Juan Muro
+Maintainer-Email: juan.muro@uah.es
+Editor-Name: Juan Muro
+Editor-Email: juan.muro@uah.es
+Editor-Workplace-Name: Universidad de Alcalá
+Editor-Workplace-Homepage:  http://www3.uah.es/juanmuro
+Order-Email: juan.muro@uah.es
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:alc:alcamo

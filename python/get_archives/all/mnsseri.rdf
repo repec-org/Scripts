@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Colorado School of Mines, Division of Economics and Business
+Provider-Homepage: http://econbus.mines.edu/
+Provider-Institution: RePEc:edi:decsmus
+Maintainer-Name: Jared Carbone
+Maintainer-Email: jcarbone@mines.edu
+Type: ReDIF-Paper
+Handle: RePEc:mns:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Payne Institute Policy Briefs
+Provider-Name: Colorado School of Mines, Division of Economics and Business
+Provider-Homepage: http://econbus.mines.edu/
+Provider-Institution: RePEc:edi:decsmus
+Maintainer-Name: Jared Carbone
+Maintainer-Email: jcarbone@mines.edu
+Type: ReDIF-Paper
+Handle: RePEc:mns:pbrief

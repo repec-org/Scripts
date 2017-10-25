@@ -1,0 +1,50 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Business & Economic Statistics
+Description: Papers published in Journal of Business & Economic Statistics
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Jonathan H. Wright
+Editor-Workplace-Name: Johns Hopkins University
+Editor-Email: jbes-asa@hotmail.com
+Editor-Name: Keisuke Hirano
+Editor-Workplace-Name:  University of Arizona
+Editor-Email: jbes-asa@hotmail.com
+Provider-Name: American Statistical Association
+Provider-Homepage: http://www.amstat.org/publications/jbes/index.cfm?fuseaction=main
+Order-Homepage: http://www.amstat.org/publications/index.html
+Price: individual rates available on request
+Followup: RePEc:taf:jnlbes
+Handle: RePEc:bes:jnlbes
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of the American Statistical Association
+Description: Papers published in Journal of the American Statistical Association
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Leonard A. Stefanski 
+Editor-Workplace-Name: North Carolina State University
+Editor-Email: stefanski@stat.ncsu.edu
+Provider-Name: American Statistical Association
+Provider-Homepage: http://www.amstat.org/publications/jasa/index.cfm?fuseaction=main
+Order-Homepage: http://www.amstat.org/publications/index.html
+Price: individual rates available on request
+Followup: RePEc:taf:jnlasa
+Handle: RePEc:bes:jnlasa
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: The American Statistician
+Description: Papers published in The American Statistician
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Peter H. Westfall 
+Editor-Workplace-Name: Texas Tech University
+Editor-Email: peter.westfall@ttu.edu
+Provider-Name: American Statistical Association
+Provider-Homepage: http://www.amstat.org/publications/tas/index.cfm?fuseaction=main
+Order-Homepage: http://www.amstat.org/publications/index.html
+Price: individual rates available on request
+Followup: RePEc:taf:amstat
+Handle: RePEc:bes:amstat

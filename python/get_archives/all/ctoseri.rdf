@@ -1,0 +1,13 @@
+Template-type: ReDIF-Series 1.0
+Name: Cato Journal
+Provider-Name: Cato Journal, Cato Institute
+Provider-Homepage: http://www.cato.org/pubs/journal/
+Provider-Institution: RePEc:edi:catoous
+Maintainer-Name: Emily Ekins
+Maintainer-Email: eekins@cato.org
+Maintainer-Phone: 202-842-0200 ext 394
+Editor-Name: James A. Dorn
+Editor-Email: jdorn@cato.org
+Type: ReDIF-Article
+Handle: RePEc:cto:journl
+

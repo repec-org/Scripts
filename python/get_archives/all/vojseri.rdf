@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Savez ekonomista Vojvodine, Novi Sad, Serbia
+Provider-Homepage: http://www.panoeconomicus.rs/
+Maintainer-Name: Ivana Horvat
+Maintainer-Email: ivana.horvat@ef.uns.ac.rs
+Type: ReDIF-Paper
+Handle: RePEc:voj:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Panoeconomicus
+Description: Panoeconomicus is an economic quarterly with a general orientation. We publish original scientific paper, scientific review, preliminary reports, conference papers, professional papers, polemics and book reviews.
+Only original papers not previously published or simultaneously submitted for publishing elsewhere, should be submitted. Submitted papers need to be prepared according to the Panoeconomicus instructions for authors.
+Provider-Name: Savez ekonomista Vojvodine, Novi Sad, Serbia
+Provider-Homepage: http://www.panoeconomicus.rs/
+Maintainer-Name: Ivana Horvat
+Maintainer-Email: ivana.horvat@ef.uns.ac.rs
+Editor-Name: Kosta Josifidis
+Editor-Email: josifidis@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:voj:journl

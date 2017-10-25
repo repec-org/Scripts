@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Economic Research Center, Indonesian Institute of Sciences (P2E-LIPI)
+Provider-Homepage: http://www.jurnalekonomi.lipi.go.id/index.php/riebs
+Provider-Institution: RePEc:edi:pplimid
+Maintainer-Name: Bintang Dwitya Cahyono
+Maintainer-Email: bintangdwitya@gmail.com
+Type: ReDIF-Paper
+Handle: RePEc:lip:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: RIEBS
+Description: This The Official journal of The Economic Research Center, Indonesian Institute of Sciences (P2E-LIPI)
+Provider-Name: Economic Research Center, Indonesian Institute of Sciences (P2E-LIPI)
+Provider-Homepage: http://www.jurnalekonomi.lipi.go.id/index.php/riebs
+Provider-Institution: RePEc:edi:pplimid
+Maintainer-Name: Maxensius Tri Sambodo
+Maintainer-Email: smaxensius@yahoo.com
+Type: ReDIF-Article
+Handle: RePEc:lip:journl

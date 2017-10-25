@@ -1,0 +1,53 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: European Journal of Economics and Economic Policies: Intervention
+Provider-Name: Edward Elgar Publishing
+Provider-Homepage: http://www.elgaronline.com/ejeep
+Provider-Institution: 
+Maintainer-Name: Helen Craven
+Maintainer-Email: helen.craven@e-elgar.co.uk
+Type: ReDIF-Article
+Handle: RePEc:elg:ejeepi
+Editor-Name: Torsten Niechoj
+Editor-Email: ejeep@e-elgar.com
+ISSN: 2052-7772
+
+Template-type: ReDIF-Series 1.0
+Name: Review of Keynesian Economics
+Provider-Name: Edward Elgar Publishing
+Provider-Homepage: http://www.elgaronline.com/roke
+Provider-Institution: 
+Maintainer-Name: Helen Craven
+Maintainer-Email: helen.craven@e-elgar.co.uk
+Type: ReDIF-Article
+Handle: RePEc:elg:rokejn
+Editor-Name: Louis-Philippe Rochon
+Editor-Email: lprochon2003@yahoo.com
+Editor-Name: Thomas Palley
+Editor-Email: mail@thomaspalley.com
+Editor-Name: Matias Vernengo
+Editor-Email: m.vernengo@bucknell.edu
+ISSN: 2052-7764
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Edward Elgar Publishing
+Provider-Homepage: http://www.e-elgar.com
+Provider-Institution: 
+Maintainer-Name: Darrel McCalla
+Maintainer-Email: darrel@e-elgar.co.uk
+Order-Email: sales@e-elgar.co.uk
+Order-Homepage:http://www.e-elgar.com
+Type: ReDIF-Book
+Handle: RePEc:elg:eebook
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters
+Provider-Name: Edward Elgar Publishing
+Provider-Homepage: http://www.e-elgar.com
+Provider-Institution: 
+Maintainer-Name: Darrel McCalla
+Maintainer-Email: darrel@e-elgar.co.uk
+Order-Email: sales@e-elgar.co.uk
+Order-Homepage:http://www.e-elgar.com
+Type: ReDIF-Chapter
+Handle: RePEc:elg:eechap

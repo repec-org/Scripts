@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: ERC Working Papers
+Provider-Name: ERC - Economic Research Center, Middle East Technical University
+Provider-Homepage: http://www.erc.metu.edu.tr
+Provider-Institution: RePEc:edi:ermettr
+Maintainer-Name: Erol Taymaz
+Maintainer-Email: etaymaz@metu.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:met:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: STPS Working Papers
+Provider-Name: STPS - Science and Technology Policy Studies Center, Middle East Technical University
+Provider-Homepage: http://www.stps.metu.edu.tr
+Provider-Institution: RePEc:edi:ermettr
+Maintainer-Name: Semih Akcomak
+Maintainer-Email: akcomak@metu.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:met:stpswp

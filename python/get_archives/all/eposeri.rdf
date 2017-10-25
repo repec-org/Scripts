@@ -1,0 +1,15 @@
+Template-type: ReDIF-Series 1.0
+Name: CEPR Reports and Issue Briefs
+Type: ReDIF-Paper
+Provider-Name: Center for Economic and Policy Research (CEPR) 
+Provider-Institution: RePEc:edi:ceprdus
+Maintainer-Email: cepr@cepr.net 
+Handle: RePEc:epo:papers
+
+Template-type: ReDIF-Series 1.0
+Name: CEPR Books
+Type: ReDIF-Book
+Provider-Name: Center for Economic and Policy Research (CEPR) 
+Provider-Institution: RePEc:edi:ceprdus
+Maintainer-Email: cepr@cepr.net 
+Handle: RePEc:epo:booksx

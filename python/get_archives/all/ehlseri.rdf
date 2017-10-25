@@ -1,0 +1,24 @@
+Template-Type: ReDIF-Series 1.0
+Name: Economic History Working Papers
+Description: Working papers of the Department of Economic History, London School of Economics.
+Provider-Name: London School of Economics and Political Science, Department of Economic History
+Provider-Postal: LSE, Dept. of Economic History
+                 Houghton Street
+                 London, WC2A 2AE, U.K.
+Provider-Institution: RePEc:edi:chlseuk
+Maintainer-Name: LSERO Manager on behalf of EH Dept.
+Maintainer-Email: lseresearchonline@lse.ac.uk
+Handle: RePEc:ehl:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: LSE Research Online Documents on Economics
+Description: Journal articles and working papers on economics, extracted from the LSE Research Online repository on the presence of JEL codes.
+Provider-Name: London School of Economics and Political Science, LSE Library
+Provider-Postal: LSE Library
+                 Portugal Street
+                 London, WC2A 2HD, U.K.
+Provider-Institution: RePEc:edi:lsepsuk
+Maintainer-Name: LSERO Manager
+Maintainer-Email: lseresearchonline@lse.ac.uk
+Handle: RePEc:ehl:lserod
+

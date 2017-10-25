@@ -1,0 +1,13 @@
+Template-type: ReDIF-Series 1.0
+Name: Hyperion Economic Journal
+Description: This is the official scientific journal of the Faculty of Economic Sciences from the Hyperion University of Bucharest
+Provider-Name: Faculty of Economic Sciences, Hyperion University of Bucharest, Romania
+Provider-Postal: Hyperion University, Faculty of Economic Sciences, Calea Calarasilor no. 169, district 3, Bucharest, 030615, Romania
+Provider-Institution: RePEc:edi:fehypro
+Maintainer-Name: Iulian Panait
+Maintainer-Email: iulian.panait@hyperion.ro
+Editor-Name: Iulian Panait
+Editor-Email: iulian.panait@hyperion.ro
+Type: ReDIF-Article
+Handle: RePEc:hyp:journl
+ISSN: 2343-7995

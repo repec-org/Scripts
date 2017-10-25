@@ -1,0 +1,92 @@
+Template-type: ReDIF-Series 1.0
+Name: IAB Discussion Paper
+Provider-Name: Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Institute for Employment Research, Nuremberg, Germany]
+Provider-Institution: RePEc:edi:iabbbde
+Provider-Homepage: http://www.iab.de/
+Maintainer-Name: IAB, Geschäftsbereich Dokumentation und Bibliothek
+Maintainer-Email: IAB.Dokumentation@iab.de
+Type: ReDIF-Paper
+Handle: RePEc:iab:iabdpa
+
+Template-type: ReDIF-Series 1.0
+Name: IAB&#x2D;Forschungsbericht
+Provider-Name: Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Institute for Employment Research, Nuremberg, Germany]
+Provider-Institution: RePEc:edi:iabbbde
+Provider-Homepage: http://www.iab.de/
+Maintainer-Name: IAB, Geschäftsbereich Dokumentation und Bibliothek
+Maintainer-Email: IAB.Dokumentation@iab.de
+Type: ReDIF-Paper
+Handle: RePEc:iab:iabfob
+
+Template-type: ReDIF-Series 1.0
+Name: Journal for Labour Market Research
+Description: "Journal for Labour Market Research" continues "Zeitschrift für ArbeitsmarktForschung &#x2D; Journal for Labour Market Research" since 2012. 
+Provider-Name: Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Institute for Employment Research, Nuremberg, Germany]
+Provider-Institution: RePEc:edi:iabbbde
+Provider-Homepage: http://www.iab.de/
+Maintainer-Name: IAB, Geschäftsbereich Dokumentation und Bibliothek
+Maintainer-Email: IAB.Dokumentation@iab.de
+Editor-Name: Joachim Möller et al.
+Editor-Email: IAB.ZAF-Redaktion@iab.de
+Order-Homepage: http://www.springer.com/economics/labor/journal/12651?detailsPage=subscription
+ISSN: 1614-3485 (print version), 1867-8343 (electronic version)
+Predecessor: RePEc:iab:iabzaf
+Type: ReDIF-Article
+Handle: RePEc:iab:iabjlr
+
+Template-type: ReDIF-Series 1.0
+Name: Zeitschrift für ArbeitsmarktForschung &#x2D; Journal for Labour Market Research
+Description: "Zeitschrift für ArbeitsmarktForschung &#x2D; Journal for Labour Market Research" continues "Mitteilungen aus der Arbeitsmarkt&#x2D; und Berufsforschung" since 2004 and is continued by "Journal for Labour Market Research" since 2012. 
+Provider-Name: Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Institute for Employment Research, Nuremberg, Germany]
+Provider-Institution: RePEc:edi:iabbbde
+Provider-Homepage: http://www.iab.de/
+Maintainer-Name: IAB, Geschäftsbereich Dokumentation und Bibliothek
+Maintainer-Email: IAB.Dokumentation@iab.de
+Editor-Name: Joachim Möller et al.
+Editor-Email: IAB.ZAF-Redaktion@iab.de
+Order-Homepage: http://www.springer.com/economics/labor/journal/12651?detailsPage=subscription
+ISSN: 1614-3485 (print version), 1867-8343 (electronic version)
+Followup: RePEc:iab:iabjlr
+Predecessor: RePEc:iab:iabmit
+Type: ReDIF-Article
+Handle: RePEc:iab:iabzaf
+
+Template-type: ReDIF-Series 1.0
+Name: Mitteilungen aus der Arbeitsmarkt&#x2D; und Berufsforschung
+Description: "Mitteilungen aus der Arbeitsmarkt&#x2D; und Berufsforschung" continues "Mitteilungen" since 1970 and is continued by "Zeitschrift für ArbeitsmarktForschung &#x2D; Journal for Labour Market Research" since 2004
+Provider-Name: Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Institute for Employment Research, Nuremberg, Germany]
+Provider-Institution: RePEc:edi:iabbbde
+Provider-Homepage: http://www.iab.de/
+Maintainer-Name: IAB, Geschäftsbereich Dokumentation und Bibliothek
+Maintainer-Email: IAB.Dokumentation@iab.de
+Editor-Name: ZAF-Redaktion
+Editor-Email: IAB.ZAF-Redaktion@iab.de
+ISSN: 0340-3254
+Followup: RePEc:iab:iabzaf
+Type: ReDIF-Article
+Handle: RePEc:iab:iabmit
+
+Template-type: ReDIF-Series 1.0
+Name: FDZ Methodenreport
+Provider-Name: Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Institute for Employment Research, Nuremberg, Germany]
+Provider-Institution: RePEc:edi:iabfzde
+Provider-Homepage: http://fdz.iab.de/
+Maintainer-Name: IAB, Geschäftsbereich Dokumentation und Bibliothek
+Maintainer-Email: IAB.Dokumentation@iab.de
+Editor-Name: Forschungsdatenzentrum der Bundesagentur für Arbeit im Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Research Data Centre of the Federal Employment Agency (FDZ) at the Institute for Employment Research, Nuremberg, Germany]
+Editor-Email: iab.fdz@iab.de
+Type: ReDIF-Paper
+Handle: RePEc:iab:iabfme
+
+Template-type: ReDIF-Series 1.0
+Name: FDZ Datenreport. Documentation on Labour Market Data
+Provider-Name: Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Institute for Employment Research, Nuremberg, Germany]
+Provider-Institution: RePEc:edi:iabfzde
+Provider-Homepage: http://fdz.iab.de/
+Maintainer-Name: IAB, Geschäftsbereich Dokumentation und Bibliothek
+Maintainer-Email: IAB.Dokumentation@iab.de
+Editor-Name: Forschungsdatenzentrum der Bundesagentur für Arbeit im Institut für Arbeitsmarkt&#x2D; und Berufsforschung (IAB), Nürnberg [Research Data Centre of the Federal Employment Agency (FDZ) at the Institute for Employment Research, Nuremberg, Germany]
+Editor-Email: iab.fdz@iab.de
+Type: ReDIF-Paper
+Handle: RePEc:iab:iabfda
+

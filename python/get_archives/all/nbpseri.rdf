@@ -1,0 +1,46 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: NBP Working Papers
+Description: Working papers prepared by the staff of the Narodowy Bank Polski, as well as the authors from academic and financial institutions, which focus on issues related to key theoretical and practical questions of banking and monetary policy. Published in English.
+Provider-Name: Narodowy Bank Polski, Economic Research Department
+Provider-Homepage: http://www.nbp.pl/Homen.aspx?f=/en/publikacje/materialy_i_studia/informacja_en.html
+Provider-Institution: RePEc:edi:nbpgvpl
+Maintainer-Name: Zbigniew Polański
+Maintainer-Email: mis@nbp.pl
+Type: ReDIF-Paper
+Handle: RePEc:nbp:nbpmis
+
+
+Template-type: ReDIF-Series 1.0
+Name: Bank i Kredyt
+Description: Bank i Kredyt (Bank and Credit) is a monthly scientific (research) journal of the Narodowy Bank Polski. Its mission is to encourage the development of research and promote knowledge in the rea of economics and finance with particular emphasis on monetary policy and financial system issues.
+Provider-Name: Narodowy Bank Polski
+Provider-Homepage: http://www.bankikredyt.nbp.pl/menu_en.aspx
+Provider-Institution: RePEc:edi:nbpgvpl
+Maintainer-Name: Michał Wieloch
+Maintainer-Email: bik@nbp.pl
+Type: ReDIF-Article
+Handle: RePEc:nbp:nbpbik
+
+
+Template-type: ReDIF-Series 1.0
+Name: NBP Conference Publications
+Description: This series presents papers presented at conferences held at the NBP.
+Provider-Name: Narodowy Bank Polski, Economic Research Department
+Provider-Homepage: http://www.nbp.pl/Homen.aspx?f=/en/publikacje/materialy_i_studia/informacja_en.html
+Provider-Institution: RePEc:edi:nbpgvpl
+Maintainer-Name: Zbigniew Polański
+Maintainer-Email: mis@nbp.pl
+Type: ReDIF-Book
+Handle: RePEc:nbp:nbpcha
+
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters from NBP Conference Publications
+Description: This series presents papers presented at conferences held at the NBP.
+Provider-Name: Narodowy Bank Polski, Economic Research Department
+Provider-Homepage: http://www.nbp.pl/Homen.aspx?f=/en/publikacje/materialy_i_studia/informacja_en.html
+Provider-Institution: RePEc:edi:nbpgvpl
+Maintainer-Name: Zbigniew Polański
+Maintainer-Email: mis@nbp.pl
+Type: ReDIF-Chapter
+Handle: RePEc:nbp:nbpchp

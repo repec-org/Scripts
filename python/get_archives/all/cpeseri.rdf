@@ -1,0 +1,21 @@
+Template-Type: ReDIF-Series 1.0
+Name: Documentos de Trabajo CEPROEC
+Provider-Name: Instituto de Altos Estudios Nacionales, Centro de Prospectiva Estratégica
+Provider-Homepage:http://ceproec.iaen.edu.ec
+Provider-Phone:+593 23829900
+Provider-Postal: Av. Río Amazonas N37-271 y Villalengua, Quito, Ecuador
+Provider-Institution: RePEc:edi:ceiaeec
+Maintainer-Name: Jesus Ramos-Martin
+Maintainer-Email: jesus.ramos@iaen.edu.ec
+Handle: RePEc:cpe:cpewps
+
+Template-Type: ReDIF-Series 1.0
+Name: Informes Técnicos CEPROEC
+Provider-Name: Instituto de Altos Estudios Nacionales, Centro de Prospectiva Estratégica
+Provider-Homepage:http://ceproec.iaen.edu.ec
+Provider-Phone:+593 23829900
+Provider-Postal: Av. Río Amazonas N37-271 y Villalengua, Quito, Ecuador
+Provider-Institution: RePEc:edi:ceiaeec
+Maintainer-Name: Jesus Ramos-Martin
+Maintainer-Email: jesus.ramos@iaen.edu.ec
+Handle: RePEc:cpe:cpetrs

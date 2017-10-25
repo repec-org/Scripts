@@ -1,0 +1,33 @@
+Template-type: ReDIF-Series 1.0
+Name: HSC Research Reports
+Provider-Name: Hugo Steinhaus Center, Wroclaw University of Technology
+Provider-Homepage: http://prac.im.pwr.wroc.pl/~hugo
+Provider-Institution: RePEc:edi:hspwrpl
+Maintainer-Name: Rafal Weron	
+Maintainer-Email: Rafal.Weron@pwr.wroc.pl
+Editor-Name: Rafal Weron
+Editor-Email: Rafal.Weron@pwr.wroc.pl
+Type: ReDIF-Paper
+Handle: RePEc:wuu:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: HSC Software
+Provider-Name: Hugo Steinhaus Center, Wroclaw University of Technology
+Provider-Homepage: http://prac.im.pwr.wroc.pl/~hugo
+Provider-Institution: RePEc:edi:hspwrpl
+Maintainer-Name: Rafal Weron	
+Maintainer-Email: Rafal.Weron@pwr.wroc.pl
+Editor-Name: Rafal Weron
+Editor-Email: Rafal.Weron@pwr.wroc.pl
+Type: ReDIF-Software
+Handle: RePEc:wuu:hscode
+
+Template-type: ReDIF-Series 1.0
+Name: HSC Books
+Provider-Name: Hugo Steinhaus Center, Wroclaw University of Technology
+Provider-Homepage: http://prac.im.pwr.wroc.pl/~hugo
+Provider-Institution: RePEc:edi:hspwrpl
+Maintainer-Name: Rafal Weron	
+Maintainer-Email: Rafal.Weron@pwr.wroc.pl
+Type: ReDIF-Book
+Handle: RePEc:wuu:hsbook

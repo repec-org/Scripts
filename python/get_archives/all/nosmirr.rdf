@@ -1,0 +1,10 @@
+Template-type: ReDIF-Mirror 1.0
+Archive-Handle: RePEc:nos
+Machine: socionet.ru
+User: rupec
+Group: staff
+Directory: /var/ftp/pub/RePEc/remo
+Location: Novosibirsk, Russia
+Maintainer-Email: rupec@ieie.nsc.ru
+Description: IEIE Archive Mirror
+ReDIF-Only: 

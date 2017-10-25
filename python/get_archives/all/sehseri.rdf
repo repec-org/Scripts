@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Documentos de Trabajo de la Sociedad Española de Historia Agraria
+Description: Working papers of Sociedad Española de Historia Agraria
+
+Provider-Name: Sociedad Española de Historia Agraria
+
+Provider-Homepage: http://www.seha.info
+
+Provider-Institution: RePEc:edi:sehiaea
+
+
+Maintainer-Name: Antonio Linares
+Maintainer-Email: alinares@unex.es
+Editor-Name: Antonio Linares
+
+Editor-Email: alinares@unex.es
+
+Type: ReDIF-Paper
+
+Handle: RePEc:seh:wpaper
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Historia Agraria. Revista de Agricultura e Historia Rural
+Description: Journal of the Sociedad Española de Historia Agraria
+Provider-Name: Sociedad Española de Historia Agraria
+Provider-Institution: RePEc:edi:sehiaea
+Maintainer-Name: Vicente Pinilla
+Maintainer-Email: vpinilla@unizar.es
+Editor-Name: Vicente Pinilla
+Editor-Email: vpinilla@unizar.es
+Type: ReDIF-Article
+Handle: RePEc:seh:journl
+
+
+
+

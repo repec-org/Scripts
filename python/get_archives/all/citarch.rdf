@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:cit
+Name: CitEc
+Maintainer-Email: barrueco@uv.es
+Description: This archive extract the list of references out of the papers full
+ text and create links from cited documents to the papers which have cited them
+URL: ftp://ftp.repec.org/RePEc/cit/
+

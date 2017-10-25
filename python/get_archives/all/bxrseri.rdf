@@ -1,0 +1,33 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Brussels Economic Review
+Description: This series holds all chapters published in Brussels Economic Series
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Provider-Institution: RePEc:edi:dulbebe
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Chapter
+Handle: RePEc:bxr:bxrchp
+
+Template-type: ReDIF-Series 1.0
+Name: Brussels Economic Review
+Description: This series holds all books published in Brussels Economic Series
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Provider-Institution: RePEc:edi:dulbebe
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Book
+Handle: RePEc:bxr:bxrbes
+
+Template-type: ReDIF-Series 1.0
+Name: Brussels Economic Review
+Description: This series holds all articles published in Brussels Economic Review
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Provider-Institution: RePEc:edi:dulbebe
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Article
+Handle: RePEc:bxr:bxrceb
+

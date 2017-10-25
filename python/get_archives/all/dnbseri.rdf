@@ -1,0 +1,55 @@
+Template-Type: ReDIF-Series 1.0
+Name: DNB Working Papers
+Description: From 1 juni 2004 onwards DNB publishes a new series of research memoranda: DNB Working Papers. This series replaces the DNB Research Memoranda Series.
+Provider-Name: Netherlands Central Bank, Research Department
+Provider-Homepage: http://www.dnb.nl/en/
+Provider-Institution: RePEc:edi:dnbgvnl
+Maintainer-Name: Rob Vet
+Maintainer-Email: R.B.M.Vet@DNB.NL
+Handle: RePEc:dnb:dnbwpp
+
+Template-Type: ReDIF-Series 1.0
+Name: DNB Occasional Studies
+Provider-Name: Netherlands Central Bank, Research Department
+Provider-Homepage: http://www.dnb.nl/en/
+Provider-Institution: RePEc:edi:dnbgvnl
+Maintainer-Name: Rob Vet
+Maintainer-Email: R.B.M.Vet@DNB.NL
+Handle: RePEc:dnb:dnbocs
+
+Template-Type: ReDIF-Series 1.0
+Name: WO Research Memoranda (discontinued)
+Provider-Name: Netherlands Central Bank, Research Department
+Provider-Homepage: http://www.dnb.nl/en/
+Provider-Institution: RePEc:edi:dnbgvnl
+Maintainer-Name: Rob Vet
+Maintainer-Email: R.B.M.Vet@DNB.NL
+Handle: RePEc:dnb:wormem
+
+Template-Type: ReDIF-Series 1.0
+Name: MEB Series (discontinued)
+Provider-Name: Netherlands Central Bank, Monetary and Economic Policy Department
+Provider-Homepage: http://www.dnb.nl/en/
+Provider-Institution: RePEc:edi:dnbgvnl
+Maintainer-Name: Rob Vet
+Maintainer-Email: R.B.M.Vet@DNB.NL
+Handle: RePEc:dnb:mebser
+
+Template-Type: ReDIF-Series 1.0
+Name: Research Series Supervision (discontinued)
+Provider-Name: Netherlands Central Bank, Directorate Supervision
+Provider-Homepage: http://www.dnb.nl/en/
+Provider-Institution: RePEc:edi:dnbgvnl
+Maintainer-Name: Rob Vet
+Maintainer-Email: R.B.M.Vet@DNB.NL
+Handle: RePEc:dnb:ressup
+
+Template-Type: ReDIF-Series 1.0
+Name: DNB Staff Reports (discontinued)
+Provider-Name: Netherlands Central Bank
+Provider-Homepage: http://www.dnb.nl/en/
+Provider-Institution: RePEc:edi:dnbgvnl
+Maintainer-Name: Rob Vet
+Maintainer-Email: R.B.M.Vet@DNB.NL
+Handle: RePEc:dnb:staffs
+

@@ -1,0 +1,489 @@
+###
+### ReDIF data format specification file
+###
+### adaptation for 'xxx'-converted data on 23-27 August 1999 by Iku
+###
+#
+# Format of this file is
+#
+# statement : <type> = <name> <block> '\n' (space and
+#                       tabulation characters insensitive)
+#             'type' = <typename> <typeblock>
+#             'cluster' = <clustername> <attrblock>
+#             'template' = <templatename> <attrblock>
+#
+# <type> : 'type' | 'cluster' | 'template' (case insensitive)
+# <name> : /[
+#
+# attribute_name[:[type][:[subtype][:[required flag][:[repeatable flag]]]]]
+#
+
+#
+# User-defined types (checking procedures)
+#
+
+
+
+###### Handles checking regular expression 
+
+### 24 Sep 1999: latest added are NDLTD and NTSR entries.  The latter
+### is guessed, so now it should allow both upper and lower case
+### variants of "ntsr" authority handles
+
+type = handle / check-regex {
+        (^RePEc\:[a-zA-Z]{3}(\:[a-zA-Z0-9]{6}(\:[^\s\n]+)?)?$)
+	|(^xxx\:[a-zA-Z]{3}(\:[a-zA-Z0-9\-]+(\:[^\s\n]+)?)?$)	
+	|(^CogPrints\:[a-zA-Z]+(\:[a-zA-Z0-9\-]+(\:[^\s\n]+)?)?$)	
+	|(^ncstrl\:[a-zA-Z]+(\:[a-zA-Z0-9\-]*(\:[^\s\n]+)?)?$)	
+	|(^NDLTD\:[a-zA-Z]+(\:[a-zA-Z0-9\-]*(\:[^\s\n]+)?)?$)	
+	|(^(ntsr|NTSR)\:[a-zA-Z]+(\:[a-zA-Z0-9\-]*(\:[^\s\n]+)?)?$)
+}
+
+########### IKu:
+#
+# in a check-eval or preproc type definition you can use msg() function 
+# to signal an error or a warning.  e.g.
+#
+#       msg( "found archive $archive\n" , 2) ;
+#
+# 2 - a warning
+# 3 - an error (will make template invalid)
+#
+# The code is executed in rc2.pm, package 'context' namespace
+#
+###########
+
+
+type = articleid / check-eval {
+#   return 1;
+#   $months="(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)" ;
+#   $season="(spr|sum|aut|win|spe)" ;
+#   if ($value =~ /RePEc\:([a-zA-Z]{3}):([a-zA-Z]{6}):(\S+)/ ) {
+#       $archive=$1 ; $journal=$2 ; $artcod=$3 ;
+#       print("found artcod $artcod\n") ;
+#       @codfields = split(/(?=:\w:)/,":$artcod") ;
+#       foreach $field (@codfields) {
+#           print "$field\n";}
+#           if($field=~/^:y:([1-9][0-9]{3})$/) {
+#               print("found year $1\n") ;
+#               next;}
+#           elsif($field=~/^:n:([1-9][0-9]*)$/) {
+#               print("found number $1\n") ;
+#               next;}
+#           elsif($field=~/^:i:(($months\d*)|($season[S]*)|(Q[1234])|(\d+)|(\d\d-\d\d))$/i) {
+#               print("found issue $1\n") ;
+#               next;}
+#           elsif($field=~/^:p:(S*[1-9][0-9]*-S*[1-9][0-9]*)$/) {
+#               print("found pages $1\n") ;
+#               next;}
+#           else {print "not found $field\n";}
+#           next;}
+       return 1;
+#    return 0;
+}
+
+########
+
+type = institutionhandle / check-regex {
+        ^RePEc\:[a-zA-Z]{3}(\:[a-zA-Z0-9]{7})?
+}
+
+
+########
+
+type = url / preproc {
+     if ($value =~ /\-\ [^\ \n]/ ) {
+          &include_attrline;
+          msg ("($file, $line): Do not split URL after dash!", 3) ;
+          return 1; }
+     $value =~ s/\s+|\n+//g;
+}
+
+#####################
+### almost according to RFC URI specification
+type = URL / check-eval {
+
+ if ( ($value =~ /^(ftp|http):\/\//i) && ($value !~ /^(ftp|http):\/\//) ) {
+#        msg "($file, $line): URL capitalization is bad \"$value\"", 2;
+        $value =~ s/^Ftp/ftp/i;
+        $value =~ s/^Http/http/i;
+        ;}
+ $value =~ /^(URL:)?
+ (ftp|http|gopher)\:
+ \/\/[^\=\;\/\#\?\:\ \{\}\|\[\]\\\^\~\<\>]+
+ (\:[0-9]+)?
+ ([^\=\;\#\?\:\ \{\}\|\[\]\\\^\<\>]+)?
+ (\?[^\;\#\?\:\ \{\}\|\[\]\\\^\~\<\>]*)?
+ (\#[^\;\#\?\:\ \{\}\|\[\]\\\^\~\<\>]*)?$/x;
+}
+
+
+###################
+
+type = email / check-eval {
+ $value =~ /^[A-Za-z0-9\-\.\=\_]+\@[A-Za-z0-9\-\.\=\_]+\.[A-Za-z0-9\.\-\=]+$/;
+}
+
+#type = fileformat / check-regex
+#{
+# ^[a-z]+\/[a-z]+(\/[a-z]+(\/[a-z]+)?)?$
+#}
+
+######################
+
+type = date / preproc {
+     return if $value eq '';
+     if ($value !~ /-/ ) {
+        $value =~ s/^(\d{4})(\d{2})$/$1-$2/;
+        $value =~ s/^(\d{4})(\d{2})(\d{2})/$1-$2-$3/; }
+     if ($value !~ /^\d{4}(-\d\d){0,2}$/ ) {
+
+        if ($rr::Options{'MessageOut'}) {
+              &include_attrline;
+              msg "($file, $line): A bad date value format: \"$value\"", 2;
+        } else {
+              $value = '' ;
+        } return 1; }
+}
+
+#####################
+
+Type = pubstat / check-eval     {
+    if (($value !~ /^Forthcoming/i) && ($value !~ /^Published/i)) {
+       return 0;
+    } else { return 1; }
+}
+
+type = doctype / check-eval {
+    if ($value =~ /^ReDIF-([A-Za-z]+)$/i) {
+       my $tp = lc $1;
+       if ( ($tp eq 'paper') ||
+            ($tp eq 'article') ||
+            ($tp eq 'book') ||
+            ($tp eq 'software') ||
+            ($tp eq 'person') ||
+            ($tp eq 'chapter') )
+       {   return 1;    }
+       return 0;
+    }  return 0;
+}
+
+#      return 1;
+#      print "JEL: $value / $v.\n";
+#
+
+type = JEL / preproc {
+     return 1 if $value eq '';
+
+     if ($value !~ /^[A-Za-z][0-9]{0,2}([,;:\.\s]+[A-Za-z][0-9]{0,2})*[,;:\.\s]*$/ ) {
+           if ($rr::Options{'MessageOut'}) {
+              &include_attrline;
+              msg "($file, $line): An invalid JEL value \"$value\"", 2;
+           } else {
+              $value = '' ;
+           } return 1; }
+     my $v = uc $value ;
+     my @J = split ( /[,;:\s\.]+/, $v );
+
+    if ( not require ReDIF::JELcodes )   {
+        msg( "can't load JELcodes.pm file", 3 );     }
+     $value = '';
+     my $J;
+     foreach $J (@J) {
+          if (exists $JELcodes::JEL{$J}) {
+             $value .= $J;
+             $value .= ' ';
+          } else {
+             msg "($file, $line): An invalid JEL code used \"$J\"", 2;
+     } }
+     chop $value; return 1;
+}
+
+#       1       2         3             4                  5
+# attribute[:[type][:[subtype][:[required (min) num][:[repeat (max) num ]]]]]
+#
+
+#########################
+# Clusters
+#
+
+Cluster=Organization {
+        Name:::*
+        Name-English
+        Location
+        Postal
+        Email
+        Phone
+        Fax
+        Homepage:URL
+	Institution:institutionhandle
+}
+
+
+Cluster=Person {
+        Name:::*
+        WorkPlace:cluster:Organization::
+        Email
+        Fax
+        Postal
+        Phone
+        Homepage:URL
+	Person:handle
+#       Function
+}
+
+
+
+cluster=File {
+        URL:URL::*
+        Format
+        Restriction
+        Function::::1
+        Size
+}
+
+################# August 1999 ############################
+
+#  type = manifest / check-regex { }
+
+cluster=Manifestation {
+
+		Type:manifest::*
+
+		date
+		title
+		pages
+		publisher-name
+
+		journal-title
+		journal-volume
+		journal-year
+		journal-month
+	
+		book-chapter
+		book-editor-name
+		book-name
+		book-volume
+
+		conference-editor-name
+		conference-name
+		conference-date
+		conference-title
+		conference-location
+}
+
+##########################################################
+
+#
+# attribute_name[:[type][:[subtype][:[required flag][:[repeatable flag]]]]]
+#
+
+############################
+# Templates
+###
+
+#template=ReDIF-Person 1.0 {
+#        Template-Type:::*
+#        Handle:handle:paper:1:1
+#        Name-Full:::1
+#        Name-First
+#        Name-Last
+#        WorkPlace:cluster:Organization::
+#        Email
+#        Fax
+#        Postal
+#        Phone
+#        Homepage:URL
+#        Homepage-Publications:URL
+#        Classification-Jel
+#}
+
+template=ReDIF-Person 1.0 {
+        Template-Type:::*
+        Handle:::1
+        Name-Full:::1
+        Name-First
+        Name-Last
+        WorkPlace:cluster:Organization::
+        Email
+        Fax
+        Postal
+        Phone
+        Homepage:URL
+       # Homepage-Publications:URL
+       # Classification-Jel
+	Workplace-Institution
+	Author-Paper
+	Author-Article
+	Author-Software
+	Editor-Series
+}
+
+
+template=ReDIF-Paper 1.0 {
+        Template-Type:::*
+        Author:cluster:Person:1
+        Title:::1:1
+        Abstract
+        File:cluster:file
+        Classification-Jel:jel
+	Classification-xxx
+	Classification-acm-1998
+	Classification-msc-1991
+	classification-cogprints
+
+        Keywords
+        Keywords-Attent
+	Keywords-cogprints
+	Manifestation:cluster:manifestation
+
+	comments-paper
+
+        Note
+	
+        Length
+        Series
+        Number
+        Contact-Email:email:::1
+        Availability
+        Creation-Date:date:::1
+        Revision-Date:date
+        Restriction
+        Price
+        Publication-Status
+        Issue
+        Order-URL:URL
+        Article-Handle:articleid
+        Book-Handle:handle
+        Chapter-Handle:handle
+        Handle:handle:paper:1:1
+}
+
+
+template=ReDIF-Article 1.0 {
+        Template-Type:::*
+        Author:cluster:Person:1
+        Title:::1:1
+        Abstract
+        File:cluster:file
+        Classification-Jel:JEL
+        Keywords
+        Keywords-Attent
+        Creation-Date:date:::1
+        Journal
+        Issue
+        Year
+        Pages
+        Volume
+        Month
+        Number
+        Note
+        Publication-Status:pubstat
+        Publication-Date:date
+        Order-URL:URL
+        Paper-Handle:handle
+        Book-Handle:handle
+        Chapter-Handle:handle
+        Handle:handle:article:1:1
+#        Handle:articleid
+}
+
+
+
+template=ReDIF-Institution 1.0 {
+        Template-Type:::*
+        Primary:cluster:organization
+        Primary-Area
+        Secondary:cluster:organization
+        Secondary-Area
+        Tertiary:cluster:organization
+        Tertiary-Area
+        Handle:institutionhandle::1:1
+}
+
+
+template=ReDIF-Archive 1.0 {
+        Template-Type:::*
+        Handle:handle:archive:1:1
+        Name:::1
+        URL:URL::1
+        Homepage:URL
+        Description
+        Maintainer-Email:email::1
+        Maintainer-Name
+        Maintainer-Fax
+        Maintainer-Phone
+        Access-policy
+        Restriction
+        Classification-Jel:JEL
+}
+
+
+template=ReDIF-Series 1.0 {
+        Template-Type:::*
+        Name:::1
+        Description
+        Classification-Jel:JEL
+        Classification-ILA
+        Keywords
+        type:doctype
+        Editor:cluster:Person
+        Publisher:cluster:organization
+        Order-Postal
+        Order-Homepage:URL
+        Order-Email:email
+        Provider:cluster:organization
+        Provider-Institution:institutionhandle
+        Maintainer-Email:email::1
+        Maintainer-Name
+        Maintainer-Fax
+        Maintainer-Phone
+        Handle:handle:series:1:1
+        Type
+        Restriction
+        ISSN
+        Notification
+        Price
+}
+
+template=ReDIF-Mirror 1.0 {
+        Template-Type:::*
+        Archive-Handle:handle:archive:1
+        user
+        group
+        directory:::1
+        Description
+        Maintainer-Email:email::1
+        Maintainer-Name
+        Maintainer-Fax
+        Maintainer-Phone
+        Machine
+        Archives-Included
+        Archives-Excluded
+        Series-Included
+        Series-Excluded
+        Location
+        ReDIF-only
+}
+
+
+template=ReDIF-Software 1.0 {
+        Template-Type:::*
+        Author:cluster:Person:1
+        Title:::1:1
+        Abstract
+        File:cluster:file
+        Keywords
+        Size
+        Requires
+        Note
+        Length
+        Series
+        Number
+        Creation-Date:date:::1
+        Revision-Date:date
+        Price
+        Programming-Language
+        Handle:handle:software:1:1
+}
+

@@ -1,0 +1,93 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Type: ReDIF-Paper
+Provider-Name: Oesterreichische Nationalbank (Austrian Central Bank)
+Provider-Postal: P.O. Box 61, A-1011 Vienna, Austria
+Provider-Phone: +43/1/404 20 7205
+Provider-Fax: +43/1/404 20 7299
+Provider-Email: Beate.Hofbauer@oenb.at
+Provider-Institution: RePEc:edi:oenbbat
+Maintainer-Name: Markus Knell and Helmut Stix
+Maintainer-Email: markus.knell@oenb.at
+Editor-Name: Martin Summer (Coordinating Editor)
+Editor-Email: Martin.Summer@oenb.at
+Editor-Name: Doris Ritzberger-Gruenwald
+Editor-Email: Doris.Ritzberger-Gruenwald@oenb.at
+Editor-Name: Ernest Gnan
+Editor-Email: Ernest.Gnan@oenb.at
+Order-Email: Beate.Hofbauer@oenb.at
+Order-Postal: Oesterreichische Nationalbank, Economic Studies Division, c/o Beate Hofbauer-Berlakovich, POB 61, A-1011 Vienna, Austria
+Price: Free subject to availability
+Handle: RePEc:onb:oenbwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Monetary Policy & the Economy
+Description: The OeNB's quarterly publication Monetary Policy & the Economy (also available in German as Geldpolitik und Wirtschaft) provides analyses of cyclical developments, macroeconomic forecasts, studies on central banking and economic policy topics as well as research findings from macroeconomic workshops and conferences organized by the OeNB. Opinions expressed by the authors do not necessarily reflect the official viewpoint of the OeNB. 
+Notification: The journal is also available in German as "Geldpolitik & Wirtschaft". See the OeNB's homepage for further details. Opinions expressed by the authors do not necessarily reflect the official viewpoint of the OeNB. 
+Type: ReDIF-Article
+Provider-Name: Oesterreichische Nationalbank (Austrian Central Bank)
+Provider-Postal: P.O. Box 61, A-1011 Vienna, Austria
+Provider-Phone: +43/1/404 20 7405
+Provider-Fax: +43/1/404 20 7499
+Provider-Email: Claudia.Kwapil@oenb.at
+Provider-Homepage: http://www.oenb.at
+Provider-Institution: RePEc:edi:oenbbat
+Maintainer-Name: Claudia Kwapil
+Maintainer-Email:  Claudia.Kwapil@oenb.at
+Editor-Name: Doris Ritzberger-Gruenwald
+Editor-Email: Doris.Ritzberger-Gruenwald@oenb.at
+Editor-Name: Ernest Gnan
+Editor-Email: ernest.gnan@oenb.at
+Order-Email: oenb.publikationen@oenb.at
+Order-Postal: Oesterreichische Nationalbank, Documentation Management and Communications Services, Otto-Wagner Platz 3, A-1090 Vienna, Austria
+Price: Free subject to availability
+Handle: RePEc:onb:oenbmp
+
+Template-Type: ReDIF-Series 1.0
+Name: Financial Stability Report
+Description: The OeNB.s biannual Financial Stability Report (also available in German as Finanzmarktstabilitaetsbericht) provides regular analyses of Austrian and international developments with an impact on financial stability. In addition, it includes studies offering in-depth insights into specific topics related to financial stability. (Only the studies are distributed via RePEc.) Opinions expressed by the authors do not necessarily reflect the official viewpoint of the OeNB. 
+Notification: The journal is also available in German as "Finanzmarktstabilitaetsbericht". See the OeNB's homepage for further details. Opinions expressed by the authors do not necessarily reflect the official viewpoint of the OeNB. 
+Type: ReDIF-Article
+Provider-Name: Oesterreichische Nationalbank (Austrian Central Bank)
+Provider-Postal: P.O. Box 61, A-1011 Vienna, Austria
+Provider-Phone: +43/1/404 20 3126
+Provider-Fax: +43/1/404 20 3199
+Provider-Email: stefan.schmitz@oenb.at
+Provider-Homepage: http://www.oenb.at
+Provider-Institution: RePEc:edi:oenbbat
+Maintainer-Name: Stefan W. Schmitz
+Maintainer-Email: stefan.schmitz@oenb.at
+Editor-Name: Andreas Ittner
+Editor-Email: andreas.ittner@oenb.at
+Editor-Name: Doris Ritzberger-Gruenwald
+Editor-Email: Doris.Ritzberger-Gruenwald@oenb.at
+Editor-Name: Michael Wuerz
+Editor-Email: michael.wuerz@oenb.at
+Editor-Name: Martin Schuerz
+Editor-Email: martin.schuerz@oenb.at
+Order-Email: oenb.publikationen@oenb.at
+Order-Postal: Oesterreichische Nationalbank, Documentation Management and Communications Services, Otto-Wagner Platz 3, A-1090 Vienna, Austria
+Price: Free subject to availability
+Handle: RePEc:onb:oenbfs
+
+Template-Type: ReDIF-Series 1.0
+Name: Focus on European Economic Integration
+Description: The Focus on European Economic Integration (FEEI) is a channel for communicating the OeNB.s ongoing research on Central, Eastern and Southeastern European (CESEE) countries, thus reflecting a strategic regional research priority of the OeNB. Contributions to the quarterly FEEI include peer reviewed studies dealing primarily with macrofinancial and monetary integration as well as economic country analyses and cross-regional comparisons. See the OeNB's homepage for further details. Opinions expressed by the authors do not necessarily reflect the official viewpoint of the OeNB. 
+Type: ReDIF-Article
+Provider-Name: Oesterreichische Nationalbank (Austrian Central Bank)
+Provider-Postal: P.O. Box 61, A-1011 Vienna, Austria
+Provider-Phone: +43/1/404 20 7405
+Provider-Fax: +43/1/404 20 7499
+Provider-Email: markus.eller@oenb.at
+Provider-Homepage: http://www.oenb.at
+Provider-Institution: RePEc:edi:oenbbat
+Maintainer-Name: Markus Eller
+Maintainer-Email:  markus.eller@oenb.at
+Editor-Name: Doris Ritzberger-Gruenwald
+Editor-Email: Doris.Ritzberger-Gruenwald@oenb.at
+Editor-Name: Helene Schuberth
+Editor-Email: helene.schuberth@oenb.at
+Order-Email: oenb.publikationen@oenb.at
+Order-Postal: Oesterreichische Nationalbank, Documentation Management and Communications Services, Otto-Wagner Platz 3, A-1090 Vienna, Austria
+Price: Free subject to availability
+Handle: RePEc:onb:oenbfi

@@ -1,0 +1,36 @@
+Template-type: ReDIF-Series 1.0
+Name: Quaderni del Dipartimento di Economia, Finanza e Statistica
+Provider-Name: Università di Perugia, Dipartimento Economia
+Provider-Homepage: http://www.econ.unipg.it/
+Provider-Institution: RePEc:edi:deperit
+Maintainer-Name: Davide Castellani	
+Maintainer-Email: davide.castellani@unipg.it
+Type: ReDIF-Paper
+Handle: RePEc:pia:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working papers of the Department of Economics - University of Perugia (IT) 
+Provider-Name: Università di Perugia, Dipartimento Economia
+Provider-Homepage: http://www.econ.unipg.it/
+Provider-Institution: RePEc:edi:deperit
+Maintainer-Name: Davide Castellani	
+Maintainer-Email: davide.castellani@unipg.it
+Type: ReDIF-Paper
+Handle: RePEc:pia:papers
+ISSN:2385-2275
+
+Template-type: ReDIF-Series 1.0
+Name: Review of Economics and Institutions
+Description: The Review of Economics and Institutions is a peer-reviewed journal publishing high-quality, original research on all economic fields. Contributions by all schools of thought dealing with the micro- and macroeconomic issues will be considered for publication
+Provider-Name: Università di Perugia
+Provider-Homepage: http://www.rei.unipg.it/rei/
+Provider-Institution: RePEc:edi:deperit
+Maintainer-Name: Ubaldo Pizzoli
+Maintainer-Email: ubaldo.pizzoli@unipg.it
+Restriction: Requires registration. Users must be registered and log in to access full text
+Editor-Name: Carlo Andrea Bollino
+Editor-Email: editor.rei.journal@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:pia:review
+ISSN:2038-1379
+

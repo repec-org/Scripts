@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+Name: Asia Pacific Economic Papers
+Description: Working papers of the Australia-Japan Research Centre based at ANU. 
+Provider-Name: Australia-Japan Research Centre, Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:ajrccau
+Provider-Homepage: https://crawford.anu.edu.au/research_units/ajrc/
+Maintainer-Name: Akira Kinefuchi
+Maintainer-Email: akira.kinefuchi@anu.edu.au
+Editor-Name: Shiro Armstrong
+Editor-Email: shiro.armstrong@anu.edu.au
+Editor-Name: Ippei Fujiwara
+Editor-Email: ippei.fujiwara@anu.edu.au
+Handle: RePEc:csg:ajrcau
+
+Template-type: ReDIF-Series 1.0
+Name: AJRC Working Papers
+Description: Working papers of the Australia-Japan Research Centre based at ANU. 
+Provider-Name: Australia-Japan Research Centre, Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:ajrccau
+Provider-Homepage: https://crawford.anu.edu.au/research_units/ajrc/
+Maintainer-Name: Akira Kinefuchi
+Maintainer-Email: akira.kinefuchi@anu.edu.au
+Editor-Name: Shiro Armstrong
+Editor-Email: shiro.armstrong@anu.edu.au
+Editor-Name: Ippei Fujiwara
+Editor-Email: ippei.fujiwara@anu.edu.au
+Handle: RePEc:csg:ajrcwp

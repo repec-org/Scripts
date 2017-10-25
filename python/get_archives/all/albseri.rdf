@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Information Bulletins
+Provider-Name: Western Centre for Economic Research
+Provider-Homepage: http://www.business.ualberta.ca/Centres/WCER.aspx
+Provider-Institution: RePEc:edi:wcualca
+#Maintainer-Name: Nigel Fish
+#Maintainer-Email: wcer@ualberta.ca
+Maintainer-Email: EconPapers@oru.se
+Type: ReDIF-Paper
+Handle: RePEc:alb:series

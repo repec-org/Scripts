@@ -1,0 +1,12 @@
+Template-Type: ReDIF-Archive 1.0
+Name: EBLSG Working Papers
+URL: ftp://swopec.hhs.se/RePEc/ebg
+Homepage: http://ebslgwp.hhs.se/
+Description: This archive collects European Working Papers in Business and
+  Economics produced at major European Business 
+  Schools. It is run by the Stockholm School of
+  Economics on the behalf of EBSLG, the European
+  Business Schools Librarians' Group.
+Maintainer-Name: Sune Karlsson
+Maintainer-Email: sune.karlsson@oru.se
+Handle: RePEc:ebg

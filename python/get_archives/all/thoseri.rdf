@@ -1,0 +1,19 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Tourism and Hospitality Management
+Description: This is the official journal of the Faculty of Tourism and Hospitality Management in Opatija
+Provider-Name: University of Rijeka, Faculty of Tourism and Hospitality Management 
+Provider-Homepage: http://www.fthm.uniri.hr/
+Maintainer-Name: Ana Montan
+Maintainer-Email: amontan@fthm.hr
+Type: ReDIF-Article
+Handle: RePEc:tho:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Tourism and Hospitality Industry
+Description: This is the biennial international congress of the Faculty of Tourism and Hospitality Management in Opatija
+Provider-Name: University of Rijeka, Faculty of Tourism and Hospitality Management
+Maintainer-Name: Ana Montan
+Maintainer-Email: amontan@fthm.hr
+Editor-Name: Jože Perić
+Type: ReDIF-Paper
+Handle: RePEc:tho:iscthi

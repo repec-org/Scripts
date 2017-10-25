@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: European Political Economy Review
+Provider-Name: European Political Economy Infrastructure Consortium
+Provider-Homepage: http://eper.htw-berlin.de/
+Provider-Institution: RePEc:edi:f1fhtde
+Description: This archive contains journal articles from the European Political Economy Review
+Maintainer-Name: Prof.Dr.Sebastian Dullien 
+Maintainer-Email: dullien@htw-berlin.de
+Type: ReDIF-Article
+Handle: RePEc:epe:journl

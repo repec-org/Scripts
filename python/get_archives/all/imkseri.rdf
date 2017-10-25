@@ -1,0 +1,102 @@
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: IMK Working Paper
+
+Provider-Name: IMK at the Hans Boeckler Foundation, Macroeconomic Policy Institute
+
+Provider-Homepage: https://www.imk-boeckler.de
+
+Provider-Institution: RePEc:edi:imkhbde
+
+Maintainer-Name: Sabine Nemitz
+
+Maintainer-Email: Sabine-Nemitz@boeckler.de
+
+Type: ReDIF-Paper
+
+Handle: RePEc:imk:wpaper
+
+ISSN: 1861-2199
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: IMK Studies
+
+Provider-Name:IMK at the Hans Boeckler Foundation, Macroeconomic Policy Institute
+
+Provider-Homepage: https://www.imk-boeckler.de
+
+Provider-Institution: RePEc:edi:imkhbde
+
+Maintainer-Name: Sabine Nemitz
+
+Maintainer-Email: Sabine-Nemitz@boeckler.de
+
+Type: ReDIF-Paper
+
+Handle: RePEc:imk:studie
+
+ISSN: 1861-2180
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Conference proceedings of the Research Network Macroeconomics and Macroeconomic Policies (FMM)
+
+Provider-Name:IMK at the Hans Boeckler Foundation, Macroeconomic Policy Institute
+
+Provider-Homepage: https://www.imk-boeckler.de
+
+Provider-Institution: RePEc:edi:imkhbde
+
+Maintainer-Name: Sabine Nemitz
+
+Maintainer-Email: Sabine-Nemitz@boeckler.de
+
+Type: ReDIF-Book
+
+Handle: RePEc:imk:fmmcps
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: IMK Report
+
+Provider-Name:IMK at the Hans Boeckler Foundation, Macroeconomic Policy Institute
+
+Provider-Homepage: https://www.imk-boeckler.de
+
+Provider-Institution: RePEc:edi:imkhbde
+
+Maintainer-Name: Sabine Nemitz
+
+Maintainer-Email: Sabine-Nemitz@boeckler.de
+
+Type: ReDIF-Paper
+
+Handle: RePEc:imk:report
+
+ISSN: 1861-3683
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: FMM Working Paper
+
+Provider-Name: IMK at the Hans Boeckler Foundation, Macroeconomic Policy Institute
+
+Provider-Homepage: https://www.imk-boeckler.de
+
+Provider-Institution: RePEc:edi:fmbocde
+Maintainer-Name: Sabine Nemitz
+
+Maintainer-Email: Sabine-Nemitz@boeckler.de
+
+Type: ReDIF-Paper
+
+Handle: RePEc:imk:fmmpap
+ISSN: 2512-8655

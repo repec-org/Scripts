@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:per
+Name: Person Archive, names of registered persons in the RePEc authority
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Email: krichel@openlib.org
+Description: This archive collects information about registered Persons and their associations to research documents.
+URL: ftp://authors.repec.org/RePEc/per/
+Homepage: http://authors.repec.org

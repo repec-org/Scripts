@@ -1,0 +1,53 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Econometric Institute Research Papers
+Provider-Name: Erasmus University Rotterdam, Erasmus School of Economics (ESE), Econometric Institute
+Provider-Homepage: http://www.eur.nl/ese
+Provider-Institution: RePec:edi:feeurnl
+Maintainer-Name: RePub
+Maintainer-Email: repub@ubib.eur.nl
+Type: ReDIF-Paper
+Handle: RePEc:ems:eureir
+ISSN: 1566-7294
+
+Template-type: ReDIF-Series 1.0
+Name: ERIM Report Series Research in Management
+Provider-Name: Erasmus Research Institute of Management (ERIM), ERIM is the joint research institute of the Rotterdam School of Management, Erasmus University and the Erasmus School of Economics (ESE) at Erasmus University Rotterdam
+Provider-Homepage: http://www.erim.eur.nl/
+Provider-Institution: RePec:edi:erimanl
+Maintainer-Name: RePub
+Maintainer-Email: repub@ubib.eur.nl
+Type: ReDIF-Paper
+Handle: RePEc:ems:eureri
+ISSN: 1566-5283
+
+Template-type: ReDIF-Series 1.0
+Name: ERIM Inaugural Address Series Research in Management
+Provider-Name: Erasmus Research Institute of Management (ERIM), ERIM is the joint research institute of the Rotterdam School of Management, Erasmus University and the Erasmus School of Economics (ESE) at Erasmus University Rotterdam.
+Provider-Homepage: http://www.erim.eur.nl/
+Provider-Institution: RePec:edi:erimanl
+Maintainer-Name: RePub
+Maintainer-Email: repub@ubib.eur.nl
+Type: ReDIF-Paper
+Handle: RePEc:ems:euriar
+
+Template-type: ReDIF-Series 1.0
+Name: ISD Working Paper Series
+Provider-Name: International Institute of Social Studies of Erasmus University Rotterdam (ISS), The Hague
+Provider-Homepage: http://www.indsocdev.org/
+Provider-Institution: RePec:edi:issssnl
+Maintainer-Name: RePub
+Maintainer-Email: repub@ubib.eur.nl
+Type: ReDIF-Paper
+Handle: RePEc:ems:eurisd
+ISSN: 2213-6614
+
+Template-type: ReDIF-Series 1.0
+Name: ISS Working Papers - General Series
+Provider-Name: International Institute of Social Studies of Erasmus University Rotterdam (ISS), The Hague
+Provider-Homepage: http://www.iss.nl/
+Provider-Institution: RePec:edi:issssnl
+Maintainer-Name: RePub
+Maintainer-Email: repub@ubib.eur.nl
+Type: ReDIF-Paper
+Handle: RePEc:ems:euriss
+ISSN: 0921-0210

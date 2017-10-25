@@ -1,0 +1,78 @@
+Template-type: ReDIF-Series 1.0
+Name: ILO Working Papers
+Description: The International Labour Organization (ILO) is devoted to promoting social justice 
+ and internationally recognized human and labour rights, pursuing its founding mission that 
+ labour peace is essential to prosperity. Today, the ILO helps advance the creation of decent 
+ work and the economic and working conditions that give working people and business people a 
+ stake in lasting peace, prosperity and progress. Its main aims are to promote rights at 
+ work, encourage decent employment opportunities, enhance social protection and strengthen 
+ dialogue on work-related issues. Working papers published by the ILO cover a wide range 
+ of topics related to the world of work and social justice.
+Provider-Name: International Labour Organization
+Provider-Homepage: http://www.ilo.org
+Provider-Institution: RePEc:edi:ilounch
+Maintainer-Name: Vesa Sivunen
+Maintainer-Email: LABORDOC@ilo.org
+Type: ReDIF-Paper
+Handle: RePEc:ilo:ilowps
+
+
+Template-type: ReDIF-Series 1.0
+Name:Global Employment Trends Reports
+Description: With a view to developing information and analysis that is essential for promoting
+ full, decent and productive work for all, including women and young people, the Global Employment
+ Trends series review global and regional economic and labour market developments based on the
+ most recently available data. The reports build on the Key Indicators of the Labour Market
+ (KILM), and include a consistent set of tables with regional and global estimates of labour
+ market indicators as generated from the Estimates and projections of labour market indicators.
+ Each issue of Global Employment Trends also contains a short term labour market outlook based
+ on projections or scenarios, focusing on unemployment, vulnerable employment and working poverty.
+ The reports have been published on a yearly basis since 2003, with special editions to analyze
+ labour market trends for segments of the population such as youth (2004, 2006, 2008 and 2010)
+ and women (2004, 2007, 2008 and 2009), or for certain regions. The January 2009 issue focused
+ on the labour market impact of the global economic crisis. An update of the crisis impact was
+ issued in May 2009. The gender impact of the crisis was the main subject of the Global Employment
+ Trends for Women in March 2009.
+ A word of caution: Each GET, its data and analysis, is the result of a new run of the
+ Global Employment Trends Model, which uses as input the latest available labour market information
+ from the ILO and other sources to generate the world and regional aggregates. This means each
+ new report is based on the best available estimates at that point in time and that the time series
+ of world and regional aggregates from one report to the next are not comparable. The most recent
+ GET should always be taken as the most up-to-date source of world and regional estimates of labour
+ market information. 
+Classification-JEL: 
+Type: ReDIF-Paper
+Provider-Name: International Labour Office, Economic and Labour Market Analysis Department
+Provider-Homepage: http://www.ilo.org
+Provider-Postal: Employment Economic and Labour Market Analysis Department, International Labour Office, 4 route des Morillons, CH 1211 Geneve 22, Switzerland
+Provider-Institution: RePEc:edi:ilounch
+Maintainer-Name: Vesa Sivunen
+Maintainer-Email: LABORDOC@ilo.org
+Order-Email: EDEMPDOC@ilo.org
+Price:free
+ISSN: 
+Handle: RePEc:ilo:trends
+
+
+Template-type: ReDIF-Series 1.0
+Name:Studies on Growth with Equity
+Description: The Research Department launched in 2010 the Studies on Growth with Equity research series. 
+ These studies with a country and thematic focus show how labour market and social policies can contribute
+ to a more stable and equitable growth pattern and improved labour market and social outcomes. In particular, 
+ in order to contribute to the debate regarding what works in terms of policies, the Studies on Growth with 
+ Equity series assesses the policy options and conditions required to improve employment and social outcomes 
+ on the base of a job-friendly strategy and defines a role for the ILO in facilitating a shift to job-friendly
+ policies.
+Classification-JEL: 
+Type: ReDIF-Book
+Provider-Name: International Labour Office, Research Department
+Provider-Homepage: http://www.ilo.org
+Provider-Postal: International Labour Office, 4 route des Morillons, CH 1211 Geneve 22, Switzerland
+Provider-Institution: RePEc:edi:ilounch
+Maintainer-Name: Vesa Sivunen
+Maintainer-Email: LABORDOC@ilo.org
+Order-Email: pubvente@ilo.org
+Price:free
+ISSN: 
+Handle: RePEc:ilo:ilosge
+

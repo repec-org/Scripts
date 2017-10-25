@@ -1,0 +1,92 @@
+Template-type: ReDIF-Series 1.0
+Name: DISA Working Papers
+Description: These are the working papers of DISA
+	(Dipartimento di Informatica e Studi Aziendali),
+	DCMS (Department of Computer and Management Sciences).
+Provider-Name: Department of Computer and Management Sciences,
+	University of Trento, Italy
+Provider-Homepage: http://www.unitn.it/disa
+Provider-Institution: RePEc:edi:ditreit
+Maintainer-Name: Roberto Gabriele
+Maintainer-Email: roberto.gabriele@unitn.it
+Maintainer-Phone: +39-0461-282109
+Maintainer-Fax: +39-0461-282124
+Order-Email:	disa@cs.unitn.it
+Order-Homepage:	http://www.unitn.it/disa
+Order-Postal:	DISA
+		Università degli Studi di Trento
+		via Inama, 5
+		I-38122 Trento TN
+		Italy
+Type: ReDIF-Paper
+Handle: RePEc:trt:disawp
+Predecessor: RePEc:trt:disatr
+
+Template-type: ReDIF-Series 1.0
+Name: Quaderni DISA
+Description: These were the technical reports of DISA
+	(Dipartimento di Informatica e Studi Aziendali),
+	DCMS (Department of Computer and Management Sciences).
+Provider-Name: Department of Computer and Management Sciences,
+	University of Trento, Italy
+Provider-Homepage: http://www.unitn.it/disa
+Provider-Institution: RePEc:edi:ditreit
+Maintainer-Name: Roberto Gabriele
+Maintainer-Email: roberto.gabriele@unitn.it
+Maintainer-Phone: +39-0461-282109
+Maintainer-Fax: +39-0461-282124
+Order-Email:	disa@cs.unitn.it
+Order-Homepage:	http://www.unitn.it/disa
+Order-Postal:	DISA
+		Università degli Studi di Trento
+		via Inama, 5
+		I-38122 Trento TN
+		Italy
+Type: ReDIF-Paper
+Handle: RePEc:trt:disatr
+Followup: RePEc:trt:disawp
+
+Template-type: ReDIF-Series 1.0
+Name: Alea Tech Reports
+Description: These are the technical reports of Alea
+	(centro di ricerca sui rischi finanziari del DISA,
+	research branch on financial risks of DCMS).
+Provider-Name: Department of Computer and Management Sciences,
+	University of Trento, Italy
+Provider-Homepage: http://www.unitn.it/disa
+Provider-Institution: RePEc:edi:ditreit
+Maintainer-Name: Luca Erzegovesi
+Maintainer-Email: luca.erzegovesi@unitn.it
+Maintainer-Phone: +39-0461-282130
+Maintainer-Fax: +39-0461-282124
+Order-Email:	disa@cs.unitn.it
+Order-Homepage:	http://www.unitn.it/disa
+Order-Postal:	DISA
+		Università degli Studi di Trento
+		via Inama, 5
+		I-38122 Trento TN
+		Italy
+Type: ReDIF-Paper
+Handle: RePEc:trt:aleatr
+
+Template-type: ReDIF-Series 1.0
+Name: ROCK Working Papers
+Description: These are the working papers of ROCK
+	(Research on Organizations, Coordination & Knowledge).
+Provider-Name: Department of Computer and Management Sciences,
+	University of Trento, Italy
+Provider-Homepage: http://www.unitn.it/disa
+Provider-Institution: RePEc:edi:ditreit
+Maintainer-Name: Loris Gaio
+Maintainer-Email: loris.gaio@unitn.it
+Maintainer-Phone: +39-0461-282142
+Maintainer-Fax: +39-0461-282124
+Order-Email:	disa@cs.unitn.it
+Order-Homepage:	http://www.unitn.it/disa
+Order-Postal:	DISA
+		Università degli Studi di Trento
+		via Inama, 5
+		I-38122 Trento TN
+		Italy
+Type: ReDIF-Paper
+Handle: RePEc:trt:rockwp

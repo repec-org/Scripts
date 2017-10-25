@@ -1,0 +1,10 @@
+﻿Template-type: ReDIF-Archive 1.0
+Handle: RePEc:spr
+Name: Springer Economics Journals
+Description: This archive describes journals published by Springer 
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+#URL: ftp://ftp.springer.com/Outgoing/RePEc/spr
+URL: ftp://ideas.repec.org/pub/RePEc/spr/

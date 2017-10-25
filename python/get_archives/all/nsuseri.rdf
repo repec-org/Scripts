@@ -1,0 +1,36 @@
+Template-type: ReDIF-Series 1.0
+Name: Apas Papers
+Provider-Name: Academic Public Administration Studies Archive - APAS
+Provider-Homepage: http://www.apas.admpubl.snspa.ro/
+Provider-Institution: RePEc:edi:fasnsro
+Maintainer-Name: Ani Matei
+Maintainer-Email: amatei@snspa.ro
+Editor-Name: Ani Matei
+Editor-Email: amatei@snspa.ro
+Type: ReDIF-Paper
+Handle: RePEc:nsu:apasro
+
+
+Template-type: ReDIF-Series 1.0
+Name: ASsee Online Series
+Provider-Name: South-Eastern European Administrative Studies – ASsee Online Series
+Provider-Homepage: http://www.balcannet.eu/assee.htm
+Provider-Institution: RePEc:edi:fasnsro
+Maintainer-Name: Ani Matei
+Maintainer-Email: amatei@snspa.ro
+Editor-Name: Ani Matei
+Editor-Email: amatei@snspa.ro
+Type: ReDIF-Book
+Handle: RePEc:nsu:asseeb
+
+Template-type: ReDIF-Series 1.0
+Name: ASsee Online Series
+Provider-Name: South-Eastern European Administrative Studies – ASsee Online Series
+Provider-Homepage: http://www.balcannet.eu/assee.htm
+Provider-Institution: RePEc:edi:fasnsro
+Maintainer-Name: Ani Matei
+Maintainer-Email: amatei@snspa.ro
+Editor-Name: Ani Matei
+Editor-Email: amatei@snspa.ro
+Type: ReDIF-Chapter
+Handle: RePEc:nsu:asseec

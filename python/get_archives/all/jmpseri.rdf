@@ -1,0 +1,44 @@
+Template-type: ReDIF-Series 1.0
+Name: 2013 Papers
+Provider-Name: Job Market Papers
+Provider-Homepage: http://ideas.repec.org/jmp.html
+Maintainer-Name: Christian Zimmermann
+Maintainer-Email: zimmermann@stlouisfed.org
+Type: ReDIF-Paper
+Handle: RePEc:jmp:jm2013
+
+Template-type: ReDIF-Series 1.0
+Name: 2014 Papers
+Provider-Name: Job Market Papers
+Provider-Homepage: http://ideas.repec.org/jmp.html
+Maintainer-Name: Christian Zimmermann
+Maintainer-Email: zimmermann@stlouisfed.org
+Type: ReDIF-Paper
+Handle: RePEc:jmp:jm2014
+
+Template-type: ReDIF-Series 1.0
+Name: 2015 Papers
+Provider-Name: Job Market Papers
+Provider-Homepage: https://ideas.repec.org/jmp.html
+Maintainer-Name: Christian Zimmermann
+Maintainer-Email: zimmermann@stlouisfed.org
+Type: ReDIF-Paper
+Handle: RePEc:jmp:jm2015
+
+Template-type: ReDIF-Series 1.0
+Name: 2016 Papers
+Provider-Name: Job Market Papers
+Provider-Homepage: https://ideas.repec.org/jmp.html
+Maintainer-Name: Christian Zimmermann
+Maintainer-Email: zimmermann@stlouisfed.org
+Type: ReDIF-Paper
+Handle: RePEc:jmp:jm2016
+
+Template-type: ReDIF-Series 1.0
+Name: 2017 Papers
+Provider-Name: Job Market Papers
+Provider-Homepage: https://ideas.repec.org/jmp.html
+Maintainer-Name: Christian Zimmermann
+Maintainer-Email: zimmermann@stlouisfed.org
+Type: ReDIF-Paper
+Handle: RePEc:jmp:jm2017

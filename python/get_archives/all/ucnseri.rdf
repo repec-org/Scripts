@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: School of Economics, University College Dublin
+Provider-Homepage: http://www.ucd.ie/economics
+Provider-Institution: RePEc:edi:educdie
+Maintainer-Name: Nicolas Clifton
+Maintainer-Email: nicolas.clifton@ucd.ie
+Type: ReDIF-Paper
+Handle: RePEc:ucn:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Open Access publications
+Provider-Name: School of Economics, University College Dublin
+Provider-Homepage: http://www.ucd.ie/economics
+Provider-Institution: RePEc:edi:educdie
+Maintainer-Name: Nicolas Clifton
+Maintainer-Email: nicolas.clifton@ucd.ie
+Type: ReDIF-Paper
+Handle: RePEc:ucn:oapubs

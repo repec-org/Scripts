@@ -1,0 +1,49 @@
+Template-type: ReDIF-Series 1.0
+Name: Accounting Working Papers
+Provider-Name: School of Business Administration, American University of Sharjah
+Provider-Homepage: http://www.aus.edu/sba
+Provider-Institution: RePEc:edi:deausae
+Maintainer-Name: Hamza Saleem
+Maintainer-Email: hsaleem@aus.edu
+Type: ReDIF-Paper
+Handle: RePEc:sha:accwps
+
+Template-type: ReDIF-Series 1.0
+Name: Economics Working Papers
+Provider-Name: School of Business Administration, American University of Sharjah
+Provider-Homepage: http://www.aus.edu/sba
+Provider-Institution: RePEc:edi:deausae
+Maintainer-Name: Hamza Saleem
+Maintainer-Email: hsaleem@aus.edu
+Type: ReDIF-Paper
+Handle: RePEc:sha:ecowps
+
+Template-type: ReDIF-Series 1.0
+Name: Finance Working Papers
+Provider-Name: School of Business Administration, American University of Sharjah
+Provider-Homepage: http://www.aus.edu/sba
+Provider-Institution: RePEc:edi:deausae
+Maintainer-Name: Hamza Saleem
+Maintainer-Email: hsaleem@aus.edu
+Type: ReDIF-Paper
+Handle: RePEc:sha:finwps
+
+Template-type: ReDIF-Series 1.0
+Name: Management Working Papers
+Provider-Name: School of Business Administration, American University of Sharjah
+Provider-Homepage: http://www.aus.edu/sba
+Provider-Institution: RePEc:edi:deausae
+Maintainer-Name: Hamza Saleem
+Maintainer-Email: hsaleem@aus.edu
+Type: ReDIF-Paper
+Handle: RePEc:sha:mgtwps
+
+Template-type: ReDIF-Series 1.0
+Name: Marketing Working Papers
+Provider-Name: School of Business Administration, American University of Sharjah
+Provider-Homepage: http://www.aus.edu/sba
+Provider-Institution: RePEc:edi:deausae
+Maintainer-Name: Hamza Saleem
+Maintainer-Email: hsaleem@aus.edu
+Type: ReDIF-Paper
+Handle: RePEc:sha:mktwps

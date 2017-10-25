@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Articulos de REVESCO Revista de Estudios Cooperativos
+Description: Acceso al texto completo en formato electrónico de los articulos publicados en REVESCO REvista de Estudios Cooperativos
+Classification-JEL:
+
+Restriction:
+
+Type: ReDIF-Article
+
+Provider-Name: Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales
+Provider-Homepage: http://www.ucm.es/info/revesco/
+Provider-Phone: 913942330 
+Provider-Postal: 
+Provider-Fax: 913942531
+
+Provider-Institution: RePEc:edi:feucmes
+Maintainer-Name: REVESCO Revista de Estudios Cooperativos
+Maintainer-Email: revesco@ccee.ucm.es
+Handle: RePEc:sto:artrev

@@ -1,0 +1,9 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: Papers
+Provider-Name: World Trade Institute
+Provider-Homepage: http://www.wti.org/
+Provider-Institution: RePEc:edi:wtibech
+Maintainer-Name: Morven McLean
+Maintainer-Email: inquire@wti.org
+Type: ReDIF-Paper
+Handle: RePEc:wti:papers

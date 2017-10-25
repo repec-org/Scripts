@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: Introductory Chapters
+Provider-Name: Princeton University Press
+Provider-Homepage: http://press.princeton.edu
+Maintainer-Name: Webmaster
+Maintainer-Email: webmaster@press.princeton.edu
+Type: ReDIF-Chapter
+Handle: RePEc:pup:chapts
+
+Template-type: ReDIF-Series 1.0
+Name: Economics Books
+Provider-Name: Princeton University Press
+Provider-Homepage: http://press.princeton.edu
+Maintainer-Name: Webmaster
+Maintainer-Email: webmaster@press.princeton.edu
+Type: ReDIF-Book
+Handle: RePEc:pup:pbooks

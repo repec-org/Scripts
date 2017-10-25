@@ -1,0 +1,94 @@
+#! /usr/bin/perl
+sub ver {print "
+getls-lR  version 1.0  1999/09/03
+(C) Ian Maclaine-cross 1999 (i.maclaine-cross\@unsw.edu.au)
+You may use this only under the conditions of the
+General Public Licence in file GPL.
+
+";
+exit;
+}
+
+sub use {print "Usage: getls-lR \[options\] SITE RPATH LPATH
+Options:
+	--help          this message
+	--version       version
+Logs into SITE anonymously or from ~/.netrc file.
+FTPs RPATH.times then from this and file LPATH
+decides whether to:
+	do nothing as LPATH is up to date;
+	FTP RPATH.patch.gz and patch LPATH;
+	or FTP RPATH.gz and replace LPATH.
+See: man mkls-lR; man ftp; README.ls-lR
+";
+	 exit;
+}
+
+($s, $r, $l)=@ARGV;
+&ver if $s =~ /^--version$/;
+&use if length $l == 0;
+
+$lp="$l.patch";
+$lpz="$lp.gz";
+$lt="$l.times";
+
+sub end {
+	print "@_\n";
+	&ftp'close();
+	exit;
+}
+
+use lib "/usr/lib/mirror";
+require 'ftp.pl';
+$h=`hostname -f`;
+chop $h;
+$ul=getpwuid($<);
+$p="-$ul\@$h";
+$u="anonymous";
+
+$up = "$ENV{HOME}/.netrc";
+if( -r $up ){
+	open FT, $up;
+ 	@lines=grep /^[^\#]*(machine $s|default) /, <FT>;	
+	close FT;
+	chop @lines;
+	if( length "$#lines" ){
+		@words = split / +/, $lines[0];
+		for( 0 .. $#words ){
+			local ( $c, $n ) = ( $words[$_], $words[$_+1] );
+			$tu= $n if $c =~ /login/;
+			$tp= $n if $c =~ /passw(|or)d/; 
+		}
+		$u=$tu if $tu;	
+		$p=$tp if $tp;	
+	}
+} 
+
+$port=21;
+$retries=0; 
+$attempts=1;
+&ftp'open( $s, $port, $retries, $attempts ) or &end( "$s did not respond" );
+&ftp'login( "$u", "$p" ) or &end( "$s login failed" );
+&ftp'type( 'I' );
+&ftp'get( "$r.times", $lt, 0 ) or &end( "failed to get $lt" );
+open FT, $lt;
+($ot,$nt)=<FT>;
+close FT;
+unlink $lt;
+
+$ft= -f $l?(stat($l))[9]:0;
+if( $ft == $nt ){
+	$g="$l up to date";
+} elsif( $ft == $ot ){
+	&ftp'get( "$r.patch.gz", $lpz, 0 ) or &end( "failed to get $lpz" );
+	system( "gunzip -f $lpz" );
+	system( "patch -usNZ $l $lp" );
+	unlink $lp;
+	$g="$l patched";
+} else {
+	&ftp'get( "$r.gz", "$l.gz", 0 ) or &end( "failed to get $l.gz" );
+	system( "gunzip -f $l.gz" );
+	utime $nt, $nt, $l;
+	$g="Got $r.gz for $l";
+}
+end( $g );

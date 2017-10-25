@@ -1,0 +1,41 @@
+Template-type: ReDIF-Series 1.0
+Name: Book Chapters
+Provider-Name: University of Canberra, National Centre for Social and Economic Modelling
+Provider-Homepage: http://www.natsem.canberra.edu.au/
+Provider-Institution: RePEc:edi:natseau
+Maintainer-Name: Peter Trueman
+Maintainer-Email: Peter.Trueman@natsem.canberra.edu.au
+Type: ReDIF-Chapter
+Handle: RePEc:cba:chpter
+
+Template-type: ReDIF-Series 1.0
+Name: Journal Articles
+Provider-Name: University of Canberra, National Centre for Social and Economic Modelling
+Provider-Homepage: http://www.natsem.canberra.edu.au/
+Provider-Institution: RePEc:edi:natseau
+Maintainer-Name: Peter Trueman
+Maintainer-Email: Peter.Trueman@natsem.canberra.edu.au
+Type: ReDIF-Article
+Handle: RePEc:cba:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Book
+Provider-Name: University of Canberra, National Centre for Social and Economic Modelling
+Provider-Homepage: http://www.natsem.canberra.edu.au/
+Provider-Institution: RePEc:edi:natseau
+Maintainer-Name: Peter Trueman
+Maintainer-Email: Peter.Trueman@natsem.canberra.edu.au
+Type: ReDIF-Book
+Handle: RePEc:cba:ucbook
+
+
+Template-type: ReDIF-Series 1.0
+Name: NATSEM Working Paper Series
+Provider-Name: University of Canberra, National Centre for Social and Economic Modelling
+Provider-Homepage: http://www.natsem.canberra.edu.au/
+Provider-Institution: RePEc:edi:natseau
+Maintainer-Name: Peter Trueman
+Maintainer-Email: Peter.Trueman@natsem.canberra.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:cba:wpaper
+

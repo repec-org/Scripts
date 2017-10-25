@@ -1,0 +1,198 @@
+﻿
+Template-type: ReDIF-Series 1.0
+Name: Revue Économique
+Description: Fondée en 1950, la Revue économique a pour objectif de publier des travaux originaux dans tous les domaines de la recherche économique (aussi bien théorique qu’empirique). Elle est ouverte à toutes les tendances de cette science dont elle souhaite offrir une vision aussi large que possible.
+Founded in 1950, the Revue économique publishes original works in all areas of economic research (both theoretical and empirical). It is open to all trends in the discipline and aims to provide as broad a vision as possible.
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/reco
+Restriction: Data and metadata provided by Persée are licensed under a Creative Commons "Attribution-Noncommercial-Share Alike 3.0" License http://creativecommons.org/licenses/by-nc-sa/3.0/
+Maintainer-Name: Equipe PERSEE
+Maintainer-Email: repec@persee.fr
+Editor-Name: Presses de Sciences-Po
+ISSN: 0035-2764
+Type: ReDIF-Article
+Handle: RePEc:prs:reveco
+
+Template-type: ReDIF-Series 1.0
+Name: Revue Tiers Monde
+Description: La Revue Tiers Monde publie les résultats de recherches récentes sur le développement économique et social dans les pays du Sud. Pluridisciplinarité, débats et approches théoriques fondées sur des études de cas originales en font un outil d’analyse et de réflexion.
+The Revue Tiers Monde publishes results of recent research on economic and social development in the South. Thanks to the pluridisciplinarity of its articles, presenting debates as well as empirically-based and original theoretical approaches, it represents a valuable tool for analysis and reflection.
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/tiers
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Armand Colin
+ISSN: 1293-8882 
+Type: ReDIF-Article
+Handle: RePEc:prs:rtiers
+
+Template-type: ReDIF-Series 1.0
+Name: Revue Française d'Économie
+Description: La Revue française d'économie, fondée en 1986, informe des avancées de la science économique les responsables du secteur privé comme du secteur public, les enseignants, les chercheurs comme les étudiants.
+The Revue française d'économie, founded in 1986, presents the latest advances in the economic sciences to decision makers in both the public and private sectors, as well as to teachers, to researchers and to students. 
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/rfeco
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Arthème Fayard
+ISSN: 0769-0479 
+Type: ReDIF-Article
+Handle: RePEc:prs:rfreco
+
+Template-type: ReDIF-Series 1.0
+Name: Revue de l'OFCE
+Description: Créée en 1982, la Revue de l’OFCE publie les travaux de l’ Observatoire Français des Conjonctures Economiques (OFCE) qui est chargé d’étudier en toute indépendance la conjoncture de l’économie française, ses structures et son environnement extérieur, notamment européen, d’effectuer des comparaisons avec des économies étrangères. Elle publie également des travaux universitaires d’économie théorique et appliquée.
+The first volume of OFCE Review was published in 1982, June. The OFCE Review publishes works of The French Economic Observatory (OFCE) which is Sciences Po’ Economic Research Centre charged to observe and forecast short and medium-term trends in the French, European, and world economy, to study the French economy, its structures and its external environment, in particular the European economy, to carry out comparisons with foreign economies.
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/ofce
+Maintainer-Name: Equipe PERSEE
+Maintainer-Email: repec@persee.fr
+Editor-Name: Observatoire Français des Conjonctures Economiques, Presses de Sciences-Po
+ISSN: 0751-6614
+Type: ReDIF-Article
+Handle: RePEc:prs:rvofce
+
+Template-type: ReDIF-Series 1.0
+Name: Revue d'Économie Industrielle
+Description: Créée en 1977 et publiée avec le concours du CNRS aux Editions Techniques et Economiques, la Revue d'économie industrielle présente un état récent des travaux d'économistes industriels mariant l'analyse théorique et la description des divers aspects de la réalité économique. A partir de 2006, les numéros sont disponibles sur [http://rei.revues.org/|revues.org] après délai de restriction de 2 ans.
+Created in 1977 and backed by the CNRS through publication in the Editions Techniques et Economiques, the Revue d'économie industrielle presents recent work in industrial economics and offers both theoretical analyses and descriptions of various aspects of current economics. From 2006 onwards, the journal is accessible on [http://rei.revues.org|revues.org] with a time restriction of two years. 
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/rei
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Éditions techniques et économiques
+ISSN: 0154-3229 
+Type: ReDIF-Article
+Handle: RePEc:prs:recind
+
+Template-type: ReDIF-Series 1.0
+Name: Histoire, économie & société
+Description: Histoire, économie & société a été fondée en 1982 par les professeurs P. Chaunu et A. Corvisier. Ouverte à tous les courants et champs historiques, la revue oriente ses recherches vers les questions économiques et les phénomènes sociaux.
+Histoire, économie & société was founded in 1982 by Professors P. Chaunu and A. Corvisier. Open to all historical currents and fields, this journal is oriented towards the study of economical questions and social phenomena. 
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/hes
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Armand Colin
+ISSN: 0752-5702
+Type: ReDIF-Article
+Handle: RePEc:prs:hiseco
+
+Template-type: ReDIF-Series 1.0
+Name: Économie rurale
+Description: Cette publication bimestrielle, organe de la Société Française d'Economie Rurale, a paru jusqu'en 1953 sous le titre de Bulletin de la Société Française d'Economie Rurale. Depuis 1953, le titre a été raccourci. Economie Rurale publie les comptes rendus des séances de travail de la Société ainsi que des articles originaux et des comptes rendus bibliographiques.
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/ecoru
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Société française d'économie rurale
+ISSN: 0013-0559
+Type: ReDIF-Article
+Handle: RePEc:prs:recoru
+
+Template-type: ReDIF-Series 1.0
+Name: Économie et Statistique
+Description: Chaque mois, les analyses économiques des sujets de débats dans l'actualité. Sous forme d'articles ou dossiers, Économie et Statistique présente les résultats de recherches originales.
+A monthly journal containing the economic analyses that become the authoritative references in public discussions, Économie et Statistique reports original research findings in the form of single articles or special multi-article features. These studies combine theoretical approaches and factual observation. They cast new light on national and international economic phenomena, and on the major issues being debated in French society.
+Predecessor: RePEc:prs:conjin
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/estat
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Institut National de la Statistique et des Études Économiques (INSEE)
+ISSN: 0336-1454 
+Type: ReDIF-Article
+Handle: RePEc:prs:ecstat
+
+Template-type: ReDIF-Series 1.0
+Name: Économie et Prévision
+Description: Créée en 1971 sous le nom de « Statistiques & Études Financières » série orange, la revue est publiée sous le nom de Économie & Prévision  depuis 1981. Elle diffuse les travaux de spécialistes des méthodes quantitatives de l'économie appliquée. Ses domaines sont variés : analyses micro et macro-économiques, études internationales, financières, sectorielles, marché du travail, risques environnementaux, etc.
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/ecop
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Ministère de l'économie, des finances et de l'industrie
+ISSN: 0249-4744 
+Type: ReDIF-Article
+Handle: RePEc:prs:ecoprv
+
+Template-type: ReDIF-Series 1.0
+Name: Revue d'Économie Financière
+Description: La Revue d’Economie Financière est un instrument de dialogue entre les universitaires, les chercheurs et les professionnels de la finance et de la banque. Elle contribue depuis plus de 20 ans à animer la discussion et la réflexion indispensables à la cohésion de la profession financière et bancaire. Pour que l’espace de dialogue soit le plus large possible, les articles publiés dans la REF doivent être compréhensibles par des lecteurs qui ne sont pas nécessairement spécialistes des questions traitées. Tous les aspects financiers de l’économie y sont abordés. La rigueur scientifique des articles est garantie par des rapporteurs.
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/ecofi
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Association d'Économie Financière
+ISSN: 0987-3368 
+Type: ReDIF-Article
+Handle: RePEc:prs:recofi
+
+Template-type: ReDIF-Series 1.0
+Name: Cahiers d'Économie Politique
+Description: Depuis 1974, les Cahiers d'économie politique sont un lieu privilégié pour les discussions théoriques qui prennent en compte toute la dimension historique de la discipline économique. Considérant que l'étude des auteurs passés et les débats actuels en analyse économique peuvent mutuellement s'enrichir, ils publient des articles qui relèvent de l'histoire de la pensée économique, de la philosophie économique, ou qui se situent à l'intersection de l'histoire de la pensée et de la théorie économique contemporaine ou de l'histoire économique.
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/cep
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: L'Harmattan
+ISSN: 0154-8344 
+Type: ReDIF-Article
+Handle: RePEc:prs:caecpo
+
+Template-type: ReDIF-Series 1.0
+Name: La Conjoncture
+Description: Publiée par l'INSEE en 1946, la revue La Conjoncture sera scindée dès la fin de 1946 en deux collections concernant l'économie française d'une part et mondiale de l'autre.
+Followup: RePEc:prs:conjem
+Followup: RePEc:prs:conjef
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/estat
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Institut National de la Statistique et des Études Économiques (INSEE)
+ISSN: 0336-1454
+Type: ReDIF-Article
+Handle: RePEc:prs:conjon
+
+Template-type: ReDIF-Series 1.0
+Name: Etudes et conjoncture - Economie mondiale
+Description: 
+Predecessor: RePEc:prs:conjon
+Followup: RePEc:prs:conjin
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/estat
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Institut National de la Statistique et des Études Économiques (INSEE)
+ISSN: 1149-3755
+Type: ReDIF-Article
+Handle: RePEc:prs:conjem
+
+Template-type: ReDIF-Series 1.0
+Name: Etudes et conjoncture - Economie française
+Description: 
+Predecessor: RePEc:prs:conjon
+Followup: RePEc:prs:conjin
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/estat
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Institut National de la Statistique et des Études Économiques (INSEE)
+ISSN: 1149-3720
+Type: ReDIF-Article
+Handle: RePEc:prs:conjef
+
+Template-type: ReDIF-Series 1.0
+Name: Etudes et conjoncture - Institut national de la statistique et des études économiques
+Description: 
+Predecessor: RePEc:prs:conjef
+Predecessor: RePEc:prs:conjem
+Followup: RePEc:prs:ecstat
+Provider-Name: Programme National Persée
+Provider-Homepage: http://www.persee.fr/collection/estat
+Maintainer-Name: Equipe PERSEE 
+Maintainer-Email: repec@persee.fr
+Editor-Name: Institut National de la Statistique et des Études Économiques (INSEE)
+ISSN: 0423-5681
+Type: ReDIF-Article
+Handle: RePEc:prs:conjin

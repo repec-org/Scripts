@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics Series Working Papers
+Provider-Name: University of Oxford, Department of Economics
+Provider-Homepage: https://www.economics.ox.ac.uk/
+Provider-Institution: RePEc:edi:sfeixuk
+Maintainer-Name: Anne Pouliquen
+Maintainer-Email: facultyadmin@economics.ox.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:oxf:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: OxCarre Working Papers
+Provider-Name: Oxford Centre for the Analysis of Resource Rich Economies, University of Oxford
+Provider-Homepage: https://www.oxcarre.ox.ac.uk/
+Provider-Institution: RePEc:edi:oxcaruk
+Maintainer-Name: Antonella Surdi
+Maintainer-Email: antonella.surdi@economics.ox.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:oxf:oxcrwp

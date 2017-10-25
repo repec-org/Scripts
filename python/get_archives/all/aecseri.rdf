@@ -1,0 +1,81 @@
+Template-type: ReDIF-Series 1.0
+Name: E-books Investigaciones de Economía de la Educación
+Provider-Name: Asociación de Economía de la Educación
+Provider-Homepage: http://www.economicsofeducation.com
+Provider-Institution: RePEc:edi:aedeeea
+Maintainer-Name: AEDE
+Maintainer-Email: info@economicsofeducation.com
+Type: ReDIF-Book
+Handle: RePEc:aec:ebooks
+
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones de Economía de la Educación volume 5
+Provider-Name: Asociación de Economía de la Educación
+Provider-Homepage: http://www.economicsofeducation.com
+Provider-Institution: RePEc:edi:aedeeea
+Maintainer-Name: Domingo P. Ximénez-de-Embún
+Maintainer-Email: dpxe@unizar.es
+Editor-Name: María Jesús Mancebón-Torrubia
+Editor-Email: mjmance@unizar.es
+Editor-Name: Domingo P. Ximénez-de-Embún
+Editor-Email: dpxe@unizar.es
+Editor-Name: José María Gómez-Sancho
+Editor-Email: jmgomez@unizar.es
+Editor-Name: Gregorio Giménez Esteban
+Editor-Email: gregim@unizar.es
+Type: ReDIF-Chapter
+Handle: RePEc:aec:ieed05
+
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones de Economía de la Educación volume 6
+Provider-Name: Asociación de Economía de la Educación
+Provider-Homepage: http://www.economicsofeducation.com
+Provider-Institution: RePEc:edi:aedeeea
+Maintainer-Name: Domingo P. Ximénez-de-Embún
+Maintainer-Email: dpxe@unizar.es
+Editor-Name: Antonio Caparrós Ruiz
+Editor-Email: antonio@uma.es
+Type: ReDIF-Chapter
+Handle: RePEc:aec:ieed06
+
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones de Economía de la Educación volume 9
+Provider-Name: Asociación de Economía de la Educación
+Provider-Homepage: http://www.economicsofeducation.com
+Provider-Institution: RePEc:edi:aedeeea
+Maintainer-Name: Domingo P. Ximénez-de-Embún
+Maintainer-Email: dpxe@unizar.es
+Editor-Name: Adela García Aracil
+Editor-Email: agarcia@ingenio.upv.es
+Editor-Name: Isabel Neira Gómez
+Editor-Email: isabel.neira@usc.es
+Type: ReDIF-Chapter
+Handle: RePEc:aec:ieed09
+
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones de Economía de la Educación volume 10
+Provider-Name: Asociación de Economía de la Educación
+Provider-Homepage: http://www.economicsofeducation.com
+Provider-Institution: RePEc:edi:aedeeea
+Maintainer-Name: Domingo P. Ximénez-de-Embún
+Maintainer-Email: dpxe@unizar.es
+Editor-Name: Marta Rahona López
+Editor-Email: marta.rahona@uam.es
+Editor-Name: Jennifer Graves
+Editor-Email: jennifer.graves@uam.es
+Type: ReDIF-Chapter
+Handle: RePEc:aec:ieed10
+
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones de Economía de la Educación volume 11
+Provider-Name: Asociación de Economía de la Educación
+Provider-Homepage: http://www.economicsofeducation.com
+Provider-Institution: RePEc:edi:aedeeea
+Maintainer-Name: Domingo P. Ximénez-de-Embún
+Maintainer-Email: dpxe@unizar.es
+Editor-Name: José Manuel Cordero Ferrera
+Editor-Email: jmcordero@unex.es
+Editor-Name: Rosa Simancas Rodríguez
+Editor-Email: rsimancas@unex.es
+Type: ReDIF-Chapter
+Handle: RePEc:aec:ieed11

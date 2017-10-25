@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Macerata University, Department of Studies on Economic Development (DiSSE)
+Provider-Homepage: http://www2.unimc.it/sviluppoeconomico
+Provider-Institution: RePEc:edi:dsmacit
+Maintainer-Name: Carlo Sampaoli
+Maintainer-Email: csampaoli@unimc.it
+Type: ReDIF-Paper
+Handle: RePEc:mcr:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Macerata University, Department of Finance and Economic Sciences
+Provider-Homepage: http://www2.unimc.it/dief
+Provider-Institution: RePEc:edi:dimacit
+Maintainer-Name: Silvana Tartufoli
+Maintainer-Email: tartufoli@unimc.it
+Type: ReDIF-Paper
+Handle: RePEc:mcr:wpdief
+
+Template-type: ReDIF-Series 1.0
+Name: Enometrica
+Provider-Name: Enometrica - Review of the Vineyard Data Quantification Society (VDQS) and the European Association of Wine Economists (EuAWE) - Macerata University, Faculty of Communications
+Provider-Homepage: http://www.unimc.it/enometrica
+Provider-Institution: RePEc:edi:fcmacit
+Maintainer-Name: Paola Dezi
+Maintainer-Email: paola.dezi@unimc.it
+Type: ReDIF-Article
+Handle: RePEc:mcr:jenome

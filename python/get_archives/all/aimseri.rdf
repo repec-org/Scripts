@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: AMSE Working Papers
+Description: This is a serie for AMSE Working Papers 
+Provider-Name: Aix-Marseille School of Economics, Marseille, France
+Provider-Homepage: http://www.amse-aixmarseille.fr/en
+Provider-Institution: RePEc:edi:maseafr
+Maintainer-Name: Yves Doazan
+Maintainer-Email: yves.doazan@univ-amu.fr
+Type: ReDIF-Paper
+Handle: RePEc:aim:wpaimx
+

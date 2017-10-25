@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: CEEP-BIT Working Papers
+Provider-Name: Center for Energy and Environmental Policy Research (CEEP), Beijing Institute of Technology
+Provider-Homepage: http://www.ceep.net.cn/english/
+Provider-Institution: RePEc:edi:cebitcn
+Maintainer-Name: Zhi-Fu Mi
+Maintainer-Email: mizhifu@126.com
+Type: ReDIF-Paper
+Handle: RePEc:biw:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: CEEP-BIT Books
+Provider-Name: Center for Energy and Environmental Policy Research (CEEP), Beijing Institute of Technology
+Provider-Homepage: http://www.ceep.net.cn/english/
+Provider-Institution: RePEc:edi:cebitcn
+Maintainer-Name: Zhi-Fu Mi
+Maintainer-Email: mizhifu@126.com
+Type: ReDIF-Book
+Handle: RePEc:biw:bookli

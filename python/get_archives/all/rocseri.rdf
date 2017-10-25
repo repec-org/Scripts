@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Series 1.0
+Name: RCER Working Papers
+Publisher-Name: University of Rochester - Center for Economic Research (RCER)
+Publisher-Postal: University of Rochester, Center for Economic Research, Department of Economics, Harkness 231
+ Rochester, New York 14627 U.S.A.
+Maintainer-Name: Richard DiSalvo
+Maintainer-Email: rdisalvo@oswego.edu
+Handle: RePEc:roc:rocher
+Provider-Institution: RePEc:edi:cerocus
+
+Template-Type: ReDIF-Series 1.0
+Name: Wallis Working Papers
+Publisher-Name: University of Rochester - Wallis Institute of Political Economy 
+Publisher-Postal: University of Rochester, Wallis Institute, Harkness 109B
+ Rochester, New York 14627 U.S.A.
+Maintainer-Name: Richard DiSalvo
+Maintainer-Email: rdisalvo@oswego.edu
+Handle: RePEc:roc:wallis
+Provider-Institution: RePEc:edi:warocus

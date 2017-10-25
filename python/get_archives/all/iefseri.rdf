@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+Name: Revista de Economía y Estadística
+Description: This is a journal of the Instituto de Economía y Finanzas, Facultad de Ciencias Económicas, Universidad Nacional de Córdoba
+Provider-Name: Universidad Nacional de Córdoba, Facultad de Ciencias Económicas, Instituto de Economía y Finanzas
+Provider-Institution: RePEc:edi:ieuncar
+Maintainer-Name: Marcelo Coser
+Maintainer-Email: mcoser@eco.unc.edu.ar
+Editor-Name: Ernesto Rezk
+Editor-Email: ernerezk@eco.unc.edu.ar
+Editor-Name: Alberto M Díaz Cafferata
+Editor-Email: diazcaf@eco.unc.edu.ar
+Type: ReDIF-Article
+Handle: RePEc:ief:reveye
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Actualidad Económica
+Description: This is a journal of the Instituto de Economía y Finanzas, Facultad de Ciencias Económicas, Universidad Nacional de Córdoba
+Provider-Name: Universidad Nacional de Córdoba, Facultad de Ciencias Económicas, Instituto de Economía y Finanzas
+Provider-Institution: RePEc:edi:ieuncar
+Maintainer-Name: Marcelo Coser
+Maintainer-Email: mcoser@eco.unc.edu.ar
+Editor-Name: Rinaldo Antonio Colomé
+Editor-Email: racolome@hotmail.com
+Editor-Name: Alberto José Figueras
+Editor-Email: figuerasaj@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:ief:revaec

@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Working papers from the College of William and Mary Department of Economics
+Provider-Name: Department of Economics, College of William and Mary
+Provider-Institution: RePEc:edi:decwmus
+Maintainer-Name: Daifeng He
+Maintainer-Email: dhe@wm.edu
+Maintainer-Name: Alfredo Pereira
+Maintainer-Email: ampere@wm.edu
+Type: ReDIF-Paper
+Handle: RePEc:cwm:wpaper

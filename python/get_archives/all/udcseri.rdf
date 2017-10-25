@@ -1,0 +1,30 @@
+Template-type: ReDIF-Series 1.0
+Name: Estudios de Economia
+Description: Papers from the journal Estudios de Economia, from the Department of Economics of the University of Chile
+Provider-Name: University of Chile, Department of Economics
+Provider-Homepage: http://www.econ.uchile.cl/
+Provider-Institution: RePEc:edi:deuclcl 
+Maintainer-Name: Verónica Kunze
+Maintainer-Email: vkunze@econ.uchile.cl
+Editor-Name: Rómulo Chumacero
+Editor-Email: ede@econ.uchile.cl
+Editor-Workplace-Name: University of Chile, Department of Economics
+Editor-Workplace-Homepage: http://www.econ.uchile.cl/public/acaPortalFicha.aspx?IdAc=7
+Type: ReDIF-Article
+Handle: RePEc:udc:esteco 
+
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers 
+Description: Papers from the Department of Economics of the University of Chile.
+Provider-Name: University of Chile, Department of Economics 
+Provider-Homepage: http://www.econ.uchile.cl/
+Provider-Institution: RePEc:edi:deuclcl 
+Maintainer-Name: Mohit Karnani
+Maintainer-Email: mkarnani@fen.uchile.cl
+Editor-Name: Mohit Karnani
+Editor-Email: mkarnani@fen.uchile.cl
+Editor-Workplace-Name: University of Chile, Department of Economics
+Editor-Workplace-Homepage: http://www.econ.uchile.cl/es/academico/mkarnani
+Type: ReDIF-Paper
+Handle: RePEc:udc:wpaper 

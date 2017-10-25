@@ -1,0 +1,84 @@
+#************MANUEL******************
+#All fields above are required except Provider-Institution: and Description:. A few additional details about some of the fields: 
+
+#Name: 
+#This is for the name of the series, not your organization or institution. Thus, it should be something like "Working Papers" or the title of a journal. 
+#Provider-Name: 
+#Put something that allows users to identify the institution, thus not just "Department of Economics", rather "University of Pomposity, Department of Economics". 
+#Provider-Institution: 
+#This contains your organization's RePEc "institution handle" so we can organize and cross link your output. To find the institution handle, check EDIRC. 
+#Type: 
+#This establishes what type of series we have. The available types are: ReDIF-Paper (for working and research papers, preprints), ReDIF-Article (journal contents), ReDIF-Software (programme codes, software), ReDIF-Book (books), ReDIF-Chapter (book chapters). 
+#Handle: 
+#The series handle corresponds to the archive handle, plus six lowercase letters of your choice. These letters are important (and can only be letters or numbers). For each series, you need to create a directory within your archive directory, each having this six letter name. In the case of this sample archive, the directory structure is thus: 
+#RePEc/ 
+#aaa/ 
+#aaaarch.rdf 
+#aaaseri.rdf 
+#wpaper/ 
+#rdf files for papers 
+#Note wpaper in the directory layout above and the template example above. Going back to the template, notice that several fields are grouped in clusters that start with the same word, like Maintainer-Name: and Maintainer-Email:. Always keep cluster elements together and always start them with the first keyword specified in our examples. Other fields that you may use: 
+#Order-Email:, Order-Homepage:, Order-Postal: 
+#Put all relevant information so that users can order print copies, if relevant. 
+#Price: 
+#Pricing information if there is a charge for print copies or fulltext downloads. Otherwise do not include this field. 
+#Restriction: 
+#If your online material cannot be downloaded freely or requires registration, put details here. Otherwise do not include this field. 
+#Maintainer-Phone:, Maintainer-Fax: 
+#If you think this is useful 
+#Editor-Name:, Editor-Email: 
+#If there is an editor, put details here. This person will get various statistics from RePEc at the given email address. 
+#Notification: 
+#Detail if there are other means than NEP for users to be notified about new items in this series. 
+#ISSN: 
+#If your series has a ISSN number, this is the place to put it. 
+#You are now ready for the item templates. They differ by type, so choose the appropriate one(s) below. 
+#One final note before continuing. You are not constrained to call the directory wpaper. Anything that has six letters and is consistent with the series and item handles is fine. If you have more series or journals, just add more directories and more series templates in your aaaseri.rdf file. For example, if you have a working paper series (handle RePEc:aaa:wpaper) and a journal (handle RePEc:aaa:journl): 
+
+#Template-type: ReDIF-Series 1.0
+#Name: Working Papers
+#Provider-Name: Grandiose University, Department of Economics
+#Provider-Homepage: http://www.grandiose.edu/econ/
+#Provider-Institution: RePEc:edi:degraus
+#Maintainer-Name: Helena Smith
+#Maintainer-Email: econ@grandiose.edu
+#Type: ReDIF-Paper
+#Handle: RePEc:aaa:wpaper
+
+ 
+#Template-type: ReDIF-Series 1.0
+#Name: Annals of Computational Economics
+#Description: This is the official journal of the Society of Nerd Economists
+#Provider-Name: Society of Nerd Economists
+#Provider-Institution: RePEc:edi:sneeeea
+#Maintainer-Name: Adalbert Geek
+#Maintainer-Email: geek@grandiose.edu
+#Editor-Name: Hildegrund Uebergeek
+#Editor-Email: l33t.sp34k@nerds.org
+#Type: ReDIF-Article
+#Handle: RePEc:aaa:journl
+
+ 
+
+#and the directory structure: 
+
+#RePEc/ 
+#aaa/ 
+#aaaarch.rdf 
+#aaaseri.rdf 
+#wpaper/ (if you have working papers) 
+#rdf files for papers 
+#journl/ (if you have a journal) 
+#rdf files for articles 
+#******************FIN MAN**************************
+
+
+Template-type: ReDIF-Series 1.0
+Name: Communications & Strategies
+Provider-Name: IDATE, Com&Strat dept.
+Provider-Homepage: http://www.idate.org/en/Home/
+Provider-Institution: RePEc:edi:idatefr
+Maintainer-Name: BLAVIER Thomas
+Maintainer-Email: t.blavier@idate.org
+Type: ReDIF-Article
+Handle: RePEc:idt:journl

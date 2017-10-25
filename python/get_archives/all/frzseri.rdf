@@ -1,0 +1,43 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers - Economics
+Description: This archive collects Working Papers (ECONOMICS)  of Università degli Studi di Firenze - DISEI 
+Type: ReDIF-Paper
+Provider-Name: Universita' degli Studi di Firenze, Dipartimento di Scienze per l'Economia e l'Impresa
+Provider-Homepage: www.disei.unifi.it
+Provider-Phone: +39 055 2759582
+Provider-Postal: Via delle Pandette 9 50127 - Firenze - Italy
+Provider-Fax: 
+Provider-Institution: RePEc:edi:defirit
+Maintainer-Name: Giorgio Ricchiuti
+Maintainer-Email: giorgio.ricchiuti@unifi.it
+Handle: RePEc:frz:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Marshall Studies Bulletin
+Description: MSB is an international online journal devoted to studies on Alfred Marshall's economics and, more in general, the history of economic ideas in Britain from the 19th to 20th century.
+Provider-Name: Universita' degli Studi di Firenze, Dipartimento di Scienze per l'Economia e l'Impresa
+Provider-Institution: RePEc:edi:defirit
+Provider-Postal: Via delle Pandette 9 50127 - Firenze - Italy
+Maintainer-Name: Marco Dardi
+Maintainer-Email: marco.dardi@unifi.it
+Editor-Name: Tiziano Raffaelli
+Editor-Email: t.raffaelli@fls.unipi.it
+Type: ReDIF-Article
+Handle: RePEc:frz:journl
+
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers - Management, Marketing and Organization Sciences
+Description: This archive collects Working Papers (Management, Marketing and Organization Sciences)  of Università degli Studi di Firenze - DISEI 
+Type: ReDIF-Paper
+Provider-Name: Universita' degli Studi di Firenze, Dipartimento di Scienze per l'Economia e l'Impresa
+Provider-Homepage: www.disei.unifi.it
+Provider-Phone: +39 055 2759690
+Provider-Postal: Via delle Pandette 9 50127 - Firenze - Italy
+Provider-Fax: 
+Provider-Institution: RePEc:edi:defirit
+Maintainer-Name: Francesco Capone
+Maintainer-Email: francesco.capone@unifi.it
+Handle: RePEc:frz:wpmmos
+

@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: CEMA Working Papers
+Provider-Name: China Economics and Management Academy, Central University of Finance and Economics
+Provider-Homepage: http://cema.cufe.edu.cn/
+Provider-Institution: RePEc:edi:emcufcn
+Maintainer-Name: Qiang Gao
+Maintainer-Email: mutecamel@gmail.com
+Editor-Name: Dingsheng Zhang
+Editor-Person: pzh87
+Type: ReDIF-Paper
+Handle: RePEc:cuf:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Annals of Economics and Finance
+ISSN: 1529-7373
+Provider-Name: Society for AEF
+Provider-Homepage: http://www.aeconf.net/
+Provider-Institution: RePEc:edi:emcufcn
+Maintainer-Name: Qiang Gao
+Maintainer-Email: mutecamel@gmail.com
+Editor-Name: Heng-fu Zou
+Editor-Email: hzoucema@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:cuf:journl

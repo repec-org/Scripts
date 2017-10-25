@@ -1,0 +1,342 @@
+Template-type: ReDIF-Series 1.0
+Name: RIVISTA DI STUDI SULLA SOSTENIBILITA'
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=168
+Type: ReDIF-Article 
+Handle: REPEC:fan:RISSRI
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: rivista@fondazionesimonecesaretti.it
+ISSN: 2239-1959
+
+
+Template-type: ReDIF-Series 1.0
+Name: FINANCIAL REPORTING
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=163
+Type: ReDIF-Article 
+Handle: REPEC:fan:Frfrfr
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+ISSN: 2036-671X
+
+
+Template-type: ReDIF-Series 1.0
+Name: ECONOMIA AGRO-ALIMENTARE
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=87
+Type: ReDIF-Article 
+Handle: REPEC:fan:ecaqec
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: Gervasio Antonelli, Maurizio Canavari, Annalisa De Boni, Concetta Nazzaro
+Editor-Email: reaa.deiagra@unibo.it
+ISSN: 1126-1668
+
+
+Template-type: ReDIF-Series 1.0
+Name: ARGOMENTI
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=100
+Type: ReDIF-Article 
+Handle: REPEC:fan:argarg
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: studi@marche.cna.it
+ISSN: 1125-9116
+
+
+Template-type: ReDIF-Series 1.0
+Name: SCIENZE REGIONALI 
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=103
+Type: ReDIF-Article 
+Handle: REPEC:fan:scresc
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: roberta.capello@polimi.it
+ISSN: 1720-3929
+
+
+Template-type: ReDIF-Series 1.0
+Name: HISTORY OF ECONOMIC THOUGHT AND POLICY
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=121
+Type: ReDIF-Article 
+Handle: REPEC:fan:spespe
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+ISSN: 2240-9971
+
+
+Template-type: ReDIF-Series 1.0
+Name: AGRICOLTURA ISTITUZIONI MERCATI 
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=122
+Type: ReDIF-Article 
+Handle: REPEC:fan:aimaim
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+ISSN: 1828-194X
+
+
+Template-type: ReDIF-Series 1.0
+Name: MERCATI E COMPETITIVITÀ
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=125
+Type: ReDIF-Article 
+Handle: REPEC:fan:mcmcmc
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: annalisa.tunisini@uniurb.it
+ISSN: 1826-7386
+
+
+Template-type: ReDIF-Series 1.0
+Name: RIVISTA DI ECONOMIA AGRARIA
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=174
+Type: ReDIF-Article 
+Handle: REPEC:fan:rearea
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+ISSN: 0035-6190
+
+
+Template-type: ReDIF-Series 1.0
+Name: RIVISTA DI ECONOMIA E STATISTICA DEL TERRITORIO
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=142
+Type: ReDIF-Article 
+Handle: REPEC:fan:restre
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+ISSN: 1971-0380
+
+
+Template-type: ReDIF-Series 1.0
+Name: ECONOMIA E SOCIETÀ REGIONALE 
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=14
+Type: ReDIF-Article 
+Handle: REPEC:fan:eseses
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+ISSN: 1827-2479
+
+
+Template-type: ReDIF-Series 1.0
+Name: ECONOMICS AND POLICY OF ENERGY AND THE ENVIRONMENT
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=10
+Type: ReDIF-Article 
+Handle: REPEC:fan:efeefe
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: luigi.depaoli@unibocconi.it
+ISSN: 2280-7659
+
+
+Template-type: ReDIF-Series 1.0
+Name: ECONOMIA PUBBLICA 
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=16
+Type: ReDIF-Article 
+Handle: REPEC:fan:epepep
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: giuseppe.bognetti@unimi.it
+ISSN: 0390-6140
+
+
+Template-type: ReDIF-Series 1.0
+Name: QUADERNI DI ECONOMIA DEL LAVORO
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=80
+Type: ReDIF-Article 
+Handle: REPEC:fan:quaqua
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: direzione@ce-res.org
+ISSN: 0390-105X
+
+
+Template-type: ReDIF-Series 1.0
+Name: MANAGEMENT CONTROL
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=166
+Type: ReDIF-Article 
+Handle: REPEC:fan:MACOMA
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+ISSN: 2239-0391
+
+
+Template-type: ReDIF-Series 1.0
+Name: PRISMA Economia - Società - Lavoro
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=156
+Type: ReDIF-Article 
+Handle: REPEC:fan:pripri
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: valeriocuccaroni@yahoo.fr
+ISSN: 0393-9049
+
+
+Template-type: ReDIF-Series 1.0
+Name: STUDI ECONOMICI 
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=59
+Type: ReDIF-Article 
+Handle: REPEC:fan:steste
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: fausto@unina.it
+ISSN: 0039-2928
+
+
+Template-type: ReDIF-Series 1.0
+Name: ECONOMIA E DIRITTO DEL TERZIARIO 
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=12
+Type: ReDIF-Article 
+Handle: REPEC:fan:ededed
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email:  rivista.edt@carige.it
+ISSN: 1593-9464
+
+
+Template-type: ReDIF-Series 1.0
+Name: ECONOMIA E POLITICA INDUSTRIALE 
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=13
+Type: ReDIF-Article 
+Handle: REPEC:fan:polipo
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: rivista.epi@polimi.it
+ISSN: 0391-2078
+
+Template-type: ReDIF-Series 1.0
+Name: ESPERIENZE D'IMPRESA
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=176
+Type: ReDIF-Article 
+Handle: REPEC:fan:EiEiEi
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: cgallucci@unisa.it
+ISSN: 2283-3374
+
+Template-type: ReDIF-Series 1.0
+Name: CONTABILITA' E CULTURA AZIENDALE
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=178
+Type: ReDIF-Article 
+Handle: REPEC:fan:Ccadaa
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: rivista-cca@unisi.it
+ISSN: 1721-5242
+
+Template-type: ReDIF-Series 1.0
+Name: MECOSAN. Menagement e economia sanitaria
+Provider-Name: FrancoAngeli Editore
+Provider-HomePage:http://www.francoangeli.it/riviste/sommario.asp?IDRivista=180
+Type: ReDIF-Article 
+Handle: REPEC:fan:Mesame
+Maintainer-Name: Angelo Ventriglia
+Maintainer-Email: ventriglia@francoangeli.it
+Order-Email: riviste@francoangeli.it
+Order-Homepage: http://www.francoangeli.it/riviste/Elenco_Prodotti.aspx?startCode=DC
+Restriction: Single articles can be downloaded buying download credits, for info: http://www.francoangeli.it/riviste/inglese_download_credit.asp
+Editor-Name: FrancoAngeli
+Editor-Email: mecosan@unibocconi.it
+ISSN: 1121-6921
+
+

@@ -1,0 +1,45 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Centre de Recherche en Economie et Statistique
+Provider-Homepage: http://www.crest.fr
+Provider-Institution: RePEc:edi:crestfr
+Maintainer-Name: Florian Sallaberry
+Maintainer-Email: florian.sallaberry@ensae.fr
+Maintainer-Name: Nadine Guedj
+Maintainer-Email : nadine.guedj@ensae.Fr
+Type: ReDIF-Paper
+Handle: RePEc:crs:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Documents de Travail de la DESE - Working Papers of the DESE
+Provider-Name: Institut National de la Statistique et des Etudes Economiques, DESE
+Provider-Homepage: http://www.insee.fr
+Provider-Institution: RePEc:edi:deeeifr
+Maintainer-Name: D3E
+Maintainer-Email: d3e-dg@insee.fr
+Type: ReDIF-Paper
+Handle: RePEc:crs:wpdeee
+
+Template-type: ReDIF-Series 1.0
+Name: Economie et Statistique
+Provider-Name: Institut National de la Statistique et des Etudes Economiques
+Provider-Homepage: http://www.insee.fr
+Provider-Institution: RePEc:edi:inseefr
+Maintainer-Name: D3E
+Maintainer-Email: d3e-dg@insee.fr
+Editor-Name: Pierre Morin
+Editor-Email: morin@univ-metz.fr
+ISSN: 1777-5574
+Type: ReDIF-Article
+Handle: RePEc:crs:ecosta
+
+
+Template-type: ReDIF-Series 1.0
+Name: Document de travail "Methodologie Statistique" - DMS Working Paper 
+Provider-Name: Institut National de la Statistique et des Etudes Economiques
+Provider-Homepage: http://www.insee.fr
+Provider-Institution: RePEc:edi:inseefr
+Maintainer-Name: DMS
+Maintainer-Email: dg75-l201@insee.fr
+Type: ReDIF-Paper
+Handle: RePEc:crs:wpidms

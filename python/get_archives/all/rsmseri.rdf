@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: Murray-Darling Program Working Papers
+Description: Analyse issues relating to the sustainable management of the Murray Darling-Basin and other major environmental assets
+Provider-Name: Risk and Sustainable Management Group, University of Queensland
+Provider-Homepage:  http://www.uq.edu.au/rsmg/index.htm
+Provider-Institution: RePEc:edi:rsmuqau
+Maintainer-Name: David Adamson
+Maintainer-Email: d.adamson@uq.edu.au
+Handle: RePEc:rsm:murray
+
+Template-type: ReDIF-Series 1.0
+Name: Risk & Uncertainty Working Papers
+Description: Undertake fundamental research on preferences and production under risk and uncertainty
+Provider-Name: Risk and Sustainable Management Group, University of Queensland
+Provider-Homepage: http://www.uq.edu.au/rsmg/index.htm
+Provider-Institution: RePEc:edi:rsmuqau
+Maintainer-Name: David Adamson
+Maintainer-Email: d.adamson@uq.edu.au
+Handle: RePEc:rsm:riskun
+
+Template-type: ReDIF-Series 1.0
+Name: Australian Public Policy Program Working Papers
+Description:  Undertake research on economic and social policy issues facing Australia in the 21st century
+Provider-Name: Risk and Sustainable Management Group, University of Queensland
+Provider-Homepage: http://www.uq.edu.au/rsmg/index.htm
+Provider-Institution: RePEc:edi:rsmuqau
+Maintainer-Name: David Adamson
+Maintainer-Email: d.adamson@uq.edu.au
+Handle: RePEc:rsm:pubpol
+
+Template-type: ReDIF-Series 1.0
+Name: Climate Change Working Papers
+Description: Examination of key economic and policy issues which are affected by climate change
+Provider-Name: Risk and Sustainable Management Group, University of Queensland
+Provider-Homepage: http://www.uq.edu.au/rsmg/index.htm
+Provider-Institution: RePEc:edi:rsmuqau
+Maintainer-Name: David Adamson
+Maintainer-Email: d.adamson@uq.edu.au
+Handle: RePEc:rsm:climte

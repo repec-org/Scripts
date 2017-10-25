@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: ASC Working Papers
+Provider-Name: African Studies Centre (ASC), Leiden, The Netherlands
+Provider-Homepage: http://www.ascleiden.nl/
+Provider-Institution: RePEc:edi:asclenl
+Maintainer-Name: Ursula Oberst
+Maintainer-Email: oberst@ascleiden.nl
+Type: ReDIF-Paper
+Handle: RePEc:asc:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: ASC Economic Books
+Provider-Name: African Studies Centre (ASC), Leiden, The Netherlands
+Provider-Homepage: http://www.ascleiden.nl/
+Provider-Institution: RePEc:edi:asclenl
+Maintainer-Name: Ursula Oberst
+Maintainer-Email: oberst@ascleiden.nl
+Type: ReDIF-Book
+Handle: RePEc:asc:ecobks

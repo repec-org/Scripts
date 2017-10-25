@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Series 1.0
+Name: Economics Working Papers
+Provider-Name: Department of Economics and Business Economics, Aarhus University
+Provider-Homepage: http://www.econ.au.dk/afn/
+Maintainer-Email: msommer@econ.au.dk
+Handle: RePEc:aah:aarhec
+
+Template-Type: ReDIF-Series 1.0
+Name: Management Working Papers
+Provider-Name: Department of Economics and Business Economics, Aarhus University
+Provider-Homepage: http://www.econ.au.dk/afv/
+Maintainer-Email: msommer@econ.au.dk
+Handle: RePEc:aah:aarmng
+
+Template-Type: ReDIF-Series 1.0
+Name: CREATES Research Papers
+Provider-Name: Department of Economics and Business Economics, Aarhus University
+Provider-Homepage: http://www.econ.au.dk/afn/
+Maintainer-Email: msommer@econ.au.dk
+Handle: RePEc:aah:create

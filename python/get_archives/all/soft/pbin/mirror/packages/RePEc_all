@@ -1,0 +1,10 @@
+package=RePEc:all
+        site=netec.mcc.ac.uk
+        remote_user=ftp
+        local_dir=RePEc/remo/all
+        remote_dir=pub/RePEc/all
+        do_deletes=true
+        max_delete_files=100%
+        exclude_patt=(\.bak$)|(~$)|(core)
+        dir_mode=0755
+        file_mode=0755

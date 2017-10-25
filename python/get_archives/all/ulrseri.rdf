@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo (working papers)
+Description: This is the Working Papers series of IECON
+Provider-Name: Instituto de Economía - IECON
+Provider-Institution: RePEc:edi:ierauuy
+Maintainer-Name: Andrés Dean
+Maintainer-Email: adean@iecon.ccee.edu.uy
+Type: ReDIF-Paper
+Handle: RePEc:ulr:wpaper
+ISSN: 1688-5090
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Investigación Estudiantil (students working papers)
+Description: This is the Working Papers series of IECON for students
+Provider-Name: Instituto de Economía - IECON
+Provider-Institution: RePEc:edi:ierauuy
+Maintainer-Name: Andrés Dean
+Maintainer-Email: adean@iecon.ccee.edu.uy
+Type: ReDIF-Paper
+Handle: RePEc:ulr:tpaper

@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: CPB Research Memorandum
+Provider-Name: CPB Netherlands Bureau for Economic Policy Analysis
+Provider-Institution: RePEc:edi:cpbgvnl
+Maintainer-Email: info@cpb.nl
+Handle: RePEc:cpb:resmem
+
+Template-type: ReDIF-Series 1.0
+Name: CPB Special Publication
+Provider-Name: CPB Netherlands Bureau for Economic Policy Analysis
+Provider-Institution: RePEc:edi:cpbgvnl
+Maintainer-Email: info@cpb.nl
+Handle: RePEc:cpb:spcial
+
+Template-type: ReDIF-Series 1.0
+Name: CPB Discussion Paper
+Provider-Name: CPB Netherlands Bureau for Economic Policy Analysis
+Provider-Institution: RePEc:edi:cpbgvnl
+Maintainer-Email: info@cpb.nl
+Handle: RePEc:cpb:discus
+
+Template-type: ReDIF-Series 1.0
+Name: CPB Document
+Provider-Name: CPB Netherlands Bureau for Economic Policy Analysis
+Provider-Institution: RePEc:edi:cpbgvnl
+Maintainer-Email: info@cpb.nl
+Handle: RePEc:cpb:docmnt
+
+Template-type: ReDIF-Series 1.0
+Name: CPB Memorandum
+Provider-Name: CPB Netherlands Bureau for Economic Policy Analysis
+Provider-Institution: RePEc:edi:cpbgvnl
+Maintainer-Email: info@cpb.nl
+Handle: RePEc:cpb:memodm
+

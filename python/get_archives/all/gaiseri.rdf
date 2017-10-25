@@ -1,0 +1,102 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Type: ReDIF-Paper
+Handle: RePEc:gai:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Published Papers
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Type: ReDIF-Paper
+Handle: RePEc:gai:ppaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Type: ReDIF-Book
+Handle: RePEc:gai:gbooks
+
+Template-type: ReDIF-Series 1.0
+Name: Book Chapters
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Type: ReDIF-Chapter
+Handle: RePEc:gai:gbchap
+
+Template-type: ReDIF-Series 1.0
+Name: Russian Economic Developments (in Russian)
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Editor-Name: Alexei Vedev
+Type: ReDIF-Article
+Handle: RePEc:gai:ruserr
+
+Template-type: ReDIF-Series 1.0
+Name:Russian Economic Developments
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Editor-Name: Alexei Vedev
+Type: ReDIF-Article
+Handle: RePEc:gai:recdev
+
+Template-type: ReDIF-Series 1.0
+Name:Model Calculations of Short-Term Forecasts of Russian Economic Time Series 
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Type: ReDIF-Article
+Handle: RePEc:gai:mcfren
+
+Template-type: ReDIF-Series 1.0
+Name: Monitoring of Russia's Economic Outlook. Trends and Challenges of Socio-Economic Development (In Russian)
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Type: ReDIF-Article
+Handle: RePEc:gai:monreo
+
+Template-type: ReDIF-Series 1.0
+Name: Monitoring of Russia's Economic Outlook. Trends and Challenges of Socio-Economic Development
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Type: ReDIF-Article
+Handle: RePEc:gai:mreoen
+
+Template-type: ReDIF-Series 1.0
+Name: Research Paper Series
+Provider-Name: Gaidar Institute for Economic Policy
+Provider-Institution: RePEc:edi:gaidaru
+Provider-Homepage: http://iep.ru/en.html
+Maintainer-Name: Victor Hugues
+Maintainer-Email: victor@iep.ru
+Editor-Name: Nina Glavatskaya
+Type: ReDIF-Article
+Handle: RePEc:gai:rpaper

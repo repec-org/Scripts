@@ -1,0 +1,30 @@
+Template-type: ReDIF-Series 1.0
+Name: AEI Economics Working Papers
+Provider-Name: American Enterprise Institute
+Provider-Homepage: http://www.aei.org
+Provider-Institution: RePEc:edi:aeiiius
+Maintainer-Name: Dave Adams, CIO
+Maintainer-Email: Administrative.Contact@AEI.org
+Type: ReDIF-Paper
+Handle: RePEc:aei:rpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: American Enterprise Institute
+Provider-Homepage: http://www.aei.org
+Provider-Institution: RePEc:edi:aeiiius
+Maintainer-Name: Dave Adams, CIO
+Maintainer-Email: Administrative.Contact@AEI.org
+Type: ReDIF-Book
+Handle: RePEc:aei:rpbook
+
+Template-type: ReDIF-Series 1.0
+Name: AEI Economic Perspectives
+Description: AEI Economic Perspectives is a policy paper series published by the Economic Policy Studies department of the American Enterprise Institute. Papers in the series analyze public policy, examine current economic conditions, present insights within and across economics subject areas, and feature original research. Resident Scholar Stan Veuger is editor of AEI Economic Perspectives. If you are interested in submitting a paper to the series, contact him at stan.veuger@aei.org.
+Provider-Name: American Enterprise Institute
+Provider-Homepage: http://www.aei.org
+Provider-Institution: RePEc:edi:aeiiius
+Maintainer-Name: Dave Adams, CIO
+Maintainer-Email: Administrative.Contact@AEI.org
+Type: ReDIF-Article
+Handle: RePEc:aei:journl

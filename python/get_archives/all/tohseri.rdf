@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: TERG Discussion Papers
+Provider-Name: Graduate School of Economics and Management, Tohoku University
+Provider-Homepage: http://www.econ.tohoku.ac.jp/econ/english/index.html
+Provider-Institution: RePEc:edi:fetohjp
+Maintainer-Name: Tohoku University Library
+Maintainer-Email: tour@grp.tohoku.ac.jp
+Type: ReDIF-Paper
+Handle: RePEc:toh:tergaa
+
+Template-type: ReDIF-Series 1.0
+Name: TMARG Discussion Papers
+Provider-Name: Graduate School of Economics and Management, Tohoku University
+Provider-Homepage: http://www.econ.tohoku.ac.jp/econ/english/index.html
+Provider-Institution: RePEc:edi:fetohjp
+Maintainer-Name: Tohoku University Library
+Maintainer-Email: tour@grp.tohoku.ac.jp
+Type: ReDIF-Paper
+Handle: RePEc:toh:tmarga
+
+Template-type: ReDIF-Series 1.0
+Name: DSSR Discussion Papers
+Provider-Name: Graduate School of Economics and Management, Tohoku University
+Provider-Homepage: http://www.econ.tohoku.ac.jp/econ/english/index.html
+Provider-Institution: RePEc:edi:fetohjp
+Maintainer-Name: Tohoku University Library
+Maintainer-Email: tour@grp.tohoku.ac.jp
+Type: ReDIF-Paper
+Handle: RePEc:toh:dssraa

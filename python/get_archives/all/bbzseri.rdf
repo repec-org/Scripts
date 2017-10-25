@@ -1,0 +1,33 @@
+Template-Type: ReDIF-Series 1.0
+Name: Brazilian Business Review
+Type: ReDIF-Article
+Provider-Name: Fucape Business School
+Provider-Postal: Fucape Business School
+			Brazilian Business Review
+			Av. Fernando Ferrari, 1358, Boa Vista
+			CEP 29075-505    Vitória-ES
+Provider-Institution: RePEc:edi:fucapbr
+Provider-Homepage: http://www.bbronline.com.br/
+Provider-Phone: +55 27 4009-4423
+Provider-Fax: +55 27 4009-4422
+Editor-Name: Emerson Mainardes
+Editor-Email: emerson@fucape.br
+Maintainer-Name: Sarah Lasso
+Maintainer-Email: bbronline@bbronline.com.br
+Handle: RePEc:bbz:fcpbbr
+
+Template-Type: ReDIF-Series 1.0
+Name: Fucape Working Papers
+Type: ReDIF-Paper
+Provider-Name: Fucape Business School
+Provider-Postal: Fucape Business School
+			Brazilian Business Review
+			Av. Fernando Ferrari, 1358, Boa Vista
+			CEP 29075-505    Vitória-ES
+Provider-Institution: RePEc:edi:fucapbr
+Provider-Homepage: http://www.fucape.br
+Provider-Phone: +55 27 4009-4408
+Provider-Fax: +55 27 4009-4422
+Maintainer-Name: Adriana Gasparino
+Maintainer-Email: adriana@fucape.br
+Handle: RePEc:bbz:fcpwps

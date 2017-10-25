@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Name: SFB504 Working Paper Archive
+Maintainer-Email: cschmidt@sfb504.uni-mannheim.de
+Maintainer-Name: Carsten Schmidt
+#URL: ftp://mailhost.sfb504.uni-mannheim.de/pub/RePEc/xrs
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/xrs
+Homepage: http://www.sfb504.uni-mannheim.de/
+Handle: RePEc:xrs

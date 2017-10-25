@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: EEPSEA Research Report
+Provider-Name: Economy and Environment Program for Southeast Asia (EEPSEA)
+Provider-Homepage: http://www.eepsea.org
+Provider-Institution: RePEc:edi:eepsesg
+Maintainer-Name: Arief Anshory yusuf
+Maintainer-Email: arief.yusuf@fe.unpad.ac.id
+Type: ReDIF-Paper
+Handle: RePEc:eep:report
+
+Template-type: ReDIF-Series 1.0
+Name: EEPSEA Policy Brief
+Provider-Name: Economy and Environment Program for Southeast Asia (EEPSEA)
+Provider-Homepage: http://www.eepsea.org
+Provider-Institution: RePEc:edi:eepsesg
+Maintainer-Name: Arief Anshory yusuf
+Maintainer-Email: arief.yusuf@fe.unpad.ac.id
+Type: ReDIF-Paper
+Handle: RePEc:eep:pbrief
+
+Template-type: ReDIF-Series 1.0
+Name: EEPSEA Special and Technical Paper
+Provider-Name: Economy and Environment Program for Southeast Asia (EEPSEA)
+Provider-Homepage: http://www.eepsea.org
+Provider-Institution: RePEc:edi:eepsesg
+Maintainer-Name: Arief Anshory yusuf
+Maintainer-Email: arief.yusuf@fe.unpad.ac.id
+Type: ReDIF-Paper
+Handle: RePEc:eep:tpaper

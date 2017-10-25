@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: FIEL
+Provider-Homepage: http://www.fiel.org
+Provider-Institution: RePEc:edi:fiellar
+Maintainer-Name: Juan Manuel Quintero
+Maintainer-Email: sistemas@fiel.org.ar
+Type: ReDIF-Paper
+Handle: RePEc:iel:doctra
+
+ 
+Template-type: ReDIF-Series 1.0
+Name: Books at FIEL
+Description: 
+Provider-Name: FIEL
+Provider-Institution: RePEc:edi:fiellar
+Maintainer-Name: Juan Manuel Quintero
+Maintainer-Email: sistemas@fiel.org.ar
+Type: ReDIF-book
+Handle: RePEc:iel:libros
+ 
+

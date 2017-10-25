@@ -1,0 +1,9 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Banco de México
+Provider-Homepage: http://www.banxico.org.mx
+Provider-Institution: RePEc:edi:bangvmx
+Maintainer-Name: Dirección de Sistemas
+Maintainer-Email: webmaster@banxico.org.mx
+Type: ReDIF-Paper
+Handle: RePEc:bdm:wpaper

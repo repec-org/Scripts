@@ -1,0 +1,59 @@
+Template-type: ReDIF-Series 1.0
+Name: C.D. Howe Institute Commentary
+Provider-Name: C.D. Howe Institute
+Provider-Homepage: http://www.cdhowe.org
+Provider-Institution: RePEc:edi:cdhowca
+Maintainer-Name: Kristine Gray
+Maintainer-Email: library@cdhowe.org
+Type: ReDIF-Article
+Handle: RePEc:cdh:commen
+
+Template-type: ReDIF-Series 1.0
+Name: C.D. Howe Institute Backgrounder
+Provider-Name: C.D. Howe Institute
+Provider-Homepage: http://www.cdhowe.org
+Provider-Institution: RePEc:edi:cdhowca
+Maintainer-Name: Kristine Gray
+Maintainer-Email: library@cdhowe.org
+Type: ReDIF-Article
+Handle: RePEc:cdh:backgr
+
+Template-type: ReDIF-Series 1.0
+Name: e-briefs
+Provider-Name: C.D. Howe Institute
+Provider-Homepage: http://www.cdhowe.org
+Provider-Institution: RePEc:edi:cdhowca
+Maintainer-Name: Kristine Gray
+Maintainer-Email: library@cdhowe.org
+Type: ReDIF-Paper
+Handle: RePEc:cdh:ebrief
+
+Template-type: ReDIF-Series 1.0
+Name: C.D. Howe Institute Policy Studies
+Provider-Name: C.D. Howe Institute
+Provider-Homepage: http://www.cdhowe.org
+Provider-Institution: RePEc:edi:cdhowca
+Maintainer-Name: Kristine Gray
+Maintainer-Email: library@cdhowe.org
+Type: ReDIF-Book
+Handle: RePEc:cdh:polstd
+
+Template-type: ReDIF-Series 1.0
+Name: Benefactors Lecture
+Provider-Name: C.D. Howe Institute
+Provider-Homepage: http://www.cdhowe.org
+Provider-Institution: RePEc:edi:cdhowca
+Maintainer-Name: Kristine Gray
+Maintainer-Email: library@cdhowe.org
+Type: ReDIF-Paper
+Handle: RePEc:cdh:benlec
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: C.D. Howe Institute
+Provider-Homepage: http://www.cdhowe.org
+Provider-Institution: RePEc:edi:cdhowca
+Maintainer-Name: Alyson Henry
+Maintainer-Email: library@cdhowe.org
+Type: ReDIF-Paper
+Handle: RePEc:cdh:wpaper

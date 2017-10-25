@@ -1,0 +1,34 @@
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones de Historia Económica (IHE) Journal of the Spanish Economic History Association
+Description: IHE is a peer reviewed journal  devoted to original, high-quality research articles on the fields of economic history and history of economic thought. Its first issue was published in January 2005. IHE is publised by the Spanish Economic History Association three times a year. 
+Provider-Name: Asociacion Espa–ola de Historia Economica
+Provider-Name-English: Spanish Economic History Association 
+Provider-Homepage:http://www.aehe.es
+Provider-Institution: RePEc:edi:aeheeea
+Maintainer-Name: José Antonio Miranda
+Maintainer-Email: miranda@ua.es
+Restriction: Online material can be downloaded freely, but a moving wall of three issues apply. The last three issues are only available for registered members of the Asociacion Espa–ola de Historia Economica.
+ISSN: 16986989
+Type: ReDIF-Article
+Handle: RePEc:ahe:invest
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo (DT-AEHE)
+Description: Working Paper Series of the Spanish Economic History Association -in Spanish: Documentos de Trabajo de la Asociacion Espa–ola de Historia Economica-. It includes papers in the series starting 2006. Economic History and subfields are the main topics (Business History, Agrarian History, History of Economic Ideas, etc). Papers, free to download, are mostly in Spanish with English abstract
+Provider-Name: Asociacion Espa–ola de Historia Economica
+Provider-Name-English: Spanish Economic History Association 
+Provider-Homepage:http://www.aehe.es
+Provider-Institution: RePEc:edi:aeheeea
+Maintainer-Name: Estrella Trincado Aznar
+Maintainer-Email: estrinaz@ccee.ucm.es
+Editor-Name: Adoracion Alvaro Moya
+Editor-Email: adoracionalvaro@cunef.edu
+Type: ReDIF-Paper
+Handle: RePEc:ahe:dtaehe
+
+
+
+
+

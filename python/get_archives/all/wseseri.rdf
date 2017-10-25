@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Applied Econometrics, Warsaw School of Economics
+Provider-Homepage: http://www.sgh.waw.pl/instytuty/zes
+Provider-Institution: RePEc:edi:dxwawpl
+Maintainer-Name:  Marcin Owczarczuk
+Maintainer-Email: mo23628@sgh.waw.pl
+Type: ReDIF-Paper
+Handle: RePEc:wse:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Applied Econometrics Papers
+Description:  Applied Econometrics Papers, formerly: Department of Applied Econometrics Working Papers 
+Provider-Name: Department of Applied Econometrics, Warsaw School of Economics
+Provider-Institution: RePEc:edi:dxwawpl
+Maintainer-Name: Marcin Owczarczuk
+Maintainer-Email: mo23628@sgh.waw.pl
+Editor-Name: Marek Gruszczynski
+Editor-Email: Marek.Gruszczynski@sgh.waw.pl
+Editor-Name: Emilia Tomczyk
+Editor-Email: Emilia.Tomczyk@sgh.waw.pl
+Type: ReDIF-Article
+Handle: RePEc:wse:journl

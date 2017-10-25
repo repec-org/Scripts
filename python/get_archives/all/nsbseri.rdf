@@ -1,0 +1,25 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: National Bank of Serbia
+Provider-Homepage: http://www.nbs.rs 
+Provider-Postal: National Bank of Serbia, 12 Kralja Petra St, 11 000 Belgrade, Republic of Serbia
+Provider-Institution: RePEc:edi:nbjgvyu
+Maintainer-Name: Maja Mihovilovic
+Maintainer-Email: webadmin@nbs.rs
+Editor-Name: Snezana Jovanovic
+Editor-Email: Snezana.Jovanovic@nbs.rs
+Type: ReDIF-Paper
+Handle: RePEc:nsb:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: SEEMHN papers
+Description: Fourth Annual SEEMHN Conference hosted by the National Bank of Serbia, 27 March 2009 in Belgrade.
+Provider-Name: National Bank of Serbia
+Provider-Institution: RePEc:edi:nbjgvyu
+Maintainer-Name: Maja Mihovilovic
+Maintainer-Email: webadmin@nbs.rs
+Editor-Name: Snezana Jovanovic
+Editor-Email: Snezana.Jovanovic@nbs.rs
+Type: ReDIF-Paper
+Handle: RePEc:nsb:seemhn

@@ -1,0 +1,13 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:sfi
+Name: Science & Finance (CFM) archive
+#Maintainer-Name: Marc Potters  
+#Maintainer-Email: marc.potters@science-finance.fr
+#Maintainer-Phone: +33.1.41.27.91.00
+Maintainer-Email: EconPapers@oru.se
+Description: Working papers, articles and books by S&F/CFM researchers
+#URL: http://www.science-finance.fr/RePEc/sfi
+URL: ftp://repec.oru.se/RePEc/legacy/sfi
+Homepage: http://www.science-finance.fr
+
+

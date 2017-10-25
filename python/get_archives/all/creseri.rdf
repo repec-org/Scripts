@@ -1,0 +1,62 @@
+Template-type: ReDIF-Series 1.0
+Name: Cahiers de recherche du Département des sciences économiques, UQAM
+Description: Research Papers on General Economics
+Provider-Name: Université du Québec à Montréal, Département des sciences
+ économiques
+Provider-Homepage: http://www.uqam.ca/economie/
+Provider-Phone: (514) 987-4114
+Provider-Postal: P.O. Box 8888, Downtown Station, Montreal (Canada)
+ Quebec, H3C 3P8
+Provider-Institution: RePEc:edi:duqamca
+Provider-Fax: (514) 987-8494
+Maintainer-Name: Stéphane Pallage
+Maintainer-Email: pallage.stephane@uqam.ca
+Handle: RePEc:cre:uqamwp
+
+Template-type: ReDIF-Series 1.0
+Name: Cahiers de recherche CREFE / CREFE Working Papers
+Description: Research Papers on Economic Fluctuations and Employment
+Classification-JEL: E; F; J
+Keywords: Employment, Demography, Macroeconomics, Fluctuations, Cycles
+Provider-Name: CREFE, Université du Québec à Montréal
+Provider-Phone: (514) 987-6181
+Provider-Postal: P.O. Box 8888, Downtown Station, Montreal (Canada)
+ Quebec, H3C 3P8
+Provider-Institution: RePEc:edi:crefeca
+Provider-Fax: (514) 987-8494
+Maintainer-Name: Stéphane Pallage
+Maintainer-Email: pallage.stephane@uqam.ca
+Handle: RePEc:cre:crefwp
+
+Template-type: ReDIF-Series 1.0
+Name: Documents techniques CREFE / CREFE Technical Papers
+Description: Technical Papers on Economic Fluctuations and Employment
+Classification-JEL: E; F; J
+Keywords: Employment, Demography, Macroeconomics, Fluctuations, Cycles
+Provider-Name: CREFE, Université du Québec à Montréal
+Provider-Phone: (514) 987-6181
+Provider-Postal: P.O. Box 8888, Downtown Station, Montreal (Canada)
+ Quebec, H3C 3P8
+Provider-Institution: RePEc:edi:crefeca
+Provider-Fax: (514) 987-8494
+Maintainer-Name: Stéphane Pallage
+Maintainer-Email: pallage.stephane@uqam.ca
+Handle: RePEc:cre:creftp
+
+Template-type: ReDIF-Series 1.0
+Name: Travaux en cours CREFE / CREFE Work in progress
+Description: Research Papers on Economic Fluctuations and Employment.
+ These papers are work in progress not yet suitable for a working paper
+ status 
+Classification-JEL: E; F; J
+Keywords: Employment, Demography, Macroeconomics, Fluctuations, Cycles
+Provider-Name: CREFE, Université du Québec à Montréal
+Provider-Phone: (514) 987-6181
+Provider-Postal: P.O. Box 8888, Downtown Station, Montreal (Canada)
+ Quebec, H3C 3P8
+Provider-Institution: RePEc:edi:crefeca
+Provider-Fax: (514) 987-8494
+Maintainer-Name: Stéphane Pallage
+Maintainer-Email: pallage.stephane@uqam.ca
+Handle: RePEc:cre:crefec
+

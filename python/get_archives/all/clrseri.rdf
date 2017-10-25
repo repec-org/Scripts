@@ -1,0 +1,26 @@
+Template-Type: ReDIF-Series 1.0
+Name: Wirtschaft und Gesellschaft - WuG
+Description: 
+Provider-Name: Kammer für Arbeiter und Angestellte für Wien, Abteilung Wirtschaftswissenschaft und Statistik
+Provider-Homepage: http://wien.arbeiterkammer.at/
+Provider-Institution: RePEc:edi:awakwat
+Maintainer-Name: Sepp Zuckerstaetter
+Maintainer-Email: sepp.zuckerstaetter@akwien.at
+Editor-Name: Markus Marterbauer
+Editor-Email: Markus.Marterbauer@akwien.at
+Order-Email: ww@akwien.at
+Order-Homepage: http://www.wirtschaftundgesellschaft.at
+Order-Postal: Kammer für Arbeiter und Angestellte für Wien, Abt. WW-Stat., Prinz Eugen Strasse 20-22, 1040 Wien Austria
+ISSN: 0378-5130
+Type: ReDIF-Article
+Handle: RePEc:clr:wugarc
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Reihe der AK Wien - Materialien zu Wirtschaft und Gesellschaft
+Provider-Name: Kammer für Arbeiter und Angestellte für Wien, Abteilung Wirtschaftswissenschaft und Statistik
+Provider-Homepage: http://wien.arbeiterkammer.at/
+Provider-Institution: RePEc:edi:awakwat
+Maintainer-Name: Sepp Zuckerstaetter
+Maintainer-Email: sepp.zuckerstaetter@akwien.at
+Type: ReDIF-Paper
+Handle: RePEc:clr:mwugar

@@ -1,0 +1,42 @@
+Template-type: ReDIF-Series 1.0
+Name: GRET Publications and Working Papers
+Provider-Name: GRET Group of Research in Territorial Economy, University of Neuchâtel
+Provider-Homepage: http://www2.unine.ch/socio/
+Provider-Email: messagerie.socio@unine.ch
+Provider-Phone: +41 (0)32 718 1420
+Provider-Fax: +41 (0)32 718 1421
+Provider-Postal: Faubourg de l'Hôpital 27, 2000 Neuchâtel, Switzerland
+Provider-Institution: RePEc:edi:grenech
+Maintainer-Name: Alain Paul Segessemann
+Maintainer-Email: alain.segessemann@unine.ch
+Type: ReDIF-Paper
+Handle: RePEc:nct:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: GRET Journal Papers
+Provider-Name: GRET Group of Research in Territorial Economy, University of Neuchâtel
+Provider-Homepage: http://www2.unine.ch/socio/
+Provider-Email: messagerie.socio@unine.ch
+Provider-Phone: +41 (0)32 718 1420
+Provider-Fax: +41 (0)32 718 1421
+Provider-Postal: Faubourg de l'Hôpital 27, 2000 Neuchâtel, Switzerland
+Provider-Institution: RePEc:edi:grenech
+Maintainer-Name: Alain Paul Segessemann
+Maintainer-Email: alain.segessemann@unine.ch
+Type: ReDIF-Paper
+Handle: RePEc:nct:journl
+
+Template-type: ReDIF-Series 1.0
+Name: GRET Article Papers
+Provider-Name: GRET Group of Research in Territorial Economy, University of Neuchâtel
+Provider-Homepage: http://www2.unine.ch/socio/
+Provider-Email: messagerie.socio@unine.ch
+Provider-Phone: +41 (0)32 718 1420
+Provider-Fax: +41 (0)32 718 1421
+Provider-Postal: Faubourg de l'Hôpital 27, 2000 Neuchâtel, Switzerland
+Provider-Institution: RePEc:edi:grenech
+Maintainer-Name: Alain Paul Segessemann
+Maintainer-Email: alain.segessemann@unine.ch
+Type: ReDIF-Paper
+Handle: RePEc:nct:articl
+

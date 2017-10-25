@@ -1,0 +1,73 @@
+Template-type: ReDIF-Series 1.0
+Name: Levine's Working Paper Archive
+Description: Levine's working papers, plus a random assortment of papers by other people he has collected in electronic form.
+Provider-Name: David K. Levine
+Provider-Homepage: http://www.dklevine.com/
+Maintainer-Name: David K. Levine
+Maintainer-Email: david@dklevine.com
+Handle: RePEc:cla:levarc
+
+Template-type: ReDIF-Series 1.0
+Name: Levine's Bibliography
+Description: Papers with off-site links in Levine's Bibliography
+Provider-Name: UCLA Department of Economics
+Provider-Homepage: http://www.dklevine.com/
+Maintainer-Name: David K. Levine
+Maintainer-Email: david@dklevine.com
+Handle: RePEc:cla:levrem
+
+Template-type: ReDIF-Series 1.0
+Name: UCLA Economics Working Papers
+Description: Departmental working papers
+Provider-Name: UCLA Department of Economics
+Provider-Homepage: http://www.econ.ucla.edu/
+Maintainer-Name: David K. Levine
+Maintainer-Email: webmaster@econ.ucla.edu
+Handle: RePEc:cla:uclawp
+
+Template-type: ReDIF-Series 1.0
+Name: NajEcon Working Paper Reviews
+Description: Reviews of papers on the web
+Provider-Name: www.najecon.org
+Provider-Homepage: http://www.najecon.org/
+Maintainer-Name: David K. Levine
+Maintainer-Email: david@dklevine.com
+Handle: RePEc:cla:najeco
+
+Template-type: ReDIF-Series 1.0
+Name: Theory workshop papers
+Description: Papers presented at the UCLA theory workshop
+Provider-Name: UCLA Department of Economics
+Provider-Homepage: http://www.dklevine.com/
+Maintainer-Name: David K. Levine
+Maintainer-Email: david@dklevine.com
+Handle: RePEc:cla:uclatw
+
+Template-type: ReDIF-Series 1.0
+Name: Princeton Economic Theory Working Papers
+Description: retrieved from html via script
+Provider-Name: David K. Levine
+Provider-Homepage: http://www.dklevine.com/
+Maintainer-Name: Princeton Economics Department
+Maintainer-Email: david@dklevine.com
+Handle: RePEc:cla:princt
+
+Template-type: ReDIF-Series 1.0
+Name: Penn CARESS Working Papers
+Description: retrieved from html via script
+Provider-Name: Penn Economics Department
+Provider-Homepage: http://www.dklevine.com/
+Maintainer-Name: David K. Levine
+Maintainer-Email: david@dklevine.com
+Handle: RePEc:cla:penntw
+
+Template-type: ReDIF-Series 1.0
+Name: UCLA Economics Online Papers
+Description: Departmental papers available online
+Provider-Name: UCLA Department of Economics
+Provider-Homepage: http://www.econ.ucla.edu/
+Maintainer-Name: David K. Levine
+Maintainer-Email: webmaster@econ.ucla.edu
+Handle: RePEc:cla:uclaol
+
+

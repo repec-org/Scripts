@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: PPIC Working Papers
+Type: ReDIF-Paper
+Provider-Name: Public Policy Institute of California
+Provider-Homepage: http://www.ppic.org/main/home.asp
+Provider-Institution: RePEc:edi:ppiccus
+Maintainer-Email: stuck@ppic.org
+Handle: RePEc:ppi:ppicwp
+
+
+Template-type: ReDIF-Series 1.0
+Name: PPIC Research Reports
+Type: ReDIF-Book
+Provider-Name: Public Policy Institute of California
+Provider-Homepage: http://www.ppic.org/main/home.asp
+Provider-Institution: RePEc:edi:ppiccus
+Maintainer-Email: stuck@ppic.org
+Handle: RePEc:ppi:ppirpt
+

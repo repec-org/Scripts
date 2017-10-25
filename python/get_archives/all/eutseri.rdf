@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: 
+Provider-Name: University of Tehran, Economics Faculty
+Provider-Homepage: http://economics.ut.ac.ir/en/default.htm
+Provider-Institution: RePEc:edi:fecutir
+Maintainer-Name: [z.rahimalipour]
+Maintainer-Email: rahimalipor@ut.ac.ir
+Type: ReDIF-Paper
+Handle: RePEc:eut:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Iranian Economic Review
+Description: This is the official journal of the Economics faculty of Tehran university
+Provider-Name:Economics faculty of Tehran university 
+Provider-Institution: RePEc:edi:fecutir
+Maintainer-Name: [z.rahimalipour]
+Maintainer-Email: rahimalipor@ut.ac.ir
+Editor-Name: Dr.Hossien Abbasinejad 
+Editor-Email: habasi@ut.ac.ir 
+Type: ReDIF-Article
+Handle: RePEc:eut:journl

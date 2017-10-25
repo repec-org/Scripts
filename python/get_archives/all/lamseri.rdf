@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: LAMETA, Universtiy of Montpellier
+Provider-Homepage: http://www.lameta.univ-montp1.fr/
+Provider-Institution: RePEc:edi:lamplfr
+Maintainer-Name: Patricia Modat
+Maintainer-Email: web@lameta.univ-montp1.fr
+Type: ReDIF-Paper
+Handle: RePEc:lam:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Studies and Syntheses
+Provider-Name: LAMETA, Universtiy of Montpellier
+Provider-Homepage: http://www.lameta.univ-montp1.fr/
+Provider-Institution: RePEc:edi:lamplfr
+Maintainer-Name: Patricia Modat
+Maintainer-Email: web@lameta.univ-montp1.fr
+Type: ReDIF-Paper
+Handle: RePEc:lam:estudy

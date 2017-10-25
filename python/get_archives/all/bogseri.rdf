@@ -1,0 +1,47 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Bank of Greece
+Provider-Homepage: http://www.bankofgreece.gr
+Provider-Institution: RePEc:edi:boggvgr
+Maintainer-Name: Christina Tsochatzi
+Maintainer-Email: ctsochatzi@bankofgreece.gr
+Type: ReDIF-Paper
+Handle: RePEc:bog:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Bulletin
+Description:This is the official academic journal of the Bank of Greece
+Provider-Name: Bank of Greece
+Provider-Homepage: http://www.bankofgreece.gr
+Provider-Institution: RePEc:edi:boggvgr
+Maintainer-Name: Christina Tsochatzi
+Maintainer-Email: ctsochatzi@bankofgreece.gr
+Editor-name: Heather Gibson
+Editor-Email: hgibson@bankofgreece.gr
+Type: ReDIF-Article
+Handle: RePEc:bog:econbl
+
+Template-type: ReDIF-Series 1.0
+Name: Special Conference Papers
+Provider-Name: Bank of Greece
+Provider-Homepage: http://www.bankofgreece.gr
+Provider-Institution: RePEc:edi:boggvgr
+Maintainer-Name: Christina Tsochatzi
+Maintainer-Email: ctsochatzi@bankofgreece.gr
+Editor-name: Heather Gibson
+Editor-Email: hgibson@bankofgreece.gr
+Type: ReDIF-Paper
+Handle: RePEc:bog:spaper
+
+Template-type: ReDIF-series 1.0
+Name: Publications
+Description:These are publications of the Bank of Greece
+Provider-Name: Bank of Greece
+Provider-Homepage: http://www.bankofgreece.gr
+Provider-Institution: RePEc:edi:boggvgr
+Maintainer-Name: Christina Tsochatzi
+Maintainer-Email: ctsochatzi@bankofgreece.gr
+Editor-name: Heather Gibson
+Editor-Email: hgibson@bankofgreece.gr
+Type: ReDIF-book
+Handle: RePEc:bog:ebooks

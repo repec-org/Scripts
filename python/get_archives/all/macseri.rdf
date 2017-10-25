@@ -1,0 +1,25 @@
+Template-type: ReDIF-Series 1.0 
+Name: Research Papers
+Description: The series entitled Macquarie Economics Research Papers was introduced in 1995 and supersedes papers in the earlier series entitled Macquarie University, School of Economic and Financial Studies, Research Paper Series.
+Provider-Name: Macquarie University, Department of Economics
+Provider-Homepage: http://www.econ.mq.edu.au/
+Provider-Institution: RePEc:edi:edmqqau 
+Maintainer-Name: Helen Boneham
+Maintainer-Email: hboneham@efs.mq.edu.au
+Editor-Name: Laura Billington
+Editor-Email: lbilling@efs.mq.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:mac:wpaper
+
+Template-type: ReDIF-Series 1.0 
+Name: CJES Research Papers
+Description: The Centre for Japanese Economic Studies, established in 1991 by the late Professor Victor Argy with the assistance of a generous donation from Nomura Securities, Tokyo, is an independent research unit located within the Division of Economic and Financial Studies at Macquarie University. The Centre encourages research and study of the Japanese economy. Regular seminars yield CJES Research Papers.
+Provider-Name: Macquarie University, The Centre for Japanese Economic Studies
+Provider-Homepage: http://www.econ.mq.edu.au/cjes/index.html
+Provider-Institution: RePEc:edi:cjemqau 
+Maintainer-Name: Helen Boneham
+Maintainer-Email: hboneham@efs.mq.edu.au
+Editor-Name: Craig Freedman
+Editor-Email: Craig.Freedman@efs.mq.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:mac:cjes

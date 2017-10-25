@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Online economics textbooks
+Description: A collection of links to online economics textbooks.
+Provider-Name: SUNY-Oswego, Department of Economics
+Provider-Institution: RePEc:edi:edoswus
+Maintainer-Name: John Kane
+Maintainer-Email: kane@oswego.edu
+Type: ReDIF-Book
+Handle: RePEc:oet:tbooks
+

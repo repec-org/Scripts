@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: FFB-Discussionpaper
+Provider-Name: Research Institute on Professions (Forschungsinstitut Freie Berufe (FFB)), LEUPHANA University Lüneburg
+Provider-Homepage: http://www2.leuphana.de/ffb/RePEc/leu/
+Provider-Institution: RePEc:edi:fbluede
+Maintainer-Name: Joachim Merz
+Maintainer-Email: ffb@uni-lueneburg.de
+Type: ReDIF-Paper
+Handle: RePEc:leu:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: electronic International Journal of Time Use Research
+Description: eIJTUR is the first journal dedicated to the measurement and analysis of time-use. It will present material of both a methodological and substantive nature.
+Provider-Name: Research Institute on Professions (Forschungsinstitut Freie Berufe (FFB)) and The International Association for Time Use Research (IATUR) 
+Provider-Homepage: http://www2.leuphana.de/ffb/RePEc/leu/
+Provider-Institution: RePEc:edi:fbluede
+Maintainer-Name: Joachim Merz
+Maintainer-Email:  info@eIJTUR.org
+Editor-Name: Joachim Merz
+Editor-Email: ffb@uni-lueneburg.de 
+Editor-Name: Jonathan Gershuny
+Editor-Email: jonathan.gershuny@sociology.ox.ac.uk
+Editor-Name: Andrew S. Harvey
+Editor-Email: andrew.harvey@stmarys.ca
+Type: ReDIF-Article
+Handle: RePEc:leu:journl

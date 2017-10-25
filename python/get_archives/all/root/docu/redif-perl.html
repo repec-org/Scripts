@@ -1,0 +1,609 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<html><head><title>Reading ReDIF files: the <em>ReDIF-Perl</em> package</title>
+
+<link rev="made" href="mailto:repec@netec.mcc.ac.uk">
+</head>
+<body>
+
+<hr>
+
+<h1>Reading ReDIF files: the <em>ReDIF-Perl</em> package</h1>
+<h2><h3>Ivan Kurmanov with Thomas Krichel</h3></h2>
+<h2><h4>July 2000</h4></h2>
+
+
+<p><a name="l1"></a>
+<h2>1: Introduction</h2>
+<p>This document describes <em>ReDIF-perl</em>, a set of Perl modules to read
+<a href="http://openlib.org/acmes/root/docu/redif_1.html">ReDIF</a>) data.
+It is is available in PDF
+format for <a href="http://openlib.org/acmes/root/docu/.papers/redif-perl.letter.pdf">US letter size
+paper</a>
+and for <a href="http://openlib.org/acmes/root/docu/.papers/redif-perl.a4.pdf">A4 size
+paper</a>
+.
+<p>The main component of <em>ReDIF-perl</em> is <em>rr.pm</em> is a Perl module to read
+<a href="http://openlib.org/acmes/docu/redif_1.html">ReDIF</a> data.  It reads
+ReDIF data, validates the structure of the contents against a ReDIF
+specification contained in a separate specification file, and puts the
+valid templates into a hash structure where they can be easily accessed for
+further processing.
+<p><a name="l2"></a>
+<h2>2: Installing ReDIF-perl</h2>
+<p><a name="l3"></a>
+<h3>2.1: Downloading the package</h3>
+<p><em>ReDIF-perl</em> is available at
+<a href="ftp://openlib.org/acmes/root/soft/ReDIF-perl/">ftp://openlib.org/acmes/root/soft/ReDIF-perl/</a>. Unpack the software, then
+read the file <code>README</code> for the latest changes that may not be documented
+in this page yet.
+<p>The package contains
+<dl>
+   <li > the <em>rr.pm</em> perl module as an application interface to the ReDIF 
+     parser
+   <li > the <em>ReDIF::init.pm</em> perl module as a shared tool 
+     for ReDIF developers
+   <li > <code>rech</code>, the  ReDIF checking script 
+   <li > <code>rere</code>, the  ReDIF reading (filtering) script 
+   <li > <code>Makefile.PL</code>, the installation tool (makefile generator)
+   <li > <code>Configure</code>, the configuration utility 
+   <li > related documentation about <em>rr.pm</em>, <code>rech</code> and <code>redif.spec</code>  
+</dl>
+<p><a name="l4"></a>
+<h3>2.2: Choosing a ReDIF home</h3>
+<p>If you have a normal directory structure as set out by the Guildford
+protocol, then should set the ReDIF home to be your archive directory. If
+you do not have such a directory structure, proceed as follows.
+<p>Choose and create a directory that will be the ReDIF home and copy the
+<code>spec/</code>, <code>etc/</code> and <code>doc/</code> directories of the package.  If you didn't
+install the package with "make install" command into a generally accessibly
+Perl library tree, then you also need to copy the lib/ dir and rech and
+rere scripts. Create a <code>data/</code> directory as a subdirectory of the ReDIF
+home and store your ReDIF data files in it. This method is known as a
+"stand-alone" installation of ReDIF-perl.  Don't forget to look at the
+REDIFHOME/etc/rech.conf.eg file.
+<p>Generally, you will want to use this package if you have or are going to
+have your own archive that contains ReDIF metadata as suggested by the
+Guildford protocol.  Alternatively, you may find it useful if you produce
+or process, or otherwise work with the ReDIF data or if you developing some
+software that uses ReDIF data.
+<p>Note that the package also contains a ReDIF specification file in the
+<code>spec/</code> directory. However, please check with the community that uses
+ReDIF if that specification is current.  You will find in the <code>doc/</code>
+directory of the package.  In the <code>etc/</code> you will find default
+configuration file for rech.  The Perl modules themselves live in the
+<code>lib/</code> directory.
+<p><a name="l5"></a>
+<h3>2.3: Installing the package files</h3>
+<p>To install this package onto your machine use the following standard
+commands (I assume you have already unpacked the package onto your
+harddisk):<pre>
+        perl Makefile.PL
+        make
+        make test
+        make install
+</pre>
+
+<p>The <code>perl Makefile.PL</code> command will also execute the Configure utility
+which will help you to set the only one, but valuable parameter: your ReDIF
+home directory.  The is your archive's directory if you have one. It may be
+any other directory, where you will create a so-called stand-alone ReDIF
+home (see next section).  Configure will ask you about the directory name
+and will suggest to you to create one if it does not already exist. However
+it will not create more than one level of new directories.
+<p>The last step, <code>make install</code> installs <em>rr.pm</em> and other related
+libraries into a directory where perl will find them.  For this step you
+will most likely wish to use superuser rights, if you have them.  If you
+need to make a private installation of ReDIF-Perl use the
+<code>PREFIX=</code><em>DIR</em> option of <code>perl Makefile.PL</code> command or execute
+<em>Makefile.PL</em> with your private copy of perl.  After this procedure the
+<em>rech</em> and <em>rere</em> scripts shall be installed to a directory which is
+already included into your <code>$PATH</code> (e.g. <code>/usr/bin</code>). They can then be
+executed by from everywhere on your system.
+<p>You do not need to determine the ReDIF home directory at the installation
+stage.  In that case you use the environment variable, REDIFDIR or you run
+the software from that directory, or you give a command-line parameter
+<code>--rdir</code> (or <code>--redif.dir</code>).  The choice is yours.
+<p><a name="l6"></a>
+<h2>3: The functions provided by <em>rr.pm</em></h2>
+<p>To call a function from <em>rr.pm</em>, you need to make Perl find it by a
+<code>use</code> or <code>require</code> Perl statement.
+<p><code>use rr</code>
+<p>The <em>rr.pm</em> module provides a ReDIF reading interface through the
+functions <code>&amp;rr::OpenRDF</code>, <code>&amp;rr::OpenDir</code>, <code>&amp;rr::OpenDirTree</code> and
+<code>&amp;rr:NextTemplate</code>.  The first three of these are for opening the data
+source of different types. They initiate a data stream through reading.
+The <code>&amp;rr::NextTemplate</code> function iterates through the stream of data,
+opened by an <code>&amp;rr::Open...</code> function, allowing you to access the actual
+data, template by template.
+<p><a name="l7"></a>
+<h3>3.1: <code>&amp;rr::OpenRDF</code></h3>
+<p>Use: <br>
+<code>&amp;rr::OpenRDF </code><tt><i>filename</tt></i><br>
+<code>&amp;rr::OpenRDF </code><tt><i>filename</tt></i>[<code>, </code><tt><i>filepos</tt></i>]<br>)
+<code>&amp;rr::OpenRDF </code><tt><i>filename</tt></i>[<code>, </code><tt><i>filepos</tt></i><code>, </code>][<tt><i>showfilename</tt></i>]<br>
+<p>This is the basic function, which initiates reading of a ReDIF file
+<tt><i>filename</tt></i>.  It returns 1 if successful, 0 if not.
+<p>The optional <tt><i>filepos</tt></i> parameter (integer number) shall be used to read
+the file from a specific position within the file.  This may be useful if
+you need to get a specific template and as quickly as possible.  By default
+the file is being read from the beginning, of course.
+<p>The optional <tt><i>showfilename</tt></i> shows how the file should be referred to,
+i.e. the logical file name. This will be the name in the
+<code>$::HashT{'FILENAME'}</code>.  Imagine that you read a file called
+<code>/home/tim/RePEc/bob/bobseri.rdf</code>.  You may want it to be referred to
+as just <code>bob/bobseri.rdf</code>, because <code>/home/tim/RePEc/</code> is not
+important and will be the same for all ReDIF files being read. In that
+case, use
+<p><code>&amp;rr::tt(rr::OpenRDF)( '/home/tim/RePEc/bob/bobseri.rdf', 0, 'bob/bobseri.rdf');</code>
+<p>This feature may appear superfluous, but is quite useful in a range of
+applications.  By default, the logical name is the same as physical
+<tt><i>filename</tt></i>.
+<p><a name="l8"></a>
+<h3>3.2: <code>&amp;rr::OpenDir</code></h3>
+<p>Use:<br>
+<code>&amp;rr::OpenDir</code> <tt><i>directory</tt></i><br>
+<code>&amp;rr::OpenDir</code> <tt><i>directory</tt></i>[<code>, </code><tt><i>showprefixlength</tt></i>]<br>)
+<code>&amp;rr::OpenDir</code> <tt><i>directory</tt></i>[<code>, </code><tt><i>showprefixlength</tt></i>][<code>, </code><tt><i>filtersub</tt></i>]<br>
+<p>Whereas <code>&amp;rr::OpenRDF</code> function starts one-file data stream, this function
+opens a whole directory of ReDIF files for consequent reading template by
+template.  Thus it is a higher level function. The exact filename the
+template has been read from is stored in the <code>$::HashT{'FILENAME'}</code>
+variable at each specific template.  Following the conventions of the
+Guildford protocol, only files with the extension <code>.rdf</code> (case
+insensitive) are taken.  The function returns the number of ReDIF files
+found if successful, 0 if not.  You give the pathname of the directory to
+be read in <tt><i>directory</tt></i>.
+<p>The optional <tt><i>showprefixlength</tt></i> parameter is for the same reasons as
+<tt><i>showfilename</tt></i> parameter at <code>rr::OpenRDF</code>. But this value just sets how
+many of the starting characters of the <tt><i>directory</tt></i> to strip as
+meaningless to get a nice logical name.  So if you, say, read the directory
+<code>/home/bob/RePEc/bob/dylan0</code>, and you want logical names of the files to
+be <code>bob/dylan0/...</code> then give length of <code>/home/bob/RePEc/</code> as a
+<tt><i>showprefixlength</tt></i>, e.g. 
+<pre>
+rr::tt(rr::OpenDir)('/home/tim/RePEc/bob/dylan0',length('/home/tim/RePEc/'));
+</pre>
+
+By default, the logical name is the same as the physical full filename.
+<p>If the optional <tt><i>filtersub</tt></i> parameter is specified, it applies a
+user-defined filter function to choose templates that satisfy a
+user-defined set of criteria. This feature is described Section
+<a href="redif-perl.html#sec:filter">5</a>.
+<p><a name="l9"></a>
+<h3>3.3: <code>&amp;rr::OpenDirTree</code></h3>
+<p>Use:<br>
+<code>&amp;rr::OpenDirTree </code><tt><i>directory</tt></i><br>
+<code>&amp;rr::OpenDirTree </code><tt><i>directory</tt></i><code>, </code>[<tt><i>showprefixlength</tt></i>]<br>)
+<code>&amp;rr::OpenDirTree </code><tt><i>directory</tt></i><code>, </code>[<tt><i>showprefixlength</tt></i>]<code>, </code>[<tt><i>filtersub</tt></i>]<br>
+<p>This function is very much like the previous one, but it does a
+sub-directory tree search for all ReDIF files. And similarly it returns
+number of ReDIF files found if successful, 0 if not.  The <tt><i>showprefix</tt></i>
+and <tt><i>filtersub</tt></i> parameters have the same meaning as for the
+<code>rr::OpenDir</code> function.
+<p><a name="l10"></a>
+<h3>3.4: <code>&amp;rr::NextTemplate</code></h3>
+<p>This function iterates the current data stream (previously opened) to the
+next template. It returns 1 if successful, 0 if not. In case of a one-file
+stream <code>&amp;rr::OpenRDF</code>, if 0 is returned from the <code>&amp;rr::NextTemplate</code> it
+means that you have reached the end of the file.  In case of multi-file
+streams <code>&amp;rr::OpenDir</code> and <code>&amp;rr::OpenDirTree</code> it means that you have
+reached the last correct template of the last ReDIF file that was found.
+<p><a name="l11"></a>
+<h2>4: How to access the data</h2>
+<p>There are two ways of accessing the data in your scripts.  You may choose
+to use one of them or both (or none) by setting appropriate options in the
+hash <code>%rr::Options</code>. The selected modes will influence the way reading
+goes internally and each way of accessing the data takes some run-time
+resources to prepare.
+<p>The two major forms of the data presentation are
+<dl> 
+<li >full-text in one multi-line string variable. This is the
+output of the <code>rere</code> script.
+<li >structured (to reflect template logic) hash variable 
+</dl> 
+Both forms allow processing of one template by at a time only.
+We discuss the structured hash form first.
+<p><a name="l12"></a>
+<h3>4.1: The structure of <code>%::HashT</code></h3>
+<p>When the structured presentation is enabled, then after a successful
+<code>rr::NextTemplate</code> function, a variable <code>%::HashT</code> will be filled up
+with a ReDIF template data according to the following rules.
+<p><a name="l13"></a>
+<strong>4.1.1: Rule (a): non-cluster attributes</strong><p>
+<p>Simple (non-cluster) attributes of the read template become keys of the
+<code>%::HashT</code> and these keys have the values associated with them. The names
+of keys are converted to lowercase.  For example, <em>Handle</em> is a simple,
+non-cluster attribute. After reading a template, <code>$::HashT{'handle'}</code>
+(mind lower case!)  will give you the value of the handle.  For other
+simple attributes like "Title", "Abstract", "Creation-Date" (for
+Paper or Article templates), "Name" (Archive, Series), "Template-Type"
+and many others, it is exactly the same. Example: 
+<p><pre>
+print "Paper: $::HashT{'title'} ($::HashT{'handle'})\n";
+</pre>
+
+<p>If <code>$T</code> is a reference to the hash, then you may use it to access the data
+from <code>%::HashT</code> by writing a bit less code. For example, in the following
+piece of code you can observe example of using a reference to <code>%::HashT</code>
+instead of using <code>%::HashT</code> itself. After reading a template the script
+processes it depending on its type:
+<p><pre>
+ # Assigning to the $T variable a value of the reference to %::HashT
+  $T = \%::HashT;
+  #
+  # some rr::Open... function call is supposed here
+  #
+  return if !&amp;rr::NextTemplate;  # loading a new template
+  #
+  # checking the template type:
+  #
+  if ($T-&gt;{'template-type'} eq 'redif-paper 1.0') {
+      
+      print "Keywords: $T-&gt;{'keywords'}\n";
+  } elsif ($T-&gt;{'template-type'} eq 'redif-archive 1.0') {
+      
+      print "Archive description: $T-&gt;{'description'}\n";
+  }
+</pre>
+
+<p><a name="l14"></a>
+<strong>4.1.2: Rule (b): clusters</strong><p>
+<p>Clusters of templates are repeatable. They may be repeated several times in
+one template and the same attributes in different repeated clusters should
+not be mixed up, as they are supposed to only have sense within a
+cluster. Each cluster of a template read by <em>rr.pm</em> will be represented
+as an array element. For example, a document's author names are set
+referred to by "Author-Name" attribute and more generally described by
+"Author-(*PERSON)" cluster. In the hash <code>%::HashT</code> they will be
+represented as elements of the <code>@$::HashT{'author'}</code> array.
+<p>This means that the "author" key of <code>%::HashT</code> will point to (reference to)
+an array, which has as many entries as there are authors.  Each value will
+point to an independent hash, containing the author's "(*PERSON)" cluster
+data.
+<p>For example,<pre>
+  # assume a paper template has been successfully loaded
+  print "The paper has " , $#$::HashT{'author'}+1, " author(s):\n";
+  #
+  # now iterate through each author
+  foreach $au ( @$::HashT{'author'} ) {
+        # now $au contains a reference to an author's data
+        print "The author is $au -&gt; {'name'}\n" ; 
+  }
+</pre>
+
+or<pre>
+  # initializations
+  $T = \%::HashT;
+  $authors = $T-&gt;{'author'};
+  #
+  # an effort to be correct in English: checking the number of authors
+  #
+  if ($#$authors &gt; 0) { $suffix = 's'; }
+  else { $suffix = ''; }
+  #
+  print "Author$suffix:\n";
+
+</pre>
+
+<p><a name="l15"></a>
+<strong>4.1.3: Rule (c): attributes in clusters</strong><p>
+<p>Each cluster data will in turn be coded as a hash with cluster attributes as
+keys, similar to the rule (a). Clusters attributes will have the cluster prefix
+(e.g. <code>author-</code>) stripped off. For instance,
+<code>$::HashT{'author'}-&gt;[0]-&gt;{'name'}</code> will give you the first
+author's name, i.e. the value contained in the "Author-Name" tag). Note that
+the <code>-&gt;</code> are here optional.  If there are more than just one author, then
+<code>$::HashT{'author'}[1]{'postal'}</code> will give second author's address,
+i.e. the "author-postal" attribute in the second author cluster.  This rule
+is valid for all clusters at all levels. If we have one cluster nested within
+another (like "workplace-(*ORGANIZATION)" cluster in a "(*PERSON)"
+ cluster), then
+the latter cluster's hash will give us access to the second-level cluster
+hash. A long expression like
+<code>$::HashT{'editor'}[1]{'workplace'}[0]{'postal'}</code> would 
+specify the postal address of the first workplace of the second editor of a
+series.
+<p><a name="l16"></a>
+<strong>4.1.4: Other hash <code>%::HashT</code> elements</strong><p>
+<p>The hash will also contain some additional information that is local to
+your site.  Uppercase letters are used for this purpose. At the moment the
+following information will be provided:
+<p><code>%::HashT{'FILENAME'}</code> is the name of a file where the
+template has been read from
+<p><code>%::HashT{'STARTFPOS'}</code> is an integer number, signifying starting
+position of a template in the file
+<p><code>$::HashT{'BUFFER'}</code> will be assigned a value if only the <code>Buffer</code>
+option is turned on. It will contain a multi-line string with the full-text
+of the preprocessed ReDIF template. This is actually the way how the second
+form of the data can be accessed.
+<p>At the sub-hash (clusters) level there is one more technical uppercase
+variable: <code>PREFIX</code>, e.g. <code>$T-&gt;{'file'}[0]{'PREFIX'}</code> or
+<code>$T-&gt;{'author'}[0]{'PREFIX'}</code>.  This key stores the cluster
+attributes' prefix: <code>'file-'</code> and <code>'author-'</code> respectively for the
+examples.  The prefix and cluster's hash keys may be used to get the
+original attributes of the template by uniting them in one string.
+<p>Other uppercase keys of <code>%::HashT</code> may be used for internal or other
+reasons in the future as software development goes on. User scripts
+can use the keys of <code>%::HashT</code> as listed above, but should ignore
+any other of them.
+<p><a name="l17"></a>
+<h3>4.2: Buffer output</h3>
+<p>With this method you get the whole template in one string variable. Each
+line contains one attribute, each attribute is separated from each value by
+a ': ' combination, each line is separated from each other by a newline
+character. Extra whitespace, tabulation or new-line characters are
+removed. All multi-line values are converted to single-line. All
+attribute:value pairs come checked and pre-processed.
+<p>By default this data supply method is disabled. To enable this method you
+need to turn on the <em>'Buffer'</em> option of the <code>%rr::Options</code> (before
+opening a file), for example
+<pre>
+  $rr::Options {'Buffer'} = 1;
+  &amp;rr::OpenRDF ( $file ) || die;
+</pre>
+
+You can switch this option between reading different files if you
+need, but I can't guarantee you positive results if you switch it
+while reading one file.
+<p>After a successful <code>&amp;rr::NextTemplate</code>, you get a template in a string
+as described above in a <code>$::HashT{'BUFFER'}</code>.
+<p>For example<pre>
+print "\$::HashT\{'BUFFER'} = '$::HashT{'BUFFER'}' ;\n"; 
+</pre>
+
+<p>will produce the following output (for instance)
+<pre>
+$::HashT{'BUFFER'} = 'template-type: ReDIF-Series 1.0
+name: CEP Discussion Papers
+description: Discussion papers on Macroeconomics and Labour Economics
+keywords: Macroeconomics, Labour
+editor-name: Richard Layard
+publisher-name: Centre for Economic Performance and ESRC
+publisher-homepage: http://cep.lse.ac.uk/
+maintainer-name: Anita Bardhan-Roy
+maintainer-email: a.bardhan-roy@lse.ac.uk
+handle: RePEc:cep:cepdps' ;
+
+</pre>
+
+<p><a name="l18"></a>
+<h3>4.3: <em>rr.pm</em> Options</h3>
+<p>The  user of <em>rr.pm</em> module can influence some aspects of the way it
+works. We have already mentioned several of the options. Here comes
+a full description.
+<p>Option: <code>'HashT'</code><br>
+Default: enabled (1)<br>
+Meaning: This options sets whether to build the <code>%::HashT</code> variable from
+the template attributes and values. If this is enabled, the full
+template data: attribute:value pairs will be put into the <code>%::HashT</code>. If
+disabled, only the <code>FILENAME</code>, <code>STARTFPOS</code> and <code>BUFFER</code> keys will have a
+value in <code>%::HashT</code>.
+<p>option: <code>'Buffer'</code><br>
+Default: disabled (0)<br>
+Meaning: This option sets whether you want to get a full-text of a template
+in <code>%::HashT{'BUFFER'}</code>. By default, it is disabled.
+<p>You may enable both of this options, but we recommend you to choose
+only what is necessary, to avoid performance losses.
+<p>Option: <code>'BufferEmpty'</code><br>
+Default: disabled (0)<br>
+Meaning: If 'Buffer' is enabled this option sets how to treat empty
+attributes (with null value). If enabled, empty-value attributes will be
+included into the <code>%::HashT{'BUFFER'}</code> and as a <code>%::HashT{...}</code>  lower
+case attribute, otherwise it would be ignored as meaningless.
+<p>Option: <code>'ReadX-Attr'</code><br>
+Default: disabled (0)<br>
+Meaning: This option determines whether to process and show to the
+so-called X-attributes. X-attributes are the attributes that start with the
+'X-' sequence.  If disabled, X-attributes will be ignored. If enabled they
+will be included into <code>%::HashT{'BUFFER'}</code> and as a <code>%::HashT{...}</code>
+lower case attribute.
+<p>Other options exist that are used with scripts <em>rech</em> and <em>rere</em> scripts.
+They should not be interesting to the <em>rr.pm</em> users.
+<p><a name="l19"></a>
+<h2>5: Search filters</h2><a name="sec:filter"></a>
+<p>When you use the <code>rr::OpenDir</code> and <code>rr::OpenDirTree</code> 
+functions for accessing a bunch of
+ReDIF files, you may set a filter for the templates. Such a filter may
+guarantee that while going through an opened data stream with
+<code>rr::NextTemplate</code>, you will only get the templates which meet a certain
+criteria. For example, you may want to choose templates by type: archive,
+series, paper, article, software and so on.
+<p>To execute such a search with filter, you can prepare a function, that
+checks the criteria you need and returns the result. If the template is
+fine, it returns true (e.g. 1), if not it return zero or the undefined
+value.
+<p>When you call the <code>rr::NextTemplate</code> subroutine, it will find a next piece of
+data for you and then run the filter you have set. If the filter returns
+true, then <code>rr::NextTemplate</code> will allow your programme to process it. If
+filter returns a false value, <code>rr::NextTemplate</code> will look for a next one
+template to offer. Clearly, setting the filter may cause the module to read
+many templates in vain, thus wasting precious run-time resources. But some
+people may find it efficient from programming efficiency point of view:
+convenient, easy, etc.
+<p>Here is a small example of using the filter. It should make things clearer.
+<pre>
+ # $RepecRemo = mirrored RePEc archives data directory
+ #
+ # this is a filter function that checks a criteria
+ sub articlefilter {
+     return 1 if $T-&gt;{'template-type'} eq 'redif-article 1.0';
+     return 0;
+ }
+ sub checkOpenDirTree {
+     my $f, $c, $l = length ("$RepecRemo") + 1;
+     $T = \%::HashT;
+
+     # executing a search with a filter here:
+     $f = &amp;rr::OpenDirTree ( "$RepecRemo/cre/", $l, \&amp;articlefilter )  ;
+
+     print "\nOpenDirTree $RepecRemo/cre/ : found ", $f ,
+          " .RDF file entries\n" ;
+
+     # processing ... (only article templates will get here)
+     while ($c = &amp;rr::NextTemplate ) {
+        print $T-&gt;{'FILENAME'} , ' : ' , $T-&gt;{'handle'}, "\n";
+        $count ++;
+     }
+ }
+
+</pre>
+
+<p>This <code>checkOpenDirtree</code> subroutine will seek for ReDIF files in the
+<em>cre</em> archive directory and in its subdirectories and will report
+filenames and handles of each "article" template found.
+<p><a name="l20"></a>
+<h2>6: The <em>ReDIF::init.pm</em> module</h2>
+<p>If you are writing an application that just needs to work in ReDIF
+environment and wants to get the same installation and configuration info
+as included software does, you may use perl module <em>ReDIF::init.pm</em>.
+Function <code>initialize()</code> from that package will look for a configuration
+information saved in a Perl-reachable module, will analyze @ARGV array
+(command-line arguments), environment variables and the current working
+directory, if necessary. It can help your program to identify: the ReDIF
+home directory, it's type (Guildford protocol complient or stand-alone),
+will find the configuration file for your program in the apropriate
+directory (if it needs one).
+<p>It will report the main configuration values worked out to the user (unless
+you make it silent, which is easy) and will save them for you in the
+<code>%ReDIF::CONFIG</code> hash variable. It will not import any symbols to your
+package's namespace (unless you ask it to).
+<p>For a detailed discussion of this module please see it's manpage
+(<code>man ReDIF::init</code>) or pod data in <code>lib/ReDIF/init.pm</code>.
+<p><HR>
+<address>
+Ivan Kurmanov &lt<a href="mailto:ivan@tm.minsk.by">ivan@tm.minsk.by</a>&gt;
+</address>
+<p></body>
+</html>

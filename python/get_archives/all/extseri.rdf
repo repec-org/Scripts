@@ -1,0 +1,119 @@
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Economía
+Provider-Homepage: http://www.uexternado.edu.co/facecono
+Provider-Institution: RePEc:edi:feextco
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:public
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Administración de Empresas
+Provider-Homepage: http://administracion.uexternado.edu.co
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:admone
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Derecho
+Provider-Homepage: http://www.uexternado.edu.co/derecho
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:derech
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Finanzas, Gobierno y Relaciones Internacionales
+Provider-Homepage: http://www.uexternado.edu.co/finanzas_gob
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:figrig
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Comunicación Social-Periodismo
+Provider-Homepage: http://www.uexternado.edu.co/comunicacion
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:comuni
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Ciencias de la Educación
+Provider-Homepage: http://www.uexternado.edu.co/educacion
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:educac
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Ciencias Sociales y Humanas
+Provider-Homepage: http://www.uexternado.edu.co/socialesyhumanas
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:histor
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Departamento de Matemáticas
+Provider-Homepage: http://www.uexternado.edu.co/matematicas
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:matema
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Estudios del Patrimonio Cultural
+Provider-Homepage: http://www.uexternado.edu.co/estudiospatrimonio
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:restau
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Contaduría Pública
+Provider-Homepage: http://www.uexternado.edu.co/uniacademicas/contaduria
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:contad
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Universidad Externado de Colombia, Facultad de Administración de Empresas Turísticas y Hoteleras
+Provider-Homepage: http://www.uexternado.edu.co/admhotelera
+Provider-Institution: 
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Book
+Handle: RePEc:ext:hotele
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters
+Provider-Name: Universidad Externado de Colombia, Facultad de Economía
+Provider-Homepage: http://www.uexternado.edu.co/facecono
+Provider-Institution: RePEc:edi:feextco
+Maintainer-Name: Carolina Esguerra
+Maintainer-Email: carolina.esguerra@uexternado.edu.co
+Type: ReDIF-Chapter
+Handle: RePEc:ext:chapte

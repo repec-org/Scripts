@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Documents de Travail de l'OFCE
+Description: Working papers at OFCE
+Provider-Name: Observatoire Francais des Conjonctures Economiques (OFCE)
+Provider-Homepage: http://www.ofce.sciences-po.fr/
+Provider-Institution: RePEc:edi:ofcspfr
+Maintainer-Name: Francesco Saraceno
+Maintainer-Email: francesco.saraceno@sciences-po.fr
+Type: ReDIF-Paper
+Handle: RePEc:fce:doctra	
+

@@ -1,0 +1,9 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:aeq
+Name: Duncker & Humblot, Berlin
+Homepage: http://www.duncker-humblot.eu/
+Description: This archive holds information on journals published by Duncker & Humblot
+Maintainer-Email: webmaster@diw.de
+#URL: http://www.diw.de/deutsch/produkte/publikationen/RePEc/aeq
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/aeq/
+

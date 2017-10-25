@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Economie d'Avant Garde Research Reports
+Provider-Name: Economie d'Avant Garde
+Provider-Homepage: http://www.jeremygreenwood.net/EAG.htm
+Provider-Institution: 
+Maintainer-Name: Jeremy Greenwood
+Maintainer-Email: do-not-use@jeremygreenwood.net
+Type: ReDIF-Paper
+Handle: RePEc:eag:rereps
+
+
+Template-type: ReDIF-Series 1.0
+Name: Economie d'Avant Garde Dissertations
+Provider-Name: Economie d'Avant Garde
+Provider-Homepage: http://www.jeremygreenwood.net/EAG.htm
+Provider-Institution: 
+Maintainer-Name: Jeremy Greenwood
+Maintainer-Email: do-not-use@jeremygreenwood.net
+Type: ReDIF-Paper
+Handle: RePEc:eag:disser

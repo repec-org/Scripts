@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of the New Economic Association
+Description: The Journal of the New Economic Association
+ publishes both theoretical and empirical articles dealing with all aspects of economic science. It welcomes high-quality interdisciplinary projects and economic studies employing methodologies from other sciences such as physics, psychology, political science etc. Special attention is paid to analyses of processes occurring in the Russian economy.
+Type: ReDIF-Article
+Provider-Name: New Economic Association
+Provider-Homepage: http://www.econorus.org/english.phtml
+Provider-Institution: RePEc:edi:nearuea
+Maintainer-Name: Alexey Tcharykov
+Maintainer-Email: tcharge@gmail.com
+Editor-Name: Victor Polterovich
+Editor-Email: polterov@mail.ru
+Editor-Name: Aleksandr Rubinshtein
+Editor-Email: rubinstein@inecon.ru
+Handle: RePEc:nea:journl
+

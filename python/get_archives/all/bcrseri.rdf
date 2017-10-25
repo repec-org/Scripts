@@ -1,0 +1,44 @@
+Template-type: ReDIF-Series 1.0
+Name: BCRA Working Paper Series
+Description: Research Papers in progress
+Provider-Name: Central Bank of Argentina, Economic Research Department
+Provider-Name-English: Central Bank of Argentina, Economic Research Department
+Provider-Homepage: http://www.bcra.gov.ar
+Provider-Institution: RePEc:edi:bcraaar
+Maintainer-Name: Federico Grillo
+Maintainer-Email: fgrillo@bcra.gob.ar
+Type: ReDIF-Paper
+Handle: RePEc:bcr:wpaper
+ISSN: 1850-3977
+
+
+Template-type: ReDIF-Series 1.0
+Name: BCRA Paper Series
+Description: Research papers on topics of interest for central banking 
+Provider-Name: Central Bank of Argentina, Economic Research Department
+Provider-Name-English: Central Bank of Argentina, Economic Research Department
+Provider-Homepage: http://www.bcra.gov.ar
+Provider-Institution: RePEc:edi:bcraaar
+Maintainer-Name: Federico Grillo
+Maintainer-Email: fgrillo@bcra.gob.ar
+Editor-Name: Andrés Neumeyer
+Editor-Email: pablo.neumeyer@bcra.gob.ar
+Type: ReDIF-Book
+Handle: RePEc:bcr:estudi
+ISSN: 1850-0137
+
+
+Template-type: ReDIF-Series 1.0
+Name: Ensayos Económicos
+Description: This is the peer-reviewed journal of the Central Bank of Argentina
+Provider-Name: Central Bank of Argentina, Economic Research Department
+Provider-Name-English: Central Bank of Argentina, Economic Research Department
+Provider-Homepage: http://www.bcra.gov.ar
+Provider-Institution: RePEc:edi:bcraaar
+Maintainer-Name: Federico Grillo
+Maintainer-Email: fgrillo@bcra.gob.ar
+Editor-Name: Andrés Neumeyer
+Editor-Email: pablo.neumeyer@bcra.gob.ar
+Type: ReDIF-Article
+Handle: RePEc:bcr:ensayo
+ISSN: 0325-3937

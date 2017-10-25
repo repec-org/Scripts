@@ -1,0 +1,71 @@
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: University of Nottingham, School of Economics
+Provider-Postal: School of Economics University of Nottingham University Park Nottingham NG7 2RD 
+Provider-Phone: (44) 0115 951 5620
+Provider-Fax: (0115) 951 4159
+Provider-Homepage:http://www.nottingham.ac.uk/economics/
+Provider-Institution: RePEc:edi:denotuk
+Maintainer-Email: charlene.hill@nottingham.ac.uk
+Handle: RePEc:not:notecp
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: University of Nottingham, CREDIT
+Provider-Postal: School of Economics University of Nottingham University Park Nottingham NG7 2RD 
+Provider-Phone: (44) 0115 951 5620
+Provider-Fax: (0115) 951 4159
+Provider-Homepage:http://www.nottingham.ac.uk/economics/
+Provider-Institution: RePEc:edi:cenotuk
+Maintainer-Name: Hilary Hughes
+Maintainer-Email: hilary.hughes@nottingham.ac.uk
+Handle: RePEc:not:notcre
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: University of Nottingham, GEP
+Provider-Postal: School of Economics University of Nottingham University Park Nottingham NG7 2RD 
+Provider-Phone: (44) 0115 951 5620
+Provider-Fax: (0115) 951 4159
+Provider-Homepage:http://www.nottingham.ac.uk/gep/index.aspx
+Provider-Institution: RePEc:edi:cgnotuk
+Maintainer-Name: Hilary Hughes
+Maintainer-Email: hilary.hughes@nottingham.ac.uk
+Handle: RePEc:not:notgep
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: University of Nottingham, Granger Centre for Time Series Econometrics
+Provider-Postal: School of Economics University of Nottingham University Park Nottingham NG7 2RD 
+Provider-Phone: (44) 0115 951 5620
+Provider-Fax: (0115) 951 4159
+Provider-Homepage:http://www.nottingham.ac.uk/research/groups/grangercentre/index.aspx
+Provider-Institution: RePEc:edi:tsnotuk
+Maintainer-Email: dave.harvey@nottingham.ac.uk
+Handle: RePEc:not:notgts
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: University of Nottingham, Centre for Finance, Credit and Macroeconomics (CFCM)
+Provider-Postal: School of Economics University of Nottingham University Park Nottingham NG7 2RD 
+Provider-Phone: (44) 0115 951 5620
+Provider-Fax: (0115) 951 4159
+Provider-Homepage:http://www.nottingham.ac.uk/cfcm/index.aspx
+Provider-Institution: RePEc:edi:cfnotuk
+Maintainer-Name: Hilary Hughes
+Maintainer-Email: hilary.hughes@nottingham.ac.uk
+Handle: RePEc:not:notcfc
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers 
+Provider-Name:  The Centre for Decision Research and Experimental Economics, School of Economics, University of Nottingham
+Provider-Postal: School of Economics University of Nottingham University Park Nottingham NG7 2RD 
+Provider-Phone: (44) 0115 951 5620
+Provider-Fax: (0115) 951 4159
+Provider-Homepage: http://www.nottingham.ac.uk/economics/cedex/
+Provider-Institution: RePEc:edi:cdnotuk
+Maintainer-Name: Suzanne Robey
+Maintainer-Email: suzanne.robey@nottingham.ac.uk
+Handle: RePEc:not:notcdx

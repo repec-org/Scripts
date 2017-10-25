@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: CPI Journal
+Provider-Name: Competition Policy International
+Provider-Homepage: https://www.competitionpolicyinternational.com
+Maintainer-Name: Lindsay McSweeney
+Maintainer-Email: Lindsay.Mcsweeney@competitionpolicyinternational.com
+Type: ReDIF-Article
+Handle: RePEc:CPI:cpijrn
+Restriction: Registration and subscription required for most content.
+
+Template-type: ReDIF-Series 1.0
+Name: Antitrust Chronicle
+Provider-Name: Competition Policy International
+Provider-Homepage: https://www.competitionpolicyinternational.com
+Maintainer-Name: Lindsay McSweeney
+Maintainer-Email: Lindsay.Mcsweeney@competitionpolicyinternational.com
+Type: ReDIF-Article
+Handle: RePEc:CPI:atchrn
+Restriction: Registration and subscription required for most content.
+

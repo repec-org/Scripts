@@ -1,0 +1,23 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Working papers are occasional publications of the Croatian National Bank in which short scientific papers of the Bank's employees and associate contributors are published.
+Provider-Name: The Croatian National Bank, Croatia
+Provider-Homepage: http://www.hnb.hr
+Maintainer-Name: Romana Sinković
+Maintainer-Email: publikacije@hnb.hr
+Type: ReDIF-Paper
+Handle: RePEc:hnb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Surveys
+Description: Surveys are occasional publications of the Croatian National Bank in which scholarly papers of the Bank's employees and associate contributors are published.
+Provider-Name: The Croatian National Bank, Croatia
+Provider-Homepage: http://www.hnb.hr
+Maintainer-Name: Romana Sinković
+Maintainer-Email: publikacije@hnb.hr
+Type: ReDIF-Paper
+Handle: RePEc:hnb:survey
+
+
+
+

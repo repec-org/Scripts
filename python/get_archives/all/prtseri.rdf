@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: D.E.S. (Department of Economic Studies), University of Naples "Parthenope", Italy
+Provider-Homepage: http://economia.uniparthenope.it/ise/sito/index.htm
+Provider-Institution: RePEc:edi:isnavit
+Maintainer-Name: Antonietta Milano
+Maintainer-Email: isteconsegr@uniparthenope.it
+Type: ReDIF-Paper
+Handle: RePEc:prt:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: D.E.S. (Department of Economic Studies), University of Naples "Parthenope", Italy
+Provider-Homepage: http://economia.uniparthenope.it/ise/sito/index.htm
+Provider-Institution: RePEc:edi:isnavit
+Maintainer-Name: Antonietta Milano
+Maintainer-Email: isteconsegr@uniparthenope.it
+Type: ReDIF-Paper
+Handle: RePEc:prt:wpaper

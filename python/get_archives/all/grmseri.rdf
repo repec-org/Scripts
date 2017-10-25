@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers, Documentos de trabajo, Centro de Desarrollo Económico y Social (CEDES).
+Provider-Name: Instituto de Investigaciones Económicas y Sociales 'José Ortiz Mercado' (IIES-JOM), Facultad de Ciencias Económicas, Administrativas y Financieras, Universidad Autónoma Gabriel René Moreno
+Provider-Homepage: http://www.uagrm.edu.bo/instituto_centro_inv.php?codigo=167
+Provider-Institution: RePEc:edi:iiagrbo
+Maintainer-Name: Roger Alejandro Banegas Rivero	
+Maintainer-Email: rogerbanegas@uagrm.edu.bo
+Type: ReDIF-Paper
+Handle: RePEc:grm:wpaper
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Economía Coyuntural,Revista de temas de perspectivas y coyuntura
+Provider-Name: Instituto de Investigaciones Económicas y Sociales 'José Ortiz Mercado' (IIES-JOM), Facultad de Ciencias Económicas, Administrativas y Financieras, Universidad Autónoma Gabriel René Moreno
+Provider-Homepage: http://www.uagrm.edu.bo/instituto_centro_inv.php?codigo=167
+Provider-Institution: RePEc:edi:iiagrbo
+Maintainer-Name: Roger Alejandro Banegas Rivero	
+Maintainer-Email: rogerbanegas@uagrm.edu.bo 
+Handle: RePEc:grm:ecoyun
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: 'Oikos Polis', Revista Latinoamericana de Ciencias Económicas y Sociales (RLCES)
+Provider-Name: Instituto de Investigaciones Económicas y Sociales 'José Ortiz Mercado' (IIES-JOM), Facultad de Ciencias Económicas, Administrativas y Financieras, Universidad Autónoma Gabriel René Moreno
+Provider-Homepage: http://www.uagrm.edu.bo/instituto_centro_inv.php?codigo=167
+Provider-Institution: RePEc:edi:iiagrbo
+Maintainer-Name: Roger Alejandro Banegas Rivero	
+Maintainer-Email: rogerbanegas@uagrm.edu.bo 
+Handle: RePEc:grm:oikosp

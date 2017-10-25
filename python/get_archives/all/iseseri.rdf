@@ -1,0 +1,67 @@
+Template-Type: ReDIF-Series 1.0
+
+Name: Working Papers Department of Economics
+
+Provider-Name: ISEG - Lisbon School of Economics and Management, Department of Economics, Universidade de Lisboa 
+
+Provider-Homepage: https://aquila1.iseg.ulisboa.pt/aquila/departamentos/EC
+
+Provider-Postal: Department of Economics, ISEG - Lisbon School of Economics and Management, 
+          Universidade de Lisboa, Rua do Quelhas 6, 1200-781 
+LISBON, PORTUGAL
+
+Description: The purpose of this series is to circulate current research by 
+	
+       members of the Department of Economics at ISEG - Lisbon School of Economics and Management,
+       Universidade de Lisboa. 
+
+Type: ReDIF-Paper
+
+Handle: RePEc:ise:isegwp
+
+Maintainer-Name: Vitor Escaria
+
+Maintainer-Email: vescaria@iseg.ulisboa.pt
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Working Papers GHES - Office of Economic and Social History
+
+Provider-Name: ISEG - Lisbon School of Economics and Management, GHES - Social and Economic History Research Unit,
+    Universidade de Lisboa
+
+Provider-Homepage: https://aquila1.iseg.ulisboa.pt/aquila/research/ghes
+
+Provider-Postal: GHES - Social and Economic History Research Unit, ISEG - Lisbon School of Economics and Management,
+ 
+	Universidade de Lisboa, Rua do Quelhas 6, 1200-781 
+LISBON, PORTUGAL
+
+Description: The purpose of this series is to circulate current research by
+ 
+	members of the GHES - Social and Economic History Research Unit at ISEG - Lisbon School of Economics and Management,
+ 
+       Universidade de Lisboa.
+
+Type: ReDIF-Paper
+
+Maintainer-Name: Natalia Nobre
+
+Maintainer-Email: natalia@iseg.ulisboa.pt
+
+Handle: RePEc:ise:gheswp
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers REM
+Provider-Name: ISEG - Lisbon School of Economics and Management, REM, Universidade de Lisboa 
+Provider-Homepage: https://rem.rc.iseg.ulisboa.pt/
+Provider-Postal: ISEG - Lisbon School of Economics and Management, REM, R. Miguel Lupi, 20, LISBON, PORTUGAL
+Description: The purpose of this series is to circulate current research by members of 
+    the REM (Research in Economics an Mathematics) - Lisbon School of Economics and Management, Universidade de Lisboa. 
+Type: ReDIF-Paper
+Handle: RePEc:ise:remwp
+Maintainer-Name: Sandra Araújo
+Maintainer-Email: uece@iseg.ulisboa.pt 

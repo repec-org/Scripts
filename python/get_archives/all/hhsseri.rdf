@@ -1,0 +1,748 @@
+Template-Type: ReDIF-Series 1.0
+Name: SSE/EFI Working Paper Series in Economics and Finance
+Provider-Name: Stockholm School of Economics
+Provider-Postal: The Economic Research Institute, Stockholm School of Economics, P.O. Box 6501, 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/
+Provider-Institution: RePEc:edi:erhhsse
+Maintainer-Name: Helena Lundin
+Maintainer-Email: Helena.Lundin@hhs.se
+Handle: RePEc:hhs:hastef
+
+Template-Type: ReDIF-Series 1.0
+Name: EIJS Working Paper Series
+Editor-Name: Magnus Blomström
+Provider-Name: The European Institute of Japanese Studies
+Provider-Postal: The European Institute of Japanese Studies, Stockholm School of Economics, P.O. Box 6501, 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/en/Research/Institutes/EIJS/
+Provider-Institution: RePEc:edi:eihhsse
+Maintainer-Name: Nanhee Lee
+Maintainer-Email: Nanhee.Lee@hhs.se
+Handle: RePEc:hhs:eijswp
+
+Template-Type:ReDIF-Series 1.0
+Name: Seminar Papers
+Provider-Name: Stockholm University, Institute for International Economic Studies
+Provider-Postal: Institute for International Economic Studies, Stockholm University, S-106 91 Stockholm, Sweden
+Provider-Homepage: http://www.iies.su.se/
+Provider-Institution: RePEc:edi:iiesuse
+Maintainer-Name:  Hanna Christiansson
+Maintainer-Email: hanna.christiansson@iies.su.se
+Handle: RePEc:hhs:iiessp
+
+Template-Type: ReDIF-Series 1.0
+Name: Umeå Economic Studies
+Editor-Name: Kurt Brännäs
+Provider-Name: Umeå University, Department of Economics
+Provider-Postal: Department of Economics, Umeå University, S-901 87 Umeå, Sweden
+Provider-Homepage: http://www.econ.umu.se/
+Provider-Institution: RePEc:edi:inumuse
+Maintainer-Name: David Skog
+Maintainer-Email: david.skog@umu.se
+Handle: RePEc:hhs:umnees
+
+Template-Type: ReDIF-Series 1.0
+Name: Research Papers in Economics
+Editor-Name: Claes-Henric Siven
+Editor-Email: chs@ne.su.se
+Provider-Name: Stockholm University, Department of Economics
+Provider-Postal: Department of Economics, Stockholm, S-106 91 Stockholm, Sweden
+Provider-Homepage: http://www.ne.su.se/
+Provider-Institution: RePEc:edi:neisuse
+Maintainer-Name: Sten Nyberg
+Maintainer-Email: sn@ne.su.se
+Handle: RePEc:hhs:sunrpe
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: Research Institute of Industrial Economics
+Provider-Postal: Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden
+Provider-Homepage: http://www.ifn.se/
+Provider-Institution: RePEc:edi:iuiiise
+Maintainer-Name: Elisabeth Gustafsson
+Maintainer-Email: Elisabeth.gustafsson@ifn.se
+Handle: RePEc:hhs:iuiwop
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers in Economics
+Editor-Name: Bo Sandelin
+Editor-Email: Bo.Sandelin@economics.gu.se
+Provider-Name: University of Gothenburg, Department of Economics
+Provider-Postal: Department of Economics, School of Business, Economics and Law, University of Gothenburg, Box 640, SE 405 30  GÖTEBORG, Sweden
+Provider-Homepage: http://www.handels.gu.se/econ/
+Provider-Institution: RePEc:edi:naiguse
+Maintainer-Name: Marie Andersson
+Maintainer-Email: marie.andersson@economics.gu.se
+Handle: RePEc:hhs:gunwpe
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Editor-Name: Nils Gottfries
+Editor-Email: Nils.gottfries@nek.uu.se
+Provider-Name: Uppsala University, Department of Economics
+Provider-Postal: Department of Economics, Uppsala University, P. O. Box 513, SE-751 20 Uppsala, Sweden
+Provider-Homepage: http://www.nek.uu.se/
+Provider-Institution: RePEc:edi:nekuuse
+Maintainer-Name: Katarina Grönvall
+Maintainer-Email: katarina.gronvall@nek.uu.se
+Handle: RePEc:hhs:uunewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: National Institute of Economic Research
+Provider-Postal: National Institute of Economic Research, P.O. Box 3116, SE-103 62 Stockholm, Sweden
+Provider-Homepage: http://www.konj.se/
+Provider-Institution: RePEc:edi:kongvse
+Maintainer-Name: Sarah Hegardt Grant
+Maintainer-Email: sarah.grant@konj.se
+Handle: RePEc:hhs:nierwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: Trade Union Institute for Economic Research
+Provider-Institution: RePEc:edi:fieffse
+Maintainer-Name: Sune Karlsson
+Maintainer-Email: sune.karlsson@oru.se
+Handle: RePEc:hhs:fiefwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Editor-Name: David Edgerton
+Editor-Email: david.edgerton@nek.lu.se
+Provider-Name: Lund University, Department of Economics
+Provider-Postal: Department of Economics, School of Economics and Management, Lund University,
+  Box 7082, S-220 07 Lund,Sweden
+Provider-Homepage: http://www.nek.lu.se/en
+Provider-Institution: RePEc:edi:delunse
+Maintainer-Name: David Edgerton
+Maintainer-Email: david.edgerton@nek.lu.se
+Handle: RePEc:hhs:lunewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Editor-Name: Anders Björklund 
+Editor-Email: anders.bjorklund@sofi.su.se
+Provider-Name: Swedish Institute for Social Research
+Provider-Postal: SOFI, Stockholm University, SE-10691 Stockholm, Sweden
+Provider-Homepage: http://www.sofi.su.se/
+Provider-Institution: RePEc:edi:sofsuse
+Maintainer-Name: Stefan Englund
+Maintainer-Email: Stefan.Englund@sofi.su.se
+Handle: RePEc:hhs:sofiwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Editor-Name: Anders Forslund
+Editor-Email: anders.forslund@ifau.uu.se
+Provider-Name: IFAU - Institute for Evaluation of Labour Market and Education Policy
+Provider-Postal: IFAU, P O Box 513, SE-751 20  Uppsala, Sweden 
+Provider-Homepage: http://www.ifau.se/
+Provider-Institution: RePEc:edi:ifagvse
+Maintainer-Name: Monica Fällgren
+Maintainer-Email: monica.fallgren@ifau.uu.se
+Handle: RePEc:hhs:ifauwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Copenhagen Business School, Department of Economics
+Provider-Postal: Department of Economics, Copenhagen Business School,
+  Solbjerg Plads 3 C, 5. sal, DK-2000 Frederiksberg, Denmark
+Provider-Homepage: http://www.cbs.dk/departments/econ/
+Provider-Institution: RePEc:edi:incbsdk
+Maintainer-Name: Lars Nondal
+Maintainer-Email: ln.lib@cbs.dk
+Handle: RePEc:hhs:cbsnow
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Editor-Name: Eva Skoup 
+Provider-Name: Copenhagen Business School, Department of Finance
+Provider-Postal: Department of Finance, Copenhagen Business School,
+  Solbjerg Plads 3, A5, DK-2000 Frederiksberg, Denmark
+Provider-Homepage: http://www.cbs.dk/departments/finance/
+Provider-Institution: RePEc:edi:cbschdk
+Maintainer-Name: Lars Nondal
+Maintainer-Email: ln.lib@cbs.dk
+Handle: RePEc:hhs:cbsfin
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Copenhagen Business School, Department of Informatics
+Provider-Postal: Department of Informatics, Copenhagen Business School,
+  Howitzvej 60, DK-2000 Frederiksberg, Denmark
+Provider-Homepage: http://www.cbs.dk/departments/inf/
+Provider-Institution: RePEc:edi:cbschdk
+Maintainer-Name: Lars Nondal
+Maintainer-Email: ln.lib@cbs.dk
+Handle: RePEc:hhs:cbsinf
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: Sveriges Riksbank (Central Bank of Sweden)
+Provider-Postal: Sveriges Riksbank, SE-103 37 Stockholm, Sweden
+Provider-Homepage: http://www.riksbank.com/
+Provider-Institution: RePEc:edi:rbgovse
+Maintainer-Name: Lena Löfgren
+Maintainer-Email: lena.lofgren@riksbank.se
+Handle: RePEc:hhs:rbnkwp
+
+Template-Type: ReDIF-Series 1.0
+Name: CLS Working Papers
+Editor-Name: Niels Westergård-Nielsen 
+Editor-Email: nwn@asb.dk
+Provider-Name: University of Aarhus, Aarhus School of Business, Centre for Labour Market and Social Research
+Provider-Postal: The Aarhus School of Business, 
+  Prismet, Silkeborgvej 2, DK 8000 Aarhus C, Denmark
+Provider-Homepage: http://www.cls.dk
+Provider-Institution: RePEc:edi:hahoadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhs:aarcls
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Editor-Name: Erik Strøjer Madsen 
+Editor-Email: ema@asb.dk
+Provider-Name: University of Aarhus, Aarhus School of Business, Department of Economics
+Provider-Postal: The Aarhus School of Business, 
+  Prismet, Silkeborgvej 2, DK 8000 Aarhus C, Denmark
+Provider-Homepage: http://www.asb.dk/departments/nat.aspx
+Provider-Institution: RePEc:edi:nihhadk
+Maintainer-Name: Helle Vinbaek Stenholt
+Maintainer-Email: hes@asb.dk
+Handle: RePEc:hhs:aareco
+
+Template-Type: ReDIF-Series 1.0
+Name: SIFR Research Report Series
+Provider-Name: Institute for Financial Research
+Provider-Postal: Institute for Financial Research
+  Drottninggatan 89, SE-113 60 Stockholm, Sweden
+Provider-Homepage: http://www.sifr.org/
+Provider-Institution: RePEc:edi:sifrrse
+Maintainer-Name: Anki Helmer
+Maintainer-Email: Anki.Helmer@sifr.org
+Handle: RePEc:hhs:sifrwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Ratio Working Papers
+Editor-Name: Nils Karlson
+Editor-Email: nils.karlson@ratio.se
+Provider-Name: The Ratio Institute
+Provider-Postal: The Ratio Institute, P.O. Box 5095, SE-102 42 Stockholm, Sweden 
+Provider-Homepage: http://www.ratio.se/
+Provider-Institution: RePEc:edi:ratiose
+Maintainer-Name: Martin Korpi
+Maintainer-Email: martin.korpi@ratio.se
+Handle: RePEc:hhs:ratioi
+
+Template-Type: ReDIF-Series 1.0
+Name: Memorandum
+Editor-Name: Edwin Leuven 
+Editor-Email: edwin.leuven@econ.uio.no
+Provider-Name: Oslo University, Department of Economics
+Provider-Postal: Department of Economics, University of Oslo, 
+  P.O Box 1095 Blindern, N-0317 Oslo, Norway
+Provider-Homepage: http://www.oekonomi.uio.no/indexe.html
+Provider-Institution: RePEc:edi:souiono
+Maintainer-Name: Magnus Gabriel Aase
+Maintainer-Email: m.g.aase@sv.uio.no
+Handle: RePEc:hhs:osloec
+
+Template-Type: ReDIF-Series 1.0
+Name: Arbetsrapport
+Provider-Name: Institute for Futures Studies
+Provider-Postal: Institute for Futures Studies, Box 591, SE-101 31 Stockholm, Sweden
+Provider-Homepage: http://www.framtidsstudier.se
+Provider-Institution: RePEc:edi:framtse
+Maintainer-Name: Erika Karlsson
+Maintainer-Email: erika.karlsson@iffs.se
+Handle: RePEc:hhs:ifswps
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Örebro University, School of Business
+Provider-Postal: Örebro University School of Business,
+  SE - 701 82 ÖREBRO, Sweden
+Provider-Homepage: http://www.oru.se/Institutioner/Handelshogskolan-vid-Orebro-universitet/
+Provider-Institution: RePEc:edi:ieoruse
+Maintainer-Email: forskningsadm.HH@oru.se
+Handle: RePEc:hhs:oruesi
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series in Economics and Institutions of Innovation
+Provider-Name: Royal Institute of Technology, CESIS - Centre of Excellence for Science and Innovation Studies
+Provider-Postal: CESIS - Centre of Excellence for Science and Innovation Studies,
+  Royal Institute of Technology, SE-100 44 Stockholm, Sweden
+Provider-Homepage: http://www.infra.kth.se/cesis/
+Provider-Institution: RePEc:edi:cekthse
+Maintainer-Name: Vardan Hovsepyan
+Maintainer-Email: vardan.hovsepyan@indek.kth.se
+Handle: RePEc:hhs:cesisp
+
+Template-Type: ReDIF-Series 1.0
+Name: Göteborg Papers in Economic History
+Editor-Name: Staffan Granér
+Editor-Email: staffan.graner@econhist.gu.se
+Provider-Name: University of Gothenburg, Department of Economic History
+Provider-Postal: Department of Economic History, School of Business, Economics and Law, University of Gothenburg, Box 640, SE 405 30  GÖTEBORG
+Provider-Homepage: http://www.econhist.gu.se/
+Provider-Institution: RePEc:edi:dehguse
+Maintainer-Name: Jens Anmark
+Maintainer-Email: Jens.Anmark@ub.gu.se
+Handle: RePEc:hhs:gunhis
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Editor-Name: Bengt Kriström
+Editor-Email: bengt.kristrom@sekon.slu.se
+Provider-Name: Swedish University of Agricultural Sciences, Department of Forest Economics
+Provider-Postal: Department of Forest Economics,
+  Swedish University of Agricultural Sciences,
+  SE 901 83 Umeå, Sweden
+Provider-Homepage: http://www.sekon.slu.se
+Provider-Institution: RePEc:edi:issluse
+Maintainer-Name: Örjan Furtenback
+Maintainer-Email: orjan.furtenback@sekon.slu.se
+Handle: RePEc:hhs:slufec
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Swedish National Road & Transport Research Institute (VTI)
+Provider-Postal: VTI, Transport Economics, P.O. Box 6056, SE-171 06 Solna, Sweden
+Provider-Homepage: http://www.vti.se/tek
+Provider-Institution: RePEc:edi:tevtise
+Followup: RePEc:hhs:ctswps
+Maintainer-Name: Mats Berggren 
+Maintainer-Email: mats.berggren@vti.se
+Handle: RePEc:hhs:vtiwps
+
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: Department of Business and Management Science, Norwegian School of Economics
+Provider-Postal: NHH, Department of Business and Management Science, Helleveien 30, N-5045 Bergen, Norway
+Provider-Homepage: http://www.nhh.no/en/research-faculty/department-of-business-and-management-science.aspx
+Provider-Institution: RePEc:edi:dfnhhno
+Editor-Name: Leif K. Sandal
+Editor-Email: Leif.Sandal@nhh.no
+Maintainer-Name: Stein Fossen
+Maintainer-Email: Stein.Fossen@nhh.no
+Handle: RePEc:hhs:nhhfms
+
+Template-Type: ReDIF-Series 1.0
+Name: HUI Working Papers
+Provider-Name: HUI Research
+Provider-Postal: HUI Research, Regeringsgatan 60, 103 29 Stockholm, Sweden
+Provider-Homepage: http://www.hui.se/
+Provider-Institution: RePEc:edi:huistse
+Maintainer-Name: Helena Nilsson
+Maintainer-Email: helena.nilsson@ju.se
+Handle: RePEc:hhs:huiwps
+
+Template-Type: ReDIF-Series 1.0
+Name: SULCIS Working Papers
+Provider-Name: Stockholm University Linnaeus Center for Integration Studies - SULCIS
+Provider-Postal: Stockholm University Linnaeus Center for Integration Studies - SULCIS, Stockholm University, S-10691 Stockholm, Sweden
+Provider-Homepage: http://www.su.se/sulcis
+Provider-Institution: RePEc:edi:lcisuse
+Maintainer-Name: Eskil Wadensjö
+Maintainer-Email: Eskil.Wadensjo@sofi.su.se
+Handle: RePEc:hhs:sulcis
+
+Template-Type: ReDIF-Series 1.0
+Name: Research Reports
+Provider-Name: Statistical Research Unit, Department of Economics, School of Business, Economics and Law, University of Gothenburg
+Provider-Postal: Statistical Research Unit, University of Gothenburg, Box 640, SE 40530 GÖTEBORG
+Provider-Homepage: http://www.statistics.gu.se/
+Provider-Institution: 
+Editor-Name: Marianne Frizén
+Editor-Email: marianne.frisen@statistics.gu.se
+Maintainer-Name: Linus Schiöler
+Maintainer-Email: linus.schioler@statistics.gu.se
+Handle: RePEc:hhs:gunsru
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: China Economic Research Center, Stockholm School of Economics
+Provider-Postal: China Economic Research Center, Stockholm School of Economics, P.O. Box 6501, 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/en/Research/Institutes/SCERI/
+Provider-Institution: RePEc:edi:cehhsse
+Maintainer-Name: Malin Nilsson
+Maintainer-Email: Malin.Nilsson@hhs.se
+Handle: RePEc:hhs:hacerc
+
+Template-Type: ReDIF-Series 1.0
+Name: COHERE Working Paper
+Editor-Name: Terkel Christiansen
+Editor-Email: tch@sam.sdu.dk
+Provider-Name: COHERE - Centre of Health Economics Research, University of Southern Denmark
+Provider-Postal: COHERE - Center for Sundhedsøkonomisk Forskning, Institut for Virksomhedsledelse og Økonomi, Syddansk Universitet, Campusvej 55, DK-5230 Odense M, Denmark
+Provider-Homepage: http://www.sdu.dk/Om_SDU/Institutter_centre/cCohere
+Provider-Institution: RePEc:edi:hesdudk
+Maintainer-Name: Terkel Christiansen
+Maintainer-Email: tch@sam.sdu.dk
+Handle: RePEc:hhs:sduhec
+
+Template-Type: ReDIF-Series 1.0
+Name: CISEG Working Papers Series
+Editor-Name: Charlie Karlsson
+Editor-Email: Charlie.Karlsson@jibs.hj.se
+Provider-Name: Centre for Innovation Systems, Entrepreneurship and Growth, Jönköping International Business School
+Provider-Postal: CISEG (Centre for Innovation Systems, Entrepreneurship and Growth), Jönköping International Business School, P.O. Box 1026, SE-551 11 Jönköping, Sweden
+Provider-Homepage: http://www.ihh.hj.se/eng/
+Provider-Institution: RePEc:edi:cihhjse
+Maintainer-Name: Katarina Blåman
+Maintainer-Email: Katarina.Blaman@jibs.hj.se
+Handle: RePEc:hhs:hjiseg
+
+Template-Type: ReDIF-Series 1.0
+Name: Stockholm Papers in Economic History
+Editor-Name: Rodney Edvinsson
+Editor-Email: rodney.edvinsson@ekohist.su.se
+Provider-Name: Department of Economic History, Stockholm University
+Provider-Postal: Department of Economic History, Stockholm University, SE 106 91 STOCKHOLM, Sweden
+Provider-Homepage: http://www.ekohist.su.se/
+Maintainer-Name: Rodney Edvinsson
+Maintainer-Email: rodney.edvinsson@ekohist.su.se
+Handle: RePEc:hhs:suekhi
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series, Center for Fiscal Studies
+Editor-Name: Håkan Selin
+Editor-Email: Hakan.Selin@nek.uu.se
+Provider-Name: Uppsala University, Department of Economics
+Provider-Postal: Department of Economics, Uppsala University, P. O. Box 513, SE-751 20 Uppsala, Sweden
+Provider-Homepage: http://www.nek.uu.se/
+Provider-Institution: RePEc:edi:nekuuse
+Maintainer-Name: Katarina Grönvall
+Maintainer-Email: katarina.gronvall@nek.uu.se
+Handle: RePEc:hhs:uufswp
+
+Template-Type: ReDIF-Series 1.0
+Name: CAFO Working Papers
+Editor-Name: Dominique Anxo
+Editor-Email: Dominique.anxo@lnu.se
+Provider-Name: Centre for Labour Market Policy Research (CAFO), School of Business and Economics, Linnaeus University
+Provider-Postal: Centre for Labour Market Policy Research (CAFO), School of Business and Economics, Linnaeus University, SE 351 95 Växjö, Sweden
+Provider-Homepage: http://lnu.se/research-groups/cafo?l=en
+Provider-Institution: RePEc:edi:cafovse
+Maintainer-Name: Andreas Mångs
+Maintainer-Email: andreas.mangs@lnu.se
+Handle: RePEc:hhs:vxcafo
+
+Template-Type: ReDIF-Series 1.0
+Name: SITE Working Paper Series
+Provider-Name: Stockholm Institute of Transition Economics, Stockholm School of Economics
+Provider-Postal: Stockholm Institute of Transition Economics, Stockholm School of Economics, P.O. Box 6501, SE-113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/site/
+Provider-Institution: RePEc:edi:sihhsse
+Maintainer-Name: Evelina Bonnier
+Maintainer-Email: Evelina.Bonnier@hhs.se
+Handle: RePEc:hhs:hasite
+
+Template-Type: ReDIF-Series 1.0
+Name: HERO On line Working Paper Series
+Editor-Name: Tor Iversen
+Editor-Email: tiversen@medisin.uio.no
+Provider-Name: Oslo University, Health Economics Research Programme
+Provider-Postal: HERO / Institute of Health Management and Health Economics
+  P.O. Box 1089 Blindern, N-0317 Oslo, Norway
+Provider-Homepage: http://www.hero.uio.no/eng.html
+Provider-Institution: RePEc:edi:heuiono
+Maintainer-Name: Anbjørg Kolaas
+Maintainer-Email: anbjorg.kolaas@medisin.uio.no
+Handle: RePEc:hhs:oslohe
+
+Template-Type: ReDIF-Series 1.0
+Name: UiS Working Papers in Economics and Finance
+Editor-Name: Bernt Arne Odegaard
+Editor-Email: bernt.a.odegaard@uis.no
+Provider-Name: University of Stavanger
+Provider-Postal: University of Stavanger, NO-4036 Stavanger, Norway
+Provider-Homepage: http://www.uis.no/research/economics_and_finance
+Provider-Institution: RePEc:edi:iouisno
+Maintainer-Name: Bernt Arne Odegaard
+Maintainer-Email: bernt.a.odegaard@uis.no
+Handle: RePEc:hhs:stavef
+
+Template-Type: ReDIF-Series 1.0
+Name: CERE Working Papers
+Editor-Name: Bengt Kriström
+Editor-Email: bengt.kristrom@sekon.slu.se
+Provider-Name: CERE - the Center for Environmental and Resource Economics
+Provider-Homepage: http://www.cere.se
+Maintainer-Name: Mona Bonta Bergman
+Maintainer-Email: mona.bonta.bergman@slu.se
+Handle: RePEc:hhs:slucer
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series, Center for Labor Studies
+Editor-Name: Per-Anders Edin
+Editor-Email: per-anders.edin@nek.uu.se
+Provider-Name: Uppsala University, Department of Economics
+Provider-Postal: Department of Economics, Uppsala University, P. O. Box 513, SE-751 20 Uppsala, Sweden
+Provider-Homepage: http://www.nek.uu.se/
+Provider-Institution: RePEc:edi:nekuuse
+Maintainer-Name: Katarina Grönvall
+Maintainer-Email: katarina.gronvall@nek.uu.se
+Handle: RePEc:hhs:uulswp
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Papers in Innovation Studies
+Editor-Name: Cristina Chaminade
+Editor-Email: cristina.chaminade@circle.lu.se
+Provider-Name: Lund University, CIRCLE - Center for Innovation, Research and Competences in the Learning Economy
+Provider-Postal: CIRCLE, Lund University, PO Box 117, SE-22100 Lund, Sweden
+Provider-Homepage: http://www.circle.lu.se/
+Provider-Institution: RePEc:edi:circlse
+Maintainer-Name: Torben Schubert
+Maintainer-Email: torben.schubert@circle.lu.se
+Handle: RePEc:hhs:lucirc
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers in Economics
+Editor-Name: Kjell Erik Lommerud
+Editor-Email: Kjell-Erik.Lommerud@econ.uib.no
+Provider-Name: University of Bergen, Department of Economics
+Provider-Postal: Institutt for økonomi, Universitetet i Bergen, Postboks 7802, 5020 Bergen, Norway
+Provider-Homepage: http://www.uib.no/econ/en
+Provider-Institution: RePEc:edi:iouibno
+Maintainer-Name: Kjell Erik Lommerud
+Maintainer-Email: Kjell-Erik.Lommerud@econ.uib.no
+Handle: RePEc:hhs:bergec
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Paper Series in Economics
+Provider-Name: Department of Economics, Norwegian School of Economics
+Provider-Postal: NHH, Department of Economics, Helleveien 30, N-5045 Bergen, Norway
+Provider-Homepage: http://www.nhh.no/sam/
+Provider-Institution: RePEc:edi:sonhhno
+Editor-Name: Alexander W. Cappelen 
+Maintainer-Name: Dagny Hanne Kristiansen 
+Maintainer-Email: dagny.kristiansen@nhh.no
+Handle: RePEc:hhs:nhheco
+
+Template-Type: ReDIF-Series 1.0
+Name: Working papers in Transport Economics
+Provider-Name: CTS - Centre for Transport Studies Stockholm (KTH and VTI)
+Provider-Postal: Centrum för Transportstudier (CTS), Teknikringen 10, 100 44 Stockholm, Sweden
+Provider-Homepage: http://www.cts.kth.se/
+Maintainer-Name: Mats Berggren 
+Maintainer-Email: mats.berggren@vti.se
+Predecessor: RePEc:hhs:vtiwps
+Handle: RePEc:hhs:ctswps
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers of Business and Economics
+Editor-Name: Peter Sudhölter 
+Editor-Email: psu@sam.sdu.dk
+Provider-Name: Department of Business and Economics, University of Southern Denmark
+Provider-Postal: Department of Business and Economics, University of Southern Denmark, Campusvej 55, DK-5230 Odense M, Denmark
+Provider-Homepage: http://www.sdu.dk/ivoe
+Provider-Institution: RePEc:edi:okioudk
+Maintainer-Name: Lene Holbæk 
+Maintainer-Email: lho@sam.sdu.dk
+Handle: RePEc:hhs:sdueko
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Industrial Economics, Blekinge Institute of Technology
+Provider-Postal: Department of Industrial Economics, Blekinge Inst of Technology, 371 79 Karlskrona, Sweden
+Provider-Homepage: http://www.bth.se/csir
+Provider-Institution: RePEc:edi:msbthse
+Maintainer-Name: Martin Andersson
+Maintainer-Email: martin.andersson@bth.se
+Handle: RePEc:hhs:bthcsi
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: Department Economics, Swedish University of Agricultural Sciences
+Provider-Postal: Department of Economics, Box 7013, Swedish University of Agricultural Sciences, SE-750 07 Uppsala, Sweden
+Provider-Homepage: http://www.slu.se/ekonomi
+Provider-Institution: RePEc:edi:iesluse
+Maintainer-Name: Elizabeth Hillerius
+Maintainer-Email: elizabeth.hillerius@slu.se
+Handle: RePEc:hhs:slueko
+
+Template-Type: ReDIF-Series 1.0
+Name: Karlstad University Working Papers in Economics
+Provider-Name: Department of Economics, Karlstad University
+Provider-Postal: Dept of Economics, Karlstad University, Universitetsgatan 1, SE 651 88 Karlstad, Sweden
+Provider-Homepage: http://www.kau.se/node/12323
+Provider-Institution: RePEc:edi:eikause
+Maintainer-Name: Mikael Svensson
+Maintainer-Email: mikael.svensson@kau.se
+Handle: RePEc:hhs:kaunek
+
+Template-Type: ReDIF-Series 1.0
+Name: Knut Wicksell Working Paper Series
+Provider-Name: Knut Wicksell Centre for Financial Studies, Lund University
+Provider-Postal: Knut Wicksell Centre for Financial Studies, Lund University School of Economics and Management, P.O. Box 7080, S-220 07 Lund, Sweden
+Provider-Homepage: http://www.lusem.lu.se/kwc
+Provider-Institution: RePEc:edi:kwcluse
+Maintainer-Name: Niclas Andrén
+Maintainer-Email: niclas.andren@fek.lu.se
+Maintainer-Name: Frederik Lundtofte
+Maintainer-Email: frederik.lundtofte@nek.lu.se
+Handle: RePEc:hhs:luwick
+
+Template-Type: ReDIF-Series 1.0
+Name: Lund Papers in Economic History
+Provider-Name: Department of Economic History, Lund University
+Provider-Postal: Department of Economic History, Lund University, Box 7083, S-220 07 Lund, Sweden
+Provider-Homepage: http://www.ekh.lu.se/
+Provider-Institution: RePEc:edi:dhlunse
+Maintainer-Name: Tobias Karlsson
+Maintainer-Email: tobias.karlsson@ekh.lu.se
+Maintainer-Name: Benny Carlsson
+Maintainer-Email: Benny.Carlsson@ekh.lu.se
+Handle: RePEc:hhs:luekhi
+
+Template-Type: ReDIF-Series 1.0
+Name: CLTS Working Papers
+Provider-Name: Centre for Land Tenure Studies, Norwegian University of Life Sciences
+Provider-Postal: Centre for Land Tenure Studies, Norwegian University of Life Sciences, P.O. Box 5003, NO-1432 Aas, Norway
+Provider-Homepage: http://www.umb.no/clts
+Provider-Institution: RePEc:edi:ioumbno
+Maintainer-Name: Kateryna Krutskykh
+Maintainer-Email: kateryna.krutskykh0@nmbu.no
+Handle: RePEc:hhs:nlsclt
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: Department of Real Estate and Construction Management & Centre for Banking and Finance (cefin), Royal Institute of Technology
+Provider-Postal: Department of Real Estate and Construction Management, Royal Institute of Technology, Brinellvägen 1, 100 44 Stockholm, Sweden
+Provider-Homepage: http://www.kth.se/en/abe/inst/fob
+Provider-Institution: RePEc:edi:ifkthse
+Maintainer-Name: Herman Donner
+Maintainer-Email: Herman.Donner@abe.kth.se
+Handle: RePEc:hhs:kthrec
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Swedish Entrepreneurship Forum
+Provider-Postal: Swedish Entrepreneurship Forum, Örebro University, SE-70182 ÖREBRO, Sweden
+Provider-Homepage: http://www.oru.se/Institutioner/Handelshogskolan-vid-Orebro-universitet/
+Maintainer-Name: Mikael Jorstig
+Maintainer-Email: mikael.jorstig@entreprenorskapsforum.se
+Handle: RePEc:hhs:entfor
+
+Template-Type: ReDIF-Series 1.0
+Name: African Economic History Working Paper
+Provider-Name: African Economic History Network
+Provider-Homepage: http://www.aehnetwork.org/
+Maintainer-Name: Erik Green
+Maintainer-Email: erik.green@ekh.lu.se
+Handle: RePEc:hhs:afekhi
+
+Template-Type: ReDIF-Series 1.0
+Name: Comparative Institutional Analysis Working Paper Series
+Provider-Name: Comparative Institutional Analysis, Lund University School of Economics and Management
+Provider-Postal: Comparative Institutional Analysis, Lund University School of Economics and Management, P.O. Box 7080, S-220 07 Lund, Sweden
+Provider-Homepage: http://www.lri.lu.se/research/cia
+Provider-Institution: RePEc:edi:ehlunse
+Maintainer-Name: Christer Gunnarsson
+Maintainer-Email: Christer.Gunnarsson@ekh.lu.se
+Maintainer-Name: Jens Dietrichson
+Maintainer-Email: jens.dietrichson@nek.lu.se
+Handle: RePEc:hhs:lucomp
+
+Template-Type: ReDIF-Series 1.0
+Name: Konkurrensverket Working Paper Series in Law and Economics
+Provider-Name: Konkurrensverket (Swedish Competition Authority)
+Provider-Postal: Konkurrensverket, 103 85 STOCKHOLM, Sweden
+Provider-Homepage: http://www.kkv.se
+Provider-Institution: RePEc:edi:kkvgvse
+Maintainer-Name: Apostolos Baltzopoulos
+Maintainer-Email: apostolos.baltzopoulos@kkv.se
+Handle: RePEc:hhs:kkveco
+
+Template-Type: ReDIF-Series 1.0
+Name: Stockholm School of Economics Asia Working Paper Series
+Provider-Name: Stockholm China Economic Research Institute, Stockholm School of Economics
+Provider-Postal: Stockholm China Economic Research Institute, Stockholm School of Economics, P.O. Box 6501, 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/en/Research/Institutes/SCERI/
+Provider-Institution: RePEc:edi:cehhsse
+Maintainer-Name: Malin Nilsson
+Maintainer-Email: Malin.Nilsson@hhs.se
+Handle: RePEc:hhs:hascer
+
+Template-Type: ReDIF-Series 1.0
+Name: INDEK Working Paper Series
+Provider-Name: Department of Industrial Economics and Management, Royal Institute of Technology
+Provider-Postal: Department of Industrial Economics and Management, Royal Institute of Technology, SE-100 44 Stockholm, Sweden
+Provider-Homepage: http://www.kth.se/en/itm/inst/indek
+Provider-Institution: RePEc:edi:iikthse
+Maintainer-Name: Vardan Hovsepyan
+Maintainer-Email: vardan.hovsepyan@indek.kth.se
+Handle: RePEc:hhs:kthind
+
+Template-Type: ReDIF-Series 1.0
+Name: AgriFood-WP
+Provider-Name: AgriFood Economics Centre
+Provider-Postal: AgriFood Economics Centre, Box 730, Scheelevägen 15 D, 220 07 LUND, Sweden
+Provider-Homepage: http://www.agrifood.se/
+Maintainer-Name: Kristian Sundström
+Maintainer-Email: kristian.sundstrom@agrifood.lu.se
+Handle: RePEc:hhs:luagri
+
+Template-Type: ReDIF-Series 1.0
+Name: SSE Working Paper Series in Economics
+Provider-Name: Stockholm School of Economics
+Provider-Postal: Stockholm School of Economics, P.O. Box 6501, 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/
+Provider-Institution:   RePEc:edi:dehhsse
+Maintainer-Name: Helena Lundin
+Maintainer-Email: Helena.Lundin@hhs.se
+Handle: RePEc:hhs:hastec
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: School of Economics and Business, Norwegian University of Life Sciences
+Provider-Postal: Centre for Land Tenure Studies, Norwegian University of Life Sciences, P.O. Box 5003, NO-1432 Aas, Norway
+Provider-Homepage: http://www.nmbu.no/en/about-nmbu/faculties/samvit/departments/hh
+Provider-Institution: RePEc:edi:ioumbno
+Maintainer-Name: Frode Alfnes
+Maintainer-Email: frode.alfnes@nmbu.no
+Handle: RePEc:hhs:nlsseb
+
+Template-Type: ReDIF-Series 1.0
+Name: LiU Working Papers in Economics
+Provider-Name: Division of Economics, Department of Management and Engineering, Linköping University
+Provider-Postal: Linköping University, SE-581 83 Linköping, Sweden
+Provider-Homepage: http://www.iei.liu.se/nek?l=sv
+Provider-Institution: RePEc:edi:anliuse
+Maintainer-Name: Ali Ahmed
+Maintainer-Email: ali.ahmed@liu.se
+Handle: RePEc:hhs:liuewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Occasional Papers
+Provider-Name: National Institute of Economic Research
+Provider-Postal: National Institute of Economic Research, P.O. Box 3116, SE-103 62 Stockholm, Sweden
+Provider-Homepage: http://www.konj.se/
+Provider-Institution: RePEc:edi:kongvse
+Maintainer-Name: Sarah Hegardt Grant
+Maintainer-Email: sarah.grant@konj.se
+Handle: RePEc:hhs:nieros
+
+Template-Type: ReDIF-Series 1.0
+Name: Working papers in Real Estate Science and Economics
+Provider-Name: Division of Real Estate Science, Lund University
+Provider-Postal: Division of Real Estate Science, Lund University, Box 118, 221 00 Lund, Sweden
+Provider-Homepage: http://www.lantm.lth.se/
+Provider-Institution: RePEc:edi:iflthse
+Maintainer-Name: Fredrik Kopsch
+Maintainer-Email: fredrik.kopsch@lantm.lth.se
+Handle: RePEc:hhs:lureal
+
+Template-Type: ReDIF-Series 1.0
+Name: SSE Working Paper Series in Economic History
+Provider-Name: Stockholm School of Economics
+Provider-Postal: Stockholm School of Economics, P.O. Box 6501, 113 83 Stockholm, Sweden
+Provider-Homepage: http://www.hhs.se/
+Provider-Institution:   RePEc:edi:dehhsse
+Maintainer-Name: Erik Lakomaa
+Maintainer-Email: erik.lakomaa@hhs.se
+Handle: RePEc:hhs:haechi

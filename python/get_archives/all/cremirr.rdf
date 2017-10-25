@@ -1,0 +1,13 @@
+Template-type: ReDIF-Mirror 1.0
+Archive-Handle: RePEc:cre
+Machine: crefe.dse.uqam.ca
+User: adrepec
+Group: adrepec
+ReDIF-only:
+Archives-excluded: RePEc:rus
+Directory: /usagers/ftp/pub/RePEc/remo
+Location: Montreal, Quebec, Canada
+Maintainer-Name: Christian Zimmermann
+Maintainer-Email: r14160@nobel.si.uqam.ca
+Description: A full mirror at CREFE/UQAM, to be treated for IDEAS at http://ideas.uqam.ca/
+

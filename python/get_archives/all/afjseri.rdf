@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: The African Finance Journal
+Provider-Name: Africagrowth Institute
+Provider-Homepage: http://www.africagrowth.com/
+Provider-Institution: RePEc:edi:afrgrza
+Maintainer-Name: Kirk De Doncker
+Maintainer-Email: info@africagrowth.com
+Type: ReDIF-Article
+Handle: RePEc:afj:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Africagrowth Agenda
+Provider-Name: Africagrowth Institute
+Provider-Homepage: http://www.africagrowth.com/
+Provider-Institution: RePEc:edi:afrgrza
+Maintainer-Name: Kirk De Doncker
+Maintainer-Email: kirk@africagrowth.com
+Type: ReDIF-Article
+Handle: RePEc:afj:journ2
+
+ 
+
+
+

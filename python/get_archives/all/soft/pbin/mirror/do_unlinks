@@ -1,0 +1,107 @@
+#!/usr/bin/perl -w
+#
+#
+#
+# Copyright (C) 1990 - 1998   Lee McLoughlin
+#
+# Permission to use, copy, and distribute this software and its
+# documentation for any purpose with or without fee is hereby granted,
+# provided that the above copyright notice appear in all copies and
+# that both that copyright notice and this permission notice appear
+# in supporting documentation.
+#
+# Permission to modify the software is granted, but not the right to
+# distribute the modified code.  Modifications are to be distributed
+# as patches to released version.
+#
+# This software is provided "as is" without express or implied warranty.
+#
+#
+#
+# Obey the remove commands generated but not done by mirror.
+# eg:
+# NEED TO unlink /public/micros/ibmpc/simtel20/sprdsht/tc810.arc
+# NEED TO rmdir /public/micros/ibmpc/simtel20/sprdsht
+
+# Usage: do_unlinks [-a] mirror_log_files
+# -show Show whats about to happen.
+# -show_only - just show - do not actually delete
+# -n	= -show_only
+# -a1   The original mirror used algorithm 1 so rmdir can safely delete
+#       an entire directory tree
+
+## Modified by Dirk Eddelbuettel <edd@debian.org> in February 1999 
+## to add more explicit command-line argument parsing
+
+use English;
+use vars qw($opt_h $opt_d $opt_v $opt_n $opt_a);
+use Getopt::Std;
+
+$PROGRAM_NAME =~ s|.*/||;	# strip everything before last slash
+$#ARGV >= 0 && getopts('hd:nva') && $#ARGV >= 0 or die("Try `$PROGRAM_NAME -h` for help screen.\n");
+
+
+if ($opt_h) {
+    print "Usage:\n  $PROGRAM_NAME [options] [...path]\n";
+    print "Options:\n";
+    print "  -d root\troot of the file tree\n";
+    print "  -a\t\talgorithm 1 was used, so we can delete entire tree\n";
+    print "  -n\t\tsimulate only what would be done, but don't do it\n";
+    print "  -v\t\tverbose operation, echo command before execution\n";
+    print "  -h\t\tshow this help\n";
+    print "path\t\tpath to a mirror log file\n";
+    print "See also:\ndo_unlinks(1), mirror(1).\n";
+    exit 0;
+}
+
+# A simple safety check - only delete if the pathname begins with this
+$del_only = $opt_d ? $opt_d : '/home/ftp/pub/';
+
+$rm = '/bin/rm -r';
+
+$algorithm = 0;
+
+$show_only = $opt_n ? 1 : 0;
+$show = $opt_v ? 1 : 0;
+$a1 = $opt_a ? 1 : 0;
+
+while( <> ){
+	# Skip local: and remote: lines quickly
+	next if /^lo/ || /^re/;
+	# No newline?  Must be a partial line - so stop
+	if( ! /\n$/ ){
+		exit;
+	}
+	chop;
+	next if /^rmdir .* failed: File exists/;
+	if( /^package=/ ){
+		$algorithm = 0;
+		next;
+	}
+	if( /^algorithm=(\d+)/ ){
+		$algorithm = $1;
+		next;
+	}
+
+	s/^(rmdir)\( (.*) \) before symlink failed: File exists$/rmdir $2/;
+	if( /^(NEED TO )?(unlink|rmdir) ($del_only.*)/ ){
+		local( $need, $cmd, $path ) = ( $1, $2, $3 );
+		$need = ' ' if ! defined( $need );
+		$zap = "$cmd('$path')";
+		if( $algorithm == 1 && $cmd eq 'rmdir' ){
+			$path =~ s/([^A-Za-z0-9\-_\/\.])/\\$1/g;
+			if( ! $a1 ){
+				print "no a1 so skipping: $rm $path\n";
+				next;
+			}
+			$zap = "system('$rm $path');1";
+		}
+		elsif( $need !~ /^NEED/ ){
+			warn "No NEED TO in $.:$_\n";
+			next;
+		}
+		print "$zap\n" if $show;
+		next if $show_only;
+		(eval "$zap") || warn "failed: $zap\n";
+	}
+}

@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Australian Journal of Labour Economics (AJLE)
+Provider-Name: Bankwest Curtin Economics Centre (BCEC), Curtin Business School
+Provider-Homepage: http://business.curtin.edu.au/research/publications/journals/ajle/
+Provider-Institution: RePEc:edi:becurau
+Maintainer-Name: Alan Duncan 
+Maintainer-Email: bcec@curtin.edu.au
+Type: ReDIF-Article
+Handle: RePEc:ozl:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Bankwest Curtin Economics Centre Working Paper series
+Provider-Name: Bankwest Curtin Economics Centre (BCEC), Curtin Business School
+Provider-Homepage: http://business.curtin.edu.au/bcec
+Provider-Institution: RePEc:edi:becurau
+Maintainer-Name: Naomi Cordell
+Maintainer-Email: bcec@curtin.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:ozl:bcecwp
+Editor-Name: Alan Duncan
+Editor-Email: bcec@curtin.edu.au
+ISSN: 2202-2791

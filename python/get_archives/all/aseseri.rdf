@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: working papers
+Provider-Name: Bucharest University of Economic Studies, School of Marketing
+Provider-Homepage: http://www.edumark.ase.ro
+Provider-Institution: RePEc:ase
+Maintainer-Name: Mihai Orzan
+Maintainer-Email: mihai.orzan@ase.ro
+Type: ReDIF-Paper
+Handle: RePEc:ase:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: marketing books
+Provider-Name: Bucharest University of Economic Studies, School of Marketing
+Provider-Homepage: http://www.edumark.ase.ro
+Provider-Institution: RePEc:ase
+Maintainer-Name: Mihai Orzan
+Maintainer-Email: mihai.orzan@ase.ro
+Type: ReDIF-Book
+Handle: RePEc:ase:mkbook
+
+Template-type: ReDIF-Series 1.0
+Name: Revista de Marketing Online (Journal of Online Marketing)
+Provider-Name: Bucharest University of Economic Studies, School of Marketing
+Provider-Homepage: http://www.edumark.ase.ro
+Provider-Institution: RePEc:ase
+Maintainer-Name: Mihai Orzan
+Maintainer-Email: mihai.orzan@ase.ro
+Type: ReDIF-Article
+Handle: RePEc:ase:journl

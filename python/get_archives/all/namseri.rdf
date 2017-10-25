@@ -1,0 +1,43 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: 
+Provider-Name: University of Namur, Department of Economics
+Provider-Homepage: http://www.fundp.ac.be/en/eco
+Provider-Institution: RePEc:edi:fsfunbe
+Maintainer-Name: Marie-Helene Mathieu   
+Maintainer-Email: marie-helene.mathieu@unamur.be
+Type: ReDIF-Paper
+Handle: RePEc:nam:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Serie Politique Economique
+
+Description: 
+Provider-Name: Facultes Universitaires Notre-Dame de la Paix, Centre de Recherches en Economie Regionale et Politique Economique
+Provider-Homepage: http://www.fundp.ac.be/eco/economie/cerpe
+Provider-Institution: RePEc:edi:crfunbe
+Maintainer-Name: Marie-Helene Mathieu   
+Maintainer-Email: marie-helene.mathieu@unamur.be
+Type: ReDIF-Paper
+Handle: RePEc:nam:spolec
+Template-type: ReDIF-Series 1.0
+Name: BeFinD Working Papers
+
+Description: 
+Provider-Name: University of Namur, Department of Economics
+Provider-Homepage: http://www.befind.be/
+Provider-Institution: RePEc:edi:fsfunbe
+Maintainer-Name: Marie-Helene Mathieu
+Maintainer-Email: marie-helene.mathieu@unamur.be
+Type: ReDIF-Paper
+Handle: RePEc:nam:befdwp
+Template-type: ReDIF-Series 1.0
+Name: BeFinD Policy Briefs
+Description:
+Provider-Name: University of Namur, Department of Economics
+Provider-Homepage: http://www.befind.be/
+Provider-Institution: RePEc:edi:fsfunbe
+Maintainer-Name: Marie-Helene Mathieu
+Maintainer-Email: marie-helene.mathieu@unamur.be
+Type: ReDIF-Paper
+Handle: RePEc:nam:befdpb

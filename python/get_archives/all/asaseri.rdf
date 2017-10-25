@@ -1,0 +1,124 @@
+<br />
+<b>Notice</b>:  Undefined index: HTTP_ACCEPTCODING in <b>/home/andreisa/public_html/andreisaguna/config.inc.php</b> on line <b>4</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/andreisa/public_html/andreisaguna/config.inc.php:4) in <b>/home/andreisa/public_html/andreisaguna/index.php</b> on line <b>18</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/andreisa/public_html/andreisaguna/config.inc.php:4) in <b>/home/andreisa/public_html/andreisaguna/index.php</b> on line <b>19</b><br />
+<!DOCTYPE html>
+<html lang="RePEc" itemscope itemtype="http://schema.org/EducationalOrganization">
+<head>
+<meta charset="utf-8" />
+<title>404 | </title><meta name="copyright" content="" />
+<meta name="author" content="Artevo Design, artevo.ro" />
+
+<link rel="icon" type="image/png" href="/images/favicon.png" />
+<link type="text/css" rel="stylesheet" href="/css/main.css" />
+<link type="text/css" rel="stylesheet" href="/css/form.css" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&subset=latin,latin-ext" />
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+
+<!--start ActiveLink-->
+<script type="text/javascript">
+	jQuery(function() {
+	  jQuery('.menu a').each(function() {
+		if (jQuery(this).attr('href')=='/RePEc/asa') {
+		  jQuery(this).addClass('activelink');
+		}
+	  });
+	});
+</script>
+<!--end ActiveLink-->
+
+
+<!--start GoogleAnalytics-->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10247054-2']);
+  _gaq.push(['_setDomainName', '.andreisaguna.ro']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--end GoogleAnalytics-->
+
+</head>
+<body>
+
+
+
+
+<div class="wrapper">
+
+
+	<div class="header_holder">
+		<div class="header">
+			
+			<div class="logo"><a href="/" title=""></a></div>
+			
+			<div class="search_box">
+				<form onsubmit="event.preventDefault();if($('#search_box').val().length>2) window.location.href='/RePEc/?qs='+$('#search_box').val();">
+					<input type="text" name="search_box" id="search_box"  maxlength="30" autocomplete="off" placeholder="" />
+				</form>
+			</div>
+			
+						
+		</div>
+	</div><!--end header-->
+	
+	
+	<div class="menu_holder">
+		<div class="menu">
+			<ul>
+							</ul>
+		</div>
+	</div><!--end menu-->
+	
+	
+		
+
+	<div class="content_holder">
+		<div class="content">
+		
+			<div class="error_404">
+	
+	<div align="center"><img src="/images/404.png" width="256" width="256" /></div>
+	
+	Oops! Ne pare rău, pagina cautată nu (mai) există !
+	
+</div>
+		</div>
+	</div><!--end content-->
+
+
+</div><!--end wrapper-->
+
+
+<div class="footer_holder">
+	<div class="footer">
+		<div class="footer_left">
+			<div><span>&copy;</span> 1992-2014 </div>
+			<div>Designed by <a href="http://www.artevo.ro/" title="Web, Logo &amp; Print design, SEO &amp; Promovare" target="_blank">Artevo Design</a></div>
+		</div>
+		<div class="footer_center">
+						<a href="/RePEc/" rel="nofollow"></a><span>|</span>
+			<a href="/RePEc/" rel="nofollow"></a><span>|</span>
+			<a href="/RePEc/Contact">Contact</a>
+		</div>
+		<div class="footer_right">
+			<div class="social_yt"><a href="" rel="nofollow" target="_blank" title=""></a></div>
+			<div class="social_gp"><a href="" rel="nofollow" target="_blank" title=""></a></div>
+			<div class="social_tw"><a href="" rel="nofollow" target="_blank" title=""></a></div>
+			<div class="social_fb"><a href="" rel="nofollow" target="_blank" title=""></a></div>
+			<div class="social_ap"><a href="" rel="nofollow" target="_blank" title=""></a></div>
+		</div>
+	</div>
+</div><!--end footer-->
+
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Management, Università Ca' Foscari Venezia 
+Provider-Homepage: http://www.unive.it/dip.management
+Provider-Institution: RePEc:edi:mdvenit
+Maintainer-Name: Marco LiCalzi
+Maintainer-Email: licalzi@unive.it
+Type: ReDIF-Paper
+Handle: RePEc:vnm:wpdman
+ISSN: 2239-2734
+
+Template-type: ReDIF-Series 1.0
+Name: Note di Ricerca
+Provider-Name: Department of Management, Università Ca' Foscari Venezia 
+Provider-Homepage: http://www.unive.it/dip.management
+Provider-Institution: RePEc:edi:mdvenit
+Maintainer-Name: Marco LiCalzi
+Maintainer-Email: licalzi@unive.it
+Type: ReDIF-Paper
+Handle: RePEc:vnm:notric
+ISSN: 2239-415X
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Applied Mathematics, Università Ca' Foscari Venezia 
+Provider-Homepage: http://www.dma.unive.it/
+Provider-Institution: RePEc:edi:dmvenit
+Maintainer-Name: Marco LiCalzi
+Maintainer-Email: licalzi@unive.it
+Type: ReDIF-Paper
+Handle: RePEc:vnm:wpaper
+ISSN: 1828-6887

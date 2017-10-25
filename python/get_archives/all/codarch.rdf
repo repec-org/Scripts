@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0  
+Handle: RePEc:cod
+Name: CodEc: the code archive at NetEc
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Description: This archive houses codes submitted to CodEc
+URL: ftp://ftp.repec.org/RePEc/cod/
+Homepage: ftp://ftp.repec.org/RePEc/cod/html/CodEc.html

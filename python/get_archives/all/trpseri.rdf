@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics and Financial Analysis
+Description: This is the official journal of the Tripal Publishing House.
+Provider-Name: Tripal Publishing House
+Provider-Institution: RePEc:trp:tripal
+Maintainer-Name: David Simon Hall
+Maintainer-Email: info@tripaledu.com
+Editor-Name: David Simon Hall
+Editor-Email: jefa@tripaledu.com
+ISSN: Print ISSN 2521-6627  Online ISSN 2521-6619
+Type: ReDIF-Article
+Handle: RePEc:trp:01jefa

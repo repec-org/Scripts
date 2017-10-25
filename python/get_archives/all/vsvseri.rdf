@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: Option Valuation under Stochastic Volatility
+Description: Books
+Provider-Name: Finance Press
+Provider-Homepage: http://www.optioncity.net/
+Provider-Phone: (949)720-9614
+Provider-Fax: (949)720-9631
+Type: ReDIF-Book
+Maintainer-Name: Alan Lewis
+Maintainer-Email: alanlewis@adelphia.net
+Handle: RePEc:vsv:vbooks
+
+Template-type: ReDIF-Series 1.0
+Name: Option Valuation under Stochastic Volatility
+Description: Chapter excerpts
+Provider-Name: Finance Press
+Provider-Homepage: http://www.optioncity.net/
+Provider-Phone: (949)720-9614
+Provider-Fax: (949)720-9631
+Type: ReDIF-Chapter
+Maintainer-Name: Alan Lewis
+Maintainer-Email: alanlewis@adelphia.net
+Handle: RePEc:vsv:svbook
+
+Template-type: ReDIF-Series 1.0
+Name: Related articles
+Description: Articles related to the book: 
+  Option Valuation under Stochastic Volatility  
+Provider-Name: Finance Press
+Provider-Homepage: http://www.optioncity.net
+Provider-Phone: (949)720-9614
+Provider-Fax: (949)720-9631
+Maintainer-Name: Alan Lewis
+Maintainer-Email: alanlewis@adelphia.net
+Handle: RePEc:vsv:svpubs

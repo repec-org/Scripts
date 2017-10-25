@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: IWI Discussion Paper Series
+Description: This is a series issued by the "Institut für Wirtschaftsinformatik" (Institute for Information Systems Research) of the Universität Hannover. Different topics related to the subject of information systems research are covered in this series.
+
+Type: ReDIF-Paper
+Provider-Name: Institut für Wirtschaftsinformatik, Universität Hannover
+Provider-Homepage: http://www.iwi.uni-hannover.de
+Provider-Phone: +49-511-762-4978
+Provider-Postal: Königsworther Platz 1, D-30167 Hannover
+Provider-Fax:
+Provider-Institution: RePEc:edi:iwhande
+Maintainer-Name: RePEc-Administrator
+Maintainer-Email: repec@iwi.uni-hannover.de
+
+Order-Email: info@iwi.uni-hannover.de
+
+Handle: RePEc:ifw:iwidps

@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: IRISS Working Paper Series
+Description: The IRISS working paper series disseminates research output of IRISS visitors during their stay at CEPS/INSTEAD and of IRISS resident staff. The series has been discontinued at the end of 2009 and is now merged into the CEPS/INSTEAD Working Paper series.
+Type: ReDIF-Paper
+Provider-Name: IRISS at CEPS/INSTEAD
+Provider-Homepage: http://iriss.ceps.lu/
+Provider-Postal: 11, Porte des Sciences, L-4366 Esch-sur-Alzette, G.-D. Luxembourg
+Provider-Institution: RePEc:edi:cepsslu
+Maintainer-Name: Philippe Van Kerm
+Maintainer-Email: philippe.vankerm@liser.lu
+Handle: RePEc:irs:iriswp
+
+Template-type: ReDIF-Series 1.0
+Name: LISER Working Paper Series
+Description: The LISER Working Paper Series is intended to make staff research findings freely available to sollicit comments and discussion. They have been approved for circulation by LISER but have not been peer-reviewed and are to be considered preliminary. 
+Provider-Name: LISER
+Provider-Homepage: https://www.liser.lu
+Provider-Postal: 11, Porte des Sciences, L-4366 Esch-sur-Alzette, G.-D. Luxembourg
+Provider-Institution: RePEc:edi:cepsslu
+Maintainer-Name: Library and Documentation
+Maintainer-Email: documentation@liser.lu
+Type: ReDIF-Paper
+Handle: RePEc:irs:cepswp

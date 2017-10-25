@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: National Tax Journal
+Provider-Name: National Tax Association
+Provider-Homepage: https://www.ntanet.org/
+Provider-Institution: RePEc:edi:ntaaaea
+Maintainer-Name: Ann Crampton
+Maintainer-Email: acrampton@hq.ntanet.org
+Editor-Name: Stacy Dickert-Conlin and William M. Gentry
+Editor-Email: wgentry@williams.edu
+Type: ReDIF-Article
+Handle: RePEc:ntj:journl

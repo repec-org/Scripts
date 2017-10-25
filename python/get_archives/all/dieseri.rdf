@@ -1,0 +1,61 @@
+Template-type: ReDIF-Series 1.0
+Name: DIE Briefing Paper Series
+Provider-Name: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE)
+Provider-Homepage: http://www.die-gdi.de
+Provider-Postal: Tulpenfeld 6, 53113 Bonn, Germany
+Provider-Email: presse@die-gdi.de
+Provider-Phone: +49 (0)228 94927-0
+Provider-Fax: 	+49 (0)228 94927-130
+Maintainer-Email: presse@die-gdi.de
+Handle: RePEc:die:bpaper
+
+Template-type: ReDIF-Series 1.0
+Name: DIE Discussion Paper Series
+Description: Discussion Paper Series of the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), Germany
+Provider-Name: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE)
+Provider-Homepage: http://www.die-gdi.de
+Provider-Postal: Tulpenfeld 6, 53113 Bonn, Germany
+Provider-Email: presse@die-gdi.de
+Provider-Phone: +49 (0)228 94927-0
+Provider-Fax: 	+49 (0)228 94927-130
+Maintainer-Email: presse@die-gdi.de
+Handle: RePEc:die:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Articles and other Publications Series
+Description: Articles and other Publications of the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), Germany
+Provider-Name: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE)
+Provider-Homepage: http://www.die-gdi.de
+Provider-Postal: Tulpenfeld 6, 53113 Bonn, Germany
+Provider-Email: presse@die-gdi.de
+Provider-Phone: +49 (0)228 94927-0
+Provider-Fax: 	+49 (0)228 94927-130
+Maintainer-Email: presse@die-gdi.de
+Type: ReDIF-Article
+Handle: RePEc:die:journl
+
+Template-type: ReDIF-Series 1.0
+Name: DIE Book Series
+Description: Books of the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), Germany
+Provider-Name: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE)
+Provider-Homepage: http://www.die-gdi.de
+Provider-Postal: Tulpenfeld 6, 53113 Bonn, Germany
+Provider-Email: presse@die-gdi.de
+Provider-Phone: +49 (0)228 94927-0
+Provider-Fax: 	+49 (0)228 94927-130
+Maintainer-Email: presse@die-gdi.de
+Type: ReDIF-Book
+Handle: RePEc:die:dbooks
+
+Template-type: ReDIF-Series 1.0
+Name: DIE Studies Series
+Description: Studies of the German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE), Germany
+Provider-Name: German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE)
+Provider-Homepage: http://www.die-gdi.de
+Provider-Postal: Tulpenfeld 6, 53113 Bonn, Germany
+Provider-Email: presse@die-gdi.de
+Provider-Phone: +49 (0)228 94927-0
+Provider-Fax: 	+49 (0)228 94927-130
+Maintainer-Email: presse@die-gdi.de
+Type: ReDIF-Book
+Handle: RePEc:die:studie

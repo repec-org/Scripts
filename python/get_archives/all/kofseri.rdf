@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: KOF Working papers
+Type: ReDIF-Paper
+Provider-Name: KOF Swiss Economic Institute, ETH Zurich 
+Provider-Homepage: http://www.kof.ethz.ch
+Provider-Institution: RePEc:edi:koethch
+Maintainer-Email: kof@kof.ethz.ch
+Handle: RePEc:kof:wpskof
+
+Template-type: ReDIF-Series 1.0
+Name: KOF Analysen
+Description: The “KOF Analysen” quarterly documents the KOF Economic Forecasts and academic research conducted by KOF in a non-technical fashion. They are indispensable for entrepreneurs and other people interested in the Swiss economy.
+Type: ReDIF-Article
+Provider-Name: KOF Swiss Economic Institute, ETH Zurich 
+Provider-Homepage: http://www.kof.ethz.ch
+Provider-Institution: RePEc:edi:koethch
+Maintainer-Email: kof@kof.ethz.ch
+Handle: RePEc:kof:anskof

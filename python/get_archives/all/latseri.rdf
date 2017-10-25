@@ -1,0 +1,60 @@
+Template-type:ReDIF-Series 1.0  
+Name:Institut des Mathématiques Economiques – Document de travail de l’I.M.E. (1974-1993)
+Type:ReDIF-Paper
+Provider-Name:Institut des Mathématiques Economiques. LATEC, Laboratoire d'Analyse et des Techniques EConomiques, CNRS, Université de Bourgogne
+Provider-Institution:RePEc:edi:latecfr
+ISSN:0292-2002
+Predecessor:That series is the predecessor of the serie :  LATEC - Document de travail - Economie. 
+Maintainer-Name: Odile Ferry
+Maintainer-Email: odile.ferry@u-bourgogne.fr
+Handle:RePEc:lat:imefth
+
+Template-type:ReDIF-Series 1.0  
+Name:LATEC - Document de travail - Economie  (1991-2003)
+Type:ReDIF-Paper
+Provider-Name:LATEC, Laboratoire d'Analyse et des Techniques EConomiques, CNRS UMR 5118, Université de Bourgogne
+Provider-Homepage:http://www.leg.u-bourgogne.fr/
+Provider-Postal:Pôle d'Economie et de Gestion - 2, bd Gabriel - BP 26611 - F-21066 Dijon cedex - France
+Provider-Institution:RePEc:edi:latecfr
+ISSN:1260-8556
+Followup:That series is the successor of the series IME. 
+Predecessor:That series is the predecessor of the serie : LEG - Document de travail - Economie.
+Maintainer-Name: Odile Ferry
+Maintainer-Email: odile.ferry@u-bourgogne.fr
+Handle:RePEc:lat:lateco
+
+Template-type:ReDIF-Series 1.0  
+Name:LEG - Document de travail - Economie
+Type:ReDIF-Paper
+Provider-Name:LEG, Laboratoire d'Economie et de Gestion, CNRS, Université de Bourgogne
+Provider-Homepage:http://www.leg.u-bourgogne.fr/
+Provider-Postal:Pôle d'Economie et de Gestion - 2, bd Gabriel - BP 26611 - F-21066 Dijon cedex - France
+Provider-Institution:RePEc:edi:latecfr
+ISSN:1260-8556
+Followup:That series is the successor of the serie : LATEC - Document de travail - Economie  (1991-2003). 
+Maintainer-Name: Odile Ferry
+Maintainer-Email: odile.ferry@u-bourgogne.fr
+Handle:RePEc:lat:legeco
+
+Template-type:ReDIF-Series 1.0  
+Name:LEG - CERMAB / Centre de Recherche en Marketing de Bourgogne - Cahier de recherche
+Type:ReDIF-Paper
+Provider-Name:LEG - CERMAB, CNRS UMR 5118, Université de Bourgogne
+Provider-Homepage:http://www.leg.u-bourgogne.fr/
+Provider-Postal:Pôle d'Economie et de Gestion - 2, bd Gabriel - BP 26611 - F-21066 Dijon cedex - France
+Provider-Institution:RePEc:edi:latecfr
+Maintainer-Name: Odile Ferry
+Maintainer-Email: odile.ferry@u-bourgogne.fr
+Handle:RePEc:lat:gstion
+
+Template-type:ReDIF-Series 1.0  
+Name:LEG - CERMAB / Centre de Recherche en Marketing de Bourgogne - Journées de Recherche en Marketing de Bourgogne
+Type:ReDIF-Paper
+Provider-Name:LEG - CERMAB, CNRS UMR 5118, Université de Bourgogne
+Provider-Homepage:http://www.leg.u-bourgogne.fr/
+Provider-Postal:Pôle d'Economie et de Gestion - 2, bd Gabriel - BP 26611 - F-21066 Dijon cedex - France
+Provider-Institution:RePEc:edi:latecfr
+Maintainer-Name: Odile Ferry
+Maintainer-Email: odile.ferry@u-bourgogne.fr
+Handle:RePEc:lat:gsjrmb
+ 

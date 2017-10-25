@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Departmental Working Papers
+Provider-Name: The Australian National University, Arndt-Corden Department of Economics
+Provider-Homepage: https://crawford.anu.edu.au/acde/publications/
+Provider-Institution: RePEc:edi:asanuau
+Maintainer-Name: Sandra Zec
+Maintainer-Email: sandra.zec@anu.edu.au
+Editor-Name: Sandra Zec
+Editor-Email: sandra.zec@anu.edu.au
+Handle: RePEc:pas:papers
+
+Template-type: ReDIF-Series 1.0
+Name: ASARC Working Papers
+Provider-Name: The Australian National University, Australia South Asia Research Centre
+Provider-Homepage: https://crawford.anu.edu.au/acde/asarc/
+Provider-Institution: RePEc:edi:asanuau
+Maintainer-Name: Raghbendra Jha
+Maintainer-Email: r.jha@anu.edu.au
+Editor-Name: Raghbendra Jha
+Editor-Email: r.jha@anu.edu.au
+Handle: RePEc:pas:asarcc

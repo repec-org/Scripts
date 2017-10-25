@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: HETFA Working Papers
+Description: Our Working Paper series includes studies published in compliance with scientific standards, investigating examined problems comprehensively, and analyzing corresponding factors in details.
+Provider-Name: HETFA Research Institute and Center for Economic and Social Analysis
+Provider-Homepage: http://hetfa.eu/category/publications/hetfa-working-paper-series/
+Maintainer-Name: Virag Zsar
+Maintainer-Email: zsarvirag@hetfa.hu
+ISSN: 2062-378X
+Type: ReDIF-Paper
+Handle: RePEc:het:wpaper
+Template-type: ReDIF-Series 1.0
+Name: HETFA Background Papers
+Description: Parts of the Background Paper Series include shorter professional analyses and the results of debates organized by HETFA. The purpose of these debates is to introduce the relationships of public politics to a wide range of readers.
+Provider-Name: HETFA Research Institute and Center for Economic and Social Analysis
+Provider-Homepage: http://hetfa.eu/category/publications/hetfa-background-papers/
+Maintainer-Name: Virag Zsar
+Maintainer-Email: zsarvirag@hetfa.hu
+ISSN: 2062-3798
+Type: ReDIF-Paper
+Handle: RePEc:het:bpaper
+Template-type: ReDIF-Series 1.0
+Name: Thirst for Science
+Description: The book is an extended and more problematizing and deeper analysis of the data collected throughout the social impact analyses carried out for the Researchers’ Nights programmes of 2010, 2011 and 2012.
+Provider-Name: HETFA & RCISD
+Provider-Homepage: http://hetfa.eu/
+Maintainer-Name: Virag Zsar
+Maintainer-Email: zsarvirag@hetfa.hu
+Type: ReDIF-Paper
+Handle: RePEc:het:rsbook

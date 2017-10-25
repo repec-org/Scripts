@@ -1,0 +1,69 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Description: This is the former working paper series for the Finance Discipline Group at the University of Technology Sydney. This series has been discontinued.
+Type: ReDIF-Paper
+Provider-Name: Finance Discipline Group, UTS Business School, University of Technology, Sydney
+Provider-Homepage: http://www.uts.edu.au/about/uts-business-school/finance
+Provider-Phone: +61 2 9514 7777
+Provider-Postal: PO Box 123, Broadway, NSW 2007, Australia
+Provider-Fax: +61 2 9514 7711
+Provider-Institution: RePEc:edi:sfutsau
+Maintainer-Name: Duncan Ford
+Maintainer-Email: Duncan.Ford@uts.edu.au
+Handle: RePEc:uts:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Research Paper Series
+Description: This is a research paper series for the Quantitative Finance Research Centre at the University of Technology Sydney
+Type: ReDIF-Paper
+Provider-Name: Quantitative Finance Research Centre, University of Technology, Sydney
+Provider-Homepage: http://www.qfrc.uts.edu.au/
+Provider-Phone: +61 2 9514 7777
+Provider-Postal: PO Box 123, Broadway, NSW 2007, Australia
+Provider-Fax: +61 2 9514 7711
+Provider-Institution: RePEc:edi:qfutsau
+Maintainer-Name: Duncan Ford
+Maintainer-Email: Duncan.Ford@uts.edu.au
+Handle: RePEc:uts:rpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Description: This is a working paper series for the Paul Woolley Centre for Capital Market Dysfunctionality at the University of Technology Sydney
+Type: ReDIF-Paper
+Provider-Name: The Paul Woolley Centre for Capital Market Dysfunctionality, University of Technology, Sydney
+Provider-Homepage: http://www.uts.edu.au/research-and-teaching/our-research/paul-woolley-centre
+Provider-Phone: +61 2 9514 7777
+Provider-Postal: PO Box 123, Broadway, NSW 2007, Australia
+Provider-Fax: +61 2 9514 7711
+Provider-Institution: RePEc:edi:pwutsau
+Maintainer-Name: Duncan Ford
+Maintainer-Email: Duncan.Ford@uts.edu.au
+Handle: RePEc:uts:pwcwps
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Description: This is a working paper series for the Economic Discipline Group at the University of Technology Sydney
+Type: ReDIF-Paper
+Provider-Name: Economics Discipline Group, UTS Business School, University of Technology, Sydney
+Provider-Homepage: http://www.uts.edu.au/about/uts-business-school/economics
+Provider-Phone: +61 2 9514 7777
+Provider-Postal: PO Box 123, Broadway, NSW 2007, Australia
+Provider-Fax: +61 2 9514 7711
+Provider-Institution: RePEc:edi:edutsau
+Maintainer-Name: Duncan Ford
+Maintainer-Email: Duncan.Ford@uts.edu.au
+Handle: RePEc:uts:ecowps
+
+Template-type: ReDIF-Series 1.0
+Name: PhD Thesis
+Description: A listing of PhD thesis for students from the Finance Discipline Group at the University of Technology Sydney
+Type: ReDIF-Book
+Provider-Name: Finance Discipline Group, UTS Business School, University of Technology, Sydney
+Provider-Homepage: http://www.uts.edu.au/about/uts-business-school/finance
+Provider-Phone: +61 2 9514 7777
+Provider-Postal: PO Box 123, Broadway, NSW 2007, Australia
+Provider-Fax: +61 2 9514 7711
+Provider-Institution: RePEc:edi:sfutsau
+Maintainer-Name: Duncan Ford
+Maintainer-Email: Duncan.Ford@uts.edu.au
+Handle: RePEc:uts:finphd

@@ -1,0 +1,34 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Gambling Business and Economics
+Description: 
+Provider-Name: University of Buckingham Press
+Provider-Homepage: http://www.ubpl.co.uk/
+Provider-Institution:
+Editor-Name: Leighton Vaughan Williams, Nottingham Business School
+Editor-Email: leighton.vaughan-williams@ntu.ac.uk
+Order-Email: christopher.woodhead@buckingham.ac.uk
+Order-Homepage: http://www.jgbe.com/index_files/Page492.htm
+Order-Postal:  
+Maintainer-Name: Victor Matheson, College of the Holy Cross	
+Maintainer-Email: vmatheso@holycross.edu
+ISSN: 1751-7990
+Type: ReDIF-Article
+Handle: RePEc:buc:jgbeco
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Prediction Markets
+Description: 
+Provider-Name: University of Buckingham Press
+Provider-Homepage: http://www.ubpl.co.uk/
+Provider-Institution:
+Editor-Name: Leighton Vaughan Williams, Nottingham Business School
+Editor-Email: leighton.vaughan-williams@ntu.ac.uk
+Order-Email: christopher.woodhead@buckingham.ac.uk
+Order-Homepage: http://www.predictionmarketjournal.com/index_files/Page418.htm
+Order-Postal:  
+Maintainer-Name: Victor Matheson, College of the Holy Cross	
+Maintainer-Email: vmatheso@holycross.edu
+ISSN: 1750-6751
+Type: ReDIF-Article
+Handle: RePEc:buc:jpredm
+

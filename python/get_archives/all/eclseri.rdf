@@ -1,0 +1,99 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Cornell University, Center for Analytic Economics
+Provider-Homepage: http://www.arts.cornell.edu/econ/CAE/workingpapers.html
+Provider-Institution: RePEc:edi:cacorus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:corcae
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: Harvard University, John F. Kennedy School of Government
+Provider-Homepage: http://www.ksg.harvard.edu/research/working_papers/index.htm
+Provider-Institution: RePEc:edi:ksharus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:harjfk
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Illinois at Urbana-Champaign, College of Business
+Provider-Homepage: http://www.business.uiuc.edu/Working_Papers/Main.asp
+Provider-Institution: RePEc:edi:cbuiuus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:illbus
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Provider-Name: Ohio State University, Charles A. Dice Center for Research in Financial Economics
+Provider-Homepage: http://www.cob.ohio-state.edu/fin/dice/list.htm
+Provider-Institution: RePEc:edi:cdohsus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:ohidic
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Pennsylvania State University, Department of Economics
+Provider-Homepage: http://econ.la.psu.edu/info/working_papers.html
+Provider-Institution: RePEc:edi:depsuus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:peneco
+
+Template-type: ReDIF-Series 1.0
+Name: Papers
+Provider-Name: Princeton University, Research Program in Political Economy
+Provider-Homepage: http://weblamp.princeton.edu/rppe/papers/papers.php
+Provider-Institution: RePEc:edi:rppprus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:prirpe
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Rice University, Department of Economics
+Provider-Homepage: http://www.ruf.rice.edu/~econ/papers/index.html
+Provider-Institution: RePEc:edi:dericus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:riceco
+
+Template-type: ReDIF-Series 1.0
+Name: Research Papers
+Provider-Name: Stanford University, Graduate School of Business
+Provider-Homepage: http://gsbapps.stanford.edu/researchpapers/
+Provider-Institution: RePEc:edi:gsstaus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:stabus
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Pennsylvania, Wharton School, Weiss Center
+Provider-Homepage: http://finance.wharton.upenn.edu/weiss/papers.html
+Provider-Institution: RePEc:edi:wcupaus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:upafin
+
+Template-type: ReDIF-Series 1.0
+Name: Staff Paper Series
+Provider-Name: University of Wisconsin, Agricultural and Applied Economics
+Provider-Homepage: http://www.aae.wisc.edu/pubs/sps/
+Provider-Institution: RePEc:edi:dauwius
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:wisagr
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Yale University, Department of Economics
+Provider-Homepage: http://www.econ.yale.edu/ddp/
+Provider-Institution: RePEc:edi:edyalus
+Maintainer-Email: workingpapers@econlit.org
+Type: ReDIF-Paper
+Handle: RePEc:ecl:yaleco
+

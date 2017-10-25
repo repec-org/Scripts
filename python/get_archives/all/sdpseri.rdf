@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Working Paper series of the Chilean Pension Supervisor. 
+Provider-Name: Superintendencia de Pensiones
+Provider-Institution: RePEc:edi:spegvcl
+Maintainer-Name: Andres Otero
+Maintainer-Email: aotero@spensiones.cl
+Type: ReDIF-Paper
+Handle: RePEc:sdp:sdpwps
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Description: Books written by the Chilean Pension Supervisor. 
+Provider-Name: Superintendencia de Pensiones
+Provider-Institution: RePEc:edi:spegvcl
+Maintainer-Name: Andres Otero
+Maintainer-Email: aotero@spensiones.cl
+Type: ReDIF-Book
+Handle: RePEc:sdp:sdpbks
+
+Template-type: ReDIF-Series 1.0
+Name: Software Components
+Description: Software Components of the Chilean Pension Supervisor. 
+Provider-Name: Superintendencia de Pensiones
+Provider-Institution: RePEc:edi:spegvcl
+Maintainer-Name: Andres Otero
+Maintainer-Email: aotero@spensiones.cl
+Type: ReDIF-Software
+Handle: RePEc:sdp:sdpsft

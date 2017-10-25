@@ -1,0 +1,32 @@
+Template-type:ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Working Papers
+Description: The working papers of the Central Reserve Bank of Perú are preliminary research documents disseminated to motivate discussion and analysis. 
+Provider-Name: Banco Central de Reserva del Perú
+Provider-Homepage: http://www.bcrp.gob.pe
+Provider-Institution: RePEc:edi:bcrgvpe
+Maintainer-Name: Research Unit
+Maintainer-Email: webmaster@bcrp.gob.pe
+Handle: RePEc:rbp:wpaper
+
+Template-type:ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Revista Estudios Económicos
+Description: Revista Estudios Económicos of the Central Reserve Bank of Perú is a economics journal disseminated to motivate discussion and analysis. 
+Provider-Name: Banco Central de Reserva del Perú
+Provider-Homepage: http://www.bcrp.gob.pe
+Provider-Institution: RePEc:edi:bcrgvpe
+Maintainer-Name: Departamento de Publicaciones Económicas
+Maintainer-Email: webmaster@bcrp.gob.pe
+Handle: RePEc:rbp:esteco
+
+Template-type:ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Revista Moneda
+Description: La Revista Moneda incluye temas económicos y culturales relacionados al Banco Central dirigido al público en general.
+Provider-Name: Banco Central de Reserva del Perú
+Provider-Homepage: http://www.bcrp.gob.pe
+Provider-Institution: RePEc:edi:bcrgvpe
+Maintainer-Name: Departamento de Publicaciones Económicas
+Maintainer-Email: webmaster@bcrp.gob.pe
+Handle: RePEc:rbp:moneda

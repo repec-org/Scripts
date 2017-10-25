@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Chung-Ang Unviersity, Department of Economics
+Provider-Homepage: http://www.jed.or.kr/
+Provider-Institution: RePEc:edi:eccaukr
+Maintainer-Name: Sung Y. Park
+Maintainer-Email: jedmail@cau.ac.kr
+Type: ReDIF-Paper
+Handle: RePEc:jed:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economic Development
+Description: This is the Journal of Economic Development
+Provider-Name: Chung-Ang Unviersity, Department of Economics
+Provider-Homepage: http://www.jed.or.kr/
+Provider-Institution: RePEc:edi:eccaukr
+Maintainer-Name: Sung Y. Park
+Maintainer-Email: jedmail@cau.ac.kr
+Editor-Name: Sung Y. Park
+Editor-Email: jedmail@cau.ac.kr
+Type: ReDIF-Article
+Handle: RePEc:jed:journl
+

@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Series 1.0
+Name: Economics Study Area Working Papers
+Description: Working papers from Fellows and Visiting Fellows in the Economics Study Area at the East West Center.
+Provider-Name: East-West Center, Economics Study Area
+Provider-Institution: RePEc:edi:ewchius
+Maintainer-Name: Brenda Higashimoto
+Maintainer-Email: higashib@eastwestcenter.org
+Type: ReDIF-Paper
+Handle: RePEc:ewc:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: Economics Study Area Special Reports
+Description: Books from Fellows and Visiting Fellows in the Economics Study Area at the East West Center.
+Provider-Name: East-West Center, Economics Study Area
+Provider-Institution: RePEc:edi:ewchius
+Maintainer-Name: Brenda Higashimoto
+Maintainer-Email: higashib@eastwestcenter.org
+Type: ReDIF-Book
+Handle: RePEc:ewc:report
+

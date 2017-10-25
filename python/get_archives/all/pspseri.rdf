@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Paper
+Provider-Name: Principled Societies Project
+Provider-Homepage: https://principledsocietiesproject.org
+Maintainer-Name: John Boik
+Maintainer-Email: john.boik@PrincipledSocietiesProject.org
+Type: ReDIF-Paper
+Handle: RePEc:psp:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Software 
+Description: Open-source software developed by Principled Societies Project
+Type: ReDIF-Software
+Provider-Name: Principled Societies Project
+Provider-Homepage: https://principledsocietiesproject.org
+Maintainer-Name: John Boik
+Maintainer-Email: john.boik@PrincipledSocietiesProject.org
+Handle: RePEc:psp:softwa
+
+Template-type: ReDIF-Series 1.0
+Name: Book
+Description: Books developed by Principled Societies Project
+Classification-JEL: B59, C63, E51, I31, J31, O15, P48, Q56
+Type: ReDIF-Book
+Provider-Name: Principled Societies Project
+Provider-Homepage: https://principledsocietiesproject.org
+Maintainer-Name: John Boik
+Maintainer-Email: john.boik@PrincipledSocietiesProject.org
+Handle: RePEc:psp:bookss

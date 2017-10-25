@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Homo Oeconomicus
+Description: Homo Oeconomicus is a quarterly international refereed journal devoted to the study of classical and neoclassical economics, public choice, collective decision-making, and law & economics.
+Provider-Name: Institute of SocioEconomics
+Provider-Institution: RePEc:edi:sohamde
+#Maintainer-Name: Matthew Braham
+#Maintainer-Email:  braham@econ.uni-hamburg.de
+Maintainer-Email: EconPapers@oru.se
+Followup: RePEc:spr:homoec
+Type: ReDIF-Article
+Handle: RePEc:hom:homoec

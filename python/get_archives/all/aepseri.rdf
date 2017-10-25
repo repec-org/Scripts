@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Amherst Economic Papers
+Description:Economics Working Papers from Amherst College, Amherst, Massachusetts, USA
+Restriction: None
+Type: ReDIF-Paper
+Provider-Name: Amherst College, Department of Economics
+Provider-Homepage: http://www.amherst.edu/~econ
+Provider-Institution: RePEc:edi:edamhus
+Maintainer-Name: Daniel Barbezat
+Maintainer-Email:  dpbarbezat@amherst.edu
+Handle: RePEc:aep:acewpa

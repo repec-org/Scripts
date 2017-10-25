@@ -1,0 +1,32 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: CEPN Working Papers
+Description: Documents de travail du CEPN
+Provider-Name: Centre d'Economie de l'Université de Paris Nord
+Provider-Homepage: https://cepn.univ-paris13.fr/
+Provider-Institution: RePEc:edi:cep13fr
+Maintainer-Name: Pascal Seppecher
+Maintainer-Email: pascal.seppecher@univ-paris13.fr
+Type: ReDIF-Paper
+Handle: RePEc:upn:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: CEPN Policy Brief
+Description: CEPN Policy Brief
+Provider-Name: Centre d'Economie de l'Université de Paris Nord
+Provider-Homepage: https://cepn.univ-paris13.fr/
+Provider-Institution: RePEc:edi:cep13fr
+Maintainer-Name: Pascal Seppecher
+Maintainer-Email: pascal.seppecher@univ-paris13.fr
+Type: ReDIF-Article
+Handle: RePEc:upn:policy
+
+Template-Type: ReDIF-Series 1.0
+Name: Java Agent-based Macro-Economic Laboratory Series
+Description: Jamel (Java Agent-based Macro-Economic Laboratory) is an open source agent-based framework dedicated to the modeling, the simulation and the analysis of complex monetary economies.
+Provider-Name: Centre d'Economie de l'Université de Paris Nord
+Provider-Homepage: https://cepn.univ-paris13.fr/
+Provider-Institution: RePEc:edi:cep13fr
+Maintainer-Name: Pascal Seppecher
+Maintainer-Email: pascal.seppecher@univ-paris13.fr
+Type: ReDIF-Software
+Handle: RePEc:upn:jamels

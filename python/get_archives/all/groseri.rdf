@@ -1,0 +1,79 @@
+Template-type: ReDIF-Series 1.0
+Name: CCSO Working Papers
+Provider-Name: University of Groningen, CCSO Centre for Economic Research 
+Provider-Homepage: http://www.rug.nl/research/portal/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Paper
+Handle: RePEc:gro:rugccs
+
+Template-type: ReDIF-Series 1.0
+Name: CDS Research Reports
+Provider-Name: University of Groningen, Centre for Development Studies (CDS)
+Provider-Homepage: http://www.rug.nl/research/globalisation-studies-groningen/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Paper
+Handle: RePEc:gro:rugcds
+
+Template-type: ReDIF-Series 1.0
+Name: COELO-rapport
+Provider-Name: University of Groningen, COELO (Centrum voor Onderzoek van de Economie van de Lagere Overheden)
+Provider-Homepage: http://www.rug.nl/research/coelo/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Paper
+Handle: RePEc:gro:rugcoe
+
+Template-type: ReDIF-Series 1.0
+Name: COELO-monografie
+Provider-Name: University of Groningen, COELO (Centrum voor Onderzoek van de Economie van de Lagere Overheden)
+Provider-Homepage: http://www.rug.nl/research/coelo/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Book
+Handle: RePEc:gro:rugcom
+
+Template-type:  ReDIF-Series 1.0
+Name: GGDC Research Memorandum
+Provider-Name: Groningen Growth and Development Centre, University of Groningen
+Provider-Homepage: http://www.rug.nl/research/ggdc/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Paper
+Handle: RePEc:gro:rugggd
+
+Template-type: ReDIF-Series 1.0
+Name: Research Reports
+Provider-Name: University of Groningen, Population Research Centre (PRC)
+Provider-Homepage: http://www.rug.nl/research/ursi/prc/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Paper
+Handle: RePEc:gro:rugprc
+
+Template-type: ReDIF-Series 1.0
+Name: Research Report
+Provider-Name: University of Groningen, Research Institute SOM (Systems, Organisations and Management)
+Provider-Homepage: http://www.rug.nl/research/som-ri/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Paper
+Handle: RePEc:gro:rugsom
+
+Template-type: ReDIF-Series 1.0
+Name: Research Reports
+Provider-Name: University of Groningen, Urban and Regional Studies Institute (URSI)
+Provider-Homepage: http://www.rug.nl/research/ursi/
+Provider-Institution: RePEc:edi:ferugnl
+Maintainer-Name:  Hanneke Tamling
+Maintainer-Email: h.g.tamling@rug.nl
+Type: ReDIF-Paper
+Handle: RePEc:gro:rugurs 

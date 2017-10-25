@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Computers in Higher Education Economics Review
+Description: Papers from Computers in Higher Education Economics Review
+Classification-JEL: A2
+Provider-Institution: RePEc:edi:eltsnuk
+Provider-Name: Economics Network, University of Bristol
+Provider-Homepage: http://www.economicsnetwork.ac.uk/cheer
+Provider-Postal: University of Bristol, BS8 1HH, United Kingdom
+Provider-Fax: +44(0)117 331 4396
+Editor-Name: W. David McCausland
+Editor-Email: d.mccausland@abdn.ac.uk
+Order-Email: econ-network@bristol.ac.uk
+Maintainer-Name: Martin Poulter
+Maintainer-Email: econ-network@bristol.ac.uk
+Handle: RePEc:che:chepap
+Type: ReDIF-Article
+
+Template-type: ReDIF-Series 1.0
+Name: International Review of Economic Education
+Description: Papers from the International Review of Economic Education
+Classification-JEL: A2
+Provider-Institution: RePEc:edi:eltsnuk
+Provider-Name: Economics Network, University of Bristol
+Provider-Homepage: http://www.economicsnetwork.ac.uk/iree
+Provider-Postal: University of Bristol, BS8 1HH, United Kingdom
+Provider-Fax: +44(0)117 331 4396
+Order-Email: econ-network@bristol.ac.uk
+Maintainer-Name: Martin Poulter
+Maintainer-Email: econ-network@bristol.ac.uk
+Handle: RePEc:che:ireepp
+Type: ReDIF-Article

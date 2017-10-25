@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: School of Economics Working Papers
+Provider-Name: University of Adelaide, School of Economics
+Provider-Homepage: http://www.economics.adelaide.edu.au/
+Provider-Institution: RePEc:edi:decadau
+Maintainer-Name: Eran Binenbaum
+Maintainer-Email: eran.binenbaum@adelaide.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:adl:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Centre for International Economic Studies Working Papers
+Provider-Name: University of Adelaide, Centre for International Economic Studies
+Provider-Homepage: http://www.adelaide.edu.au/cies/
+Provider-Institution: RePEc:edi:cieadau
+Maintainer-Name: Dmitriy Kvasov
+Maintainer-Email: dmitriy.kvasov@adelaide.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:adl:cieswp
+
+Template-type: ReDIF-Series 1.0
+Name: Chinese Economies Research Centre (CERC) Working Papers
+Provider-Name: University of Adelaide, Chinese Economies Research Centre
+Provider-Homepage: http://www.adelaide.edu.au/cies/research/china/
+Provider-Institution: RePEc:edi:ceradau
+Maintainer-Name: Dmitriy Kvasov
+Maintainer-Email: dmitriy.kvasov@adelaide.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:adl:cercwp
+
+Template-type: ReDIF-Series 1.0
+Name: Wine Economics Research Centre Working Papers
+Provider-Name: University of Adelaide, Wine Economics Research Centre
+Provider-Homepage: http://www.adelaide.edu.au/wine-econ/
+Provider-Institution: RePEc:edi:decadau
+Maintainer-Name: Kym Anderson
+Maintainer-Email: kym.anderson@adelaide.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:adl:winewp

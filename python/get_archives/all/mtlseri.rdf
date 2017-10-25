@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Cahiers de recherche
+Provider-Name: Universite de Montreal, Departement de sciences economiques
+Provider-Homepage: http://www.sceco.umontreal.ca
+Provider-Institution: RePEc:edi:demtlca
+Maintainer-Name: Sharon BREWER
+Maintainer-Email: sharon.brewer@umontreal.ca
+Handle: RePEc:mtl:montde
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Cahiers de recherche
+Provider-Name: Centre interuniversitaire de recherche en économie quantitative, CIREQ
+Provider-Homepage: http://www.cireq.umontreal.ca
+Provider-Institution: RePEc:edi:cdmtlca
+Maintainer-Name: Sharon BREWER
+Maintainer-Email: sharon.brewer@umontreal.ca
+Handle: RePEc:mtl:montec

@@ -1,0 +1,344 @@
+
+#Template-Type: ReDIF-Series 1.0
+#Name: Discussion Papers
+#Provider-Name: Department of Economics, University of Essex
+#Provider-Postal: Department of Economics, University of Essex, Wivenhoe 
+#Park, COLCHESTER. CO4 3SQ  Essex. CO4 3SQ. U.K.
+#Provider-Homepage: http://www.essex.ac.uk/economics/
+#Provider-Phone: +44-1206-872728
+#Provider-Fax: +44-1206-872724
+#Provider-Institution: RePEc:edi:edessuk
+#Order-Email: cudmc@essex.ac.uk
+#Order-Homepage: http://www.essex.ac.uk/economics/grads/discpape.html
+#Order-Postal:
+#Maintainer-Name: WoPEc Project
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wuk:essedp
+
+#Template-Type: ReDIF-Series 1.0
+#Name: Discussion Papers 
+#Provider-Name: Department of Economics,  Keele University, Keele, 
+#Staffs, ST5 5BG 
+#Provider-Postal: Department of Economics, 
+#Provider-Homepage: 
+#http://www.keele.ac.uk/depts/ec/web/wpapers/wpapers.htm
+#Provider-Phone: 01782 58 3091 
+#Provider-Fax: 01782 717577 
+#Provider-Institution: RePEc:edi:dekeeuk
+#Maintainer-Name: WoPEc Project
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wuk:keeldp
+
+Template-Type: ReDIF-Series 1.0
+Name: Research Papers
+Provider-Name: CENTRE FOR RESEARCH IN EUROPEAN ECONOMICS AND FINANCE (CREEF)
+Provider-Email: P.S.Blake@lboro.ac.uk 
+Provider-Postal:  Department of Economics, Loughborough University, Loughborough, Leicestershire.  LE11 3TU   United Kingdom 
+Provider-Homepage: http://info.lboro.ac.uk/departments/ec/creefind.html
+Provider-Phone: +44 1509 222729
+Provider-Fax: +44 (0) 1509 223910
+Provider-Institution: RePEc:edi:delbouk
+Order-Email: D.L.Simpson2@Lboro.ac.uk 
+Order-Email: G.Brentnall@Lboro.ac.uk. 
+Order-Homepage:
+Order-Postal: 
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:creefp
+
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers
+Provider-Name: Victoria University of Manchester, Department of Economics 
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:manvec
+
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of Wales, Aberystwyth, Department of Economics 
+Provider-Homepage: http://www.aber.ac.uk/~ecowww/
+Provider-Institution: RePEc:edi:deabeuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:waecwp
+
+Template-Type: ReDIF-Series 1.0
+Name: ICMM Discussion Papers 
+Provider-Name:  Department of Economics University of Strathclyde
+Provider-Email:  economics@strath.ac.uk
+Provider-Postal: Department of Economics University of Strathclyde 100 Cathedral Sreet Glasgow G4 0LN Scotland, UK 
+Provider-Homepage: http://www.strath.ac.uk/Departments/Economics/
+Provider-Phone:  +44 (0)141 548 3842 
+Provider-Fax: +44 (0)141 552 5589 
+Provider-Institution: RePEc:edi:edstruk
+Order-Homepage: http://www.strath.ac.uk/Departments/Economics/Dpapers/icmm.htm
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:strewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers 
+Provider-Name: Department of Economics, University of Wales, Aberystwyth
+Provider-Email:  ecowwww@aber.ac.uk
+Provider-Postal: Department of Economics, University of Wales,Aberystwyth  Penglais, Ceredigion, SY23 3DD, United Kingdom
+Provider-Homepage: http://www.aber.ac.uk/~ecowww/index.html
+Provider-Phone:  (01970) 622500
+Provider-Fax:  (01970) 622740
+Provider-Institution: RePEc:edi:deabeuk
+Order-Homepage: http://www.aber.ac.uk/~ecowww/Research/frames.html 
+Order-Postal:
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:aberwp
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers 
+Provider-Name: Centre for the Economics and  Management of Aquatic Resources
+Provider-Email: baronj@pbs.port.ac.uk 
+Provider-Postal: Centre for the Economics and Management of Aquatic Resources (CEMARE)   Department of Economics University of Portsmouth Milton Campus Locksway Road Portsmouth United Kingdom PO4 8JF 
+Provider-Homepage: http://www.pbs.port.ac.uk/econ/index.html
+Provider-Phone:  44 (0)1705 844082 
+Provider-Fax:  +44 (0)1705 844037
+Provider-Institution: RePEc:edi:cepbsuk
+Order-Homepage: http://www.pbs.port.ac.uk/econ/cemare/papers.htm 
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:cemawp
+
+Template-Type: ReDIF-Series 1.0
+Name: Ace Project Memoranda
+Provider-Name: Department of Economics, University of Leicester 
+Provider-Email:  Economics@le.ac.uk.
+Provider-Postal: Department of Economics University of Leicester, University Road. Leicester. LE1 7RH. UK 
+Provider-Homepage: http://www.le.ac.uk/economics/ec.html
+Provider-Phone: +44 (0)116 252 2887
+Provider-Fax: +44 (0)116 252 2908
+Provider-Institution: RePEc:edi:deleiuk
+Order-Email:
+Order-Homepage: http://www.le.ac.uk/economics/research/dpseries.html
+Order-Postal:
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:leiapm
+
+Template-Type: ReDIF-Series 1.0
+Name: Hume Papers
+Provider-Name: David Hume Institute
+Provider-Email: Hume_Institute@ed.ac.uk 
+Provider-Postal:The David Hume Institute 21 George Square Edinburgh EH8 9LD  Scotland          
+Provider-Homepage: http://www.ed.ac.uk/~hume/
+Provider-Phone: 44 131-650-4633
+Provider-Fax: 44 131-667-9111
+Provider-Institution: RePEc:edi:dhumeuk
+Order-Email:
+Order-Homepage:
+Order-Postal: 
+Price: 5 pounds
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:dhumec
+
+Template-Type: ReDIF-Series 1.0
+Name: Hume Papers on Public Policy
+Provider-Name: David Hume Institute
+Provider-Email: Hume_Institute@ed.ac.uk 
+Provider-Postal:The David Hume Institute 21 George Square Edinburgh
+  EH8 9LD  Scotland          
+Provider-Homepage: http://www.ed.ac.uk/~hume/
+Provider-Phone: 44 131-650-4633
+Provider-Fax: 44 131-667-9111
+Provider-Institution: RePEc:edi:dhumeuk
+Order-Email:
+Order-Homepage:
+Order-Postal: 
+Price: 9.95 pounds
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:dhuppp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers 
+Provider-Name:  Faculty of Economics and Social Sciences, 
+ The Nottingham Trent University
+Provider-Email: Bell@ntu.ac.uk
+Provider-Postal: The Nottingham Trent University, Burton Street,
+  Nottingham, NG1 4BU
+Provider-Homepage: http://www.ntu.ac.uk/epa/economics
+Provider-Phone: (0115) 941 8418 ext: 5537 
+Provider-Fax:
+Provider-Institution: RePEc:edi:dentuuk
+Order-Email:
+Order-Homepage: http://www.ntu.ac.uk/epa/economics/papers.htm
+Order-Postal: Sandra Odell, Faculty of Economics and Social Sciences,
+  The Nottingham Trent University, Burton Street,  Nottingham, NG1 4BU, 
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:ntuewp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers 
+Provider-Name: Department of Accounting, Economics & Languages,
+ University of Paisley 
+Provider-Email: ael@paisley.ac.uk
+Provider-Postal: Paisley Campus Paisley,PA1 2BE
+Provider-Homepage: http://www.paisley.ac.uk/depts/ae-index.htm
+Provider-Phone: 0141 848 3351
+Provider-Fax: 0141 848 3618
+Provider-Institution: RePEc:edi:dapaiuk
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:pasems
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Economics, University of Aberdeen 
+Provider-Email: d.mccausland@abdn.ac.uk
+Provider-Postal: Department of Economics  University of Aberdeen
+  Edward Wright Building   Dunbar Street   Old Aberdeen    AB24 3QY  
+Provider-Institution: RePEc:edi:deabduk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:abdnwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Consultative Papers
+Provider-Name: Bank of England 
+Provider-Institution: RePEc:edi:boegvuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:baencp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Finance Research Papers
+Provider-Name: University of Cambridge, The Judge Institute 
+Provider-Institution: RePEc:edi:jicamuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:cajirp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name: University of Canterbury, Department of Economics 
+#Maintainer-Name: WoPEc Project
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wuk:cantec
+
+#Template-Type: ReDIF-Series 1.0
+#Name: Papers
+#Provider-Name: University of East Anglia, Economics Research Centre
+#Provider-Homepage: http://www.uea.ac.uk/menu/acad_depts/soc/menu.html
+#Provider-Institution: RePEc:edi:esueauk
+#Maintainer-Name: WoPEc Project
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wuk:eaercp
+
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of East London, Department of Economics 
+Provider-Homepage: http://www.uel.ac.uk:80/faculties/socsci/economics
+Provider-Institution: RePEc:edi:edueluk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:elecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Discussion Papers
+Provider-Name: Brunel University, Health Economics Research Group 
+Provider-Institution: RePEc:edi:hebruuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:hergdp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Occasional Papers
+Provider-Name: The Public Enquiries Unit, HM Treasury
+Provider-Phone: 0171 270 4558
+Provider-Postal: Room 110/2, Treasury Chambers Parliament Street, London
+  	SW1P 3AG
+Provider-Fax: 0171 270 5244
+Provider-Institution: RePEc:edi:tregvuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:hmtrop
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Department of Economics, University of Lancaster
+Provider-Homepage: http://www.lums.lancs.ac.uk/econ/wkpap.htm
+Provider-Postal: Department of Economics The Management School Lancaster University Lancaster LA1 4YX UK 
+Provider-Phone: +44 (0) 1524 594228 
+Provider-Fax: +44 (0) 1524 594244 
+Provider-Email: Economics@Lancaster.ac.uk 
+Provider-Institution: RePEc:edi:delanuk
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:lanedp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: London Business School 
+Provider-Institution: RePEc:edi:lobusuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:lobuwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Discussion Papers
+Provider-Name: Manchester Metropolitan University, Centre for Policy
+  Modelling 
+Provider-Homepage: http://www.cpm.mmu.ac.uk
+Provider-Institution: RePEc:edi:cpmmuuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:mcpmdp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Paper
+Editor-Name: Dr R. McQuaid
+Editor-Email: r.mcquaid@napier.ac.uk
+Provider-Name: Departement of Economics, Napier University
+Provider-Postal: Department of Economics, Napier University,
+  Sighthill, Sighthill Court, Edinburgh, EH11 4BN 
+Provider-Institution: RePEc:edi:denapuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:napier
+
+Template-Type: ReDIF-Series 1.0
+Name: SMF Discussion Paper Series
+Provider-Name: University of Nottingham, School of Management & Finance
+Provider-Postal: The School of Management & Finance. University of Nottingham. University Park, Nottingham NG7 2RD United Kingdom
+Provider-Institution: RePEc:edi:smnotuk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:nofidp 
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Discussion Papers
+#Provider-Name: Oxford University, Economic and Social History 
+#Provider-Institution: RePEc:edi:eshoxec
+#Maintainer-Name: WoPEc Project
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wuk:oxehdp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Staffordshire University, Business School
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:stafwp
+
+
+Template-Type: ReDIF-Series 1.0
+Name:  Discussion Papers
+Provider-Name: University College London, Department of Economics 
+Provider-Homepage: http://www.ucl.ac.uk/economics/
+Provider-Institution: RePEc:edi:deucluk
+Maintainer-Name: WoPEc Project
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wuk:ucloec

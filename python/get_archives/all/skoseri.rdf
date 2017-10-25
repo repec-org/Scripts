@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Yearbook of St Kliment Ohridski University of Sofia, Faculty of Economics and Business Administration
+Provider-Name: St Kliment Ohridski University of Sofia, Faculty of Economics and Business Administration
+Provider-Homepage: http://www.uni-sofia.bg/feba
+Provider-Institution: RePEc:edi:fesofbg
+ISSN: 1311-8420
+Maintainer-Name: Teodor Sedlarski
+Maintainer-Email: sedlarski@feb.uni-sofia.bg
+Type: ReDIF-Article
+Handle: RePEc:sko:yrbook
+Template-type: ReDIF-Series 1.0
+Name: Bulgarian Economic Papers (www.bep.bg)
+Provider-Name: St Kliment Ohridski University of Sofia, Faculty of Economics and Business Administration / Center for Economic Theories and Policies
+Provider-Homepage: http://www.uni-sofia.bg/feba
+Provider-Institution: RePEc:edi:fesofbg
+Maintainer-Name: Teodor Sedlarski
+Maintainer-Email: sedlarski@feb.uni-sofia.bg
+Type: ReDIF-Paper
+Handle: RePEc:sko:wpaper

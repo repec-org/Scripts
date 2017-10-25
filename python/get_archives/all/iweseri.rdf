@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: IWE Working Papers
+Provider-Name: Institute for World Economics - Centre for Economic and Regional Studies- Hungarian Academy of Sciences
+Provider-Homepage: http://www.vki.hu/
+Provider-Institution: RePEc:edi:vkhashu
+Maintainer-Name: Kanász Mária
+Maintainer-Email: kanasz.maria@krtk.mta.hu
+Type: ReDIF-Paper
+Handle: RePEc:iwe:workpr
+
+
+Template-type: ReDIF-Series 1.0
+Name: East European Studies
+Provider-Name: Institute for World Economics - Centre for Economic and Regional Studies- Hungarian Academy of Sciences
+Provider-Homepage: http://www.vki.hu/
+Provider-Institution: RePEc:edi:vkhashu
+Maintainer-Name: Kanász Mária
+Maintainer-Email: kanasz.maria@krtk.mta.hu
+Type: ReDIF-Book
+Handle: RePEc:iwe:bookse
+
+
+Template-type: ReDIF-Series 1.0
+Name: Economic books
+Provider-Name: Institute for World Economics - Centre for Economic and Regional Studies- Hungarian Academy of Sciences
+Provider-Homepage: http://www.vki.hu/
+Provider-Institution: RePEc:edi:vkhashu
+Maintainer-Name: Kanász Mária
+Maintainer-Email: kanasz.maria@krtk.mta.hu
+Type: ReDIF-Book
+Handle: RePEc:iwe:ecbook

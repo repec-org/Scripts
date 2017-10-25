@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: Environment and Planning A
+Provider-Name: Pion Ltd, London
+Provider-Homepage: http://www.pion.co.uk
+Maintainer-Name: Neil Hammond
+Maintainer-Email: online@pion.co.uk
+Type: ReDIF-Article
+Restriction: Fulltext access restricted to subscribers, see http://www.envplan.co.uk/A.html for details
+Notification: For email notification of new EPA papers, see http://www.envplan.com/alertregister.cgi?journal=A
+ISSN: print 0308-518X, electronic 1472-3409
+Handle: RePEc:pio:envira
+
+Template-type: ReDIF-Series 1.0
+Name: Environment and Planning B: Planning and Design
+Provider-Name: Pion Ltd, London
+Provider-Homepage: http://www.pion.co.uk
+Maintainer-Name: Neil Hammond
+Maintainer-Email: online@pion.co.uk
+Type: ReDIF-Article
+Restriction: Fulltext access restricted to subscribers, see http://www.envplan.co.uk/B.html for details
+Notification: For email notification of new EPB papers, see http://www.envplan.com/alertregister.cgi?journal=B
+ISSN: print 0265-8135, electronic 1472-3417
+Handle: RePEc:pio:envirb
+
+Template-type: ReDIF-Series 1.0
+Name: Environment and Planning C: Government and Policy
+Provider-Name: Pion Ltd, London
+Provider-Homepage: http://www.pion.co.uk
+Maintainer-Name: Neil Hammond
+Maintainer-Email: online@pion.co.uk
+Type: ReDIF-Article
+Restriction: Fulltext access restricted to subscribers, see http://www.envplan.co.uk/C.html for details
+Notification: For email notification of new EPC papers, see http://www.envplan.com/alertregister.cgi?journal=C
+ISSN: print 0263-774X, electronic 1472-3425
+Handle: RePEc:pio:envirc

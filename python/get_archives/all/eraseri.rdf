@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Series of working papers of the Economic Research Institute for ASEAN and East Asia
+Provider-Name: Economic Research Institute for ASEAN and East Asia (ERIA)
+Provider-Institution: RePEc:edi:eriadid
+Maintainer-Name: Hiroshi Okasaki
+Maintainer-Email: hiroshi.okasaki@eria.org
+Type: ReDIF-Paper
+Handle: RePEc:era:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Description: Series of books of the Economic Research Institute for ASEAN and East Asia
+Provider-Name: Economic Research Institute for ASEAN and East Asia (ERIA)
+Provider-Institution: RePEc:edi:eriadid
+Maintainer-Name: Hiroshi Okasaki
+Maintainer-Email: hiroshi.okasaki@eria.org
+Type: ReDIF-Book
+Handle: RePEc:era:eriabk
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters
+Description: Series of chapters from the books of the Economic Research Institute for ASEAN and East Asia
+Provider-Name: Economic Research Institute for ASEAN and East Asia (ERIA)
+Provider-Institution: RePEc:edi:eriadid
+Maintainer-Name: Hiroshi Okasaki
+Maintainer-Email: hiroshi.okasaki@eria.org
+Type: ReDIF-Chapter
+Handle: RePEc:era:chaptr

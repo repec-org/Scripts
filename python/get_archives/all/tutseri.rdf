@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics Working Paper Archive (University of Rennes 1 & University of Caen)
+Description: This archive collects working papers from the Center for Research in Economics and Management (CREM -UMR CNRS 6211),
+Classification-JEL: 
+Type: ReDIF-Paper
+Provider-Name: Center for Research in Economics and Management (CREM), University of Rennes 1, University of Caen and CNRS 
+Provider-Homepage: https://crem-doc.univ-rennes1.fr/
+Provider-Postal: CREM (UMR CNRS 6211) – Faculty of Economics, 7 place Hoche, 35065 RENNES Cedex
+Provider-Fax: (33) 2 23 23 35 99
+Provider-Institution: RePEc:edi:crmrefr
+Maintainer-Name: CODA-POIREY Hélène
+Maintainer-Email: helene.coda@univ-rennes1.fr
+Order-Email: helene.coda@univ-rennes1.fr
+Order-Postal: CREM (UMR CNRS 6211) - Faculty of Economics, 7 place Hoche, 35065 Rennes Cedex - France 
+Handle: RePEc:tut:cremwp
+
+Template-type: ReDIF-Series 1.0
+Name: Economics Working Paper from Condorcet Center for political Economy at CREM-CNRS
+Description: This archive collects working papers from the Center for Research in Economics and Management (CREM -UMR CNRS 6211),
+Classification-JEL: 
+Type: ReDIF-Paper
+Provider-Name: Condorcet Center for political Economy
+Provider-Homepage: http://www.condorcet-center.fr
+Provider-Postal: CREM (UMR CNRS 6211) – Faculty of Economics, 7 place Hoche, 35065 RENNES Cedex
+Provider-Fax: (33) 2 23 23 35 99
+Provider-Institution: RePEc:edi:cccrmfr
+Maintainer-Name: CODA-POIREY Hélène
+Maintainer-Email: helene.coda@univ-rennes1.fr
+Order-Email: helene.coda@univ-rennes1.fr
+Order-Postal: CREM (UMR CNRS 6211) - Faculty of Economics, 7 place Hoche, 35065 Rennes Cedex - France 
+Handle: RePEc:tut:cccrwp

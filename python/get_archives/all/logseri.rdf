@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Laboratoire Orléanais de Gestion - université d'Orléans
+Provider-Homepage: http://www.univ-orleans.fr/log/
+Provider-Institution: RePEc:edi:loorlfr
+Maintainer-Name: Philippe Paquet
+Maintainer-Email: philippe.paquet@univ-orleans.fr
+Type: ReDIF-Paper
+Handle: RePEc:log:wpaper
+

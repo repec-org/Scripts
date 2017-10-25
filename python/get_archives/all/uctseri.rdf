@@ -1,0 +1,70 @@
+Template-Type: ReDIF-Series 1.0
+Name: Working  papers
+Provider-Name: University of Connecticut, Department of Economics
+Provider-Postal: University of Connecticut
+                              365 Fairfield Way, Unit 1063
+                                 Storrs, CT  06269-1063
+Provider-Institution: RePEc:edi:deuctus
+Maintainer-Name: Mark McConnel
+Maintainer-Email: mark.mcconnel@uconn.edu
+Handle: RePEc:uct:uconnp
+
+Template-Type: ReDIF-Series 1.0
+Name: Alumni working  papers
+Provider-Name: University of Connecticut, Department of Economics
+Provider-Postal: University of Connecticut
+                              365 Fairfield Way, Unit 1063
+                                 Storrs, CT  06269-1063
+Provider-Institution: RePEc:edi:deuctus
+Maintainer-Name: Mark McConnel
+Maintainer-Email: mark.mcconnel@uconn.edu
+Handle: RePEc:uct:alumni
+
+Template-Type: ReDIF-Series 1.0
+Name: Economic Rights Working  Papers
+Provider-Name: University of Connecticut, Human Rights Institute
+Provider-Postal: University of Connecticut
+	Thomas J. Dodd Research Center
+                              405 Babbidge Road, Unit 1205
+                                 Storrs, CT  06269-1205
+Provider-Homepage: http://www.humanrights.uconn.edu/
+Provider-Phone: 860-486-8739
+Provider-Fax: 860-486-6332
+Editor-Name: Lanse Minkler
+Editor-Email: alanson.minkler@uconn.edu
+Maintainer-Name: Mark McConnel
+Maintainer-Email: mark.mcconnel@uconn.edu
+Handle: RePEc:uct:ecriwp
+
+
+Template-Type: ReDIF-Series 1.0
+Name: CCEA Studies
+Provider-Name: University of Connecticut, Connecticut Center for Economic 
+ Analysis
+Provider-Postal: University of Connecticut
+                              2100 Hillside Road, Unit 1240
+                                 Storrs, CT  06269-1240
+Provider-Institution: RePEc:edi:ccuctus
+Maintainer-Name: Fred Carstensen
+Maintainer-Email: fred.carstensen@att.net
+Handle: RePEc:uct:cceast
+
+Template-Type: ReDIF-Series 1.0
+Name: The Connecticut Economy
+Provider-Name: University of Connecticut, Department of Economics
+Provider-Postal: University of Connecticut
+                              365 Fairfield Way, Unit 1063
+                                 Storrs, CT  06269-1240
+Provider-Institution: RePEc:edi:deuctus
+Type: ReDIF-article
+Maintainer-Name: Steven Lanza
+Maintainer-Email: steven.lanza@uconn.edu
+Order-Email: steven.lanza@uconn.edu
+Order-Homepage: http://cteconomy.uconn.edu/subscription.html
+Order-Postal: University of Connecticut
+                              365 Fairfield Way, Unit 1063
+                                 Storrs, CT  06269-1240
+Handle: RePEc:uct:ctecon
+
+
+

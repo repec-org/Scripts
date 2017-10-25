@@ -1,0 +1,34 @@
+Template-type: ReDIF-Series 1.0
+Name: Treasury Working Papers
+Description: This is the official working paper series of the Australian Treasury
+Provider-Name: The Treasury, Australian Government
+Provider-Homepage: http://www.treasury.gov.au
+Provider-Institution: RePEc:edi:trgovau
+Maintainer-Name: The Treasury (Commonwealth of Australia)
+Maintainer-Email: webmaster@treasury.gov.au
+Type: ReDIF-Paper
+Handle: RePEc:tsy:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Treasury Macroeconomic (TRYM) Model Archive
+Description: This is the official archive of working papers and articles related to the Australian Treasury Macroeconomic (TRYM) Model. More recent working papers relating to TRYM are listed in the official working paper series of the Australian Treasury.
+Provider-Name: The Treasury, Australian Government
+Provider-Homepage: http://www.treasury.gov.au
+Provider-Institution: RePEc:edi:trgovau
+Maintainer-Name: The Treasury (Commonwealth of Australia)
+Maintainer-Email: webmaster@treasury.gov.au
+Type: ReDIF-Paper
+Handle: RePEc:tsy:trymar
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Roundup
+Description: This is the official journal of the Australian Treasury
+Provider-Name: The Treasury, Australian Government
+Provider-Homepage: http://www.treasury.gov.au
+Provider-Institution: RePEc:edi:trgovau
+Maintainer-Name: The Treasury (Commonwealth of Australia)
+Maintainer-Email: webmaster@treasury.gov.au
+Type: ReDIF-Article
+Handle: RePEc:tsy:journl
+
+

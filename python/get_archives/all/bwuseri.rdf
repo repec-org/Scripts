@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: Schumpeter Discussion Papers
+Provider-Name: Universitätsbibliothek Wuppertal, University Library
+Provider-Homepage: http://elpub.bib.uni-wuppertal.de
+Maintainer-Name: Frank Hoffmann
+Maintainer-Email: frhoff@uni-wuppertal.de
+Type: ReDIF-Paper
+Handle: RePEc:bwu:schdps
+ISSN: 1867-5352
+Template-type: ReDIF-Series 1.0
+Name: EIIW Discussion paper
+Provider-Name: Universitätsbibliothek Wuppertal, University Library
+Provider-Homepage: http://elpub.bib.uni-wuppertal.de
+Maintainer-Name: Frank Hoffmann
+Maintainer-Email: frhoff@uni-wuppertal.de
+Type: ReDIF-Paper
+Handle: RePEc:bwu:eiiwdp
+ISSN: 1430-5445

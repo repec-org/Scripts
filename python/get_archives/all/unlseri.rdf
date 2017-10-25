@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: FEUNL Working Paper Series
+Provider-Name: Universidade Nova de Lisboa, Faculdade de Economia
+Provider-Homepage: http://www.fe.unl.pt
+Provider-Institution: RePEc:edi:feunlpt
+Maintainer-Name: Sean Story
+Maintainer-Email: sstory@novasbe.pt
+Type: ReDIF-Paper
+Handle: RePEc:unl:unlfep
+
+Template-type: ReDIF-Series 1.0
+Name: NOVAFRICA Working Paper Series
+Provider-Name: Universidade Nova de Lisboa, Faculdade de Economia, NOVAFRICA
+Provider-Homepage: http://www.fe.unl.pt
+Provider-Institution: RePEc:edi:feunlpt
+Maintainer-Name: Sean Story
+Maintainer-Email: sstory@novasbe.pt
+Type: ReDIF-Paper
+Handle: RePEc:unl:novafr

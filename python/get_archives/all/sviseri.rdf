@@ -1,0 +1,305 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Rosenberg & Sellier Editori in Torino</title>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+<meta name="viewport" content="width=device-width">
+<!-- Css Files Start -->
+<link href="/res/css/style.css" rel="stylesheet" type="text/css" /><!-- All css -->
+<link href="/res/css/bs.css" rel="stylesheet" type="text/css" /><!-- Bootstrap Css -->
+<link rel="stylesheet" type="text/css" href="/res/css/main-slider.css" /><!-- Main Slider Css -->
+<!--[if lte IE 10]><link rel="stylesheet" type="text/css" href="/res/css/customIE.css" /><![endif]-->
+<link href="/res/css/font-awesome.css" rel="stylesheet" type="text/css" /><!-- Font Awesome Css -->
+<link href="/res/css/font-awesome-ie7.css" rel="stylesheet" type="text/css" /><!-- Font Awesome iE7 Css -->
+<noscript>
+<link rel="stylesheet" type="text/css" href="/res/css/noJS.css" />
+</noscript>
+<!-- Css Files End -->
+<link href="/res/css/skins/0.css" rel="stylesheet" type="text/css" /><!-- All css -->
+<style>
+/* styles unrelated to zoom */
+.zoom { display:inline-block; position: relative; }
+.zoom:after { content:''; display:block; width:33px; height:33px; position:absolute; top:0; right:0; background:url(icon.png); }
+.zoom img { display: block; }
+.zoom img::selection {background-color: transparent;}
+#ex2 img:hover { cursor: url(grab.cur), default; }
+#ex2 img:active { cursor: url(grabbed.cur), default; }
+</style>
+</head>
+<body>
+<!-- Start Main Wrapper -->
+<div class="wrapper">
+  <!-- Start Main Header -->
+  <!-- Start Top Nav Bar -->
+  <section class="top-nav-bar">
+    <section class="container-fluid container">
+      <section class="row-fluid">
+				<section class="span10">
+  <ul class="top-nav">
+    <li><a href="/it/index.htm" >Home page</a></li>
+    <li><a href="/it/chi-siamo.htm" >Chi siamo</a></li>
+    <li><a href="/it/catalogo/index.htm" >I libri</a></li>
+    <li><a href="/it/catalogo/riviste/periodici/index.htm" >Le riviste</a></li>
+    <li><a href="/it/stampa/index.htm" >Stampa</a></li>
+    <li><a href="/it/proposte-editoriali.htm" >Pubblica con noi</a></li>
+    <li><a href="/it/universita.htm" >Università</a></li>
+    <li><a href="/it/librerie.htm" >Librerie</a></li>
+    <li><a href="/it/contatti.htm" >Contatti</a></li>
+  </ul>
+</section>
+<section class="span2 e-commerce-list">
+  <div class="c-btn"> <a href="/it/carrello.htm" class="cart-btn">Carrello</a>
+    <div class="btn-group">
+      <button id="cart_counter" data-toggle="dropdown" class="btn btn-mini dropdown-toggle">0 prodotti - &#128;0.00<span class="caret"></span></button>
+      <ul class="dropdown-menu">
+        <li><a href="/it/carrello.htm">Vai al carrello</a></li>
+        <li><a href="javascript:emptyCart()">Elimina carrello</a></li>
+        <li><a href="/it/acquista.htm">Acquista subito</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+      </section>
+    </section>
+  </section>
+  <!-- End Top Nav Bar -->
+  <header id="main-header">
+    <section class="container-fluid container">
+      <section class="row-fluid">
+
+				<section class="span5">
+	<h1 id="logo"> <a href="/it/index.htm"><img src="/res/images/logo.png" /></a> </h1>
+</section>
+<section class="span7">
+
+			<ul id="nav2" class="top-nav2" style="display: block;">
+			<li><a href="javascript:loginCart(1)" id="loginmenu">Accedi</a></li>
+			<li><a href="/it/iscrizione.htm">Crea un nuovo account</a></li>
+		</ul>
+		<ul id="nav3" class="top-nav2" style="display: none;">
+			<li><span id="nick"></span></li>
+			<li><a href="javascript:manageAccount()">Gestione account</a></li>
+			<li><a href="javascript:logout()">Logout</a></li>
+		</ul>
+	
+	
+	
+		
+	<div id="formsearch" class="search-bar" style="display: block;">
+		<input id="searchtext" type="text" value="" />
+		<input type="button" value="Ricerca" onclick="siteSearch()" />
+		<div style="clear: left"></div>
+		<input type="radio" name="searchop" id="searchsite" value="site" style="float: left;margin: 9px 0 0 0" checked><div style="float: left;margin: 5px 10px 0 5px">Cerca in tutto il sito</div>
+		<input type="radio" name="searchop" id="searchcatalog" value="catalog" style="float: left;margin: 9px 0 0 0"><div style="float: left;margin: 5px 0 0 5px">Solo nel catalogo</div>
+	</div>
+	<div id="formlogin" class="search-bar" style="display: none;">
+		<input id="user" type="text" value="nome utente" />
+		<input id="pass" type="password" value="password" />
+		<input type="button" value="Login" onclick="login()" />
+		<div style="clear: left;height: 5px;"></div>		
+		<a href="/it/recupero-password.htm">Password dimenticata?</a>
+	</div>
+</section>
+
+
+
+      </section>
+    </section>
+    <!-- Start Main Nav Bar -->
+			<nav id="nav">
+	<div class="navbar navbar-inverse">
+		<div class="navbar-inner">
+			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+			<div class="nav-collapse collapse">
+			<div id="noflashContent">
+			<ul class="nav" style="text-align:center;text-transform:uppercase;">
+					<li><a href="/it/catalogo/bisogni-e-risorse"><img src="/res/images/icons/bisogni.png"><br>Bisogni & Risorse</a> </li>
+					<li><a href="/it/catalogo/differenza-e-differenze" ><img src="/res/images/icons/diff.png"><br>Differenza & Differenze</a></li>
+					<li><a href="/it/catalogo/dubbio-e-speranza"><img src="/res/images/icons/dubbio.png"><br>Dubbio & Speranza</a></li>
+					<li><a href="/it/catalogo/la-storia-e-le-storie"><img src="/res/images/icons/storia.png"><br>La Storia & Le Storie</a></li>
+					<li><a href="/it/catalogo/voci-e-segni"><img src="/res/images/icons/voci.png"><br>Voci & Segni</a></li>
+					<li><img src="/res/images/icons/divider.png" style="margin: 12px 30px 0 30px"></li>
+					<li><a href="/it/catalogo/gemme"><img src="/res/images/icons/gemme.png"><br>Gemme</a></li>
+					<li><a href="/it/catalogo/biblioteca-di-studi-francesi"><img src="/res/images/icons/studifrancesi.png"><br>Biblioteca di Studi Francesi</a></li>
+			</ul>
+			</div>
+				
+			<div id="flashContent">
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="760" height="61" id="top" align="middle">
+				<param name="movie" value="/res/include/menu-top/top.swf" />
+				<param name="quality" value="high" />
+				<param name="bgcolor" value="#CBCBBB" />
+				<param name="play" value="true" />
+				<param name="loop" value="true" />
+				<param name="wmode" value="window" />
+				<param name="scale" value="showall" />
+				<param name="menu" value="true" />
+				<param name="devicefont" value="false" />
+				<param name="salign" value="" />
+				<param name="allowScriptAccess" value="sameDomain" />
+				<!--[if !IE]>-->
+				<object type="application/x-shockwave-flash" data="/res/include/menu-top/top.swf" width="760" height="61">
+					<param name="movie" value="/res/include/menu-top/top.swf" />
+					<param name="quality" value="high" />
+					<param name="bgcolor" value="#CBCBBB" />
+					<param name="play" value="true" />
+					<param name="loop" value="true" />
+					<param name="wmode" value="window" />
+					<param name="scale" value="showall" />
+					<param name="menu" value="true" />
+					<param name="devicefont" value="false" />
+					<param name="salign" value="" />
+					<param name="allowScriptAccess" value="sameDomain" />
+				<!--<![endif]-->
+					<a href="http://www.adobe.com/go/getflash">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Scarica Adobe Flash Player" />
+					</a>
+				<!--[if !IE]>-->
+				</object>
+				<!--<![endif]-->
+			</object>
+				</div>
+				
+			</div>
+			<!--/.nav-collapse -->
+		</div>
+		<!-- /.navbar-inner -->
+	</div>
+	<!-- /.navbar -->
+</nav>
+    <!-- End Main Nav Bar -->
+  </header>
+  <!-- End Main Header -->
+	
+	  <!-- Start Main Content Holder -->
+  <section id="content-holder" class="container-fluid container">
+    <section class="row-fluid">
+    	<div class="heading-bar">
+        	<h2></h2>
+            <span class="h-line"></span>
+        </div>
+        <!-- Start Main Content -->
+        <section class="span9 first">
+
+					
+        </section>
+        <!-- End Main Content -->
+        
+        <!-- Start Main Side Bar -->
+        <section class="span3">
+																					
+															        </section>
+        <!-- End Main Side Bar -->
+    </section>
+  </section>
+  <!-- End Main Content Holder -->
+	
+  <!-- Start Footer Top 1 -->
+		<section class="container-fluid footer-top1">
+  <section class="container">
+    <section class="row-fluid">
+      <figure class="span3">
+        <h4>Dove siamo</h4>
+        <p>Rosenberg e Sellier Editori in Torino srl<br>Via Andrea Doria 14<br>10123 Torino</p>
+        <span>
+        <ul class="phon-list">
+          <li>tel (+39) 011 8127820</li>
+        </ul>
+        </span></figure>
+      <figure class="span3">
+        <h4>Acquisti</h4>
+        <p>Per poter effettuare un acquisto occorre essere <a href="#">registrati al sito.</a> Per acquistare un prodotto basta selezionare l'icona del carrello che compare sulla scheda di ogni prodotto. Cliccando sull'icona il prodotto viene automaticamente inserito nel carrello, il cui contenuto sarà visualizzabile in ogni momento selezionando dal menù il <a href="#">tasto "ACQUISTI"</a></p>
+      </figure>
+      <figure class="span3">
+        <h4>Newsletter</h4>
+        <p>Vuoi iscriverti alla newsletter?</p>
+        <input id="account_email" type="text" class="field-bg" value="Inserisci il tuo indirizzo email"/>
+        <input onclick="accountSubscribe()" type="submit" value="Iscriviti" class="sub-btn" />
+                <div style="clear: right; text-align:right; padding: 15px 0 0 0;"><a href="/it/newsletters/index.htm">Visualizza le newsletter</a></div>
+              </figure>
+      <figure class="span3">
+        <h4>Facebook</h4>
+        <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FRosenbergSellier&amp;width=260&amp;colorscheme=light&amp;stream=false&amp;header=false&amp;height=200" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:200px;" allowTransparency="true"></iframe>
+      </figure>
+    </section>
+  </section>
+</section>  <!-- End Footer Top 1 -->
+
+  <!-- Start Footer Top 2 -->
+		<section class="container-fluid footer-top2">
+    <section class="social-ico-bar">
+      <section class="container">
+				<section class="row-fluid">
+  <!--<div id="socialicons" class="hidden-phone"> <a id="social_linkedin" class="social_active" href="#" title="Visit Google Plus page"><span></span></a> <a id="social_facebook" class="social_active" href="#" title="Visit Facebook page"><span></span></a> <a id="social_twitter" class="social_active" href="#" title="Visit Twitter page"><span></span></a> <a id="social_youtube" class="social_active" href="#" title="Visit Youtube"><span></span></a> <a id="social_vimeo" class="social_active" href="#" title="Visit Vimeo"><span></span></a> <a id="social_trumblr" class="social_active" href="#" title="Visit Vimeo"><span></span></a> <a id="social_google_plus" class="social_active" href="#" title="Visit Vimeo"><span></span></a> <a id="social_dribbble" class="social_active" href="#" title="Visit Vimeo"><span></span></a> <a id="social_pinterest" class="social_active" href="#" title="Visit Vimeo"><span></span></a> </div>-->
+  <ul class="footer2-link">
+    <li><a href="/it/domande.htm">F.A.Q.</a></li>
+  </ul>
+</section>
+      </section>
+    </section>  <!-- End Footer Top 2 -->
+
+  <!-- Start Main Footer -->
+		<footer id="main-footer">
+  <section class="social-ico-bar">
+    <section class="container">
+      <section class="row-fluid">
+        <article class="span9">
+          <p>© 2014  Rosenberg & Sellier Editori in Torino srl - Capitale interamente versato Euro 50.000 - Codice fiscale, P.Iva e Reg.Imprese Torino n.02527840017</p>
+        </article>
+        <article class="span3 copy-right">
+          <p>by <a href="http://www.mountainnetwork.it/">Mnet</a> - <a href="http://www.Explico.biz/">Explico.biz</a></p>
+        </article>
+      </section>
+    </section>
+  </section>
+</footer>	<!-- End Main Footer -->
+
+</div>
+<!-- End Main Wrapper -->
+<!-- JS Files Start -->
+<script type="text/javascript" src="/res/js/lib.js"></script><!-- lib Js -->
+<script type="text/javascript" src="/res/js/modernizr.js"></script><!-- Modernizr -->
+<script type="text/javascript" src="/res/js/easing.js"></script><!-- Easing js -->
+<script type="text/javascript" src="/res/js/bs.js"></script><!-- Bootstrap -->
+<script type="text/javascript" src="/res/js/bxslider.js"></script><!-- BX Slider -->
+<script type="text/javascript" src="/res/js/input-clear.js"></script><!-- Input Clear -->
+<script src="/res/js/range-slider.js"></script><!-- Range Slider -->
+<script src="/res/js/jquery.zoom.js"></script><!-- Zoom Effect -->
+<script type="text/javascript" src="/res/js/bookblock.js"></script><!-- Flip Slider -->
+<script type="text/javascript" src="/res/js/custom.js"></script><!-- Custom js -->
+<script type="text/javascript" src="/res/js/social.js"></script><!-- Social Icons -->
+<script type="text/javascript" src="/res/js/cart.js"></script><!-- cart Js -->
+<!-- JS Files End -->
+<noscript>
+<style>
+	#socialicons>a span { top: 0px; left: -100%; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; transition: all 0.3s 	ease-in-out;}
+	#socialicons>ahover div{left: 0px;}
+	</style>
+</noscript>
+<script type="text/javascript">
+<!--
+  /* <![CDATA[ */
+  $(document).ready(function() {
+  $('.social_active').hoverdir( {} );
+})
+/* ]]> */
+//-->
+</script>
+<script>
+<!--
+$(document).ready(function(){
+	$('#ex1').zoom();		 
+});
+//-->
+</script>
+</body>
+</html>

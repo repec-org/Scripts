@@ -1,0 +1,40 @@
+﻿
+
+template-type: ReDIF-Series 1.0
+name: Bank of England working papers
+maintainer-email: webmaster@bankofengland.co.uk
+maintainer-name: Digital Media Team
+provider-name: Bank of England
+provider-fax: +44 (0)171 601 5196
+provider-homepage: http://www.bankofengland.co.uk/
+provider-institution: RePEc:edi:boegvuk
+provider-phone: +44 (0)171 601 4030
+provider-postal: Bank of England, Threadneedle Street, London, EC2R 8AH
+handle: RePEc:boe:boeewp
+
+template-type: ReDIF-Series 1.0
+name: Bank of England Financial Stability Papers
+maintainer-email: webmaster@bankofengland.co.uk
+maintainer-name: Digital Media Team
+provider-name: Bank of England
+provider-fax: +44 (0)171 601 5196
+provider-homepage: http://www.bankofengland.co.uk/
+provider-institution: RePEc:edi:boegvuk
+provider-phone: +44 (0)171 601 4030
+provider-postal: Bank of England, Threadneedle Street, London, EC2R 8AH
+handle: RePEc:boe:finsta
+
+template-type: ReDIF-Series 1.0
+name: Bank of England Quarterly Bulletin
+editor-name: Lindsey Fowler
+editor-email: lindsey.fowler@bankofengland.co.uk
+maintainer-email: mapublications@bankofengland.co.uk
+maintainer-name: Publications Group
+provider-name: Bank of England
+provider-fax: +44 (0)171 601 5196
+provider-homepage: http://www.bankofengland.co.uk/
+provider-institution: RePEc:edi:boegvuk
+provider-phone: +44 (0)171 601 4030
+provider-postal: Publications Group Bank of England Threadneedle Street London EC2R 8AH
+type: ReDIF-Article
+handle: RePEc:boe:qbullt

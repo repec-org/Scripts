@@ -1,0 +1,53 @@
+Template-type: ReDIF-Series 1.0
+Name: Timisoara Journal of Economics
+ISSN: 1842-7340
+Description: This is the journal of the Faculty of Economics and Business Administration, West University of Timisoara, Romania
+Provider-Name: West University of Timisoara, Romania, Faculty of Economics and Business Administration
+Provider-Homepage: https://feaa.uvt.ro
+Provider-Institution: RePEc:edi:feuvtro
+Type: ReDIF-Article
+Maintainer-Name: Romeo Margea
+Maintainer-Email: romeo.margea@gmail.com
+Maintainer-Phone: +40.256/592.503
+Maintainer-Fax: +40.256/592.500
+Editor-Name: Camelia Margea
+Editor-Email: camelia.margea@gmail.com
+Editor-Phone: +40.256/592.503
+Editor-Fax: +40.256/592.500
+Order-Email: tje@feaa.uvt.ro
+Order-Homepage: https://tje.uvt.ro
+Order-Postal: 16  J. H. Pestalozzi Street, 300115, Timisoara, Romania
+Handle: RePEc:wun:journl
+Followup: RePEc:wun:timjeb
+
+Template-type: ReDIF-Series 1.0
+Name: Timisoara Journal of Economics and Business
+ISSN: 2286–0991
+Description: This journal is continuing Timisoara Journal of Economics -- the journal of the Faculty of Economics and Business Administration, West University of Timisoara, Romania, 2008-2012
+Provider-Name: West University of Timisoara, Romania, Faculty of Economics and Business Administration
+Provider-Homepage: https://feaa.uvt.ro
+Provider-Institution: RePEc:edi:feuvtro
+Type: ReDIF-Article
+Maintainer-Name: Romeo Margea
+Maintainer-Email: romeo.margea@e-uvt.ro
+Editor-Name: Eugen Enache
+Editor-Email: eugen.enache@yahoo.com
+Editor-Fax: +40.256/592.500
+Editor-Name: Camelia Margea
+Editor-Email: camelia.margea@gmail.com
+Order-Email: tjeb.editor@gmail.com
+Order-Homepage: http://www.tjeb.ro
+Order-Postal: 16 J. H. Pestalozzi Street, 300115 Timisoara Romania
+Handle: RePEc:wun:timjeb
+Predecessor: RePEc:wun:journl
+
+Template-type: ReDIF-Series 1.0
+Name: FEAA Working Papers
+Description: FEAA Working Papers Series
+Provider-Name: West University of Timisoara, Romania, Faculty of Economics and Business Administration
+Provider-Homepage: https://feaa.uvt.ro/ro/cercetare/feaa-working-papers.html
+Provider-Institution: RePEc:edi:feuvtro
+Type: ReDIF-Paper
+Maintainer-Name: Romeo Margea
+Maintainer-Email: romeo.margea@gmail.com
+Handle: RePEc:wun:wpaper

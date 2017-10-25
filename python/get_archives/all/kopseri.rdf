@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: KOPINT-DATORG Discussion Paper Archive
+Description: For nearly three decades, KOPINT-DATORG has generated provocative and leading-edge reports and proposals for Hungarian and regional economic development and reform. The English-language Discussion Paper series makes the institute's thoughtful analyses available to an even wider audience.
+Type: ReDIF-Paper
+Provider-Name: KOPINT DATORG LTD. Economic Research Division
+Provider-Homepage: http://www.kopdat.hu/angol
+Provider-Phone: +36-1-4594200 
+Provider-Postal: H-1081, Hungary, Budapest, Csokonai u. 6.
+Provider-Fax: +36-1-303-9588
+Provider-Institution: RePEc:edi:kopdahu
+#Maintainer-Name: Katalin Gaspar
+#Maintainer-Email: gaspark@kopdat.hu
+Maintainer-Name: KOPINT-DATORG
+Maintainer-Email: info@kopdat.hu
+Editor-Name: Veronika Pasztori
+Handle: RePEc:kop:discpa

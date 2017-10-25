@@ -1,0 +1,76 @@
+Template-type: ReDIF-Series 1.0
+Name: DISCE - Quaderni dell'Istituto di Economia dell'Impresa e del Lavoro 
+Description: Quaderni dell'Istituto di Economia dell'Impresa e del Lavoro
+Provider-Name: Università Cattolica del Sacro Cuore, Dipartimenti e Istituti di Scienze Economiche (DISCE)
+Provider-Institution: RePEc:edi:dscatit
+Provider-Homepage: http://www.unicatt.it/Istituti/EconomiaImpresaLavoro
+Maintainer-Name: Lorenzo Cappellari
+Maintainer-Email: lorenzo.cappellari@unicatt.it
+Type: ReDIF-Paper
+Handle: RePEc:ctc:serie4
+
+
+Template-type: ReDIF-Series 1.0
+Name: DISCE - Quaderni dell'Istituto di Economia e Finanza 
+Description: Quaderni dell'Istituto di Economia e Finanza
+Provider-Name: Università Cattolica del Sacro Cuore, Dipartimenti e Istituti di Scienze Economiche (DISCE)
+Provider-Institution: RePEc:edi:dscatit
+Provider-Homepage: http://www.unicatt.it/Istituti/EconomiaFinanza
+Maintainer-Name: Massimo Bordignon
+Maintainer-Email: massimo.bordignon@unicatt.it
+Type: ReDIF-Paper
+Handle: RePEc:ctc:serie3
+
+
+Template-type: ReDIF-Series 1.0
+Name: DISCE - Quaderni dell'Istituto di Teoria Economica e Metodi Quantitativi
+Description: Quaderni dell'Istituto di Teoria Economica e Metodi Quantitativi
+Provider-Name: Università Cattolica del Sacro Cuore, Dipartimenti e Istituti di Scienze Economiche (DISCE)
+Provider-Institution: RePEc:edi:dscatit
+Provider-Homepage: http://www.unicatt.it/Istituti/TeoriaEconomica
+Maintainer-Name: Gianluca Femminis
+Maintainer-Email: gianluca.femminis@unicatt.it
+Type: ReDIF-Paper
+Handle: RePEc:ctc:serie6
+
+
+Template-type: ReDIF-Series 1.0
+Name: DISCE - Quaderni dell'Istituto di Politica Economica
+Description: Quaderni dell'Istituto di Politica Economica
+Provider-Name: Università Cattolica del Sacro Cuore, Dipartimenti e Istituti di Scienze Economiche (DISCE)
+Provider-Institution: RePEc:edi:dscatit
+Provider-Homepage: http://www.unicatt.it/Istituti/PoliticaEconomica
+Maintainer-Name: Giuseppina Malerba
+Maintainer-Email: giuseppina.malerba@unicatt.it
+Type: ReDIF-Paper
+Handle: RePEc:ctc:serie5
+
+
+Template-type: ReDIF-Series 1.0
+Name: DISCE - Quaderni del Dipartimento di Scienze Economiche e Sociali
+Description: Quaderni del Dipartimento di Scienze Economiche e Sociali
+Provider-Name: Università Cattolica del Sacro Cuore, Dipartimenti e Istituti di Scienze Economiche (DISCE)
+Provider-Institution: RePEc:edi:dscatit
+Provider-Homepage: http://www.unicatt.it/Dipartimenti/DISES
+Maintainer-Name: Francesco Timpano	
+Maintainer-Email: francesco.timpano@unicatt.it
+Type: ReDIF-Paper
+Handle: RePEc:ctc:serie2
+
+
+Template-type: ReDIF-Series 1.0
+Name: DISCE - Working Papers del Dipartimento di Economia e Finanza
+Description: Working Papers del Dipartimento di Economia e Finanza
+Provider-Name: Università Cattolica del Sacro Cuore, Dipartimenti e Istituti di Scienze Economiche (DISCE)
+Provider-Institution: RePEc:edi:dscatit
+Provider-Homepage: http://dipartimenti.unicatt.it/defin
+Maintainer-Name: Simone Moriconi	
+Maintainer-Email: simone.moriconi@unicatt.it
+Type: ReDIF-Paper
+Handle: RePEc:ctc:serie1
+
+
+
+
+
+

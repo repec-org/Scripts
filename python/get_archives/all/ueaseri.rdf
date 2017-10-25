@@ -1,0 +1,76 @@
+Template-type: ReDIF-Series 1.0
+Name: University of East Anglia School of Economics Working Paper Series
+Description:  Research papers from the members of the School of Economics 
+ at the University of East Anglia, Norwich, UK.
+Type: ReDIF-Paper
+Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
+Provider-Homepage: http://www.uea.ac.uk/economics
+Provider-Phone: 44 1603 591131
+Provider-Institution: RePEc:edi:esueauk
+Maintainer-Name: Theodore Turocy
+Maintainer-Email: T.Turocy@uea.ac.uk
+Order-Email: jessica.pointer@uea.ac.uk
+Order-Postal: Jessica Pointer, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
+Handle: RePEc:uea:ueaeco
+Predecessor: RePEc:uea:aepppr
+
+Template-type: ReDIF-Series 1.0
+Name: University of East Anglia Discussion Papers in Economics
+Description:  Research papers from the members of the School of Economics 
+ at the University of East Anglia, Norwich, UK.
+Type: ReDIF-Paper
+Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
+Provider-Homepage: http://www.uea.ac.uk/economics
+Provider-Phone: 44 1603 591131
+Provider-Institution: RePEc:edi:esueauk
+Maintainer-Name: Theodore Turocy
+Maintainer-Email: T.Turocy@uea.ac.uk
+Order-Email: jessica.pointer@uea.ac.uk
+Order-Postal: Jessica Pointer, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
+Handle: RePEc:uea:papers
+Followup: RePEc:uea:aepppr
+
+Template-type: ReDIF-Series 1.0
+Name: University of East Anglia Applied and Financial Economics Working Paper Series
+Description:  Research papers from the members of the School of Economics at the University of East Anglia, Norwich, UK.
+Type: ReDIF-Paper
+Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
+Provider-Homepage: http://www.uea.ac.uk/economics
+Provider-Phone: 44 1603 591131
+Provider-Institution: RePEc:edi:esueauk
+Maintainer-Name: Theodore Turocy
+Maintainer-Email: T.Turocy@uea.ac.uk
+Order-Email: jessica.pointer@uea.ac.uk
+Order-Postal: Jessica Pointer, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
+Handle: RePEc:uea:aepppr
+Predecessor: RePEc:uea:papers
+Followup: RePEc:uea:ueaeco
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper series, University of East Anglia, Centre for Behavioural and Experimental Social Science (CBESS)
+Description:  Recent research papers from the members of the Centre for Behavioural and Experimental Social Science (CBESS) 
+ at the University of East Anglia, Norwich, UK.
+Type: ReDIF-Paper
+Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
+Provider-Homepage: http://www.uea.ac.uk/economics
+Provider-Phone: 44 1603 591131
+Provider-Institution: RePEc:edi:esueauk
+Maintainer-Name: Theodore Turocy
+Maintainer-Email: T.Turocy@uea.ac.uk
+Order-Email: jessica.pointer@uea.ac.uk
+Order-Postal: Jessica Pointer, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
+Handle: RePEc:uea:wcbess
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper series, University of East Anglia, Centre for Competition Policy (CCP)
+Description:  Recent research papers from the members of the Centre for Competition Policy (CCP) at the University of East Anglia, Norwich, UK.
+Type: ReDIF-Paper
+Provider-Name: Centre for Competition Policy, University of East Anglia, Norwich, UK. 
+Provider-Homepage: http://www.competition-policy.ac.uk
+Provider-Phone: 44 1603 591619
+Provider-Institution: RePEc:edi:esueauk
+Maintainer-Name: David Reader
+Maintainer-Email: D.Reader@uea.ac.uk
+Order-Email: D.Reader@uea.ac.uk
+Order-Postal: David Reader, Center for Competition Policy, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
+Handle: RePEc:uea:ueaccp

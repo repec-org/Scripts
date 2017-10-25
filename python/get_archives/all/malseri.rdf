@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Language" content="es" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Universidad de M&aacute;laga</title>
+
+	</head>
+	<body>
+		<p style="text-align: center"><img src="banner.jpg" alt="Universidad de Málaga / AndalucíaTECH" title="Universidad de Málaga / AndalucíaTECH" /></p>
+		<p style="text-align: center; color: red; font-weight: bold;">En estos momentos se est&aacute;n realizando tareas de mantenimiento en el sumnistro electrico del Servicio Central de Inform&aacute;tica,</p>
+		<p style="text-align: center; color: red; font-weight: bold;">por ello, todos los servicios de red est&aacute;n interrumpidos.</p>
+		<p style="text-align: center; color: red; font-weight: bold;">Se estima restaurar el servicio hacia las 15:00 horas del dia 14 de diciembre de 2014.</p>
+		<p style="text-align: center; color: red; font-weight: bold;"> Todos los servicios telem&aacute;ticos de la UMA  permaneceran cerrados durante el d&iacute;a 14 de diciembre por un corte en el suministro el&eacute;ctrico en el SCI.</p>
+		<p style="text-align: center; color: red; font-weight: bold;">El pasado lunes se dio aviso a toda la comunidad universitaria mediante email. Lamentamos las molestias y le informamos que restableceremos todos los servicios en el menor tiempo que sea posible.</p>
+		<p style="text-align: center; color: red; font-weight: bold;">Si ve este mensaje despu&eacute;s de esa fecha, puede deberse a problemas de DNS. Recargue pasadas unas horas.</p>
+		<!--
+		<p style="text-align: center; color: red; font-weight: bold;">
+		El arranque de los sistemas terminó sobre las 13:30 horas del 15 de abril de 2014, si ve este mensaje puede deberse a problemas de DNS en su proveedor de conexi&oacute;n a Internet. Recargue pasadas unas horas. Durante el resto de la jornada del 15 de abril pueden producirse cortes puntuales en algunos servicios.
+		</p>
+		-->
+<p style="text-align: center">
+<a class="twitter-timeline" 
+  href="https://twitter.com/search?q=%23mtoSCI" 
+  data-aria-polite="assertive"
+  data-widget-id="455040953741344769">Situaci&oacute;n actual de la parada de servicios de la UMA</a>
+<script>
+!function(d,s,id){
+  var js,fjs=d.getElementsByTagName(s)[0],
+      p=/^http:/.test(d.location)?'http':'https';
+  if(!d.getElementById(id)){
+    js=d.createElement(s);
+    js.id=id;
+    js.src=p+"://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js,fjs);
+  }
+}(document,"script","twitter-wjs");
+</script>
+</p>
+	</body>
+</html>

@@ -1,0 +1,52 @@
+Template-type: ReDIF-Series 1.0
+Name: CESMEP Working Papers
+Type: ReDIF-Paper
+Provider-Name: University of Turin
+Provider-Homepage: http://www.unito.it/
+Provider-Institution: RePEc:edi:cmtorit
+Maintainer-Email: pcavaleri@liuc.it
+Maintainer-Name: Piero Cavaleri
+Maintainer-Email: marina.grazioli@unito.it
+Maintainer-Name: Marina Grazioli
+Editor-Name: Roberto Marchionatti
+Editor-Email: roberto.marchionatti@unito.it
+Editor-Workplace-Name: University of Turin
+Editor-Workplace-Homepage: http://www.cesmep.unito.it/index.htm
+Handle: RePEc:uto:cesmep
+Template-type: ReDIF-Series 1.0
+Name: EBLA Working Papers
+Type: ReDIF-Paper
+Provider-Name: University of Turin
+Provider-Homepage: http://www.unito.it/
+Provider-Institution: RePEc:edi:ebtorit
+Maintainer-Email: pcavaleri@liuc.it
+Maintainer-Name: Piero Cavaleri
+Maintainer-Email: marina.grazioli@unito.it
+Maintainer-Name: Marina Grazioli
+Editor-Name: Walter Santagata
+Editor-Email: walter.santagata@unito.it
+Editor-Workplace-Name: University of Turin
+Editor-Workplace-Homepage: http://www.eblacenter.unito.it/
+Handle: RePEc:uto:eblawp
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics and Statistics Cognetti de Martiis LEI & BRICK - Laboratory of Economics of Innovation "Franco Momigliano", Bureau of Research in Innovation, Complexity and Knowledge, Collegio Carlo Alberto. WP series
+Type: ReDIF-Paper
+Provider-Name: University of Turin
+Provider-Homepage: http://www.unito.it/
+Provider-Institution: RePEc:edi:leifrit
+Maintainer-Email: pcavaleri@liuc.it
+Maintainer-Name: Piero Cavaleri
+Maintainer-Email: marina.grazioli@unito.it
+Maintainer-Name: Marina Grazioli
+Handle: RePEc:uto:labeco
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics and Statistics Cognetti de Martiis. Working Papers
+Type: ReDIF-Paper
+Provider-Name: University of Turin
+Provider-Homepage: http://www.unito.it/
+Provider-Institution: RePEc:edi:detorit
+Maintainer-Email: pcavaleri@liuc.it
+Maintainer-Name: Piero Cavaleri
+Maintainer-Email: marina.grazioli@unito.it
+Maintainer-Name: Marina Grazioli
+Handle: RePEc:uto:dipeco

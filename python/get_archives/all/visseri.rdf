@@ -1,0 +1,197 @@
+Template-type: ReDIF-Series 1.0
+Name: Articles
+Description: This holds all articles which are not from journals in series.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Article
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:fbvispl
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:artcls
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Description: This holds all books which are not in series.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Book
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:gnrbks
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters
+Description: This holds all chapters which are not from books in series.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Chapter
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:fbvispl
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:chptrs
+
+Template-type: ReDIF-Series 1.0
+Name: TurystykaBiznesowa
+Description: This holds all articles which are not from journals in series.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Article
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:fbvispl
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:tbiars
+
+Template-type: ReDIF-Series 1.0
+Name: Philology
+Description: This holds all articles which are not from journals in series.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Article
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:fbvispl
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:phlars
+
+Template-type: ReDIF-Series 1.0
+Name: Monografie
+Description: This holds all books which are in series Monografie.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Book
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:mngrps
+
+Template-type: ReDIF-Series 1.0
+Name: MonografieChapters
+Description: This holds all chapters from books in series Monografie.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Chapter
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:fbvispl
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:mngchs
+
+Template-type: ReDIF-Series 1.0
+Name: ConferencePapers
+Description: This holds all papers from conference booklets.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Vistula University
+Provider-Homepage: http://www.vistula.edu.pl
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution: RePEc:edi:fbvispl
+Maintainer-Name: £ukasz Batory
+Maintainer-Email: l.batory@vistula.edu.pl
+Editor-Name:
+Editor-Email:
+Editor-Workplace-Name:
+Editor-Workplace-Homepage:
+Order-Email:
+Order-Homepage:
+Order-Postal:
+Price:
+Handle: RePEc:vis:cnfprs

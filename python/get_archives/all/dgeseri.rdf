@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: QM&RBC Codes
+Type:  ReDIF-Software 
+Provider-Name: Quantitative Macroeconomics & Real Business Cycles
+Provider-Homepage: http://dge.repec.org/
+Provider-Institution: RePEc:edi:efrblus
+Maintainer-Name: Christian Zimmermann
+Maintainer-Email: zimmermann@stlouisfed.org
+Handle: RePEc:dge:qmrbcd
+

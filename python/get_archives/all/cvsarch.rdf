@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:cvs
+Name: C.V. Starr Center for Applied Economics, New York University
+Maintainer-Name: Anne Stubing
+Maintainer-Email: working@econ.as.nyu.edu
+Description: Collects working papers from C.V. Starr
+#URL: http://www.nyu.edu/econ/cvstarr/working/cvs/
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/cvs/
+Homepage: http://econ.as.nyu.edu/object/econ.cvstarr.html

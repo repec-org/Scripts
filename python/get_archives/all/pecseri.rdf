@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Pécs, Department of Economics and Regional Studies
+Provider-Homepage: http://www.krti-en.ktk.pte.hu/
+Provider-Institution: RePEc:edi:feptehu
+Maintainer-Name: Tamás Sebestyén
+Maintainer-Email: sebestyent@ktk.pte.hu
+Type: ReDIF-Paper
+Handle: RePEc:pec:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional Papers
+Description: Occasional works of the members of Department of Economics and Regional Studies, Univeristy of Pécs
+Provider-Name: University of Pécs, Department of Economics and Regional Studies
+Provider-Homepage: http://www.krti-en.ktk.pte.hu/
+Provider-Institution: RePEc:edi:feptehu
+Maintainer-Name: Tamás Sebestyén
+Maintainer-Email: sebestyent@ktk.pte.hu
+Type: ReDIF-Paper
+Handle: RePEc:pec:occpap

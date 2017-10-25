@@ -1,0 +1,62 @@
+Template-type: ReDIF-Series 1.0
+Name: Economic Analysis
+Description: This is scientific journal of the Institute of Economic Sciences
+Type: ReDIF-Article
+Provider-Name: Institute of Economic Sciences
+Provider-Homepage: http://www.ien.bg.ac.rs
+Provider-Phone: +381 11 2622 357, 2623-055
+Provider-Postal: 12 Zmaj Jovina St, 11000 Belgrade, Serbia
+Provider-Fax: +381 11 2181 471
+Provider-Institution: RePEc:edi:ienbgyu
+Maintainer-Name: Zorica Bozic
+Maintainer-Email: zorica.bozic@ien.bg.ac.rs
+Editor-Name: Mirjana Radovic Markovic
+Editor-Email: eaoffice@ien.bg.ac.rs
+Editor-Workplace-Name: Institute of Economic Sciences
+ISSN: 1821-2573
+Handle: RePEc:ibg:eajour
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Women's Entrepreneurship and Education
+Description: This is scientific journal of the Institute of Economic Sciences
+Type: ReDIF-Article
+Provider-Name: Institute of Economic Sciences
+Provider-Homepage: http://www.ien.bg.ac.rs
+Provider-Phone: +381 11 2622 357, 2623 055
+Provider-Postal: 12 Zmaj Jovina St, 11000 Belgrade, Serbia
+Provider-Fax: +381 11 2181 471
+Provider-Institution: RePEc:edi:ienbgyu
+Maintainer-Name: Zorica Bozic
+Maintainer-Email: zorica.bozic@ien.bg.ac.rs
+Editor-Name: Mirjana Radovic Markovic
+Editor-Email: jweoffice@ien.bg.ac.rs
+Editor-Workplace-Name: Institute of Economic Sciences
+ISSN: 1821-1283
+Handle: RePEc:ibg:jwejou
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Type: ReDIF-Book
+Provider-Name: Institute of Economic Sciences
+Provider-Homepage: http://www.ien.bg.ac.rs
+Provider-Phone: +381 11 2622 357, 2623 055
+Provider-Postal: 12 Zmaj Jovina St, 11000 Belgrade, Serbia
+Provider-Fax: +381 11 2181 471
+Provider-Institution: RePEc:edi:ienbgyu
+Maintainer-Name: Zorica Bozic
+Maintainer-Email: zorica.bozic@ien.bg.ac.rs
+Handle: RePEc:ibg:ecbook
+
+Template-type: ReDIF-Series 1.0
+Name: Book Chapters
+Type: ReDIF-Chapter
+Provider-Name: Institute of Economic Sciences
+Provider-Homepage: http://www.ien.bg.ac.rs
+Provider-Phone: +381 11 2622 357, 2623 055
+Provider-Postal: 12 Zmaj Jovina St, 11000 Belgrade, Serbia
+Provider-Fax: +381 11 2181 471
+Provider-Institution: RePEc:edi:ienbgyu
+Maintainer-Name: Zorica Bozic
+Maintainer-Email: zorica.bozic@ien.bg.ac.rs
+Handle: RePEc:ibg:chaptr
+

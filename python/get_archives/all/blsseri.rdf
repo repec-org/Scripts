@@ -1,0 +1,9 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: U.S. Bureau of Labor Statistics
+Provider-Homepage: https://www.bls.gov
+Provider-Institution: RePEc:edi:blsgvus
+Maintainer-Name: Gregory Kurtzon
+Maintainer-Email: ecwrkpap@bls.gov
+Type: ReDIF-Paper
+Handle: RePEc:bls:wpaper

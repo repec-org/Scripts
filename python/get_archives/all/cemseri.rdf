@@ -1,0 +1,86 @@
+﻿Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Provider-Name: Universidad del CEMA
+Provider-Homepage: http://www.cema.edu.ar/publicaciones/jae.html
+Provider-Institution: RePEc:edi:cemaaar
+Name: Journal of Applied Economics
+Description: The Journal of Applied Economics publishes original contributions on
+ applied issues in micro and macroeconomics. The primary criteria for
+ selecting papers are quality and importance for the field. 
+ISSN: Print ISSN 1514-0326 Online ISSN 1667-6726
+Maintainer-Name: Valeria Dowding
+Maintainer-Email: jae@cema.edu.ar
+Editor-Name: Germán Coloma and Mariana Conte Grand and Jorge M. Streb
+ISSN: Print ISSN 1514-0326  Online ISSN 1667-6726
+Handle: RePEc:cem:jaecon
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Provider-Name: Universidad del CEMA
+Provider-Homepage: http://www.cema.edu.ar/publicaciones/doc_trabajo.html
+Provider-Institution: RePEc:edi:cemaaar
+Name: CEMA Working Papers: Serie Documentos de Trabajo.
+Description: The working paper series Serie Documentos de Trabajo of Universidad del CEMA publishes research studies carried out by professors of the university. The series, started in 1979, covers the areas of Economics, Finance, Business, Political Science, and Law.
+Maintainer-Name: Valeria Dowding
+Maintainer-Email: jae@cema.edu.ar
+Editor-Name: Jorge M. Streb
+ISSN: Print ISSN 1668-4574  Online ISSN 1668-4583
+Handle: RePEc:cem:doctra
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Provider-Name: Universidad del CEMA
+Provider-Homepage: http://www.ucema.edu.ar/revista-temas-de-management
+Provider-Institution: RePEc:edi:cicemar
+Name: Temas de Management
+Description: Temas de Management publishes original contributions on subjects
+ related to different aspects of management and opinions and trends in
+ different areas: Corporate Social Responsibility and Corporate Governance,
+ General Management, Entrepreneurship and Small and Medium Sized Companies,
+ Business Organization and Operations, Strategy, Finance and Marketing. The
+ articles - in Spanish -  are written by academics and professors in the area
+ of management from prominent universities and business schools.
+ISSN: 1668-5792
+Maintainer-Name: Valeria Dowding
+Maintainer-Email: jae@cema.edu.ar
+Editor-Name: Enrique Yacuzzi
+Editor-Email: ey@cema.edu.ar
+Handle: RePEc:cem:temana
+
+#Template-type: ReDIF-Series 1.0
+#Type: ReDIF-Article
+#Provider-Name: Universidad del CEMA
+#Provider-Homepage: http://www.ucema.edu.ar/revista-ucema
+#Provider-Institution: RePEc:edi:cemaaar
+#Name: Revista UCEMA
+#Description: Desde el año 2007 la Revista UCEMA se distribuye trimestralmente 
+# a la comunidad de la Universidad. La misma contiene todas las novedades de 
+# la Institución, notas sobre los eventos y actividades destacadas de cada 
+# Departamento y artículos de opinión escritos por los profesores de la UCEMA.
+# La Revista incluye además notas de análisis; artículos de divulgación 
+# basados en investigaciones académicas; notas de actualidad sobre 
+# economía, administración, política y otros temas que resultan de 
+# interés para el ámbito educativo que valora las opiniones fundadas en el 
+# conocimiento académico.
+#ISSN: xxxx-xxxx
+#Maintainer-Name: Valeria Dowding
+#Maintainer-Email: jae@cema.edu.ar
+#Editor-Name: Hernán Maggini 
+#Editor-Name: Carlos A. Rodríguez
+#Editor-Email: hmaggini@cema.edu.ar
+#Handle: UCEMA:cem:revcem
+
+
+# Template-type: ReDIF-Series 1.0
+# Type: ReDIF-Paper
+# Provider-Name: Universidad del CEMA
+# Provider-Homepage: http://www.cema.edu.ar/productividad/trabajos.html
+# Name: Congreso de Productividad Empresarial, UCEMA 2003.
+# Description: Trabajos expuestos en el Congreso de Productividad 2003 - realizado en UCEMA - relacionados con la medición y el mejoramiento
+#    de la productividad de empresas y otras organizaciones.
+# Editor-Name:
+# Editor-Email:
+# Maintainer-Name: Valeria Dowding
+# Maintainer-Email: jae@cema.edu.ar
+# Handle: RePEc:cem:conpro
+

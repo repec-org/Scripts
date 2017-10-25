@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: AIEL Series in Labour Economics
+Provider-Name: AIEL - Associazione Italiana Economisti del Lavoro
+Provider-Institution: RePEc:edi:aiellea
+Maintainer-Name: Lia Ambrosio
+Maintainer-Email: aiel@aiel.it
+Type: ReDIF-Book
+Handle: RePEc:ail:labook
+
+Template-type: ReDIF-Series 1.0
+Name: AIEL Series in Labour Economics
+Description: The chapters included in the volumes published by Springer in the AIEL Series in Labour Economics
+Provider-Name: AIEL - Associazione Italiana Economisti del Lavoro
+Provider-Institution: RePEc:edi:aiellea
+Maintainer-Name: Lia Ambrosio
+Maintainer-Email: aiel@aiel.it
+Type: ReDIF-Chapter
+Handle: RePEc:ail:chapts

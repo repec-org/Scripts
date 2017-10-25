@@ -1,0 +1,82 @@
+Template-type: ReDIF-Series 1.0
+Name: Public Sector Economics
+Provider-Name: Institute of Public Finance
+Provider-Homepage: http://www.pse-journal.hr/
+Provider-Institution: RePEc:edi:ijfffhr
+Description: scientific journal published by the Institute of Public Finance, which seeks theoretical, empirical and policy-oriented contributions analysing the role and functioning of the public sector at macroeconomic, sectoral and microeconomic levels, in both advanced and emerging market economies.
+Maintainer-Name: Martina Fabris
+Maintainer-Email: fabris@ijf.hr
+ISSN: 2459-8860
+Editor-Name: Katarina Ott, Editor-Email: kott@ijf.hr
+Predecessor: Financial Theory and Practice, Followup: Journal of Public Sector Economics
+Type: ReDIF-Article
+Handle: RePEc:ipf:psejou
+
+
+Template-type: ReDIF-Series 1.0
+Name: Financial Theory and Practice
+Provider-Name: Institute of Public Finance
+Provider-Homepage: http://www.fintp.hr/
+Provider-Institution: RePEc:edi:ijfffhr
+Description: publishes scientific articles in the field of public sector economics, but also welcomes submissions of applied and theoretical research papers on broader set of economic topics such as economic growth and development, role of institutions, transition to the market economy and EU integration. The empirical analysis is preferably related, but not limited, to experience of countries in Central and Eastern Europe and Southeast Europe.
+Maintainer-Name: Martina Fabris
+Maintainer-Email: fabris@ijf.hr
+ISSN: 1845-9757
+Editor-Name: Katarina Ott, Editor-Email: kott@ijf.hr
+Followup: For a followup journal, see Journal of Public Sector Economics
+Type: ReDIF-Article
+Handle: RePEc:ipf:finteo
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional paper series
+Provider-Name: Institute of Public Finance
+Provider-Homepage: http://www.ijf.hr/
+Provider-Institution: RePEc:edi:ijfffhr
+Description: In Occasional Paper Series we are publishing articles or summaries of research projects
+Maintainer-Name: Martina Fabris
+Maintainer-Email: fabris@ijf.hr
+Type: ReDIF-Paper
+Handle: RePEc:ipf:occasi
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Books on Croatian accession to the European Union
+Provider-Name: Institute of Public Finance
+Provider-Homepage: http://www.ijf.hr/
+Provider-Institution: RePEc:edi:ijfffhr
+Description: In concert with the Friedrich Ebert Foundation, since 2002 the Institute of Public Finance has monitored the process of Croatian accession to the European Union. Under the aegis of this project, three books have been produced to date in Croatian and in English.
+Maintainer-Name: Martina Fabris
+Maintainer-Email: fabris@ijf.hr
+Type: ReDIF-Book
+Handle: RePEc:ipf:eumoni
+
+
+Template-type: ReDIF-Series 1.0
+Name: Other books
+Provider-Name: Institute of Public Finance
+Provider-Homepage: http://www.ijf.hr/
+Provider-Institution: RePEc:edi:ijfffhr
+Description: Various titles
+Maintainer-Name: Martina Fabris
+Maintainer-Email: fabris@ijf.hr
+Type: ReDIF-Book
+Handle: RePEc:ipf:otherb
+
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters in books
+Provider-Name: Institute of Public Finance
+Provider-Homepage: http://www.ijf.hr/
+Provider-Institution: RePEc:edi:ijfffhr
+Description: Chapters in books
+Maintainer-Name: Martina Fabris
+Maintainer-Email: fabris@ijf.hr
+Type: ReDIF-Chapter
+Handle: RePEc:ipf:chaptr
+
+
+
+

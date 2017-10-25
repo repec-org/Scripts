@@ -1,0 +1,54 @@
+Template-type: ReDIF-Series 1.0
+Name: PSL Quarterly Review
+Predecessor: RePEc:psl:bnlqrr
+Predecessor: RePEc:psl:bnlaqr
+Order-Homepage: http://www.pslquarterlyreview.info
+Editor-Name: Alessandro Roncaglia
+Editor-Email: pslqr@uniroma1.it
+Editor-Name: Carlo D'Ippoliti
+Editor-Email: carlo.dippoliti@uniroma1.it
+Provider-Name: Economia civile
+Provider-Homepage: http://www.economiacivile.it
+Maintainer-Name: Carlo D'Ippoliti
+Maintainer-Email: pslqr@uniroma1.it
+Type: ReDIF-Article
+Handle: RePEc:psl:pslqrr
+Template-type: ReDIF-Series 1.0
+Name: Moneta e Credito
+Provider-Name: Economia civile
+Provider-Homepage: http://www.economiacivile.it
+Order-Homepage: http://www.monetaecredito.info
+Maintainer-Name: Carlo D'Ippoliti
+Maintainer-Email: monetaecredito@uniroma1.it
+Editor-Name: Alessandro Roncaglia
+Editor-Email: monetaecredito@uniroma1.it
+Editor-Name: Carlo D'Ippoliti
+Editor-Email: carlo.dippoliti@uniroma1.it
+Type: ReDIF-Article
+Handle: RePEc:psl:moneta
+Template-type: ReDIF-Series 1.0
+Name: BNL Quarterly Review 
+Followup: RePEc:psl:pslqrr
+Predecessor: RePEc:psl:bnlqrr
+Order-Homepage: http://www.economiacivile.it
+Editor-Name: Alessandro Roncaglia
+Editor-Email: pslqr@uniroma1.it
+Provider-Name: Banca Nazionale del Lavoro
+Provider-Homepage: http://www.economiacivile.it
+Maintainer-Name: Carlo D'Ippoliti
+Maintainer-Email: pslqr@uniroma1.it
+Type: ReDIF-Article
+Handle: RePEc:psl:bnlaqr
+Template-type: ReDIF-Series 1.0
+Name:  Banca Nazionale del Lavoro Quarterly Review
+Followup: RePEc:psl:pslqrr
+Followup: RePEc:psl:bnlaqr
+Order-Homepage: http://www.economiacivile.it
+Editor-Name: Alessandro Roncaglia
+Editor-Email: pslqr@uniroma1.it
+Provider-Name: Banca Nazionale del Lavoro
+Provider-Homepage: http://www.economiacivile.it
+Maintainer-Name: Carlo D'Ippoliti
+Maintainer-Email: pslqr@uniroma1.it
+Type: ReDIF-Article
+Handle: RePEc:psl:bnlqrr

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers de Economia (Economics Working Papers)
+Description: This is the Economics Working Paper Series of Católica Porto Business School
+Provider-Name: Católica Porto Business School, Universidade Católica Portuguesa
+Provider-Institution: RePEc:edi:feucppt
+Maintainer-Name: Ricardo Goncalves
+Maintainer-Email: rgoncalves@porto.ucp.pt
+Type: ReDIF-Paper
+Handle: RePEc:cap:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers de Gestão (Management Working Papers)
+Description: This is the Management Working Paper Series of Católica Porto Business School
+Provider-Name: Católica Porto Business School, Universidade Católica Portuguesa
+Provider-Institution: RePEc:edi:feucppt
+Maintainer-Name: Ricardo Goncalves
+Maintainer-Email: rgoncalves@porto.ucp.pt
+Type: ReDIF-Paper
+Handle: RePEc:cap:mpaper

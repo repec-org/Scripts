@@ -1,0 +1,44 @@
+Template-type: ReDIF-Series 1.0
+Name: Research Working Papers
+Provider-Name: MICROCON - A Micro Level Analysis of Violent Conflict
+Provider-Homepage: http://www.microconflict.eu
+Provider-Institution: RePEc:edi:idsusuk
+Maintainer-Name: John Spall
+Maintainer-Email: info@microconflict.eu
+Type: ReDIF-Paper
+Handle: RePEc:mcn:rwpapr
+Editor-Name: John Spall
+Notification: http://www.microconflict.eu/news/newsletter.php
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Working Papers
+Provider-Name: MICROCON - A Micro Level Analysis of Violent Conflict
+Provider-Homepage: http://www.microconflict.eu
+Provider-Institution: RePEc:edi:idsusuk
+Maintainer-Name: Freida M'Cormack
+Maintainer-Email: info@microconflict.eu
+Maintainer-Email: f.mcormack@ids.ac.uk
+Maintainer-Email: tbrueck@diw.de
+Maintainer-Email: p.justino@ids.ac.uk
+Maintainer-Email: philip.verwimp@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:mcn:pwpapr
+Editor-Name: John Spall
+Notification: http://www.microconflict.eu/news/newsletter.php
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Briefings
+Provider-Name: MICROCON - A Micro Level Analysis of Violent Conflict
+Provider-Homepage: http://www.microconflict.eu
+Provider-Institution: RePEc:edi:idsusuk
+Maintainer-Name: Freida M'Cormack
+Maintainer-Email: info@microconflict.eu
+Maintainer-Email: f.mcormack@ids.ac.uk
+Maintainer-Email: tbrueck@diw.de
+Maintainer-Email: p.justino@ids.ac.uk
+Maintainer-Email: philip.verwimp@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:mcn:polbrf
+Editor-Name: John Spall
+Notification: http://www.microconflict.eu/news/newsletter.php
+ISSN: ISSN 1757-238X

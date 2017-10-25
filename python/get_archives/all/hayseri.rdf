@@ -1,0 +1,42 @@
+Template-type: ReDIF-Series 1.0
+Name: Histoy of Economic Thought Chapters
+Type:  ReDIF-Chapter
+Provider-Name: McMaster University Archive for the History of Economic Thought
+Provider-Homepage: http://socserv.mcmaster.ca/econ/ugcm/3ll3/
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Name: Robert Dimand
+Maintainer-Email:  rdimand@brocku.ca
+Handle: RePEc:hay:hetcha
+
+Template-type: ReDIF-Series 1.0
+Name: History of Economic Thought Articles
+Type:  ReDIF-Article 
+Provider-Name: McMaster University Archive for the History of Economic Thought
+Provider-Homepage: http://socserv.mcmaster.ca/econ/ugcm/3ll3/
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Name: Robert Dimand
+Maintainer-Email:  rdimand@brocku.ca
+Handle: RePEc:hay:hetart
+
+Template-type: ReDIF-Series 1.0
+Name: History of Economic Thought Books
+Type:  ReDIF-Book
+Provider-Name: McMaster University Archive for the History of Economic Thought
+Provider-Homepage: http://socserv.mcmaster.ca/econ/ugcm/3ll3/
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Name: Robert Dimand
+Maintainer-Email:  rdimand@brocku.ca
+Handle: RePEc:hay:hetboo
+
+
+Template-type: ReDIF-Series 1.0
+Name: History of Economic Thought Papers
+Type: ReDIF-Paper
+Provider-Name: McMaster University Archive for the History of Economic Thought
+Provider-Homepage: http://socserv.mcmaster.ca/econ/ugcm/3ll3/
+Provider-Institution: RePEc:edi:demcmca
+Maintainer-Name: Robert Dimand
+Maintainer-Email:  rdimand@brocku.ca
+Handle: RePEc:hay:hetpap
+
+

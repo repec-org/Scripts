@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: EUSP Department of Economics Working Paper Series
+Handle: RePEc:eus:wpaper
+Maintainer-Email: mpakhnin@eu.spb.ru
+Type: ReDIF-Paper
+Provider-Name: European University at St. Petersburg, Department of Economics 
+Provider-Institution: RePEc:edi:feeusru
+Maintainer-Name: Mikhail Pakhnin 
+Description: This series collects working papers from the Department of Economics of the European University at St. Petersburg. The series language is preferably English, but do not be surprised if you meet some papers in Russian!
+
+Template-type: ReDIF-Series 1.0
+Name: CEEES Paper Series
+Handle: RePEc:eus:ce3swp
+Maintainer-Email: mpakhnin@eu.spb.ru
+Type: ReDIF-Paper
+Provider-Name: European University at St. Petersburg, Department of Economics 
+Provider-Institution: RePEc:edi:feeusru
+Maintainer-Name: Mikhail Pakhnin 
+Description: This series collects working papers from the Centre for Energy and Environmental Economic Studies of the European University at St. Petersburg.
+
+Template-type: ReDIF-Series 1.0
+Name: CEEES Policy Brief Series
+Handle: RePEc:eus:ce3spb
+Maintainer-Email: mpakhnin@eu.spb.ru
+Type: ReDIF-Paper
+Provider-Name: European University at St. Petersburg, Department of Economics 
+Provider-Institution: RePEc:edi:feeusru
+Maintainer-Name: Mikhail Pakhnin 
+Description: This is Policy Brief Series published by the Centre for Energy and Environmental Economic Studies of the European University at St. Petersburg in English and/or Russian.

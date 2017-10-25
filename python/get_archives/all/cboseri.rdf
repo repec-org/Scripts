@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Handle: RePEc:cbo:wpaper
+Maintainer-Email: communications@cbo.gov
+Type: ReDIF-Paper
+Provider-Name: Congressional Budget Office
+Provider-Homepage: https://www.cbo.gov
+Provider-Institution: RePEc:edi:cbogvus
+
+Template-type: ReDIF-Series 1.0
+Name: Reports
+Handle: RePEc:cbo:report
+Maintainer-Email: communications@cbo.gov
+Type: ReDIF-Paper
+Provider-Name: Congressional Budget Office
+Provider-Homepage: https://www.cbo.gov
+Provider-Institution: RePEc:edi:cbogvus

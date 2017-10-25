@@ -1,0 +1,69 @@
+Template-type: ReDIF-Series 1.0
+Name: MNB Working Papers
+Provider-Name: Magyar Nemzeti Bank (Central Bank of Hungary)
+Provider-Homepage: http://www.mnb.hu/
+Provider-Institution: RePEc:edi:mnbgvhu
+Maintainer-Name: Lorant Kaszab
+Maintainer-Email: kaszabl@mnb.hu
+Type: ReDIF-Paper
+Handle: RePEc:mnb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: MNB Occasional Papers
+Provider-Name: Magyar Nemzeti Bank (Central Bank of Hungary)
+Provider-Homepage: http://www.mnb.hu/
+Provider-Institution: RePEc:edi:mnbgvhu
+Maintainer-Name: Lorant Kaszab
+Maintainer-Email: kaszabl@mnb.hu
+Type: ReDIF-Paper
+Handle: RePEc:mnb:opaper
+
+Template-type: ReDIF-Series 1.0 
+Name: MNB Bulletin (discontinued)
+Provider-Name: Magyar Nemzeti Bank (Central Bank of Hungary) 
+Provider-Homepage: http://www.mnb.hu/ 
+Provider-Institution: RePEc:edi:mnbgvhu 
+Maintainer-Name: Maja Bajcsy
+Maintainer-Email: bajcsym@mnb.hu 
+Type: ReDIF-Article 
+Handle: RePEc:mnb:bullet
+
+Template-type: ReDIF-Series 1.0
+Name: MNB Background Studies (discontinued)
+Provider-Name: Magyar Nemzeti Bank (Central Bank of Hungary)
+Provider-Homepage: http://www.mnb.hu/
+Provider-Institution: RePEc:edi:mnbgvhu
+Maintainer-Name: Maja Bajcsy
+Maintainer-Email: bajcsym@mnb.hu
+Type: ReDIF-Paper
+Handle: RePEc:mnb:backgr
+
+Template-type: ReDIF-Series 1.0 
+Name: MNB Conference Volume
+Provider-Name: Magyar Nemzeti Bank (Central Bank of Hungary) 
+Provider-Homepage: http://www.mnb.hu/ 
+Provider-Institution: RePEc:edi:mnbgvhu 
+Maintainer-Name: Maja Bajcsy
+Maintainer-Email: bajcsym@mnb.hu 
+Type: ReDIF-Article 
+Handle: RePEc:mnb:confer
+
+Template-type: ReDIF-Series 1.0 
+Name: Financial and Economic Review
+Provider-Name: Magyar Nemzeti Bank (Central Bank of Hungary) 
+Provider-Homepage: http://www.mnb.hu/ 
+Provider-Institution: RePEc:edi:mnbgvhu 
+Maintainer-Name: Morvay Endre
+Maintainer-Email: hitelintezetiszemle@mnb.hu
+Type: ReDIF-Article 
+Handle: RePEc:mnb:finrev
+
+Template-type: ReDIF-Series 1.0 
+Name: MNB Handbook
+Provider-Name: Magyar Nemzeti Bank (Central Bank of Hungary) 
+Provider-Homepage: http://www.mnb.hu/ 
+Provider-Institution: RePEc:edi:mnbgvhu 
+Maintainer-Name: Morvay Endre
+Maintainer-Email: hitelintezetiszemle@mnb.hu
+Type: ReDIF-Article 
+Handle: RePEc:mnb:handbk

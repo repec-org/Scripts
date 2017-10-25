@@ -1,0 +1,29 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Economic Annals
+Provider-Name: Faculty of Economics, University of Belgrade
+Provider-Homepage: http://www.ekof.bg.ac.rs/
+Provider-Institution: RePEc:edi:efbeoyu
+Order-Homepage: http://ea.ekof.bg.ac.rs/
+Order-Email: ea@ekof.bg.ac.rs
+Maintainer-Name: Goran Petrić
+Maintainer-Email: petricg@ekof.bg.ac.rs
+Editor-Name: Božidar Cerović
+Editor-Email: cerovi@ekof.bg.ac.rs
+ISSN: 0013-3264
+Type: ReDIF-Article
+Handle: RePEc:beo:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Ekonomske ideje i praksa
+Provider-Name: Faculty of Economics, University of Belgrade
+Provider-Homepage: http://www.ekof.bg.ac.rs/
+Provider-Institution: RePEc:edi:efbeoyu
+Order-Homepage: http://www.ekof.bg.ac.rs/publikacije/casopisi/ekonomske-ideje-i-praksa/
+Order-Email: ekonomskeideje-praksa@ekof.bg.ac.rs
+Maintainer-Name: Goran Petrić
+Maintainer-Email: petricg@ekof.bg.ac.rs
+Editor-Name: Miomir Jakšić
+Editor-Email: mjaksic@ekof.bg.ac.rs
+ISSN: 2217-6217
+Type: ReDIF-Article
+Handle: RePEc:beo:ekidpr

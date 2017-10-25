@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers of BETA
+Provider-Name: Bureau d'Economie Théorique et Appliquée, UDS, Strasbourg
+Provider-Homepage: http://www.beta-umr7522.fr/
+Provider-Institution: RePEc:edi:bestrfr
+Maintainer-Email: webmaster@cournot.u-strasbg.fr
+Handle: RePEc:ulp:sbbeta
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Bulletin de l'Observatoire des politiques économiques en Europe
+Provider-Name: Observatoire des Politiques Économiques en Europe (OPEE)
+Provider-Homepage: http://opee.unistra.fr/
+Provider-Institution: RePEc:edi:opstrfr
+Maintainer-Email: michel.devoluy@unistra.fr
+Handle: RePEc:ulp:buopee

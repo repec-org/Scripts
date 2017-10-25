@@ -1,0 +1,83 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Type: ReDIF-Paper
+Handle: RePEc:rnp:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Research Papers
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Type: ReDIF-Paper
+Handle: RePEc:rnp:rpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Published Papers
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Type: ReDIF-Paper
+Handle: RePEc:rnp:ppaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Type: ReDIF-Paper
+Handle: RePEc:rnp:gbooks
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Policy
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Editor-Name: Vladimir Mau
+Type: ReDIF-Article
+Handle: RePEc:rnp:ecopol
+
+Template-type: ReDIF-Series 1.0
+Name: The Journal of Public Administration
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Editor-Name: Tatiana Ivleva
+Type: ReDIF-Article
+Handle: RePEc:rnp:govsev
+
+Template-type: ReDIF-Series 1.0
+Name: Sociology of power
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Editor-Name: Victor Vakhshtain
+Type: ReDIF-Article
+Handle: RePEc:rnp:socpow
+
+Template-type: ReDIF-Series 1.0
+Name: State, Religion and Church in Russia and Worldwide
+Provider-Name: Russian Presidential Academy of National Economy and Public Administration
+Provider-Institution: RePEc:edi:aneeeru
+Provider-Homepage: http://www.rane.ru/
+Maintainer-Name: RANEPA maintainer
+Maintainer-Email: repository@ranepa.ru
+Editor-Name: Dmitry Uzlaner
+Type: ReDIF-Article
+Handle: RePEc:rnp:strelc

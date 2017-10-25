@@ -1,0 +1,25 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Departamento de Economía Agraria, Facultad de Agronomía e Ingeniería Forestal de la Pontificia Universidad Católica de Chile
+Provider-Homepage: http://www.uc.cl/agronomia/b_departamentos/EconomiaAgraria/EconomiaAgraria.htm
+Provider-Institution: RePEc:edi:dapuccl
+Maintainer-Name: Luis Olivares
+Maintainer-Email: laolivar@uc.cl
+Order-Email: rarriagadac@uc.cl
+Maintainer-Phone: +56-2-354-4187
+Editor-Name: Rodrigo Arriagada
+Editor-Email: rarriagadac@uc.cl
+Type: ReDIF-Paper
+Handle: RePEc:puc:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Revista DEA
+Description: Articulos del Departamento de Economía Agraria, Facultad de Agronomía e Ingeniería Forestal de la Pontificia Universidad Católica de Chile
+Provider-Name: Departamento de Economía Agraria, Facultad de Agronomía e Ingeniería Forestal de la Pontificia Universidad Católica de Chile
+Provider-Institution: RePEc:edi:dapuccl
+Maintainer-Name: Luis Olivares
+Maintainer-Email: laolivar@uc.cl
+Editor-Name: Rodrigo Arriagada
+Editor-Email: rarriagadac@uc.cl
+Type: ReDIF-Article
+Handle: RePEc:puc:journl

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Monetary and Economic Studies
+Provider-Name: Institute for Monetary and Economic Studies, Bank of Japan
+Provider-Homepage: http://www.imes.boj.or.jp/
+Provider-Institution: RePEc:edi:imegvjp
+Maintainer-Name: Kinken
+Maintainer-Email: imes.journals-info@boj.or.jp
+Type: ReDIF-Article
+Handle: RePEc:ime:imemes
+
+Template-type: ReDIF-Series 1.0
+Name: IMES Discussion Paper Series
+Provider-Name: Institute for Monetary and Economic Studies, Bank of Japan
+Provider-Homepage: http://www.imes.boj.or.jp/
+Provider-Institution: RePEc:edi:imegvjp
+Maintainer-Name: Kinken
+Maintainer-Email: imes.journals-info@boj.or.jp
+Type: ReDIF-Paper
+Handle: RePEc:ime:imedps

@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: AAYE Policy Research Working Paper Series
+Provider-Name: Association of African Young Economists
+Provider-Homepage: http://www.aaye.org/
+Provider-Institution: RePEc:edi:aayeeea
+Maintainer-Name: Christian-Lambert Nguena 
+Maintainer-Email: info@aaye.org
+Type: ReDIF-Paper
+Handle: RePEc:aay:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Global Finance
+Description: This is the official journal of the Association of African Young Economists
+Provider-Name: Association of African Young Economists
+Provider-Institution: RePEc:edi:aayeeea
+Maintainer-Name: Nguena Christian Lambert
+Maintainer-Email: info@aaye.org
+Editor-Name: Nguena Christian Lambert
+Editor-Email: info@aaye.org
+Type: ReDIF-Article
+Handle: RePEc:aay:journl

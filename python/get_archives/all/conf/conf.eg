@@ -1,0 +1,99 @@
+package CONF;
+
+$home=$ENV{'HOME'} ;
+
+#
+#
+$bin=$home.'/bin' ;
+
+$maintainer="J.Barrueco\@surrey.ac.uk" ;
+$host='netec.mcc.ac.uk' ;
+
+
+#
+# Required programs
+# Please, specifie the full paht for the following programs in your system
+$grep='/packages/gnu/bin/grep' ;
+$find='/usr/local/bin/find' ;
+
+#
+# Temporary directory
+$tmp='/work' ;
+#
+# Log directory
+$log=$home.'/var/log' ;
+
+############################################
+# PROCEDURES
+#
+############################################
+
+sub parse_date {
+##################################################
+#
+# Make the date info for the http login
+#
+##################################################
+
+    %meses = (
+	  'Jan','01',
+	  'Feb','02',
+	  'Mar','03',
+	  'Apr','04',
+	  'May','05',
+	  'Jun','06',
+	  'Jul','07',
+	  'Aug','08',
+	  'Sep','09',
+	  'Oct','10',
+	  'Nov','11',
+	  'Dec','12'
+	  ) ;
+
+    open(DATE,"date |") ;
+    @date_elements=split(/\s+/,<DATE>);
+#
+# We add a 0 if the day is less than 10
+    $date_elements[2]="0".$date_elements[2] if $date_elements[2] < 10 ; 
+    $date_elements[3]=~s/\://g;
+    $date_res="$date_elements[5]$meses{$date_elements[1]}$date_elements[2]  $date_elements[3]   ";
+    $date_res; 
+}
+
+
+sub log {
+
+    ($code,$message,$file)=@_;
+
+    $date="\n".&parse_date ;
+#
+#open log file and log start of process
+    open(LOG,">>$file") ;
+
+    if ($code eq '1') {
+	print LOG $date.' : '.$$.' : '.$message  ;
+	close(LOG) ;
+	} 
+    else {
+	$end=(times)[0] ;
+	$ctime=($end-$start) ;
+	$ctime=int($ctime) ;
+
+	if ($message ne 'End of rewe process. Installation ended.') {
+	    open (MAIL, "|mailx -s 'Error in your RePEc script' $CONF::maintainer ") || die "Can't open mailx!\n";
+	    print LOG $date.' : '.$$.' : DIED, '.$message ;
+	    print MAIL $date.' : '.$$.' : DIED, '.$message ;
+	    close(MAIL) ;
+	} else {
+	    print LOG $date.' : '.$$.' : '.$message.'This process took '.$ctime .' CPU seconds' ;
+	}
+	close(LOG) ; 
+	exit(0) ;
+    }
+}
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: EFZG Working Papers Series
+Provider-Name: Faculty of Economics and Business, University of Zagreb
+Provider-Homepage: http://www.efzg.hr
+Provider-Institution: RePEc:edi:fefzghr
+Maintainer-Name: WPS
+Maintainer-Email: wps@efzg.hr
+Type: ReDIF-Paper
+Handle: RePEc:zag:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Zagreb International Review of Economics and Business
+Description: This is a journal of the Faculty of Economics and Business of University of Zagreb
+Provider-Name: Faculty of Economics and Business, University of Zagreb
+Provider-Institution: RePEc:edi:fefzghr
+Maintainer-Name: Jurica Šimurina
+Maintainer-Email: jsimurina@efzg.hr
+Order-Email: jsimurina@efzg.hr
+Order-Homepage: http://www.efzg.hr/default.aspx?id=6045
+Order-Postal: Zagreb International Review of Economics and Business, Faculty of Economics and Business, Trg J. F. Kennedy 6, 10000 Zagreb, Croatia.
+Price: US$60 per volume (two issues) + shipping
+Restriction: Abstract only available on-line
+Editor-Name: Soumitra Sharma
+Editor-Email: soumitra-kumar.sharma@zg.htnet.hr
+ISSN: 1331-5609
+Type: ReDIF-Article
+Handle: RePEc:zag:zirebs
+
+Template-type: ReDIF-Series 1.0
+Name: Tržište/Market
+Description: Tržište/Market is the official journal of the Faculty of Economics & Business – Zagreb, Marketing Department and CROMAR (Croatian marketing association).
+Provider-Name: Faculty of Economics and Business, University of Zagreb
+Provider-Institution: RePEc:edi:fefzghr
+Maintainer-Name: Tanja Komarac
+Maintainer-Email: tkomarac@efzg.hr
+Order-Email: zkrupka@efzg.hr
+Order-Homepage: http://www.efzg.unizg.hr/trziste
+Order-Postal: Tržište/Market, Faculty of Economics and Business, Trg J. F. Kennedy 6, 10000 Zagreb, Croatia.
+Price: 35EUR annual subscription (two issues)
+Restriction: None
+Editor-Name: Đurđana Ozretić Došen
+Editor-Email: dozretic@efzg.hr
+ISSN: 0353-4790
+Type: ReDIF-Article
+Handle: RePEc:zag:market
+
+Template-type: ReDIF-Series 1.0
+Name: EFZG Occasional Publications (Department of Macroeconomics)
+Description: Occasional publications of the Department of Macroeconomics and Economic Development, Faculty of Economics and Business, University of Zagreb
+Provider-Name: Faculty of Economics and Business, University of Zagreb
+Provider-Homepage: http://www.efzg.hr
+Provider-Institution: RePEc:edi:fefzghr
+Maintainer-Name: Tomislav Sekur
+Maintainer-Email: tsekur@efzg.hr
+Type: ReDIF-Chapter
+Handle: RePEc:zag:chaptr
+
+Template-type: ReDIF-Series 1.0
+Name: EFZG Department of Macroeconomics Software Series
+Description: Software solutions of the Department of Macroeconomics and Economic Development, Faculty of Economics and Business, University of Zagreb
+Provider-Name: Faculty of Economics and Business, University of Zagreb
+Provider-Homepage: http://www.efzg.hr
+Provider-Institution: RePEc:edi:fefzghr
+Maintainer-Name: Vladimir Arčabić
+Maintainer-Email: varcabic@efzg.hr
+Type: ReDIF-Software
+Handle: RePEc:zag:softwr

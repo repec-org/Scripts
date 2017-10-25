@@ -1,0 +1,50 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Czech National Bank, Research Department
+Provider-Homepage: http://www.cnb.cz/en/research/research_intro/
+Provider-Institution: RePEc:edi:cnbgvcz
+Maintainer-Name: Jan Babecky
+Maintainer-Email: jan.babecky@cnb.cz
+Type: ReDIF-Paper
+Handle: RePEc:cnb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Research and Policy Notes
+Provider-Name: Czech National Bank, Research Department
+Provider-Homepage: http://www.cnb.cz/en/research/research_intro/
+Provider-Institution: RePEc:edi:cnbgvcz
+Maintainer-Name: Jan Babecky
+Maintainer-Email: jan.babecky@cnb.cz
+Type: ReDIF-Paper
+Handle: RePEc:cnb:rpnrpn
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional Publications - Chapters in Edited Volumes
+Provider-Name: Czech National Bank, Research Department
+Provider-Homepage: http://www.cnb.cz/en/research/research_intro/
+Provider-Institution: RePEc:edi:cnbgvcz
+Maintainer-Name: Jan Babecky
+Maintainer-Email: jan.babecky@cnb.cz
+Type: ReDIF-Chapter
+Handle: RePEc:cnb:ocpubc
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional Publications - Edited Volumes
+Provider-Name: Czech National Bank, Research Department
+Provider-Homepage: http://www.cnb.cz/en/research/research_intro/
+Provider-Institution: RePEc:edi:cnbgvcz
+Maintainer-Name: Jan Babecky
+Maintainer-Email: jan.babecky@cnb.cz
+Type: ReDIF-Book
+Handle: RePEc:cnb:ocpubv
+
+Template-type: ReDIF-Series 1.0
+Name: Archive of Monetary Policy Division Working Papers
+Provider-Name: Czech National Bank
+Provider-Homepage: http://www.cnb.cz/en/research/research_intro/
+Provider-Institution: RePEc:edi:cnbgvcz
+Maintainer-Name: Jan Babecky
+Maintainer-Email: jan.babecky@cnb.cz
+Type: ReDIF-Paper
+Handle: RePEc:cnb:mpaper
+

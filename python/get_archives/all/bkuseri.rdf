@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo
+Description: Los Documentos de Trabajo del Banco Central del Uruguay son trabajos de investigación original de investigadores del Banco Central del Uruguay o asociados al mismo, en un formato no definitivo, que han sido autorizados para su publicación. Esta serie cumple con una función de divulgación de trabajo en curso, para mejorar la interacción con investigadores en la materia y acelerar el desarrollo del conocimiento.
+Type: ReDIF-Paper
+Provider-Name: Banco Central del Uruguay
+Provider-Homepage: http://www.bcu.gub.uy
+Provider-Phone: +598 1967
+Provider-Postal: Biblioteca Especializada. Banco Central del Uruguay. Diagonal Fabini 777, Montevideo-Uruguay. CP 11100
+Provider-Institution: RePEc:edi:bcugvuy
+Maintainer-Name: Biblioteca Especializada
+Maintainer-Email: biblio@bcu.gub.uy
+Editor-Name: Gerardo Licandro
+Editor-Email: glicandr@bcu.gub.uy
+Editor-Workplace-Name: Área de Investigaciones Económicas. Banco Central del Uruguay
+Handle: RePEc:bku:doctra
+ISSN: 1688-7565

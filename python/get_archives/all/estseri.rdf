@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: ESeC Working Papers
+Provider-Name: ESeC - Economic Statistics no-profit Association
+Provider-Homepage: http://www.economicstatistics.eu/wp/pdf/
+Provider-Institution: RePEc:edi:eseccea
+Maintainer-Name: Flavio Verrecchia
+Maintainer-Email: mail@economicstatistics.eu
+Type: ReDIF-Paper
+Handle: RePEc:est:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: JeSP
+Description: Journal of EseC Short Papers
+Provider-Name: ESeC - Economic Statistics no-profit Association
+Provider-Homepage: http://www.economicstatistics.eu/jesp/
+Provider-Institution: RePEc:edi:eseccea
+Maintainer-Name: Flavio Verrecchia
+Maintainer-Email: mail@economicstatistics.eu
+Editor-Name: Flavio Verrecchia
+Editor-Email: flavio.verrecchia@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:est:journl

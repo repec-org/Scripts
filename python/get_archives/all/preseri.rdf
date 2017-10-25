@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Pretoria, Department of Economics
+Provider-Homepage: http://www.up.ac.za/economics
+Provider-Institution: RePEc:edi:decupza
+Maintainer-Name: Rangan Gupta
+Maintainer-Email: Rangan.Gupta@up.ac.za
+Type: ReDIF-Paper
+Handle: RePEc:pre:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: South African Journal of Economic and Management Sciences
+Description: This is the official journal of the Faculty of Economic and Management Sciences, University of Pretoria
+Provider-Name: University of Pretoria, Faculty of Economic and Management Sciences
+Provider-Institution: RePEc:edi:decupza
+Maintainer-Name: Rangan Gupta
+Maintainer-Email: Rangan.Gupta@up.ac.za
+Editor-Name: Pieter Buys
+Editor-Email: sajems@up.ac.za
+Type: ReDIF-Article
+Handle: RePEc:pre:journl

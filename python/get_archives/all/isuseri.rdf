@@ -1,0 +1,45 @@
+Template-type: ReDIF-Series 1.0
+Name: ISU General Staff Papers
+Description: General Staff Papers by Economics Faculty at Iowa State University
+Provider-Name: Iowa State University, Department of Economics
+Provider-Postal: Iowa State University, Dept. of Economics, 260 Heady Hall, Ames, IA 50011-1070
+Provider-Homepage: http://www.econ.iastate.edu
+Provider-Institution: RePEc:edi:deiasus
+Maintainer-Name: Curtis Balmer
+Maintainer-Email: econwebmaster@iastate.edu
+Type: ReDIF-Paper
+Handle: RePEc:isu:genstf
+
+Template-type: ReDIF-Series 1.0
+Name: Staff General Research Papers Archive
+Description: Staff research by Economics faculty at Iowa State University
+Provider-Name: Iowa State University, Department of Economics
+Provider-Postal: Iowa State University, Dept. of Economics, 260 Heady Hall, Ames, IA 50011-1070
+Provider-Homepage: http://www.econ.iastate.edu
+Provider-Institution: RePEc:edi:deiasus
+Maintainer-Name: Curtis Balmer
+Maintainer-Email: econwebmaster@iastate.edu
+Type: ReDIF-Paper
+Handle: RePEc:isu:genres
+
+Template-Type: ReDIF-Series 1.0
+Name:  Staff Papers
+Provider-Name: Iowa State University Department of Economics
+Provider-Postal: Iowa State University, Dept. of Economics, 260 Heady Hall, Ames, IA 50011-1070
+Provider-Homepage: http://www.econ.iastate.edu
+Provider-Institution: RePEc:edi:deiasus
+Maintainer-Name: Curtis Balmer
+Maintainer-Email: econwebmaster@iastate.edu
+Type: ReDIF-Paper
+Handle: RePEc:isu:isuesp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Economic Report
+Provider-Name: Iowa State University Department of Economics
+Provider-Postal:  Iowa State University, Dept. of Economics, 260 Heady Hall, Ames, IA 50011-1070
+Provider-Homepage: http://www.econ.iastate.edu
+Provider-Institution: RePEc:edi:deiasus
+Maintainer-Name: Curtis Balmer
+Maintainer-Email: econwebmaster@iastate.edu
+Type: ReDIF-Paper
+Handle: RePEc:isu:iowaer

@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: NFI Working Papers
+Provider-Name: Indiana State University, Scott College of Business, Networks Financial Institute
+Provider-Homepage: http://www.indstate.edu/business/NFI/
+Provider-Institution: RePEc:edi:nfinsus
+Maintainer-Name: Ray Thomas
+Maintainer-Email: raymond.thomas@indstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:nfi:nfiwps
+
+Template-type: ReDIF-Series 1.0
+Name: NFI Policy Briefs
+Provider-Name: Indiana State University, Scott College of Business, Networks Financial Institute
+Provider-Homepage: http://www.indstate.edu/business/NFI/
+Provider-Institution: RePEc:edi:nfinsus
+Maintainer-Name: Ray Thomas
+Maintainer-Email: raymond.thomas@indstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:nfi:nfipbs
+
+Template-type: ReDIF-Series 1.0
+Name: NFI Reports
+Provider-Name: Indiana State University, Scott College of Business, Networks Financial Institute
+Provider-Homepage: http://www.indstate.edu/business/NFI/
+Provider-Institution: RePEc:edi:nfinsus
+Maintainer-Name: Ray Thomas
+Maintainer-Email: raymond.thomas@indstate.edu
+Type: ReDIF-Paper
+Handle: RePEc:nfi:nfirpt

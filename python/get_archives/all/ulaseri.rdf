@@ -1,0 +1,25 @@
+Template-Type: ReDIF-Series 1.0
+Name: Economía
+Description: This is the official journal of the Instituto de Investigaciones Económicas y Sociales (IIES) 
+de la Universidad de los Andes
+
+Provider-Name: Instituto de Investigaciones Económicas y Sociales (IIES). 
+               Facultad de Ciencias Económicas y Sociales.
+               Universidad de Los Andes.
+               Mérida, Venezuela
+Provider-Postal: Facultad de Ciencias Económicas y Sociales.
+                 Instituto de Investigaciones Económicas y Sociales.
+                 Campus Universitario Liria, Edificio G, Tercer Nivel.
+                 Mérida 5101, Estado Mérida, Venezuela
+Provider-Institution: RePEc:edi:iiulave
+Maintainer-Name: Alexis Vásquez
+Maintainer-Email: avasquez@ula.ve
+Maintainer-Phone: 582742401199
+Editor-Name:  Alberto José Hurtado
+Editor-Email: ajhurtado@ula.ve
+Editor-Phone: 582742401093
+ISSN: 1315-2467
+Type: ReDIF-Article
+Handle: RePEc:ula:econom
+
+

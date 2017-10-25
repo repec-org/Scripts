@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Mannheim, Department of Economics
+Provider-Homepage: http://www2.vwl.uni-mannheim.de/10.1.html
+Provider-Institution: RePEc:edi:fvmande
+Maintainer-Name: Katharina Rautenberg
+Maintainer-Email: katharina.rautenberg@bib.uni-mannheim.de
+Type: ReDIF-Paper
+Handle: RePEc:mnh:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: Institut fuer Volkswirtschaftslehre und Statistik, Abteilung fuer Volkswirtschaftslehre
+Provider-Homepage: http://www.vwl.uni-mannheim.de/institut/
+Provider-Institution: RePEc:edi:ivmande
+Maintainer-Name: Katharina Rautenberg
+Maintainer-Email: katharina.rautenberg@bib.uni-mannheim.de
+Type: ReDIF-Paper
+Handle: RePEc:mnh:vpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Papers
+Provider-Name: Sonderforschungsbreich 504
+Provider-Homepage: http://ub-madoc.bib.uni-mannheim.de/view/ubmaseries/90080.html
+Provider-Institution: RePEc:edi:sfmande
+Maintainer-Name: Katharina Rautenberg
+Maintainer-Email: katharina.rautenberg@bib.uni-mannheim.de
+Type: ReDIF-Paper
+Handle: RePEc:mnh:spaper

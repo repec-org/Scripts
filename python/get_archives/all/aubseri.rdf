@@ -1,0 +1,30 @@
+Template-Type: ReDIF-Series 1.0
+Name: UFAE and IAE Working Papers 
+Provider-Name: Unitat de Fonaments de l'Anàlisi Econòmica (UAB) and Institut d'Anàlisi Econòmica (CSIC)
+Provider-Homepage: http://pareto.uab.cat
+Provider-Phone: 34 93 592 1203
+Provider-Institution: RePEc:edi:ufuabes
+Maintainer-Name: Xavier Vila
+Maintainer-Email: Xavier.Vila@uab.cat 
+Handle: RePEc:aub:autbar
+
+Template-type: ReDIF-Series 1.0
+Name: Grecs Computer Code
+Provider-Name: Research Group in Computation and Simulations (GRECS)
+Provider-Homepage: http://pareto.uab.cat/grecs
+Provider-Institution: RePEc:edi:ufuabes
+Maintainer-Name: Xavier Vila
+Maintainer-Email: Xavier.Vila@uab.cat
+Type: ReDIF-Software
+Handle: RePEc:aub:grecss
+
+Template-Type: ReDIF-Series 1.0
+Name: UHE Working  papers
+Provider-Name: Universitat Autònoma de Barcelona, Departament d'Economia i Història Econòmica, Unitat d'Història Econòmica
+Provider-Homepage:http://www.h-economica.uab.es
+Provider-Phone:+34 935811203
+Provider-Postal: Edifici B, Campus UAB, 08193, Bellaterra, Barcelona, Spain
+Provider-Institution: RePEc:edi:heuabes
+Maintainer-Name: Jesus Ramos-Martin
+Maintainer-Email: Jesus.Ramos@uab.es
+Handle: RePEc:aub:uhewps

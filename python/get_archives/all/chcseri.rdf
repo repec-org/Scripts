@@ -1,0 +1,59 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Working Papers
+Provider-Name: Swiss Economics
+
+Provider-Homepage: http://www.swiss-economics.ch
+
+Provider-Institution: RePEc:edi:swecoch
+
+Maintainer-Name: Christian Jaag
+
+Maintainer-Email: christian.jaag@swiss-economics.ch
+
+ISSN: 1664-333X 
+Type: ReDIF-Paper
+
+Handle: RePEc:chc:wpaper
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Studies and Reports
+Provider-Name: Swiss Economics
+
+Provider-Homepage: http://www.swiss-economics.ch
+
+Provider-Institution: RePEc:edi:swecoch
+
+Maintainer-Name: Christian Jaag
+
+Maintainer-Email: christian.jaag@swiss-economics.ch
+
+Editor-Name: Christian Jaag, Urs Trinkner
+
+Editor-Email: office@swiss-economics.ch
+ISSN: 2235-1868
+Type: ReDIF-Article
+
+Handle: RePEc:chc:studse
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Economics Musings
+Provider-Name: Swiss Economics
+
+Provider-Homepage: http://www.swiss-economics.ch
+
+Provider-Institution: RePEc:edi:swecoch
+
+Maintainer-Name: Christian Jaag
+
+Maintainer-Email: christian.jaag@swiss-economics.ch
+
+Type: ReDIF-Paper
+
+Handle: RePEc:chc:ecomus

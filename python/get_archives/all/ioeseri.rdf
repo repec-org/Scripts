@@ -1,0 +1,55 @@
+Template-type: ReDIF-Series 1.0
+Name: Latin American Journal of Economics-formerly Cuadernos de Economía
+Description: Latin American Journal of Economics-formerly Cuadernos de Economía is published by the Instituto de Economía of the  Pontificia Universidad Católica de Chile, containing theoretical and empirical academic articles and notes, both in English and Spanish, with special emphasis on Latin America.
+The Journal –which is published in May and November– is indexed in Econlit, BOWKER and HARPI, and it is also available in Scielo and OCENET.
+Provider-Name: Instituto de Economía. Pontificia Universidad Católica de Chile.
+Provider-Homepage: http://www.economia.uc.cl
+Provider-Homepage: http://www.laje-ce.org
+Provider-Institution: RePEc:edi:iepuccl
+Maintainer-Name: Jaime Casassus
+Maintainer-Email: jcasassus@uc.cl
+Order-Email: laje@facea.uc.cl
+Editor-Name: Raimundo Soto
+Editor-Email: rsotom@uc.cl
+Type: ReDIF-Article
+Handle: RePEc:ioe:cuadec 
+ISSN: 0717-6821
+
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo
+Provider-Name:  Instituto de Economia. Pontificia Universidad Católica de Chile.
+Provider-Homepage: http://www.economia.uc.cl
+Provider-Institution: RePEc:edi:iepuccl
+Editor-Name: Jeanne Lafortune 
+Editor-Email: jlafortune@uc.cl 
+Maintainer-Name: Jaime Casassus
+Maintainer-Email: jcasassus@uc.cl
+Type: ReDIF-Paper
+Handle: RePEc:ioe:doctra
+ISSN: 0717-7593
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers ClioLab
+Provider-Name:  EH Clio Lab. Instituto de Economía. Pontificia Universidad Católica de Chile
+Provider-Homepage: http://www.economia.uc.cl/cliolab
+Provider-Institution: RePEc:edi:iepuccl
+Editor-Name: Jeanne Lafortune 
+Editor-Email: jlafortune@uc.cl 
+Maintainer-Name: Jaime Casassus
+Maintainer-Email: jcasassus@uc.cl
+Type: ReDIF-Paper
+Handle: RePEc:ioe:clabwp
+
+
+Template-type: ReDIF-Series 1.0
+Name: FinanceUC Working Paper Series
+Provider-Name: FinanceUC. Pontificia Universidad Católica de Chile
+Provider-Homepage: http://www.finance.uc.cl
+Provider-Institution: RePEc:edi:iepuccl
+Editor-Name: Jaime Casassus 
+Editor-Email: jcasassus@uc.cl 
+Maintainer-Name: Jaime Casassus
+Maintainer-Email: jcasassus@uc.cl
+Type: ReDIF-Paper
+Handle: RePEc:ioe:finawp

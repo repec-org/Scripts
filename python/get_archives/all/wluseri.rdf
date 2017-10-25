@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Type: ReDIF-Paper
+Provider-Name: Wilfrid Laurier University, Department of Economics
+Provider-Homepage: http://www.wlu.ca/sbe/economics/
+Provider-Institution: RePEc:edi:sbwluca
+Maintainer-Name: Andrei Kovacsik 
+Maintainer-Email: akovacsik@wlu.ca 
+Handle: RePEc:wlu:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: LCERPA Working Papers
+Type: ReDIF-Paper
+Provider-Name: Laurier Centre for Economic Research and Policy Analysis
+Provider-Homepage: http://lcerpa.org
+Provider-Institution: RePEc:edi:sbwluca
+Maintainer-Name: Andrei Kovacsik 
+Maintainer-Email: akovacsik@wlu.ca 
+Handle: RePEc:wlu:lcerpa

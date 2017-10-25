@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: FOODSECURE Working papers
+Provider-Name: LEI Wageningen UR
+Provider-Homepage: http://www.foodsecure.eu
+Provider-Institution: RePEc:edi:ledlonl
+Maintainer-Name: Barbara van der Hout
+Maintainer-Email: barbara.vanderhout@wur.nl
+Type: ReDIF-Paper
+Handle: RePEc:fsc:fspubl
+Template-type: ReDIF-Series 1.0
+Name: FOODSECURE Technical papers
+Provider-Name: LEI Wageningen UR
+Provider-Homepage: http://www.foodsecure.eu
+Provider-Institution: RePEc:edi:ledlonl
+Maintainer-Name: Barbara van der Hout
+Maintainer-Email: barbara.vanderhout@wur.nl
+Type: ReDIF-Paper
+Handle: RePEc:fsc:fstech

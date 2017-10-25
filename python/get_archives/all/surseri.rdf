@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: School of Economics Discussion Papers
+Provider-Name: School of Economics, University of Surrey
+Provider-Homepage: http://www.surrey.ac.uk/economics/
+Provider-Institution: RePEc:edi:desuruk
+Maintainer-Name: Ioannis Lazopoulos
+Maintainer-Email: i.lazopoulos@surrey.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:sur:surrec
+
+
+Template-type: ReDIF-Series 1.0
+Name: Surrey Energy Economics Centre (SEEC), School of Economics Discussion Papers (SEEDS)
+Provider-Name: Surrey Energy Economics Centre (SEEC), School of Economics, University of Surrey
+Provider-Homepage: http://www.seec.surrey.ac.uk
+Provider-Institution: RePEc:edi:eesuruk
+Maintainer-Name: Lester C Hunt
+Maintainer-Email: L.Hunt@surrey.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:sur:seedps
+ISSN: 1749-8384
+

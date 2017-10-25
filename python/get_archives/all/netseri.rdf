@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: NET Institute
+Provider-Homepage: http://www.NETinst.org/
+Provider-Institution: RePEc:edi:
+Maintainer-Name: Nicholas Economides
+Maintainer-Email: submissions@netinst.org
+Type: ReDIF-Paper
+Handle: RePEc:net:wpaper
+

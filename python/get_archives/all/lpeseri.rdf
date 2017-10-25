@@ -1,0 +1,39 @@
+Template-type: ReDIF-Series 1.0
+Name: LPEM FEBUI Working Papers
+Provider-Name: LPEM, Faculty of Economics and Business, University of Indonesia
+Provider-Homepage: http://www.lpem.org
+Provider-Institution: RePEc:edi:feuinid
+Maintainer-Name: Arianto Patunru
+Maintainer-Email: patunru@lpem-feui.org
+Type: ReDIF-Paper
+Handle: RePEc:lpe:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers in Economics and Business
+Provider-Name: Faculty of Economics and Business, University of Indonesia
+Provider-Homepage: http://www.feb.ui.ac.id
+Provider-Institution: RePEc:edi:feuinid
+Maintainer-Name: Muhammad Halley Yudhistira
+Maintainer-Email: phd09014@grips.ac.jp
+Type: ReDIF-Paper
+Handle: RePEc:lpe:wpecbs
+
+Template-type: ReDIF-Series 1.0
+Name: Economics and Finance in Indonesia
+Provider-Name: Faculty of Economics and Business, University of Indonesia
+Provider-Homepage: http://www.lpem.org
+Provider-Institution: RePEc:edi:feuinid
+Maintainer-Name: Muhammad Halley Yudhistira
+Maintainer-Email: phd09014@grips.ac.jp
+Type: ReDIF-Article
+Handle: RePEc:lpe:efijnl
+
+Template-type: ReDIF-Series 1.0
+Name: LPEM FEBUI Staff Papers
+Provider-Name: LPEM, Faculty of Economics and Business, University of Indonesia
+Provider-Homepage: http://www.lpem.org
+Provider-Institution: RePEc:edi:feuinid
+Maintainer-Name: Arianto Patunru
+Maintainer-Email: patunru@lpem-feui.org
+Type: ReDIF-Paper
+Handle: RePEc:lpe:spaper

@@ -1,0 +1,9 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:wdi
+Name: William Davidson Institute Working Papers Series 
+Maintainer-Name: WDI
+Maintainer-Email: wdi@umich.edu
+Description: Economic research focusing on transition and emerging markets
+#URL:  http://wdi.umich.edu/files/publications/workingpapers/
+URL: ftp://ideas.repec.org/pub/RePEc/frozen/wdi
+Homepage: http://www.wdi.umich.edu

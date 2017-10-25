@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Universidad Nacional General Sarmiento, Instituto de Industria, Programa de Investigacion de Economia del Conocimiento.
+Provider-Homepage: http://www.ungs.edu.ar/piec/
+Provider-Institution: RePEc:edi:iingsar
+Maintainer-Name: Ana Martinez
+Maintainer-Email: anamarti@ungs.edu.ar
+Type: ReDIF-Paper
+Handle: RePEc:gsa:wpaper
+Template-type: ReDIF-Series 1.0
+Name: Programa de Investigacion de Economia del Conocimiento
+Description: Este es el sitio oficial  de programa de Investigacion de Economia del Conocimiento
+Provider-Name: Programa de Investigacion de Economia del Conocimiento
+Provider-Institution: RePEc:edi:iingsar
+Maintainer-Name: Ana Martinez
+Maintainer-Email: anamarti@ungs.edu.ar
+Type: ReDIF-Article
+Handle:RePEc:gsa:journl

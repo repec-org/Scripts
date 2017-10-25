@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: Eastern Economic Journal
+Description: This is the official journal of the Eastern Economic Association
+Provider-Name: Eastern Economic Association
+Provider-Homepage: http://www.ramapo.edu/eea/journal.html
+Provider-Institution: RePEc:edi:eeaa1ea
+Editor-Name: Susan L. Averett
+Editor-Email: EEJ@lafayette.edu
+Editor-Name: Edward N. Gamber, Lafayette College
+Editor-Email: EEJ@lafayette.edu
+Maintainer-Name: Victor Matheson, College of the Holy Cross	
+Maintainer-Email: vmatheso@holycross.edu
+Followup: repec:pal:easeco
+ISSN: 0094-5056
+Type: ReDIF-Article
+Handle: RePEc:eej:eeconj

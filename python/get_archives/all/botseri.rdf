@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Quaderni di Dipartimento
+Provider-Name: Department of Statistics, University of Bologna
+Provider-Homepage: http://www.stat.unibo.it
+Provider-Institution: RePEc:edi:dsbolit
+Maintainer-Name: Michela Mengoli
+Maintainer-Email: biblioteca.dipstatistica@unibo.it
+Type: ReDIF-Paper
+Handle: RePEc:bot:quadip
+
+Template-type: ReDIF-Series 1.0
+Name: Statistica
+Description: Quarterly journal founded by Paolo Fortunati
+Provider-Name: Department of Statistics, University of Bologna
+Provider-Institution: RePEc:edi:dsbolit
+Maintainer-Name: Giovanna Galatà
+Maintainer-Email: stat.journal@unibo.it
+Editor-Name: Department of Statistics, University of Bologna
+Editor-Email: stat.journal@unibo.it
+ISSN: 0390-590X
+Type: ReDIF-Article
+Handle: RePEc:bot:rivsta

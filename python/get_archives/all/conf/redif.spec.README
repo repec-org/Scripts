@@ -1,0 +1,22 @@
+
+
+The file redif.spec contains the specification of ReDIF as used by the
+validation software. Noone but Thomas Krichel should modify that file.
+
+Thomas will announced changes to the RePEc-tech@mailbase.ac.uk mailing
+list three days before they are implemented. He will upload a changed
+file to RePEc/all/conf/redif.spec.new that the previous version will
+be saved as redif.spec-yyyy-dd-mm where thy yyyy-dd-mm stands for the
+date when the change was made.
+
+The change the file, the procedure is
+
+cp RePEc/all/conf/redif.spec RePEc/all/conf/redif.spec.new
+
+edit RePEc/all/conf/redif.spec.new, announce changes. When
+changes have been approved
+
+cp RePEc/all/conf/redif.spec RePEc/all/conf/redif.spec.yyyy-mm-dd
+cp RePEc/all/conf/redif.spec.new RePEc/all/conf/redif.spec
+cp RePEc/all/conf/redif.spec RePEc/remo/all/conf/redif.spec
+

@@ -1,0 +1,9 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:boe
+Name: Working Papers Archive  of the Bank of England 
+Maintainer-Name: Bank of England
+Maintainer-Email: zimmermann@stlouisfed.org
+Description: This archive collects information about holding of
+ electronic and printed Working Papers at the Bank of England
+URL: ftp://input.repec.org/pub/RePEc/ris/boe/
+Homepage: http://www.bankofengland.co.uk/

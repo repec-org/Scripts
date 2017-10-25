@@ -1,0 +1,44 @@
+
+# Debian GNU/Linux release of `mirror' 
+#
+# Based on the `mirror.defaults' files shipped with mirror-2.8 and 2.9 and 
+# adapted to the Debian GNU/Linux settings.  
+#
+# Written by Dirk Eddelbuettel <edd@debian.org>
+#
+# See the documentation in /usr/share/doc/mirror for a detailed description.
+
+package=defaults
+	# .mirror files show clients how up to date your mirror is.
+	update_log=.mirror
+	#
+	# Do not allow filenames with `..'  
+	# - see /usr/share/doc/mirror/README.Security
+	# However, this breaks mirroring of Debian sites.
+	#name_mappings=s:\.\./:__/:g
+	#
+	# save some bandwidth and exclude files matching the following pattern
+	exclude_patt=(^|/)(\.mirror$|\.mirror\.log|core$|\.cap|\.in\..*\.$|MIRROR\.LOG|#.*#|\.FSP|\.cache|\.zipped|\.notar|\.message|lost\+found/|Network Trash Folder)|suky.mpe?g
+	#
+	# don't compress file that don't benefit from compression
+	compress_excl+|-z(\d+)?$|\.tgz|_tgz|\.tar\.Z|\.tar\.gz|\.taz$|\.arc$|\.zip$|\.lzh$|\.zoo$|\.exe$|\.lha$|\.zom$|\.gif$|\.jpeg$|\.jpg$|\.mpeg$|\.au$|\.shk$|rpm$|deb$|read.*me|index|info|faq|gzip|compress|(^|/)\.\.?$
+	#
+	# compress using 'gzip'
+	compress_prog=gzip
+	#
+	# don't delete these
+	delete_excl=(^|/)\.(mirror|notar|cache)$
+	#
+	# Do not delete or download any ls-lR or timezone files
+	local_ignore=(^|/)((|remote_)ls-lR[^/]*|timezone)$
+	#
+	# delete old files 
+	do_deletes=true
+	max_delete_files=50%
+	max_delete_dirs=50%
+	#
+	# more restrictive umask while transferring
+        umask=07022    
+	#
+	# don't try to convert .Z files 
+        compress_conv_patt=

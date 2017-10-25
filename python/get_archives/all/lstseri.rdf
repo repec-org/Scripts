@@ -1,0 +1,36 @@
+Template-type: ReDIF-Series 1.0
+Name: List Forum
+Provider-Name: List Gesellschaft e.V.
+Provider-Homepage: http://www.list-gesellschaft.de
+Provider-Institution: RePEc:edi:listgea
+Maintainer-Name: Lukas Wnuk Lipinski
+Maintainer-Email: 10edv@wiwi.uni-muenster.de
+Type: ReDIF-Book
+Order-Email: marian.rueckert@list-gesellschaft.de
+Maintainer-Phone: +49 251 83 22904
+Price: Euro 13,75, plus shipping fees 
+Handle: RePEc:lst:lforum
+
+Template-type: ReDIF-Series 1.0
+Name: List Monographien
+Provider-Name: List Gesellschaft e.V.
+Provider-Homepage: http://www.list-gesellschaft.de
+Provider-Institution: RePEc:edi:listgea
+Maintainer-Name: Lukas Wnuk Lipinski
+Maintainer-Email: 10edv@wiwi.uni-muenster.de
+Order-Email: marian.rueckert@list-gesellschaft.de
+Maintainer-Phone: +49 251 83 22904
+Type: ReDIF-Paper
+Handle: RePEc:lst:monogr
+
+Template-type: ReDIF-Series 1.0
+Name: List Forum Chapter
+Provider-Name: List Gesellschaft e.V.
+Provider-Homepage: http://www.list-gesellschaft.de
+Provider-Institution: RePEc:edi:listgea
+Maintainer-Name: Lukas Wnuk Lipinski
+Maintainer-Email: 10edv@wiwi.uni-muenster.de
+Order-Email: marian.rueckert@list-gesellschaft.de
+Maintainer-Phone: +49 251 83 22904
+Type: ReDIF-Chapter
+Handle: RePEc:lst:lfchap

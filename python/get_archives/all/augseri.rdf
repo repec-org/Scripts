@@ -1,0 +1,16 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Paper Series
+Description: The Discussion Paper Series of the Institute of Economics at the University of Augsburg, 
+	Germany, covers all fields of economics. About 20-30 papers are published each year.
+Classification-JEL:
+Type: ReDIF-Paper
+Provider-Name: Universitaet Augsburg, Institute for Economics
+Provider-Email: vwl-institut@wiwi.uni-augsburg.de
+Provider-Homepage: http://www.wiwi.uni-augsburg.de/vwl/institut
+Provider-Phone: +49 821 598 4060
+Provider-Postal: Universitaetsstrasse 16, D-86159 Augsburg, Germany
+Provider-Fax: +49 821 598 4217
+Provider-Institution: RePEc:edi:ivaugde
+Maintainer-Name: Dr. Albrecht Bossert
+Maintainer-Email: albrecht.bossert@wiwi.uni-augsburg.de
+Handle: RePEc:aug:augsbe

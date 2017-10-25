@@ -1,0 +1,623 @@
+
+ REDIF.SPEC file documentation: EXPLANATION AND TIPS FOR USAGE
+
+ by Ivan Kurmanov <ivan@tm.minsk.by>
+ November 1998
+
+
+INTRODUCTION
+
+This text gives you some details of how rech and rere and rr.pm read
+the data and check it and how they use redif.spec file.
+
+File redif.spec contains ReDIF specification in a special invented format.
+This file is loaded each time any data reading starts in RePEc.
+
+It defines template types, cluster types, attributes (fields) names and
+options in each template or cluster type, attribute data types and its
+checking. Before using redif.spec and trying to understand this file,
+you should know well ReDIF data format documentation, because redif.spec
+is like a dark side of the moon for ReDIF: you better look at lighter
+side first.
+
+Each cluster and template has a finite set of allowed attributes,
+some of which may be required to appear in every template of the type.
+The attribute in a template or a cluster must have a defined (complete)
+name and may have optional parameters.
+
+Possible optional parameters of an attribute are: data type (and subtype),
+permission to ommit or prohibition to repeat the attribute in a template.
+
+Everywhere below, lines with '>' in first position mean redif.spec format
+specification (formal), but lines with '|' are examples.
+
+SYNTAX
+
+Syntax of redif.spec file has some features of Perl code syntax and some
+features are invented (used) for this file only. Comment lines start with
+a '#' symbol and ignored. File analisys is space and tabulation characters
+insensitive.
+
+Template type, cluster type and attribute data type definitions use 
+blocks started with '{' and closed with '}', BUT unlike in C
+or Perl, EACH BLOCK IS CLOSED WITH A FIRST LINE, CONSISTING OF A SINGLE
+'}' CHARACTER, not taking spaces and tab chars into account.
+
+This means that in following example:
+
+|    A {
+|       <text or code here>
+|    }
+|
+|    B { <text or code>
+|        <other text or code> }
+
+block A is correctly closed, but the block B IS NOT!
+
+This also imposes a limitation on the contents of each block: YOU CAN'T put
+a line with single '}' inside a block. Please, be cautious with Perl code in
+blocks.
+
+>  block : { <block_lines> '\n'
+>          }
+>
+
+Syntax: DEFINITIONS
+
+In a definition you must state what you define (what kind of thing
+and how it will be named) and then give content of the definition in a block.
+
+>   definition : <def_type> = <name> [/ <params>]* <block> '\n'
+
+* - for 'type' definitions only
+
+>   def_type : 'type' | 'cluster' | 'template' (case insensitive)
+
+
+
+TEMPLATE DEFINITIONS
+
+In a template definition you list and set parameters of all attributes of a
+template. In the definition line you give template type name in full,
+like 'ReDIF-Paper 1.0'. Inside definition block you list all its attributes.
+Each attribute is listed on a separate line and its definition format
+follows: (items in [] brackets are not required)
+
+>    attribute_name[:[type][:[subtype][:[required flag][:[repeatable flag]]]]]
+
+In plain English, the colon character is just a delimiter here. The only
+part of the line which is necessary is attribute_name (in general). Do not
+put spaces into this line.
+
+A special format exists for key attributes of templates ('template-type')
+and clusters:
+
+| Cluster = Organization {
+|    Name:::*
+|    ...
+| ...
+|
+| template = ReDIF-Person 1.0 {
+|    Template-Type:::*
+|    ...
+| ...
+
+So in place of 'required_flag' you should put an asterisk for
+a key attribute.
+
+In all other cases <required flag> and <repeatable flag> may contain
+digits, but only normal value for it is 1 or nothing by default.
+
+Meaning of <required flag> is to specify: is this attribute necessary to
+consider template (or cluster) valid or it is optional. Value 1 in
+required flag mean that attribute is required.
+
+Meaning of <repeatable flag> is to specify: can data authors
+use this attribute several times in one template or cluster or can not.
+By default attributes can be repeated, but if you set <repeatable flag>
+to 1, then attribute will be non-repeatable.
+
+Please note, that clusters (in templates) are always repeatable and
+usually requried. But, for example, "handle" attribute is usually required
+but not repeatable.
+
+<type> and <subtype> have several different uses for different cases,
+but in general they specify content-features of the attribute. But
+sometimes only <type> matters, <subtype> parameter has less usage.
+
+
+
+
+ATTRIBUTE TYPE: CLUSTER
+
+<type> may take value 'cluster', then <subtype> will point to a specific
+cluster type, for example if we have defined cluster 'organization', then in
+a template type definition we can put following attribute line:
+
+|   umbrella:cluster:organization:1
+
+Such template would require to contain a valid organization cluster,
+prefixed with "umbrella-", for example (fictitious):
+
+|   Template-Type: ReDIF-Project 1.0
+|   Name: NetEc
+|   Area: electronic publications in economics
+|   Umbrella-Name: JISC
+|   Umbrella-Address: London
+|   Umbrella-Email: contact@jisc.ac.uk
+
+
+ATTRIBUTE TYPES: user-defined
+
+For simple attributes you may specify type of their value. If you
+also define corresponding type itself, then the attribute will be
+assessed as valid only after its value has been checked.
+
+For this usage you just put type name into <type> parameter.
+E.g.:
+
+|  type = date / reg-ex {
+|    ...
+|  }
+|
+|  template = ReDIF-Event 1.0 {
+|      ...
+|      Started:date::
+|      Finished:date::
+
+Types are universal for all template types.
+
+And the last note about types. You don't have to define a type which you
+mention in a template definition. For example, YOU MAY have a line
+in template definition:
+
+|    Contact-Email:email:::1
+
+but HAVE NO definition of type "email". Type will be used for checking only
+if it is defined (and only in the way type is defined, see below
+section on USER-DEFINED TYPES). So NO ERROR will signaled if you mistype
+type name!
+
+And last: example of a template definition:
+
+|  template = ReDIF-Paper 1.0 {
+|        Template-Type:::*
+|        Author:cluster:Person:1
+|        Title
+|        Abstract
+|        File:cluster:file
+|        Classification-Jel:jel
+|        Keywords
+|        Keywords-Attent
+|        Note
+|        Length
+|        Series
+|        Number
+|        Contact-Email:email:::1
+|        Availability
+|        Creation-Date:date:::1
+|        Revision-Date:date
+|        Restriction
+|        Price
+|        Publication-Status
+|        Issue
+|        Article-Handle:articleid
+|        Book-Handle:handle
+|        Chapter-Handle:handle
+|        Handle:handle:paper:1:1
+|  }
+
+
+
+CLUSTER DEFINITION
+
+You would define clusters just like small templates. Don't forget, that
+you just specify content of a cluster and that each cluster (cluster type)
+can be used in different templates or other clusters, with different prefix
+attributes. For example:
+
+|   cluster = address {
+|      Country:::*
+|      state:
+|      region
+|      county
+|      city:::1:1
+|      street
+|      house
+|   }
+
+This cluster may be (potentially) used for following data:
+
+|   Author-Address-Country: U.S.A.
+|   Author-Address-State: CA
+|   Author-Address-City: Santa Barbara
+
+|   Meeting-Place-Country: UK
+|   Meeting-Place-County: Surrey
+|   Meeting-Place-City: Guildford
+
+
+
+USER-DEFINED TYPES
+
+To extend the data check further than just syntax and attribute placement,
+you may define rules, by which the attribute values will be checked. You set
+the attribute value type in cluster or template definition. The checking
+itself you define through types. But actually, with types help you can
+do more, then just set checking: in particular, data PREPROCESSING.
+But let's study everything gradually.
+
+Each type you define may have any number of three aspects defined:
+
+  . check-regex (default)
+  . check-eval
+  . preproc
+
+Type definition format:
+
+>   type_definition : type = <type_name> [/ <type_aspect>] <type_block> '\n'
+
+If you set no <type_aspect>,
+
+
+TYPE ASPECTS: CHECK-REGEX
+
+For example, definition:
+
+|  type = handle / check-regex {
+|       ^RePEc\:[a-zA-Z]{3}(\:[a-zA-Z0-9]{6}(\:[^\s\n]+)?)?$
+|  }
+
+defines 'check-regex' aspect of type 'handle'. As a result, all attributes of
+type 'handle' would be checked to match the regular expression in the
+brackets above.
+
+So 'check-regex' aspect allows you to set format of attribute values in form
+of a Perl regular expression. Values, that don't match would be rejected
+and the corresponding template will be ignored.
+
+
+
+TYPE ASPECTS: CHECK-EVAL
+
+'check-eval' aspect allows you to set checking routine code for values of
+the type in Perl language. The code will be evaluated run-time and depending
+on the return value (or last expression, evaluated in the block), the
+attribute will be accepted or rejected. While in the code, you access
+value to check by a scalar variable $value. Let's look at an example:
+
+|   Type = pubstat / check-eval     {
+|        if ( $value !~ /^Forthcoming/i or $value !~ /^Published/i ) {
+|                 return 0;
+|        } else { return 1; }
+|   }
+
+This type is for Publication-Status attribute, whose value must start with
+one of "Forthcoming" and "Published" (case-insensitive).
+
+Here again I want to remind: we can't use single closing bracket '}' on a
+line inside a block. So if we write the same piece in a different way:
+
+|   Type = pubstat / check-eval     {
+|        if ( $value !~ /^Forthcoming/i or $value !~ /^Published/i ) {
+|                 return 0;
+|        } else {
+|                 return 1;
+|        }
+|   }
+
+this will cause an error at redif.spec reading and WILL CAUSE GENERAL CRASH
+OF DATA READING SYSTEM and everything what is build upon it.
+
+
+TYPE ASPECTS: CHECK-EVAL: Using messages
+
+There is another one interesting feature in check-eval aspect of types.
+
+When someone checks ReDIF data, he wants to know why this or that template
+is rejected. Rech data checking script uses for this purpose so-called
+messages, which are just a part of mechanism (for further technical details
+consult rech, rc2.pm and messages.pm files).
+
+Message has text (content) and status. Status have several levels:
+from a debugging note (lowest) to a fatal error message (highest). But
+the two most often used levels are: warning and error.
+
+If during reading a template somewhere appeared a message with status of
+error or higher, then template will be rejected. Possibly, this message
+content will be printed to the STDOUT (depending on the situation).
+
+Now return back to types. If a type checking aspect check-regex or
+check-eval produce a negative result, reading mechanism will generate
+a message of a general form, stating that "value xxx of type yyy is invalid"
+or alike.
+
+If you want to make clever and friendly checking for your data, you may want
+to change this kind of message to a different one, showing exactly what is
+the problem of the data. To make this in 'check-eval' aspect definition
+you may yourself initiate a message. To initiate a message you simply call
+a function msg. But TO EXCLUDE ERROR DUPLICATION, IF YOU INITIATE AN ERROR
+MESSAGE IN CHECK-EVAL BLOCK, BE SURE TO RETURN A POSITIVE VALUE at the end.
+
+Apart from errors in data, you can also give authors a warning about data.
+Let's look into another example:
+
+|  type = URL / check-eval {
+|      if ( $value =~ /^(ftp|http):\/\//i and $value !~ /^(ftp|http):\/\// ) {
+|           msg "($file, $line): URL capitalization is bad \"$value\"", 2;
+|           $value =~ s/^Ftp/ftp/i;
+|           $value =~ s/^Http/http/i;
+|         ;}
+|      $value =~ /^(URL:)?
+|      (ftp|http|gopher)\:
+|      \/\/[a-zA-Z0-9\_\.\-]+
+|      (\:[0-9]+)?
+|      (\/?|[\~\&\%\^\@\!\'\"\`\(\)\|\#\:\;\/A-Za-z\-\_0-9\?\=\*\\\+\,\.]+)$/x;
+|  }
+
+In the first part of this definition I check the capitalization of
+the starting part of a URL (protocol, like http or ftp). Line:
+
+|           msg "($file, $line): URL capitalization is bad \"$value\"", 2;
+
+creates a message with status 2 (Warning). The template will not be ignored.
+Then I correct the capitalization of the value and go further. In the
+finishing part of the block I check the value to match a big regular
+expression (extended syntax - note "/x" in the end). The logical value,
+calculated in result of matching operator will trigger an error if the value
+does not match.
+
+
+TYPE ASPECTS: PREPROC
+
+This aspect I have created, when it turned out, that would be good,
+if reading mechanism (rere or rr.pm or whatever) would convert some data
+elements from source user-form (flexible) to output standard form.
+For example this was a story with JEL codes. When you read data, JEL
+codes are read from the files as they are, then checked and presented
+to the public (in the face of rewe and other programs) in standard form:
+uppercase letters, separated by space characters. And only correct JEL
+codes are used.
+
+This is what I call preprocessing of data. And this is what 'preproc' made
+for. Like with JEL you can include checking into preprocessing of data.
+
+Use of 'preproc' aspect is very much like check-eval - 'preproc' type block
+is eval-uated in Perlish way while reading data, but resulting value
+does not matter. You simply take $value and do with it what you like best.
+
+Look into following example:
+
+|   type = date / preproc {
+|        return if $value eq '';
+|        if ($value !~ /-/ ) {
+|           $value =~ s/^(\d{4})(\d{2})$/$1-$2/;
+|           $value =~ s/^(\d{4})(\d{2})(\d{2})/$1-$2-$3/; }
+|        if ($value !~ /^\d{4}(-\d\d){0,2}$/ ) {
+|
+|          if ($rr::Options{'MessageOut'}) {
+|               &include_attrline;
+|               msg "($file, $line): A bad date value format: \"$value\"", 2;
+|          } else {
+|               $value = '' ;
+|          } return 1; }
+|   }
+
+This example for attributes of date type. Dates are converted to standard
+form or cleared to '', if original value is of incorrect format. But if
+this code is executed in data checking mode (for example, in rech) what
+is checked by $rr::Options{'MessageOut'} then a warning message is
+generated. But pay attention to the function call before message:
+
+|              &include_attrline;
+
+This is necessary for correct rech output if you generate messages in
+'preproc'.
+
+
+SUMMARY
+
+When a data reading engine behind rr.pm, rere and rech (rc2.pm) reads
+an attribute, it checks first whether the attribute is correctly placed:
+is it allowed for current template and/or cluster? If the attribute
+is repeated while it is non-repeatable, an error is generated. If
+attribute placement is OK, then engine goes to checking attribute value.
+
+The engine checks what type of attribute it is (as it is defined in
+template or cluster). If its type is cluster, then a new engine
+'opens' a new cluster. If it is of another type, that type's 'preproc'
+aspect is checked and executed (eval-ed), if it is defined. Then
+'check-regex' is matched (if defined). Next step is 'check-eval', also
+if defined. If at 'check-regex' or 'check-eval' stage a negative result
+has happened, then engine generates an error and stops further
+processing of the template.
+
+This is in brief about how reading engine works and how it uses redif.spec
+information.
+
+
+
+
+
+
+
+#
+# User-defined types (checking procedures)
+#
+type = handle / check-regex {
+        ^RePEc\:[a-zA-Z]{3}(\:[a-zA-Z0-9]{6}(\:[^\s\n]+)?)?$
+}
+
+###########
+
+type = articleid / check-eval {
+#   return 1;
+#   $months="(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)" ;
+#   $season="(spr|sum|aut|win|spe)" ;
+#   if ($value =~ /RePEc\:([a-zA-Z]{3}):([a-zA-Z]{6}):(\S+)/ ) {
+#       $archive=$1 ; $journal=$2 ; $artcod=$3 ;
+#       print("found artcod $artcod\n") ;
+#       @codfields = split(/(?=:\w:)/,":$artcod") ;
+#       foreach $field (@codfields) {
+#           print "$field\n";}
+#           if($field=~/^:y:([1-9][0-9]{3})$/) {
+#               print("found year $1\n") ;
+#               next;}
+#           elsif($field=~/^:n:([1-9][0-9]*)$/) {
+#               print("found number $1\n") ;
+#               next;}
+#           elsif($field=~/^:i:(($months\d*)|($season[S]*)|(Q[1234])|(\d+)|(\d\d-\d\d))$/i) {
+#               print("found issue $1\n") ;
+#               next;}
+#           elsif($field=~/^:p:(S*[1-9][0-9]*-S*[1-9][0-9]*)$/) {
+#               print("found pages $1\n") ;
+#               next;}
+#           else {print "not found $field\n";}
+#           next;}
+       return 1;
+#    return 0;
+}
+
+### A note from IKu (29/08/98):
+#
+# on articleid type definition. a line msg ("...") ; will produce no result.
+# You should give message status as a second parameter to the msg. e.g.:
+#
+#       msg( "found archive $archive\n" , 2) ;
+#
+# 2 - a warning
+# 3 - an error (will make template invalid)
+#
+# And BTW the regular expression above doesn't check the handle $value fully.
+
+
+####
+type = institutionhandle / check-regex {
+        ^RePEc\:[a-zA-Z]{3}(\:[a-zA-Z0-9]{7})?
+}
+#####
+#     print "URLpro: >$value<\n";
+type = url / preproc {
+     if ($value =~ /\-\ [^\ \n]/ ) {
+          &include_attrline;
+          msg ("($file, $line): Do not split URL after dash!", 3) ;
+          return 1; }
+     $value =~ s/\s+|\n+//g;
+}
+
+#####################
+
+type = URL / check-eval {
+
+ if ( ($value =~ /^(ftp|http):\/\//i) && ($value !~ /^(ftp|http):\/\//) ) {
+#        msg "($file, $line): URL capitalization is bad \"$value\"", 2;
+        $value =~ s/^Ftp/ftp/i;
+        $value =~ s/^Http/http/i;
+        ;}
+ $value =~ /^(URL:)?
+ (ftp|http|gopher)\:
+ \/\/[a-zA-Z0-9\_\.\-]+
+ (\:[0-9]+)?
+ (\/?|[\~\&\%\^\@\!\'\"\`\(\)\|\#\:\;\/A-Za-z\-\_0-9\?\=\*\\\+\,\.]+)$/x;
+}
+
+
+####
+
+type = email / check-eval {
+     $value =~ /^[A-Za-z0-9\-\.\=\_]+\@[A-Za-z0-9\-\.\=\_]+\.[A-Za-z0-9\.\-\=]+$/;
+}
+
+type = fileformat / check-regex
+{
+ ^[a-z]+\/[a-z]+(\/[a-z]+(\/[a-z]+)?)?$
+}
+
+######################
+
+type = date / preproc {
+     return if $value eq '';
+     if ($value !~ /-/ ) {
+        $value =~ s/^(\d{4})(\d{2})$/$1-$2/;
+        $value =~ s/^(\d{4})(\d{2})(\d{2})/$1-$2-$3/; }
+     if ($value !~ /^\d{4}(-\d\d){0,2}$/ ) {
+
+        if ($rr::Options{'MessageOut'}) {
+              &include_attrline;
+              msg "($file, $line): A bad date value format: \"$value\"", 2;
+        } else {
+              $value = '' ;
+        } return 1; }
+}
+
+#####################
+
+Type = pubstat / check-eval     {
+    if (($value !~ /^Forthcoming/i) && ($value !~ /^Published/i)) {
+       return 0;
+    } else { return 1; }
+}
+
+type = doctype / check-eval {
+    if ($value =~ /^ReDIF-([A-Za-z]+)$/i) {
+       my $tp = lc $1;
+       if ( ($tp eq 'paper') ||
+            ($tp eq 'article') ||
+            ($tp eq 'book') ||
+            ($tp eq 'software') ||
+            ($tp eq 'person') ||
+            ($tp eq 'chapter') )
+       {   return 1;    }
+       return 0;
+    }  return 0;
+}
+
+#      return 1;
+#      print "JEL: $value / $v.\n";
+#
+
+type = JEL / preproc {
+     return 1 if $value eq '';
+
+     if ($value !~ /^[A-Za-z][0-9]{0,2}([,;:\.\s]+[A-Za-z][0-9]{0,2})*[,;:\.\s]*$/ ) {
+           if ($rr::Options{'MessageOut'}) {
+              &include_attrline;
+              msg "($file, $line): An invalid JEL value \"$value\"", 2;
+           } else {
+              $value = '' ;
+           } return 1; }
+     my $v = uc $value ;
+     my @J = split ( /[,;:\s\.]+/, $v );
+
+     if ( !require "$::RepecRemo/all/conf/jel-codes.pl" )   {
+        msg "can't load all/conf/jel-codes.pl file", 3 ;     }
+     $value = '';
+     my $J;
+     foreach $J (@J) {
+          if (exists $JELcodes::JEL{$J}) {
+             $value .= $J;
+             $value .= ' ';
+          } else {
+             msg "($file, $line): An invalid JEL code used \"$J\"", 2;
+     } }
+     chop $value; return 1;
+}
+
+
+#
+# Format of this file is
+#
+# statement : <type> = <name> <block> '\n' (space and
+#                       tabulation characters insensitive)
+#             'type' = <typename> <typeblock>
+#             'cluster' = <clustername> <attrblock>
+#             'template' = <templatename> <attrblock>
+#
+# <type> : 'type' | 'cluster' | 'template' (case insensitive)
+# <name> : /[
+
+
+
+#
+# attribute_name[:[type][:[subtype][:[required flag][:[repeatable flag]]]]]
+#

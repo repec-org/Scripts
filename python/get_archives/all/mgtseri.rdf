@@ -1,0 +1,126 @@
+Template-type: ReDIF-Series 1.0
+Name: Managing Global Transitions
+Description: International Research Journal
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.mgt.fm-kp.si
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Article
+Handle: RePEc:mgt:youmgt
+Order-Email: mgt@fm-kp.si
+Order-Homepage: http://www.mgt.fm-kp.si
+Editor-Name: Egon Žižmond
+Editor-Name: Robert D. Hisrich
+ISSN: 1581-6311
+
+Template-type: ReDIF-Series 1.0
+Name: Management
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.mng.fm-kp.si
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Article
+Handle: RePEc:mgt:youmng
+Order-Email: mng@fm-kp.si
+Order-Homepage: http://www.mng.fm-kp.si
+Editor-Name: Štefan Bojnec
+Editor-Email: mng@fm-kp.si
+ISSN: 1854-4223
+
+Template-type: ReDIF-Series 1.0
+Name: Faculty of Management Koper Monograph Series
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.zalozba.fm-kp.si
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Book
+Handle: RePEc:mgt:fmkmon
+Order-Email: zalozba@fm-kp.si
+Order-Homepage: http://www.zalozba.fm-kp.si
+ISSN: 1855-0878
+
+Template-type: ReDIF-Series 1.0
+Name: MIC 2010: Social Responsibility, Professional Ethics, and Management; 
+Proceedings of the 11th International Conference, Ankara, 24–27 November 2010 [Selected Papers]
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.fm-kp.si/zalozba/ISBN/978-961-266-098-7.htm
+Editor-Name: Janez Sustersic
+Editor-Name: Suzana Sedmak
+Editor-Name: Bojan Nastav
+Editor-Name: Alen Jezovnik
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Chapter
+Handle: RePEc:mgt:micp10
+
+Template-type: ReDIF-Series 1.0
+Name: MIC 2011: Managing Sustainability? 
+Proceedings of the 12th International Conference, Portorož, 23–26 November 2011 [Selected Papers]
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.fm-kp.si/zalozba/ISBN/978-961-266-113-7.htm
+Editor-Name: Janez Sustersic
+Editor-Name: Suzana Sedmak
+Editor-Name: Bojan Nastav
+Editor-Name: Alen Jezovnik
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Chapter
+Handle: RePEc:mgt:micp11
+
+Template-type: ReDIF-Series 1.0
+Name: MIC 2012: Managing Transformation with Creativity; Proceedings of the 13th International Conference, Budapest, 22–24 November 2012 [Selected Papers]
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.fm-kp.si
+Editor-Name: Doris Gomezelj Omerzel
+Editor-Name: Bojan Nastav
+Editor-Name: Suzana Sedmak
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Chapter
+Handle: RePEc:mgt:micp12
+
+Template-type: ReDIF-Series 1.0
+Name: MIC 2013: Industry, Science and Policy Makers for Sustainable Future; Proceedings of the 14th International Conference, Koper, 21–23 November 2013 [Selected Papers]
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.fm-kp.si
+Editor-Name: Doris Gomezelj Omerzel
+Editor-Name: Suzana Laporsek
+Editor-Name: Suzana Sedmak
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Chapter
+Handle: RePEc:mgt:micp13
+
+Template-type: ReDIF-Series 1.0
+Name: From Research to Entrepreneur Practice
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.fm-kp.si/zalozba/ISBN/978-961-266-189-2.htm
+Editor-Name: Klemen Kavcic
+Editor-Name: Igor Riznar
+Editor-Name: Doris Gomezelj Omerzel
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Chapter
+Handle: RePEc:mgt:irpp15
+
+Template-type: ReDIF-Series 1.0
+Name: MIC 2015: Managing Sustainable Growth; 
+ Proceedings of the Joint International Conference, Portorož, Slovenia, 28–30 May 2015
+Provider-Name: University of Primorska, Faculty of Management Koper
+Provider-Institution: RePEc:edi:fmkupsi
+Provider-Homepage: http://www.fm-kp.si
+Editor-Name: Doris Gomezelj Omerzel
+Editor-Name: Suzana Laporsek
+Maintainer-Name: Alen Jezovnik
+Maintainer-Email: alen.jezovnik@fm-kp.si
+Type: ReDIF-Chapter
+Handle: RePEc:mgt:micp15
+

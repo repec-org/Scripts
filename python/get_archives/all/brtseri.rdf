@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: EAPG Working Paper Series
+Provider-Name: Department of Economic Policy, Faculty of National Economy, University of Economics in Bratislava
+Provider-Homepage: https://nhf.euba.sk/katedry/katedra-hospodarskej-politiky/oznamy
+Provider-Institution: RePEc:edi:khnfesk
+Maintainer-Name: Martin Labaj
+Maintainer-Email: martinlabaj@gmail.com
+Editor-Name: Martin Labaj
+Editor-Email: martinlabaj@gmail.com
+Type: ReDIF-Paper
+Handle: RePEc:brt:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: EAPG Discussion Paper Series
+Provider-Name: Department of Economic Policy, Faculty of National Economy, University of Economics in Bratislava
+Provider-Homepage: https://nhf.euba.sk/katedry/katedra-hospodarskej-politiky/oznamy
+Provider-Institution: RePEc:edi:khnfesk
+Maintainer-Name: Martin Labaj
+Maintainer-Email: martinlabaj@gmail.com
+Editor-Name: Martin Labaj
+Editor-Email: martinlabaj@gmail.com
+Type: ReDIF-Paper
+Handle: RePEc:brt:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economic Policy Working Paper Series
+Provider-Name: Department of Economic Policy, Faculty of National Economy, University of Economics in Bratislava
+Provider-Homepage: https://nhf.euba.sk/katedry/katedra-hospodarskej-politiky/oznamy
+Provider-Institution: RePEc:edi:khnfesk
+Maintainer-Name: Martin Labaj
+Maintainer-Email: martinlabaj@gmail.com
+Editor-Name: Martin Labaj
+Editor-Email: martinlabaj@gmail.com
+Type: ReDIF-Paper
+Handle: RePEc:brt:depwps

@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers. Collection A: Public economics, governance and decentralization
+Provider-Name: Universidade de Vigo, GEN - Governance and Economics research Network 
+Provider-Homepage: http://infogen.webs.uvigo.es
+Provider-Institution: RePEc:edi:geviges
+Maintainer-Name: Patricio Sanchez-Fernandez
+Maintainer-Email: patricio@uvigo.es
+Type: ReDIF-Paper
+Handle: RePEc:gov:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers. Collection B: Regional and sectoral economics
+Provider-Name: Universidade de Vigo, GEN - Governance and Economics research Network 
+Provider-Homepage: http://infogen.webs.uvigo.es
+Provider-Institution: RePEc:edi:geviges
+Maintainer-Name: Patricio Sanchez-Fernandez
+Maintainer-Email: patricio@uvigo.es
+Type: ReDIF-Paper
+Handle: RePEc:gov:wpregi
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers. Collection C: Family business
+Provider-Name: Universidade de Vigo, GEN - Governance and Economics research Network 
+Provider-Homepage: http://infogen.webs.uvigo.es
+Provider-Institution: RePEc:edi:geviges
+Maintainer-Name: Patricio Sanchez-Fernandez
+Maintainer-Email: patricio@uvigo.es
+Type: ReDIF-Paper
+Handle: RePEc:gov:wpfami

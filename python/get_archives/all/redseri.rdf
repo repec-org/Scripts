@@ -1,0 +1,314 @@
+Template-type: ReDIF-Series 1.0
+Name: Review of Economic Dynamics
+Provider-Name: Elsevier for the Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/red/
+Provider-Email: red@elsevier.com
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Article
+Editor-Name: Jonathan Heathcote
+Editor-Email: heathcote@minneapolisfed.org
+Editor-Name: Vincenzo Quadrini
+Editor-Email: quadrini@usc.edu
+Order-Email: red@elsevier.com
+Order-Homepage: https://www.economicdynamics.org/subscription-information/
+Restriction: A subscription to ScienceDirect is required
+Handle: RePEc:red:issued
+
+Template-type: ReDIF-Series 1.0
+Name: Technical Appendices
+Provider-Name: Review of Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/red/
+Provider-Email: red@elsevier.com
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Editor-Name: Matthias Doepke
+Editor-Email: doepke@northwestern.edu
+Order-Email: red@elsevier.com
+Order-Homepage: https://www.economicdynamics.org/subscription-information/
+Restriction: 
+Handle: RePEc:red:append
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Computer Codes
+Provider-Name: Review of Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/red/
+Provider-Email: red@elsevier.com
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Software
+Editor-Name: Matthias Doepke
+Editor-Email: doepke@northwestern.edu
+Order-Email: red@elsevier.com
+Order-Homepage: https://www.economicdynamics.org/subscription-information/
+Restriction: 
+Handle: RePEc:red:ccodes
+
+Template-type: ReDIF-Series 1.0
+Name: EconomicDynamics Newsletter
+Provider-Name: Review of Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/red/
+Provider-Email: red@elsevier.com
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Article
+Editor-Name: Christian Zimmermann
+Editor-Email: zimmermann@stlouisfed.org
+Editor-Name: Matthias Doepke
+Editor-Email: doepke@northwestern.edu
+Order-Email: red@elsevier.com
+Order-Homepage: http://www.EconomicDynamics.org/newsletter/
+Restriction: 
+Handle: RePEc:red:ecodyn
+
+
+Template-type: ReDIF-Series 1.0
+Name: 2004 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed004
+
+Template-type: ReDIF-Series 1.0
+Name: Annual Meeting Plenary
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sedpln
+
+
+Template-type: ReDIF-Series 1.0
+Name: 2005 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed005
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: 2006 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed006
+
+
+Template-type: ReDIF-Series 1.0
+Name: 2007 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed007
+
+Template-type: ReDIF-Series 1.0
+Name: 2008 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/society.htm
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed008
+
+Template-type: ReDIF-Series 1.0
+Name: 2009 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed009
+
+Template-type: ReDIF-Series 1.0
+Name: 2010 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed010
+
+Template-type: ReDIF-Series 1.0
+Name: 2011 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed011
+
+Template-type: ReDIF-Series 1.0
+Name: 2012 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed012
+
+Template-type: ReDIF-Series 1.0
+Name: 2013 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed013
+
+Template-type: ReDIF-Series 1.0
+Name: 2014 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed014
+
+Template-type: ReDIF-Series 1.0
+Name: 2015 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed015
+
+Template-type: ReDIF-Series 1.0
+Name: 2016 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed016
+
+Template-type: ReDIF-Series 1.0
+Name: 2017 Meeting Papers
+Provider-Name:  Society for Economic Dynamics
+Provider-Homepage: http://www.EconomicDynamics.org/
+Provider-Postal: Society for Economic Dynamics
+ Marina Azzimonti
+ Department of Economics
+ Stonybrook University
+ 10 Nicolls Road
+ Stonybrook NY 11790 USA
+Provider-Institution: RePEc:edi:sedddea
+Maintainer-Email: zimmermann@stlouisfed.org
+Maintainer-Name: Christian Zimmermann
+Type: ReDIF-Paper
+Handle: RePEc:red:sed017

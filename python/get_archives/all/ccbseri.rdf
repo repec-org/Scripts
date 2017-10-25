@@ -1,0 +1,51 @@
+Template-type: ReDIF-Series 1.0
+Name: Handbooks
+Provider-Name: Centre for Central Banking Studies, Bank of England
+Provider-Homepage: http://www.bankofengland.co.uk/education/Pages/ccbs/default.aspx
+Provider-Institution: RePEc:edi:ccbgvuk
+Maintainer-Name:Maria Brady
+Maintainer-Email: Maria.Brady@bankofengland.co.uk
+Type: ReDIF-Book
+Handle:RePEc:ccb:hbooks
+
+Template-type: ReDIF-Series 1.0
+Name: Technical Books
+Provider-Name: Centre for Central Banking Studies, Bank of England
+Provider-Homepage: http://www.bankofengland.co.uk/education/Pages/ccbs/default.aspx
+Provider-Institution: RePEc:edi:ccbgvuk
+Maintainer-Name:Maria Brady
+Maintainer-Email: Maria.Brady@bankofengland.co.uk
+Type: ReDIF-Book
+Handle:RePEc:ccb:tbooks
+
+#Template-type: ReDIF-Series 1.0
+#Name: Research Publications
+#Provider-Name: Centre for Central Banking Studies, Bank of England
+#Provider-Homepage: http://www.bankofengland.co.uk/education/Pages/ccbs/default.aspx
+#Provider-Institution: RePEc:edi:ccbgvuk
+#Maintainer-Name:Maria Brady
+#Maintainer-Email: Maria.Brady@bankofengland.co.uk
+#Type: ReDIF-Book
+#Handle:RePEc:ccb:respub
+
+Template-type: ReDIF-Series 1.0
+Name: Lectures
+Provider-Name: Centre for Central Banking Studies, Bank of England
+Provider-Homepage: http://www.bankofengland.co.uk/education/Pages/ccbs/default.aspx
+Provider-Institution: RePEc:edi:ccbgvuk
+Maintainer-Name:Maria Brady
+Maintainer-Email: Maria.Brady@bankofengland.co.uk
+Type: ReDIF-Book
+Handle:RePEc:ccb:lectur
+
+Template-type: ReDIF-Series 1.0
+Name: Joint Research Papers
+Provider-Name: Centre for Central Banking Studies, Bank of England
+Provider-Homepage: http://www.bankofengland.co.uk/education/Pages/ccbs/default.aspx
+Provider-Institution: RePEc:edi:ccbgvuk
+Maintainer-Name:Maria Brady
+Maintainer-Email: Maria.Brady@bankofengland.co.uk
+Type: ReDIF-Paper
+ISSN: 2050-3857
+Handle:RePEc:ccb:jrpapr
+

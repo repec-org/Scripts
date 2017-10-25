@@ -1,0 +1,75 @@
+# reprint series removed 2009-03-31
+#Template-Type: ReDIF-Series 1.0
+#Name: NBER Reprints
+#Publisher-Name: National Bureau of Economic Research, Inc
+#Publisher-Postal: National Bureau of Economic Research,
+# 1050 Massachusetts Avenue Cambridge, 
+# MA 02138, U.S.A. 
+#Publisher-Phone: 617-868-3900
+#Publisher-Homepage: http://www.nber.org
+#Publisher-Institution: RePEc:edi:nberrus
+#Maintainer-Email: feenberg@nber.org
+#Handle: RePEc:nbr:nberre
+
+Template-Type: ReDIF-Series 1.0
+Name: NBER Working Papers
+Provider-Name: National Bureau of Economic Research, Inc 
+Provider-Postal: National Bureau of Economic Research,
+  1050 Massachusetts Avenue Cambridge,
+   MA 02138, U.S.A. 
+Provider-Phone: 617-868-3900
+Provider-Homepage: http://www.nber.org
+Provider-Institution: RePEc:edi:nberrus
+Maintainer-Email: feenberg@nber.org
+Handle: RePEc:nbr:nberwo
+
+Template-Type: ReDIF-Series 1.0
+Name: NBER Historical Working Papers
+Provider-Name: National Bureau of Economic Research, Inc
+Provider-Postal: National Bureau of Economic Research,
+ 1050 Massachusetts Avenue Cambridge,
+ MA 02138, U.S.A. 
+Provider-Phone: 617-868-3900
+Provider-Homepage: http://www.nber.org
+Provider-Institution: RePEc:edi:nberrus
+Maintainer-Email: feenberg@nber.org
+Handle: RePEc:nbr:nberhi
+
+Template-Type: ReDIF-Series 1.0
+Name: NBER Technical Working Papers
+Provider-Name: National Bureau of Economic Research, Inc
+Provider-Postal: National Bureau of Economic Research,
+ 1050 Massachusetts Avenue Cambridge,
+ MA 02138, U.S.A. 
+Provider-Phone: 617-868-3900
+Provider-Homepage: http://www.nber.org
+Provider-Institution: RePEc:edi:nberrus
+Maintainer-Email: feenberg@nber.org
+Handle: RePEc:nbr:nberte
+
+Template-Type: ReDIF-Series 1.0
+Name: NBER Books
+Type: ReDIF-Book
+Provider-Name: National Bureau of Economic Research, Inc
+Provider-Postal: National Bureau of Economic Research,
+ 1050 Massachusetts Avenue Cambridge,
+ MA 02138, U.S.A. 
+Provider-Phone: 617-868-3900
+Provider-Homepage: http://www.nber.org
+Provider-Institution: RePEc:edi:nberrus
+Maintainer-Email: feenberg@nber.org
+Handle: RePEc:nbr:nberbk
+
+Template-Type: ReDIF-Series 1.0
+Name: NBER Chapters
+Type: ReDIF-Chapter
+Provider-Name: National Bureau of Economic Research, Inc
+Provider-Postal: National Bureau of Economic Research,
+ 1050 Massachusetts Avenue Cambridge,
+ MA 02138, U.S.A. 
+Provider-Phone: 617-868-3900
+Provider-Homepage: http://www.nber.org
+Provider-Institution: RePEc:edi:nberrus
+Maintainer-Email: feenberg@nber.org
+Handle: RePEc:nbr:nberch
+

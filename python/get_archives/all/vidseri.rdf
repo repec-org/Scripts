@@ -1,0 +1,33 @@
+Template-type: ReDIF-Series 1.0
+Name: European Demographic Research Papers
+Description: European Demographic Research Papers are working papers that deal with all-European issues or with issues that are important to a large number of countries. All contributions have received only imited review.
+Provider-Name: Vienna Institute of Demography (VID) of the Austrian Academy of Sciences in Vienna
+Provider-Homepage: http://www.oeaw.ac.at/vid/
+Maintainer-Name: Frank Kolesnik
+Maintainer-Email: frank.kolesnik@oeaw.ac.at
+Editor-Name: Maria Rita Testa
+Editor-Email: maria.rita.testa@oeaw.ac.at
+Handle: RePEc:vid:eudgrp
+
+Template-type: ReDIF-Series 1.0
+Name: VID Working Papers
+Description: The VID Working Papers are an interdisciplinary working paper series, published by the Vienna Institute of Demography (VID) of the Austrian Academy of Sciences in Vienna.
+Provider-Name: Vienna Institute of Demography (VID) of the Austrian Academy of Sciences in Vienna
+Provider-Homepage: http://www.oeaw.ac.at/vid/
+Maintainer-Name: Frank Kolesnik
+Maintainer-Email: frank.kolesnik@oeaw.ac.at
+Editor-Name: Anne Goujon
+Editor-Email: anne.goujon@oeaw.ac.at
+Handle: RePEc:vid:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Vienna Yearbook of Population Research
+Description: The Yearbook ,published by Verlag der Österreichischen Akademie der Wissenschaften, Austrian Academy of Sciences Press, features peer- reviewed research articles addressing population trends as well as a broad range of theoretical and methodological issues in population research, particularly those relevant to developments in Austria. It also provides a scientific outlet for the demographic research community in the Vienna area and aims to bring its work to the attention of the international scientific community. In addition to research articles, the journal also publishes Demographic Debates featuring invited contributions on topics related to the ongoing scientific debates in population research. Finally, contributions on Data & Trends, map long-term developments as well as recent trends in various components of population change in Austria and in Europe.
+Type: ReDIF-Article 
+Provider-Name: Vienna Institute of Demography (VID) of the Austrian Academy of Sciences in Vienna
+Provider-Homepage: http://www.oeaw.ac.at/vid/
+Maintainer-Name: Frank Kolesnik
+Maintainer-Email: frank.kolesnik@oeaw.ac.at
+Editor-Name: Wolfgang Lutz
+Editor-Email: wolfgang.lutz@oeaw.ac.at
+Handle: RePEc:vid:yearbk

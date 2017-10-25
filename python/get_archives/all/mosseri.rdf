@@ -1,0 +1,61 @@
+Template-type: ReDIF-Series 1.0
+Name: Monash Economics Working Papers
+Description: Economics working papers
+Classification-JEL: 
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Monash University, Department of Economics
+Provider-Homepage: http://business.monash.edu/economics
+Provider-Phone: +61-3-9905-2493
+Provider-Postal: Department of Economics, Monash University, Victoria 3800, Australia
+Provider-Fax: +61-3-9905-5476
+Provider-Institution: RePEc:edi:dxmonau
+Maintainer-Name: Simon Angus
+Maintainer-Email: Simon.Angus@monash.edu
+Editor-Name: Jakob Madsen
+Editor-Email: Jakob.Madsen@monash.edu
+Order-Email: Enquiries.Economics@BusEco.monash.edu.au
+Order-Homepage: http://www.buseco.monash.edu.au/eco/research/papers/
+Handle: RePEc:mos:moswps
+
+Template-type: ReDIF-Series 1.0
+Name: Development Research Unit Working Paper Series
+Description: Working papers from the Development Research Unit (DRU), Monash University
+Classification-JEL: 
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Monash University, Department of Economics
+Provider-Homepage: http://www.buseco.monash.edu.au/eco/
+Provider-Phone: +61-3-9905-2493
+Provider-Postal: Department of Economics, Monash University, Victoria 3800, Australia
+Provider-Fax: +61-3-9905-5476
+Provider-Institution: RePEc:edi:dxmonau
+Maintainer-Name: Simon Angus
+Maintainer-Email: Simon.Angus@BusEco.monash.edu.au
+Editor-Name: Mita Bhattacharya
+Editor-Email: Mita.Bhattacharya@BusEco.monash.edu.au
+Order-Email: Enquiries.Economics@BusEco.monash.edu.au
+Order-Homepage: http://www.buseco.monash.edu.au/eco/research/papers/
+Handle: RePEc:mos:druwps
+
+Template-type: ReDIF-Series 1.0
+Name: Centre for Development Economics and Sustainability (CDES) Working Paper Series
+Description: Working papers from the CDES, Monash University
+Classification-JEL: 
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Monash University, Monash Business School
+Provider-Homepage: http://business.monash.edu/cdes
+Provider-Phone: +61-3-9905-5835
+Provider-Postal: Monash Business School, Monash University, Victoria 3800, Australia
+Provider-Fax: +61-3-9905-5476
+Provider-Institution: RePEc:edi:dxmonau
+Maintainer-Name: Simon Angus
+Maintainer-Email: Simon.Angus@monash.edu
+Editor-Name: Gaurav Datt
+Editor-Email: Gaurav.Datt@monash.edu
+Order-Email: buseco-cdes@monash.edu
+Order-Homepage: https://business.monash.edu/cdes/research/publications
+Handle: RePEc:mos:cdeswps
+
+

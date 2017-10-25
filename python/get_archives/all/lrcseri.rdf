@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economic and Financial Studies (JEFS) 
+Provider-Name: LAR Center Press
+Provider-Homepage: http://www.journalofeconomics.org
+Maintainer-Name: S Marjan
+Maintainer-Email: support@journalofeconomics.org
+Type: ReDIF-Article
+Handle: RePEc:lrc:lareco
+
+Template-type: ReDIF-Series 1.0
+Name: Review of Social Sciences
+Provider-Name: LAR Center Press
+Provider-Homepage: http://www.socialsciencejournal.org
+Maintainer-Name: H Kabir
+Maintainer-Email: support@socialsciencejournal.org
+Type: ReDIF-Article
+Handle: RePEc:lrc:larrss
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Business 
+Provider-Name: LAR Center Press
+Provider-Homepage: http://www.journalofbusiness.us
+Maintainer-Name: R Martin
+Maintainer-Email: support@journalofbusiness.us
+Type: ReDIF-Article
+Handle: RePEc:lrc:larjob

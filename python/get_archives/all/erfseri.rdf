@@ -1,0 +1,94 @@
+Template-Type: ReDIF-Series 1.0 
+Name: SUERF Studies
+Provider-Name: SUERF - The European Money and Finance Forum
+Provider-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Provider-Phone: +43/1/404 20 7216
+Provider-Fax: +43/1/404 20 7298
+Provider-Email: suerf@oenb.at
+Provider-Homepage: http://www.suerf.org
+Provider-Institution: RePEc:edi:suerfea
+Maintainer-Name: Dragana Popovic
+Maintainer-Email: dragana.popovic@oenb.at
+Editor-Name: Morten Balling
+Editor-Email: mb@asb.dk
+Order-Email: suerf@oenb.at
+Order-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Notification: Publications in the SUERF Studies series are distributed free of charge to members of the association. Non-members may acquire individual copies for EUR 40. Enquiries concerning SUERF publications or SUERF membership should be addressed to suerf@oenb.at
+Type: ReDIF-Book
+Handle: RePEc:erf:erfstu
+
+Template-Type: ReDIF-Series 1.0 
+Name: SUERF Colloquium Volumes
+Provider-Name: SUERF - The European Money and Finance Forum
+Provider-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Provider-Phone: +43/1/404 20 7216
+Provider-Fax: +43/1/404 20 7298
+Provider-Email: suerf@oenb.at
+Provider-Homepage: http://www.suerf.org
+Provider-Institution: RePEc:edi:suerfea
+Maintainer-Name: Dragana Popovic
+Maintainer-Email: dragana.popovic@oenb.at
+Editor-Name: Morten Balling
+Editor-Email: mb@asb.dk
+Order-Email: suerf@oenb.at
+Order-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Notification: SUERF Colloquium Volumes are available for order from bookstores, with the exception of the Colloquium Volume for the 26th SUERF Colloquium in Lisbon, which is available directly from the SUERF Secretariat or through the SUERF Website. Enquiries concerning SUERF publications or SUERF membership should be addressed to suerf@oenb.at
+Type: ReDIF-Book
+Handle: RePEc:erf:erfcol
+
+Template-Type: ReDIF-Series 1.0
+Name: Chapters in SUERF Studies
+Provider-Name: SUERF - The European Money and Finance Forum
+Provider-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Provider-Phone: +43/1/404 20 7216
+Provider-Fax: +43/1/404 20 7298
+Provider-Email: suerf@oenb.at
+Provider-Homepage: http://www.suerf.org
+Provider-Institution: RePEc:edi:suerfea
+Maintainer-Name: Dragana Popovic
+Maintainer-Email: dragana.popovic@oenb.at
+Editor-Name: Morten Balling
+Editor-Email: mb@asb.dk
+Order-Email: suerf@oenb.at
+Order-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Notification: Publications in the SUERF Studies series are distributed free of charge to members of the association. Non-members may acquire individual copies for EUR 40. Enquiries concerning SUERF publications or SUERF membership should be addressed to suerf@oenb.at
+Type: ReDIF-Chapter
+Handle: RePEc:erf:erfssc
+
+Template-Type: ReDIF-Series 1.0
+Name: SUERF 50th Anniversary Volume - 50 Years of Money and Finance: Lessons and Challenges
+Provider-Name: SUERF - The European Money and Finance Forum
+Provider-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Provider-Phone: +43/1/404 20 7216
+Provider-Fax: +43/1/404 20 7298
+Provider-Email: suerf@oenb.at
+Provider-Homepage: http://www.suerf.org
+Provider-Institution: RePEc:edi:suerfea
+Maintainer-Name: Dragana Popovic
+Maintainer-Email: dragana.popovic@oenb.at
+Editor-Name: Morten Balling
+Editor-Email: mb@asb.dk
+Order-Email: suerf@oenb.at
+Order-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Notification: The SUERF 50th Anniversary Volume "50 Years of Money and Finance: Lessons and Challenges" is distributed free of charge to SUERF members. A limited number of copies will be available for purchase by non-members. Enquiries concerning SUERF publications or SUERF membership should be addressed to suerf@oenb.at
+Type: ReDIF-Book
+Handle: RePEc:erf:erffft
+
+Template-Type: ReDIF-Series 1.0
+Name: SUERF 50th Anniversary Volume Chapters
+Provider-Name: SUERF - The European Money and Finance Forum
+Provider-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Provider-Phone: +43/1/404 20 7216
+Provider-Fax: +43/1/404 20 7298
+Provider-Email: suerf@oenb.at
+Provider-Homepage: http://www.suerf.org
+Provider-Institution: RePEc:edi:suerfea
+Maintainer-Name: Dragana Popovic
+Maintainer-Email: dragana.popovic@oenb.at
+Editor-Name: Morten Balling
+Editor-Email: mb@asb.dk
+Order-Email: suerf@oenb.at
+Order-Postal: SUERF c/o OeNB, Otto-Wagner-Platz 3, A-1090 Vienna, Austria
+Notification: The SUERF 50th Anniversary Volume "50 Years of Money and Finance: Lessons and Challenges" is distributed free of charge to SUERF members. A limited number of copies will be available for purchase by non-members. Enquiries concerning SUERF publications or SUERF membership should be addressed to suerf@oenb.at
+Type: ReDIF-Chapter
+Handle: RePEc:erf:erfftc

@@ -1,0 +1,19 @@
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: World Inequality Lab
+Provider-Homepage: http://wid.world/world-inequality-lab/
+Provider-Institution: RePEc:edi:wilpafr
+Maintainer-Name: Lucas Chancel
+Maintainer-Email: info@wid.world
+Type: ReDIF-Paper
+Handle: RePEc:wel:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: Technical Notes
+Provider-Name: World Inequality Lab
+Provider-Homepage: http://wid.world/world-inequality-lab/
+Provider-Institution: RePEc:edi:wilpafr
+Maintainer-Name: Lucas Chancel
+Maintainer-Email: info@wid.world
+Type: ReDIF-Paper
+Handle: RePEc:wel:tenote 

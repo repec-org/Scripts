@@ -1,0 +1,51 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series
+Description: Our Working Paper Series (WPS) disseminates economic research relevant to the various tasks and functions of the ECB, and provides a conceptual and empirical basis for policy-making. The Working Papers constitute “work in progress”. They are published to stimulate discussion and contribute to the advancement of our knowledge of economic matters. They are addressed to experts, so readers should be knowledgeable in economics.
+Type: ReDIF-Paper
+Provider-Name: European Central Bank
+Provider-Homepage: http://www.ecb.europa.eu/
+Provider-Phone: +49 69 1344 0
+Provider-Postal: 60640 Frankfurt am Main, Germany
+Provider-Institution: RePEc:edi:emieude 
+Maintainer-Name: Official Publications
+Maintainer-Email: officialpublications@ecb.int
+Handle: RePEc:ecb:ecbwps
+
+Template-type: ReDIF-Series 1.0
+Name: Occasional Paper Series
+Description: Our Occasional Paper Series (OPS) disseminates work carried out by, as a rule, ECB staff on subjects that relate to the main tasks and functions of the ECB and the ESCB. Occasional Papers (OPs) are addressed to a wide audience, including other policy-makers, financial analysts, academics, the media and the interested general public. Understanding the papers will normally require some prior knowledge of the topic.
+Type: ReDIF-Paper
+Provider-Name: European Central Bank
+Provider-Homepage: http://www.ecb.europa.eu/
+Provider-Phone: +49 69 1344 0
+Provider-Postal: 60640 Frankfurt am Main, Germany
+Provider-Institution: RePEc:edi:emieude 
+Maintainer-Name: Official Publications
+Maintainer-Email: officialpublications@ecb.int
+Handle: RePEc:ecb:ecbops
+
+Template-type: ReDIF-Series 1.0
+Name: Statistics Paper Series
+Description: The Statistics Paper Series (SPS) covers both methodological and conceptual issues related to central banking statistics, new statistical topics and techniques. The Statistics Paper Series is published to stimulate discussion and to contribute to informing the international statistics community about work on improving methodological standards, with the goal of ultimately attaining more comparable and higher-quality statistics from all economic areas and countries. The Statistics Paper Series constitutes “work in progress” by statistics experts.
+Type: ReDIF-Paper
+Provider-Name: European Central Bank
+Provider-Homepage: http://www.ecb.europa.eu/
+Provider-Phone: +49 69 1344 0
+Provider-Postal: 60640 Frankfurt am Main, Germany
+Provider-Institution: RePEc:edi:emieude 
+Maintainer-Name: Official Publications
+Maintainer-Email: officialpublications@ecb.int
+Handle: RePEc:ecb:ecbsps
+
+Template-type: ReDIF-Series 1.0
+Name: Research Bulletin
+Description: The Research Bulletin features a selection of recent work on policy-relevant topics by ECB economists. Published on a monthly basis, the articles in the Research Bulletin are intended for a general audience. The views expressed in each article are those of the authors and do not necessarily represent the views of the European Central Bank and the Eurosystem. The Research Bulletin also includes information about other recent ECB research activities, including publications by ECB economists in scientific journals and reviews. The contents are reviewed by an Editorial Board.
+Type: ReDIF-Article
+Provider-Name: European Central Bank
+Provider-Homepage: http://www.ecb.europa.eu/
+Provider-Phone: +49 69 1344 0
+Provider-Postal: 60640 Frankfurt am Main, Germany
+Provider-Institution: RePEc:edi:emieude 
+Maintainer-Name: Official Publications
+Maintainer-Email: officialpublications@ecb.int
+Handle: RePEc:ecb:ecbrbu

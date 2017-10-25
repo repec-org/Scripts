@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Studii Financiare (Financial Studies)
+Provider-Name: Centre of Financial and Monetary Research "Victor Slavescu"
+Provider-Homepage: http://www.icfm.ro/
+Provider-Institution: RePEc:edi:cfiarro
+Maintainer-Name: Daniel Mateescu
+Maintainer-Email: dan@ipe.ro
+Type: ReDIF-Article
+Handle: RePEc:vls:finstu
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Financial and Monetary Economics
+Provider-Name: Centre of Financial and Monetary Research "Victor Slavescu"
+Provider-Homepage: http://www.icfm.ro/
+Provider-Institution: RePEc:edi:cfiarro
+Maintainer-Name: Daniel Mateescu
+Maintainer-Email: dan@ipe.ro
+Type: ReDIF-Article
+Handle: RePEc:vls:rojfme

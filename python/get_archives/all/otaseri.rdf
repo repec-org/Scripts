@@ -1,0 +1,17 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: 商学討究 (Shogaku Tokyu)
+Provider-Name: Otaru University of Commerce
+Provider-Institution: RePEc:edi:deotajp
+Maintainer-Name: Miura, Chiho
+Maintainer-Email: barrel@office.otaru-uc.ac.jp
+Type: ReDIF-Article
+Handle: RePEc:ota:ecorev
+
+Template-Type: ReDIF-Series 1.0
+Name: ビジネス創造センターディスカッション・ペーパー (Discussion papers of the Center for Business Creation) 
+Provider-Name: Otaru University of Commerce
+Provider-Institution: RePEc:edi:deotajp
+Maintainer-Name: Miura, Chiho 
+Maintainer-Email: barrel@office.otaru-uc.ac.jp
+Type: ReDIF-Paper
+Handle: RePEc:ota:busdis

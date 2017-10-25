@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Nova Economia
+Description: These are the papers published in Nova Economia, the journal of the Economics Department at Universidade Federal de Minas Gerais (Federal University of Minas Gerais, Brazil).
+Type: ReDIF-Article
+Provider-Name: Economics Department,
+ Universidade Federal de Minas Gerais (Brazil)
+Provider-Institution: RePEc:edi:fufmgbr
+Provider-Postal: Av. Antonio Carlos, 6627 - Predio da FACE
+ Belo Horizonte, 31270-901
+ Brazil
+Editor-Name: Carlos Eduardo Suprinyak
+Editor-Email: ne@face.ufmg.br
+ISSN: 0103-6351
+Maintainer-Name: Bárbara Freitas Paglioto
+Maintainer-Email: ne@face.ufmg.br
+Order-Email: ne@face.ufmg.br
+Order-Homepage: http://www.face.ufmg.br/novaeconomia/
+Order-Postal: Av. Antonio Carlos, 6627 - Predio da FACE
+ Belo Horizonte, 31270-901
+ Brazil
+Handle: RePEc:nov:artigo

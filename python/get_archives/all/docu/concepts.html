@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html><head><title>Access to Scientific Literature
+on the WWW: the RePEc concept</title>
+
+<link rev="made" href="mailto:WoPEc@netec.mcc.ac.uk">
+</head>
+<body>
+
+<hr>
+
+<h1>Access to Scientific Literature
+on the WWW: the RePEc concept</h1>
+<h2><a href="http://openlib.org/home/krichel/">Thomas Krichel</a></h2>
+<h2>1998-12-14</h2>
+
+
+<p>
+<p><a name="l1"></a>
+<h2>1: The purpose of RePEc</h2>
+<p>RePEc stands for "Research Papers in Economics".  
+The word RePEc has three different meanings
+<ol>
+<li > It is a collection of web or ftp 
+archives that provide structured data (something 
+like author: Karl Marx \\ Title: Das Kapital) about electronic and 
+printed documents in
+economics. Each archive is contained in a subdirectory on
+the web or ftp server. 
+Some archives also make the full text of the papers
+available. Others contain URLs for the papers from another
+site. Others have no option to downloads papers. The collection of
+the data on these archives 
+make up the first aspect of RePEc.  
+<li > It is a group of people that provide these
+servers. This is a mixed group comprising academics, departmental
+computing support staff, librarians and other volunteers. By working
+in a coordinated way we can achieve a level of service that could
+not be reached by each of us working individually. 
+<li > The last  
+aspect of RePEc is its r&ocirc;le as naming authority. Essentially this
+means that each server, each series and each paper is identified by a
+unique handle. Each handle starts with the keyword RePEc.
+</ol>
+The aim of RePEc is to construct a database about all aspects of
+research in economics.  The RePEc aims to describe and identify paper,
+(working papers and journal articles), collections of papers
+(i.e. journals and working paper series), persons who act as authors
+of papers and editors of collection, and institutions (which are
+collections of persons just like the journals are collections of
+articles). By identifying each element, we can update the data
+easily. An example: <pre>
+Template-Type: ReDIF-Paper 1.0 
+Author-Name: Thomas Krichel 
+Author-Handle: RePEc:per:05-06-1965:thomas_krichel 
+...
+Handle: RePEc:sur:surrec:9801
+</pre>
+ is part of a description of a paper authored by Thomas Krichel.
+Somewhere else in the dataset, we find
+<pre>
+Template-Type: ReDIF-Person 1.0
+Name: Thomas Krichel
+Email: T.Krichel@surrey.ac.uk
+Homepage: http://openlib.org/home/krichel
+Handle: RePEc:per:05-06-1965:thomas_krichel
+</pre>
+
+This means that when the author Krichel moves from one place to
+another, all we need to update is his email address and his
+homepage in the second template, and the information will be 
+updated in the description of the all papers that Thomas Krichel
+has written. Similarly, the handle tut(RePEc:sur:surrec:9801) 
+will be a unique identifier for this particular paper. A wide
+deployment of this identifier will mean that automated citation
+analysis will become possible. Of course these particular 
+features are not yet fully developed, but I hope that the
+example will give you an idea what RePEc wants to archive.
+Basically what we are aiming for is a relational database
+system for economics research information. This relational
+structure will be one distinctive advantage of RePEc over
+existing systems like the  ISI Citation Index and EconLIT. 
+The other advantage is that it is freely available to 
+anyone in the world who is interested in Economics and 
+has internet access.
+<p>Skeptics have suggested that such a system will ever emerge. It should
+however be noted that the majority of people that push RePEc forward
+are young(ish). We know that we have a long way to go, but we also
+know where we are going and we know that we have the time to move on.
+Up until now we have found working on RePEc an enjoyable and worthwhile
+experience. 
+<p><a name="l2"></a>
+<h2>2: A look at an archive</h2>
+<p>RePEc is founded on two sets of guidelines. "ReDIF" is a template
+metadata format. It describes templates for "Paper", "Article",
+"Series", "Archive" etc. The Guildford protocol is a convention on how
+to store the template files on a publicly accessible computer system
+using either ftp or http. The idea is that the data is not maintained
+by a single site, but by a number of archives all working
+independently.  Let us show an example. The <a href="http;//www.nber.org">National Bureau of
+Economic Research (NBER)</a> provides a RePEc
+archive at <a href="http://nberws.nber.org/RePEc/nbr">http://nberws.nber.org/RePEc/nbr</a>. 
+tut(RePEc:nbr) is the handle of the
+NBER archive. In the archive, they provide information about the NBER
+working papers, handle tut(RePEc:nbr:nberwo) at
+<a href="http://nberws.nber.org/RePEc/nbr/nberwo">http://nberws.nber.org/RePEc/nbr/nberwo</a>.  
+This directory contains plain
+ASCII files, that contain data that
+describe research documents. For example there is a template
+<pre>
+Template-Type: ReDIF-Paper 1.0 
+Title: Costs of Equity Capital and Model Mispricing 
+Classification-JEL: G12; G31 
+Author-Name: Lubos Pastor 
+Number: 6490 
+Creation-Date: 1998-04 
+File-URL: http://www.nber.org/papers/w6490.pdf 
+File-Format: application/pdf
+File-Restriction: Access to the full text is restricted. Look up http://www.nber.
+ org/wwpfaq.html for details, or write to feenberg@nber.org. If you have no access
+ to the full text you will be shown an abstract page instead. Anyone browsing the 
+ NBER working paper database from a site with a TLD in a non-OECD, non-OPEC
+ country will be offered full text downloads for any paper for which the full text
+ is available  online, but only if their DNS does reverse name lookup.
+Handle: RePEc:nbr:nberwo:6490
+Price: $5.00 per paper (plus $10.00 postage for orders outside U.S.)
+</pre>
+
+This record also contains an abstract that has been suppressed here to 
+conserve space. It illustrates that the collection is not necessarily limited
+to documents that are free. Since the access arrangements vary, the text
+of the restriction is free. If the resource is composed out of
+several files, then a construction like <code>File-URL:</code>,
+<code>File-Format:</code> and <code>File-Restriction:</code> is used for each file, and
+an extra field <code>File-Function:</code> may be added.
+<p>The most important feature of the ReDIF data is the handle
+structure. In our example, the handle tut(Handle: RePEc:nbr:nberwo:6490)
+ contains both information about the archive, the series as well as an
+identifier for the paper. This hierarchical structure is evident in
+this case.  In other situation that structure may be different. In
+fact RePEc is planning to build a handle structure for authors and
+institutions. These data could then be kept up to date. For example if
+the author moves, her new email address would only need to be changed
+at one place.
+<p>RePEc does not follow an existing or emerging internet standard. The
+advantage is that the RePEc metadata format it very flexible and can
+be altered as new needs arise. The metadata is simple enough that
+support staff working for departments and research institutions can
+create and amend ReDIF records with minimum difficulties. If the
+format would be more general it would also make it more difficult to
+encode.
+<p><a name="l3"></a>
+<h2>3: Data and services</h2>
+<p>The RePEc data sits in archives, but that is not the form the user
+would normally access it. The user of the data can address one or more
+user services that render the data. There is no official user service
+for RePEc, but a variety of user services. They include
+<a href="http://ideas.uqam.ca">IDEAS</a> in Canada,
+<a href="http://netec.mcc.ac.uk/WoPEc.html">WoPEc</a> who operate in the UK,
+US and Japan, as well as the Russian
+<a href="http://www.ieie.nsc.ru/RuPEc/">RuPEc</a> service.  A <a href="http://dbiref.kub.nl:3307/Alex.cgi?newdbname=repec&action=selectdatabase&language=english">Z39.50
+service</a>
+is being prepared in the Netherlands.
+ There is also a current awareness service called "<a href="http://netec.mcc.ac.uk/NEP">NEP: New
+Economics Papers</a>".  All these services
+use the same data from all archives. Each site that provides services
+regularly runs a piece of software that will update their local
+holdings of remote archives. The services all run independently but
+the providers of RePEc data will enjoy simultaneous exposure in all
+the services. This is a significant advantage.
+<p><a name="l4"></a>
+<h2>4: Contact</h2>
+<p>Please mail WoPEc@netec.mcc.ac.uk any further question/suggestions.
+<p><HR> <address> <a
+href=http://openlib.org/home/krichel>Thomas Krichel</a> &lt<a
+href=mailto:T.Krichel@surrey.ac.uk> T.Krichel@surrey.ac.uk</a>&gt;
+</address>
+<p></body>
+</html>

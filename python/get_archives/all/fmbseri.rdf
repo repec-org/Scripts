@@ -1,0 +1,34 @@
+Template-type: ReDIF-Series 1.0
+Name: Review of General Management
+Description: This is the official journal of Faculty of  Management Brasov, Spiru Haret University
+Provider-Name: Spiru Haret University, Faculty of Management Brasov
+Provider-Homepage: http://www.spiruharet.ro/facultati/facultate.php?id=7
+Provider-Institution: RePEc:edi:fbuspro
+Maintainer-Name: George Maniu
+Maintainer-Email: georgemaniu@yahoo.com
+Editor-Name: Camelia Stefanescu
+Editor-Email: redactie_rmg@yahoo.com
+Type: ReDIF-Article
+Handle: RePEc:fmb:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Expert Books
+Provider-Name: The Expert Publishing House 
+Provider-Homepage: http://www.ince.ro/expert.htm
+Provider-Institution: RePEc:edi:fbuspro
+Maintainer-Name: George Maniu
+Maintainer-Email: georgemaniu@yahoo.com
+Editor-Name: Valeriu Ioan Franc
+Type: ReDIF-Book
+Handle: RePEc:fmb:fmbook
+
+Template-type: ReDIF-Series 1.0
+Name:Lux Libris Books
+Provider-Name: The Lux Libris Publishing House 
+Provider-Homepage: http://www.luxlibris.ro
+Provider-Institution: RePEc:edi:fbuspro
+Maintainer-Name: George Maniu
+Maintainer-Email: georgemaniu@yahoo.com
+Type: ReDIF-Book
+Handle: RePEc:fmb:fmluxl
+

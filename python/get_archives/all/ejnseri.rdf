@@ -1,0 +1,46 @@
+Template-type: ReDIF-Series 1.0
+Name: Eurasian Journal of Economics and Finance
+Description: This is the official journal of the EURASIANPUBLICATIONS 
+Provider-Name: Eurasian Publications 
+Provider-Homepage: http://www.eurasianpublications.com/
+Provider-Institution:	EURASIANPUBLICATIONS 
+Maintainer-Name: 
+Maintainer-Email: ejef@eurasianpublications.com	
+Editor-Name: Doojin Ryu 
+Editor-Email: sharpjin@cau.ac.kr 
+ISSN: 2148-0192 
+Type: ReDIF-Article
+Handle: RePEc:ejn:ejefjr 
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Eurasian Journal of Business and Management 
+Description: This is the official journal of the EURASIANPUBLICATIONS 
+Provider-Name: Eurasian Publications 
+Provider-Homepage: http://www.eurasianpublications.com/
+Provider-Institution: EURASIANPUBLICATIONS 
+Maintainer-Name: 
+Maintainer-Email: ejbm@eurasianpublications.com 
+Editor-Name: Gregory John Lee 
+Editor-Email: gregory.lee@wits.ac.za 
+ISSN: 2148-0206 
+Type: ReDIF-Article
+Handle: RePEc:ejn:ejbmjr
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Eurasian Journal of Social Sciences
+Description: This is the official journal of the EURASIANPUBLICATIONS 
+Provider-Name: Eurasian Publications 
+Provider-Homepage: http://www.eurasianpublications.com/
+Provider-Institution: EURASIANPUBLICATIONS 
+Maintainer-Name: 
+Maintainer-Email: ejss@eurasianpublications.com 
+Editor-Name: Manuela Tvaronaviciene 
+Editor-Email: manuela@vgtu.lt 
+ISSN: 2148-0214
+Type: ReDIF-Article
+Handle: RePEc:ejn:ejssjr
+

@@ -1,0 +1,30 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Global Business and Economics
+Provider-Name: Global Research Agency
+Provider-Homepage: http://www.globalresearch.com.my/journal.htm
+Provider-Institution: RePEc:grg:degramy
+Maintainer-Name: editor
+Maintainer-Email: info@globalresearch.com.my
+Type: ReDIF-Article
+Handle: RePEc:grg:01biss
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Global Entrepreneurship
+Provider-Name: Global Research Agency
+Provider-Homepage: http://www.globalresearch.com.my/journal.htm
+Provider-Institution: RePEc:grg:degramy
+Maintainer-Name: editor
+Maintainer-Email: info@globalresearch.com.my
+Type: ReDIF-Article
+Handle: RePEc:grg:02entp
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Global Management
+Provider-Name: Global Research Agency
+Provider-Homepage: http://www.globalresearch.com.my/journal.htm
+Provider-Institution: RePEc:grg:degramy
+Maintainer-Name: editor
+Maintainer-Email: info@globalresearch.com.my
+Type: ReDIF-Article
+Handle: RePEc:grg:03mngt
+

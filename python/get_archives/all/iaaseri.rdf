@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: IAAEU Discussion Papers
+Provider-Name: Institute of Labour Law and Industrial Relations in the European Union (IAAEU)
+Provider-Homepage: http://www.iaaeu.de
+Provider-Institution: RePEc:edi:iaaegde
+Maintainer-Name: Adrian Chadi
+Maintainer-Email: edv@iaaeu.de
+Type: ReDIF-Paper
+Handle: RePEc:iaa:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: IAAEG Discussion Papers until 2011
+Provider-Name: Institute of Labour Law and Industrial Relations in the European Union (IAAEU)
+Provider-Homepage: http://www.iaaeu.de
+Provider-Institution: RePEc:edi:iaaegde
+Maintainer-Name: Adrian Chadi
+Maintainer-Email: edv@iaaeu.de
+Type: ReDIF-Paper
+Handle: RePEc:iaa:wpaper

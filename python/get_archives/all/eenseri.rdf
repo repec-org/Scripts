@@ -1,0 +1,94 @@
+Template-type: ReDIF-Series 1.0
+Name: Environmental Economics Research Hub Research Reports
+Description: Research Reports of the Environmental Economics Research Hub based at ANU.
+Provider-Name: Environmental Economics Research Hub, Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:asanuau
+Provider-Homepage: https://crawford.anu.edu.au/research_units/eerh/
+Maintainer-Name: CAP Web Team
+Maintainer-Email: cap.web@anu.edu.au
+Editor-Name: Jeff Bennett
+Editor-Email: Jeff.Bennett@anu.edu.au
+Handle: RePEc:een:eenhrr
+
+Template-type: ReDIF-Series 1.0
+Name: CCEP Working Papers
+Description: Working Papers of the Centre for Climate Economics & Policy based at ANU.
+Provider-Name: Centre for Climate Economics & Policy, Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:asanuau
+Provider-Homepage: https://ccep.crawford.anu.edu.au/
+Maintainer-Name: David Stern
+Maintainer-Email: david.stern@anu.edu.au
+Editor-Name: David Stern
+Editor-Email: david.stern@anu.edu.au
+Handle: RePEc:een:ccepwp
+
+Template-type: ReDIF-Series 1.0
+Name: Centre for Water Economics, Environment and Policy Papers
+Description: Research Papers of the Centre for Water Economics,
+Environment and Policy Papers, ANU
+Provider-Name: Centre for Water Economics, Environment and Policy, Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:asanuau
+Provider-Homepage: http://cweep.anu.edu.au/
+Maintainer-Name: CAP Web Team
+Maintainer-Email: cap.web@anu.edu.au
+Editor-Name: Quentin Grafton
+Editor-Email: Quentin.Grafton@anu.edu.au
+Handle: RePEc:een:cweanu
+
+Template-type: ReDIF-Series 1.0
+Name: Development Policy Centre Discussion Papers
+Description: Discussion Papers from the Development Policy Centre, Crawford School of Public Policy, The Australian National University
+Provider-Name: Development Policy Centre, Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:asanuau
+Provider-Homepage: https://devpolicy.crawford.anu.edu.au/
+Maintainer-Name: Macarena Rojas
+Maintainer-Email: macarena.rojas@anu.edu.au
+Handle: RePEc:een:devpol
+
+Template-type: ReDIF-Series 1.0
+Name: Crawford School Research Papers
+Description: Research Papers from the Crawford School of Public Policy, The Australian National University
+Provider-Name: Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:asanuau
+Provider-Homepage: https://crawford.anu.edu.au/research/
+Maintainer-Name: David Stern
+Maintainer-Email: david.stern@anu.edu.au
+Editor-Name: David Stern
+Editor-Email: david.stern@anu.edu.au
+Handle: RePEc:een:crwfrp
+
+Template-type: ReDIF-Series 1.0
+Name: Pacific Economic Bulletin
+Description: The Pacific Economic Bulletin is a peer-reviewed research
+publication covering issues relating to economics, governance and
+policymaking in the Pacific Islands and Papua New Guinea.
+Provider-Name: Pacific Economic Bulletin Papers
+Provider-Institution: RePEc:edi:asanuau
+Provider-Homepage: http://peb.anu.edu.au/
+Maintainer-Name: CAP Web Team
+Maintainer-Email: cap.web@anu.edu.au
+Editor-Name: Ron Duncan
+Editor-Email: ronald.duncan@anu.edu.au
+Type: ReDIF-Article
+Handle: RePEc:een:pebwps
+
+Template-type: ReDIF-Series 1.0
+Name: CAMA Working Papers
+Provider-Name: Centre for Applied Macroeconomic Analysis, Crawford School of Public Policy, The Australian National University
+Provider-Homepage: http://cama.crawford.anu.edu.au
+Provider-Institution: RePEc:edi:asanuau
+Maintainer-Name: Cama Admin
+Maintainer-Email: cama.admin@anu.edu.au
+Handle: RePEc:een:camaaa
+
+Template-type: ReDIF-Series 1.0
+Name: Asia and the Pacific Policy Studies
+Description: Asia and the Pacific Policy Studies is the flagship journal of Crawford School of Public Policy at The Australian National University.
+Provider-Name: Crawford School of Public Policy, The Australian National University
+Provider-Institution: RePEc:edi:asanuau
+Provider-Homepage: https://asiaandthepacificpolicystudies.crawford.anu.edu.au/apps-working-paper
+Maintainer-Name: Sung Lee
+Maintainer-Email: sung.lee@anu.edu.au
+Editor-Name: Tom Kompas
+Editor-Email: tom.kompas@anu.edu.au
+Handle: RePEc:een:appswp

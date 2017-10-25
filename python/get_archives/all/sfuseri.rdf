@@ -1,0 +1,33 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Description: These are the Discussion Papers of the Department of Economics at Simon Fraser University.
+Classification-JEL:
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, Simon Fraser University
+Provider-Homepage: http://www.sfu.ca/economics.html
+Provider-Phone: (778)782-3508
+Provider-Postal: Department of Economics, Simon Fraser University, 8888 University Drive, Burnaby, BC, V5A 1S6, Canada
+Provider-Fax: (778)782-5944
+Provider-Institution: RePEc:edi:desfuca
+Maintainer-Name: Working Paper Coordinator
+Maintainer-Email: econcomm@sfu.ca 
+Editor-Name: Rebecca Ho 
+Editor-Email: econcomm@sfu.ca 
+Editor-Workplace-Name: Department of Economics, Simon Fraser University
+Editor-Workplace-Homepage: http://www.sfu.ca/economics.html
+Order-Email: econ-papersrequest@sfu.ca 
+Order-Homepage: http://www.sfu.ca/economics/research/publications.html
+Order-Postal: Working Paper Coordinator, Department of Economics, Simon Fraser University, 8888 University Drive, Burnaby, BC, V5A 1S6, Canada
+Handle: RePEc:sfu:sfudps 
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Working Papers from the Centre for Research in Adaptive Behaviour in Economics at Simon Fraser University.
+Provider-Name: CRABE, Department of Economics, Simon Fraser University
+Provider-Homepage: http://www.sfu.ca/crabe
+Maintainer-Name: Director
+Maintainer-Email: arifovic@sfu.ca
+Type: ReDIF-Paper
+Handle: RePEc:sfu:crabex

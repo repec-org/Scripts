@@ -1,0 +1,154 @@
+Template-type: ReDIF-Series 1.0
+Name: International Productivity Monitor
+Description: This journal focuses attention on the importance of productivity for improving living standards with articles on productivity issues, trends, and developments in Canada and other countries and serves as a vehicle for international discussion on productivity topics.
+Classification-JEL: O47, O30, O40, O50, J24, D24, L00
+Type: ReDIF-Article
+Provider-Name: Centre for the Study of Living Standards
+Provider-Email: info@csls.ca
+Provider-Homepage:  http://www.csls.ca/
+Provider-Phone: 613-233-8891
+Provider-Postal: 151 Slater Street, Suite 710, Ottawa, ON K1P 5H3
+Provider-Fax: 613-233-8250
+Provider-Institution: RePEc:edi:cslssca
+Maintainer-Name: CSLS	
+Maintainer-Email: csls@csls.ca
+Editor-Name: Andrew Sharpe, Executive Director
+Editor-Email: andrew.sharpe@csls.ca
+Editor-Workplace-Name: Centre for the Study of Living Standards
+Editor-Workplace-Homepage: http://www.csls.ca/
+Order-Email: info@csls.ca
+Order-Homepage: http://www.csls.ca
+Notification: To receive notification of all CSLS releases, you can add your e-mail address to the CSLS electronic mailing list by visiting www.csls.ca.
+ISSN: 1492-9759 (print) 1492-9767 (on-line)
+Handle: RePEc:sls:ipmsls
+
+Template-type: ReDIF-Series 1.0
+Name: CSLS Research Reports
+Description: The Centre for the Study of Living Standards publishes research reports on a wide range of topics, including aggregate productivity, living standards, industry studies, and the Index of Economic Well-being.
+Classification-JEL: O51, O57, O47, E01, J24, D24, O30, E24, L80, L70, L60, I30
+Type: ReDIF-Paper
+Provider-Name: Centre for the Study of Living Standards
+Provider-Email: info@csls.ca
+Provider-Homepage: http://www.csls.ca/
+Provider-Postal: 151 Slater Street, Suite 710, Ottawa, ON K1P 5H3
+Provider-Phone: 613-233-8891
+Provider-Fax: 613-233-8250
+Provider-Institution: RePEc:edi:cslssca
+Maintainer-Name: CSLS
+Maintainer-Email: csls@csls.ca
+Editor-Name: Andrew Sharpe
+Editor-Email: andrew.sharpe@csls.ca
+Editor-Workplace-Name: Centre for the Study of Living Standards
+Editor-Workplace-Homepage: http://www.csls.ca/
+Order-Email: info@csls.ca
+Order-Homepage: http://www.csls.ca
+Notification: To receive notification of all CSLS releases, you can add your e-mail address to the CSLS electronic mailing list by visiting www.csls.ca.
+Handle: RePEc:sls:resrep
+
+Template-type: ReDIF-Series 1.0
+Name: The Review of Economic Performance and Social Progress
+Description: The Review of Economic Performance and Social Progress is a series of books established in 2001. The initiative was founded on two fundamental beliefs: that the integration of economic and social objectives lies at the heart of the policy agenda, and that the quality of life of Canadians will enjoy for decades to come depends in important ways on how well we meet this challenge of integrating economic and social objectives. The series contains articles that review the current state of economic performance and social progress in Canada and in other countries; provide in-depth examinations of specific aspects of our economic performance and social progress; and analyze the two-way linkages and interaction between economic performance and social progress. The articles are accessible to a general audience. Contributions are commissioned from leading Canadian researchers in a variety of disciplines. Two issues have been released to date.
+Classification-JEL: O51, J24, E66, E61
+Type: ReDIF-Chapter
+Provider-Name: Centre for the Study of Living Standards
+Provider-Email: info@csls.ca
+Provider-Homepage: http://www.csls.ca/
+Provider-Postal: 151 Slater Street, Suite 710, Ottawa, ON K1P 5H3
+Provider-Phone: 613-233-8891
+Provider-Fax: 613-233-8250
+Provider-Institution: RePEc:edi:cslssca
+Provider-Name: The Institutute for Research on Public Policy
+Provider-Homepage: http://www.irpp.org/
+Provider-Postal: 1470 Peel Street, Suite 200, Montreal, QC H3A 1T1 
+Maintainer-Name: CSLS
+Maintainer-Email: csls@csls.ca
+Editor-Name: Andrew Sharpe, Executive Director
+Editor-Email: andrew.sharpe@csls.ca
+Editor-Workplace-Name: Centre for the Study of Living Standards
+Editor-Workplace-Homepage: http://www.csls.ca/
+Editor-Name: France St-Hilaire, Vice-President , Research
+Editor-Workplace-Name: The Institutute for Research on Public Policy
+Editor-Workplace-Homepage: http://www.irpp.org/
+Editor-Name: Keith Banting, Director
+Editor-Workplace-Name: School of Public Policy Studies, Queens University
+Order-Email: info@csls.ca
+Order-Homepage: http://www.csls.ca
+Notification: To receive notification of all CSLS releases, you can add your e-mail address to the CSLS electronic mailing list by visiting www.csls.ca.
+Handle: RePEc:sls:repsls
+
+Template-type: ReDIF-Series 1.0
+Name: New Directions for Intelligent Government in Canada: Papers in Honour of Ian Stewart
+Description:On the occasion of his 80th birthday, the Centre for the Study of Living Standards is honouring long-time CSLS Chair Ian Stewart and his distinguished professional career as an economic researcher and policy adviser with a Festschrift volume. 
+Classification-JEL:
+Type: ReDIF-Chapter
+Provider-Name: Centre for the Study of Living Standards
+Provider-Email: info@csls.ca
+Provider-Homepage: http://www.csls.ca/
+Provider-Postal: 151 Slater Street, Suite 710, Ottawa, ON K1P 5H3
+Provider-Phone: 613-233-8891
+Provider-Fax: 613-233-8250
+Provider-Institution: RePEc:edi:cslssca
+Maintainer-Name: CSLS
+Maintainer-Email: csls@csls.ca
+Editor-Name: Fred Gorbet
+Editor-Name: Andrew Sharpe
+Editor-Email: andrew.sharpe@csls.ca
+Editor-Workplace-Name: Centre for the Study of Living Standards
+Editor-Workplace-Homepage: http://www.csls.ca/
+Order-Email: info@csls.ca
+Order-Homepage: http://www.csls.ca
+Notification: To receive notification of all CSLS releases, you can add your e-mail address to the CSLS electronic mailing list by visiting www.csls.ca.
+Handle: RePEc:sls:ndphis
+
+Template-type: ReDIF-Series 1.0
+Name: The State of Economics in Canada: Festschrift in Honour of David Slater
+Description: This volume celebrates the remarkable career of David Slater, which in the best Queen’s University tradition of John Deutsch and Clifford Clark
+spanned academia and public service, on the occasion of his 80th birthday. Articles included represent the state of the art of current thinking on Canadian economic policy issues. The topics covered include: fiscal
+federalism, taxation, pensions, international economics, globalization, regional
+issues, environmental economics, and labour economics. These are all fields
+that are dear to David Slater’s heart and that he contributed to in one way or
+another.
+Classification-JEL: A32, H77, O51, E62, H55, F02, R11, J24
+Type: ReDIF-Chapter
+Provider-Name: Centre for the Study of Living Standards
+Provider-Email: info@csls.ca
+Provider-Homepage: http://www.csls.ca/
+Provider-Postal: 151 Slater Street, Suite 710, Ottawa, ON K1P 5H3
+Provider-Phone: 613-233-8891
+Provider-Fax: 613-233-8250
+Provider-Institution: RePEc:edi:cslssca
+Maintainer-Name: CSLS
+Maintainer-Email: csls@csls.ca
+Editor-Name: Patrick Grady
+Editor-Name: Andrew Sharpe
+Editor-Email: andrew.sharpe@csls.ca
+Editor-Workplace-Name: Centre for the Study of Living Standards
+Editor-Workplace-Homepage: http://www.csls.ca/
+Order-Email: info@csls.ca
+Order-Homepage: http://www.csls.ca
+Notification: To receive notification of all CSLS releases, you can add your e-mail address to the CSLS electronic mailing list by visiting www.csls.ca.
+Handle: RePEc:sls:secfds
+
+Template-type: ReDIF-Series 1.0
+Name: A Symposium on Canadian Labour Force Participation in the 1990s (Special Issue of Canadian Business Economics, Volume 7, Number 2, May 1999)
+Description: A major development in the Canadian labour market in the 1990s has been the decline in labor force participation. This unexpected development has had important implications for the standard of living of Canadians and the conduct of macroeconomic policy. This issue of Canadian Business Economics consists of a symposium on labour force participation in Canada in the 1990s. The idea for this symposium came out of a December 1997 workshop on labour force participation organized by the Canadian Employment Research Forum. The Centre for the Study of Living Standards and Human Resources Development Canada then organized two sessions on declining labour force participation at the annual meeting of the Canadian Economics Association in May 1998 where these papers were first presented. The papers were then refereed and revised for publication. After peaking at 67.5 per cent in 1989, the aggregate participation rate of the population 15 and over fell continually during the first seven years of the 1990s to a trough of 64.8 per cent in 1997. The articles in this symposium attempt to explain this 2.7 percentage points decline in labour force participation. The papers identify both structural and cyclical factors contributing the decline in participation in the 1990s. The pace of participation rate increases in the 1970s and 1980s was unsustainable in the 1990s, due to the following structural factors: the leveling of cohorts effects reflecting the narrowing of the gap between male and female participation rates meant that the large increases in female participation experienced in the 1970s and 1980s was no longer possible; the rising school enrolment rate, reflecting the increased recognition of education for labour market success, acted to reduced the youth participation rate; the changing demographic composition of the population, and in particular the growth in the share of the population 65 and over, reduced the aggregate participation rate. This issue of Canadian Business Economics will be of interest to all persons following current labour market developments in Canada.
+Classification-JEL: J21, J22, E24, E27, C53, O51
+Type: ReDIF-Chapter
+Provider-Name: Centre for the Study of Living Standards
+Provider-Email: info@csls.ca
+Provider-Homepage: http://www.csls.ca/
+Provider-Postal: 151 Slater Street, Suite 710, Ottawa, ON K1P 5H3
+Provider-Phone: 613-233-8891
+Provider-Fax: 613-233-8250
+Provider-Institution: RePEc:edi:cslssca
+Maintainer-Name: CSLS
+Maintainer-Email: csls@csls.ca
+Editor-Name: Andrew Sharpe
+Editor-Email: andrew.sharpe@csls.ca
+Editor-Workplace-Name: Centre for the Study of Living Standards
+Editor-Workplace-Homepage: http://www.csls.ca/
+Editor-Name: Louis Grignon
+Order-Email: info@csls.ca
+Order-Homepage: http://www.csls.ca
+Notification: To receive notification of all CSLS releases, you can add your e-mail address to the CSLS electronic mailing list by visiting www.csls.ca.
+Handle: RePEc:sls:lfpcbe

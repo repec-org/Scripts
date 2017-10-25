@@ -1,0 +1,36 @@
+Template-type: ReDIF-Series 1.0
+Name: UNCTAD Discussion Papers
+Description: The UNCTAD Discussion Papers are a series of scholarly papers on all aspects of international trade, finance, investment, technology and macroeconomics in the context of development. The papers, authored by UNCTAD staff, visiting consultants, as well as external researchers, are selected on the basis of their analytical quality and policy relevance. 
+Provider-Name: United Nations Conference on Trade and Development
+Provider-Homepage: http://www.unctad.org/Templates/Page.asp?intItemID=2101&lang=1
+Provider-Institution: RePEc:edi:unctach
+Maintainer-Name: Joerg Mayer
+Maintainer-Email: joerg.mayer@unctad.org
+Editor-Name: Joerg Mayer
+Editor-Email: joerg.mayer@unctad.org
+Handle: RePEc:unc:dispap
+
+Template-type: ReDIF-Series 1.0
+Name: G-24 Discussion Papers
+Description: The G-24 Discussion Paper Series is a collection of research papers prepared under the UNCTAD Project of Technical Support to the Intergovernmental Group of Twenty-Four on International Monetary Affairs and Development (G-24). The project aims at enhancing the understanding of policy makers in developing countries of the complex issues in the international monetary and financial system, and at raising awareness outside developing countries of the need to introduce a development dimension into the discussion of international financal and institutional reform. 
+The Project is financed by the International Development Research Centre (IDRC) of Canada and contributions by the G-24 countries themselves. Since its origin, which goes back to 1975, it has contributed to the coherence of the developing countries´ approach to international monetary and financial issues, and strengthened the contribution of developing countries to the committees governing the IMF and the World Bank.
+Provider-Name: United Nations Conference on Trade and Development
+Provider-Homepage: http://www.unctad.org/Templates/Page.asp?intItemID=2101&lang=1
+Provider-Institution: RePEc:edi:unctach
+Maintainer-Name: Joerg Mayer
+Maintainer-Email: joerg.mayer@unctad.org
+Editor-Name: Joerg Mayer
+Editor-Email: joerg.mayer@unctad.org
+Handle: RePEc:unc:g24pap
+
+Template-type: ReDIF-Series 1.0
+Name: UNCTAD Blue Series Papers
+Description: The purpose of this series of studies is to analyse policy issues and to stimulate discussions in the area of international trade and development. The series includes studies by UNCTAD staff, as well as by other distinguished researchers.
+Provider-Name: United Nations Conference on Trade and Development
+Provider-Homepage: http://www.unctad.org
+Provider-Institution: RePEc:edi:unctach
+Maintainer-Name: Isabelle Porcu
+Maintainer-Email: isabelle.porcu@unctad.org
+Editor-Name: Marco Fugazza
+Editor-Email: marco.fugazza@unctad.org
+Handle: RePEc:unc:blupap

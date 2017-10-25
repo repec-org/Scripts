@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Publications of Darmstadt Technical University, Institute for Business Studies (BWL)
+Provider-Name: Darmstadt Technical University, Department of Business Administration, Economics and Law, Institute for Business Studies (BWL)
+Provider-Homepage: http://www.wi.tu-darmstadt.de/fachgebiete/fachgebiete_4/betriebswirtschaftlichefachgebiete.de.jsp
+Provider-Institution: RePEc:edi:ivthdde
+Maintainer-Name: Dekanatssekretariat
+Maintainer-Email: dekanat@wi.tu-darmstadt.de
+Type: ReDIF-Paper
+Handle: RePEc:dar:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Publications of Darmstadt Technical University, Institute of Economics (VWL)
+Provider-Name: Darmstadt Technical University, Department of Business Administration, Economics and Law, Institute of Economics (VWL)
+Provider-Homepage: http://www.wi.tu-darmstadt.de/fachgebiete/fachgebiete_4/volkswirtschaftlichefachgebiete.de.jsp
+Provider-Institution: RePEc:edi:ivthdde
+Maintainer-Name: Dekanatssekretariat
+Maintainer-Email: dekanat@wi.tu-darmstadt.de
+Type: ReDIF-Paper
+Handle: RePEc:dar:vpaper

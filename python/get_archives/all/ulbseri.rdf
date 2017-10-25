@@ -1,0 +1,21 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: ULB Institutional Repository
+Description: This series holds all litterature from the ULB IR, which is not officially published by ULB
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Provider-Institution: RePEc:edi:ecsulbe
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:ulb:ulbeco
+
+Template-type: ReDIF-Series 1.0
+Name: CEVIPOL Working Papers
+Description: This series holds all working papers published by CEVIPOL
+Provider-Name: ULB -- Universite Libre de Bruxelles
+Provider-Homepage: http://difusion.ulb.ac.be
+Maintainer-Name: Benoit Pauwels
+Maintainer-Email: bpauwels@ulb.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:ulb:ulbcvp
+

@@ -1,0 +1,44 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: The Field Experiments Website
+Provider-Homepage: http://www.fieldexperiments.com
+Maintainer-Name: Joe Seidel
+Maintainer-Email: seidelj@uchicago.edu
+Type: ReDIF-Paper
+Handle: RePEc:feb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Natural Field Experiments
+Provider-Name: The Field Experiments Website
+Provider-Homepage: http://www.fieldexperiments.com
+Maintainer-Name: Joe Seidel
+Maintainer-Email: seidelj@uchicago.edu
+Type: ReDIF-Paper
+Handle: RePEc:feb:natura
+
+Template-type: ReDIF-Series 1.0
+Name: Framed Field Experiments
+Provider-Name: The Field Experiments Website
+Provider-Homepage: http://www.fieldexperiments.com
+Maintainer-Name: Joe Seidel
+Maintainer-Email: seidelj@uchicago.edu
+Type: ReDIF-Paper
+Handle: RePEc:feb:framed
+
+Template-type: ReDIF-Series 1.0
+Name: Artefactual Field Experiments
+Provider-Name: The Field Experiments Website
+Provider-Homepage: http://www.fieldexperiments.com
+Maintainer-Name: Joe Seidel
+Maintainer-Email: seidelj@uchicago.edu
+Type: ReDIF-Paper
+Handle: RePEc:feb:artefa
+
+Template-type: ReDIF-Series 1.0
+Name: Field Experiments Software
+Provider-Name: The Field Experiments Website
+Provider-HomePage: http://www.fieldexperments.com
+Maintainer-Name: Joe Seidel
+Maintainer-Email: seidelj@uchicago.edu
+Type: ReDIF-Software
+Handle: RePEc:feb:softwa

@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Leibniz Institut für Ost- und Südosteuropaforschung (Institute for East and Southeast European Studies)
+Provider-Homepage: http://www.ios-regensburg.de
+Provider-Institution: RePEc:edi:osteide
+Order-email: info@ios-regensburg.de
+Maintainer-Name: Kseniia Gatskova
+Maintainer-email: gatskova@ios-regensburg.de
+Type: ReDIF-Paper
+Handle: RePEc:ost:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Memoranda - Policy Papers
+Provider-Name: Institut für Ost- und Südosteuropaforschung (Institute for East and Southeast European Studies)
+Provider-Homepage: http://www.ios-regensburg.de
+Provider-Institution: RePEc:edi:osteide
+Order-email: info@ios-regensburg.de
+Maintainer-Name: Kseniia Gatskova
+Maintainer-email: gatskova@ios-regensburg.de
+Type: ReDIF-Paper
+Handle: RePEc:ost:memopp

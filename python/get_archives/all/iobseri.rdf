@@ -1,0 +1,32 @@
+Template-type: ReDIF-Series 1.0
+Name: IOB Working Papers
+ISSN: 2294-8643
+Provider-Name: Universiteit Antwerpen, Institute of Development Policy and Management (IOB)
+Provider-Homepage: http://www.uantwerpen.be/iob
+Provider-Institution: RePEc:edi:iobuabe
+Maintainer-Name: Hans De Backer
+Maintainer-Email: hans.debacker@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:iob:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: IOB Discussion Papers
+ISSN: 2033-7329
+ISSN: 2294-8651 
+Provider-Name: Universiteit Antwerpen, Institute of Development Policy and Management (IOB)
+Provider-Homepage: http://www.uantwerpen.be/iob
+Provider-Institution: RePEc:edi:iobuabe
+Maintainer-Name: Hans De Backer
+Maintainer-Email: hans.debacker@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:iob:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: IOB Analyses & Policy Briefs
+Provider-Name: Universiteit Antwerpen, Institute of Development Policy and Management (IOB)
+Provider-Homepage: http://www.uantwerpen.be/iob
+Provider-Institution: RePEc:edi:iobuabe
+Maintainer-Name: Hans De Backer
+Maintainer-Email: hans.debacker@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:iob:apbrfs

@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Series 1.0
+Name: IMSciences Working Papers
+Provider-Name: Institute of Management Sciences, Peshawar, Pakistan
+Provider-Postal: Institute of Management Sciences 1-A, Sector E-5, Phase VII, Hayatabad, Peshawar- Pakistan
+Provider-Institution: RePEc:edi:imspepk
+Maintainer-Name: Dr. Attaullah Shah
+Maintainer-Email: ber@imsciences.edu.pk
+Handle: RePEc:bec:papers
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Business & Economic Review
+Provider-Name: Institute of Management Sciences, Peshawar, Pakistan
+Provider-Homepage: http://www.imsciences.edu/ber/
+Provider-Postal: Institute of Management Sciences 1-A, Sector E-5, Phase VII, Hayatabad, Peshawar- Pakistan
+Provider-Institution: RePEc:edi:imspepk
+Type: ReDIF-article
+Maintainer-Name: Dr. Attaullah Shah
+Maintainer-Email: ber@imsciences.edu.pk
+Handle: RePEc:bec:imsber

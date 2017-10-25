@@ -1,0 +1,38 @@
+Template-type: ReDIF-Series 1.0
+Name: Economics Series
+Description: The Economics Series presents research done at the Department of Economics and Finance and aims to share "work in progress" in a timely way before formal publication.
+Provider-Name: Institute for Advanced Studies
+Provider-Postal: Josefstädterstr. 39, A-1080 Vienna, Austria
+Provider-Institution: RePEc:edi:deihsat
+Provider-Homepage: http://www.ihs.ac.at
+Maintainer-Name: Doris Szoncsitz
+Maintainer-Email: library@ihs.ac.at
+Order-Postal: Institute for Advanced Studies - Library, Josefstädterstr. 39, A-1080 Vienna, Austria
+Type: ReDIF-Paper
+Handle: RePEc:ihs:ihsesp
+
+Template-type: ReDIF-Series 1.0
+Name: Transition Economics Series
+Description: The Transition Economics Series presents research done at the Department of Transition Economics and aims to share "work in progress" in a timely way before formal publication.
+Provider-Name: Institute for Advanced Studies
+Provider-Postal: Josefstädterstr. 39, A-1080 Vienna, Austria
+Provider-Institution: RePEc:edi:deihsat
+Provider-Homepage: http://www.ihs.ac.at
+Maintainer-Name: Doris Szoncsitz
+Maintainer-Email: library@ihs.ac.at
+Order-Postal: Institute for Advanced Studies - Library, Josefstädterstr. 39, A-1080 Vienna, Austria
+Type: ReDIF-Paper
+Handle: RePEc:ihs:ihstep
+
+Template-type: ReDIF-Series 1.0
+Name: East European Series
+Description: The East European Series presents research done at the Department of Economics and Finance and aims to share "work in progress" in a timely way before formal publication.
+Provider-Name: Institute for Advanced Studies
+Provider-Postal: Josefstädterstr. 39, A-1080 Vienna, Austria
+Provider-Institution: RePEc:edi:deihsat
+Provider-Homepage: http://www.ihs.ac.at
+Maintainer-Name: Doris Szoncsitz
+Maintainer-Email: library@ihs.ac.at
+Order-Postal: Institute for Advanced Studies - Library, Josefstädterstr. 39, A-1080 Vienna, Austria
+Type: ReDIF-Paper
+Handle: RePEc:ihs:ihsrop

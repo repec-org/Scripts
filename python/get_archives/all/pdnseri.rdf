@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers CIE
+Provider-Name: Paderborn University, CIE Center for International Economics 
+Provider-Homepage: http://wiwi.uni-paderborn.de/center/cie/
+Provider-Institution: RePEc:edi:cipadde
+Maintainer-Name: WP-WiWi-Info
+Maintainer-Email: sarahf@mail.upb.de
+Type: ReDIF-Paper
+Handle: RePEc:pdn:ciepap
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Dissertations
+Provider-Name: Paderborn University, Faculty of Business Administration and Economics 
+Provider-Homepage: http://wiwi.uni-paderborn.de/
+Provider-Institution: RePEc:edi:fwpadde
+Maintainer-Name: WP-WiWi-Info
+Maintainer-Email: Dirk.Van.Straaten@uni-paderborn.de
+Type: ReDIF-Paper
+Handle: RePEc:pdn:dispap

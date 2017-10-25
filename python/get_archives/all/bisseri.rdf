@@ -1,0 +1,75 @@
+Template-type: ReDIF-Series 1.0
+Name: BIS Working Papers
+Provider-Name: Bank for International Settlements
+Provider-Homepage: http://www.bis.org/
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Type: ReDIF-Paper
+Handle: RePEc:bis:biswps
+
+Template-type: ReDIF-Series 1.0
+Name: BIS Quarterly Review
+Description: International banking and financial market developments
+Provider-Name: Bank for International Settlements
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Editor-Name: Christian Upper
+Editor-Email: christian.upper@bis.org
+Type: ReDIF-Article
+Handle: RePEc:bis:bisqtr
+
+Template-type: ReDIF-Series 1.0
+Name: BIS Papers
+Provider-Name: Bank for International Settlements
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Type: ReDIF-Book
+Handle: RePEc:bis:bisbps
+
+Template-type: ReDIF-Series 1.0
+Name: BIS Papers chapters
+Provider-Name: Bank for International Settlements
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Type: ReDIF-Chapter
+Handle: RePEc:bis:bisbpc
+
+Template-type: ReDIF-Series 1.0
+Name: CGFS Papers
+Provider-Name: Bank for International Settlements
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Type: ReDIF-Book
+Handle: RePEc:bis:biscgf
+
+Template-type: ReDIF-Series 1.0
+Name: CGFS Papers chapters
+Provider-Name: Bank for International Settlements
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Type: ReDIF-Chapter
+Handle: RePEc:bis:biscgc
+
+Template-type: ReDIF-Series 1.0
+Name: IFC Bulletins
+Provider-Name: Bank for International Settlements
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Type: ReDIF-Book
+Handle: RePEc:bis:bisifb
+
+Template-type: ReDIF-Series 1.0
+Name: IFC Bulletins chapters
+Provider-Name: Bank for International Settlements
+Provider-Institution: RePEc:edi:bisssch
+Maintainer-Name: Christian Beslmeisl
+Maintainer-Email: webmaster@bis.org
+Type: ReDIF-Chapter
+Handle: RePEc:bis:bisifc

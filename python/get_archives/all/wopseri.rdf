@@ -1,0 +1,1171 @@
+#Template-Type: ReDIF-Series 1.0
+#Name:  Selected Papers
+#Provider-Name: American Agricultural Economics Association 
+#Provider-Postal:  American Agricultural Economics Association 
+# Annual Meeting, July 27-30, 1997, Toronto, Canada
+#Provider-Institution: RePEc:edi:aaeaaea
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:aaeasp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name:  Ankara University Faculty of Political Sciences
+Provider-Email:  ozugurlu@politics.ankara.edu.tr
+Provider-Postal:  AUSBF Tartisma Metinleri Sekretaryasi, TR-06590 
+	Ankara, Turkey
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:afpswp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Statistics Working Paper
+Provider-Name: Australian Graduate School of Management 
+Provider-Institution: RePEc:edi:gsnswau
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:agsmst
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Project Reports
+#Provider-Name: University of Alberta, Department of Rural Economics 
+#Provider-Institution: RePEc:edi:drualca
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:alrepr
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Staff Papers
+#Provider-Name: University of Alberta, Department of Rural Economics 
+#Provider-Institution: RePEc:edi:drualca
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:alresp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Trade and Development
+Provider-Name: Australian National University, Department of Economics 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:anuetd
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Arizona State University, Department of Economics 
+Provider-Homepage: http://www.cob.asu.edu/ecn/index.html
+Provider-Institution: RePEc:edi:deasuus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:astewp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Reports
+Provider-Name: University of Auckland, Department of Economics 
+Provider-Institution: RePEc:edi:deaucnz
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:auecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Reports
+Provider-Name: World Bank Latin America and the Caribean Region Department 
+Provider-Institution: RePEc:edi:wrldbus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:bawlad
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name: Universita degli Studi di Bologna, Economia 
+#Provider-Institution: RePEc:edi:febolit
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:bodewp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Brookings Institution Domestic Economics 
+Provider-Institution: RePEc:edi:brookus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:bredwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Discussion Papers
+Provider-Name: Brookings Institution International Economics 
+Provider-Institution: RePEc:edi:brookus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:briedp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of California at Berkeley, Demography of Aging 
+Provider-Institution: RePEc:edi:cebrkus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:calbda
+
+Template-Type: ReDIF-Series 1.0
+Name: J. Bradford De Long's Working Papers
+Provider-Name: University of California at Berkeley, Economics Department
+Provider-Phone: 510-643-4027, 925-283-2709
+Provider-Fax: 510-642-6615, 925-283-3897
+Provider-Homepage: http://econ161.berkeley.edu/Econ_Articles/Econ_Articles.html
+Provider-Institution: RePEc:edi:debrkus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:calbec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of California at Berkeley, Econometrics Laboratory Software Archive 
+Provider-Institution: RePEc:edi:elbrkus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:calbem
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of California at Berkeley, Haas School of Business 
+Provider-Institution: RePEc:edi:habrkus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:calbha
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of California at Los Angeles, Center for Computable Economics 
+Provider-Institution: RePEc:edi:ccuclus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:callce
+
+Template-Type: ReDIF-Series 1.0
+Name:  Finance
+Provider-Name: University of California at Los Angeles 
+Provider-Institution: RePEc:edi:fguclus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:callfi
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: California State University, Los Angeles, School of Business and Economics 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:calsec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers
+Provider-Name: Carnegie Mellon, Department of Decision Sciences 
+Provider-Institution: RePEc:edi:dsdcmus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:carnds
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Centre for Economic Research, University of Groningen and
+  	University of Twente
+Provider-Institution: RePEc:edi:sorugnl
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:ccsowp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University College Dublin, Economics Department 
+Provider-Institution: RePEc:edi:educdie
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:cdecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers
+Provider-Name: Centre for European Labour Market Studies 
+Provider-Institution: RePEc:edi:celguse
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:celmsp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name: Chinese Economies Research Centre 
+#Provider-Homepage: http://www.adelaide.edu.au/CERC
+#Provider-Institution: RePEc:edi:ceradau
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:cercwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of Chicago, Department of Economics 
+Provider-Institution: RePEc:edi:deuchus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:chicec
+
+Template-Type: ReDIF-Series 1.0
+Name: CID Working Papers
+Provider-Name: Center for International Development at Harvard University
+Provider-Postal: Center for International Development at Harvard University (CID). 79 John F. Kennedy Street, Cambridge, MA 02138. 
+Provider-Institution: RePEc:edi:ciharus
+Provider-Homepage: http://www.cid.harvard.edu/cidwp/
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+X-Basis-Code: 0153
+Handle: RePEc:wop:cidhav
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Universidad Complutense de Madrid, Instituto Complutense de Estudios Internacionales
+Provider-Email: incei01@emducms1.sis.ucm.es
+Provider-Postal: Universidad Complutense. Somosaguas. 28223 Madrid - Spain
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:coinwp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Discussion Papers
+#Provider-Name: Universitat des Saarlandes, Center for the Study of Law and Economics 
+#Provider-Institution: RePEc:edi:fosaade
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:csledp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name: Dalhousie University Department of Economics 
+#Provider-Institution: RePEc:edi:dedalca
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:daecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: East Carolina University, Department of Economics 
+Provider-Homepage: http://www.econ.ecu.edu/wp/
+Provider-Institution: RePEc:edi:deecuus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:eacaec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Financial Networks
+Provider-Name: Economics of Networks 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:ennefn
+
+Template-Type: ReDIF-Series 1.0
+Name:  Networks, Compatibility
+Provider-Name: Economics of Networks 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:ennenc
+
+Template-Type: ReDIF-Series 1.0
+Name:  Emerging Data Issues in Applied Food Demand Analysis; 
+Provider-Name:  S216, Food Demand and Consumption Behavior 
+ Regional Committee
+Description:  Proceedings of the S216, Food Demand and Consumption Behavior 
+ Regional Committee Workshop, October 1993, edited by David 
+ Eastwood and Benjamin Senauer.
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:fdcbrc
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Discussion Papers
+#Provider-Name: Free University of Berlin, Department of Economics 
+#Provider-Institution: RePEc:edi:fwfubde
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:fubeec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Faculty Series
+Provider-Name: University of Georgia, Department of Agricultural and Applied  Economics 
+Provider-Postal: University of Georgia, Department of Agricultural and
+  	Applied Economics, 301 Conner Hall, Athens, GA 30602
+Provider-Institution: RePEc:edi:daugaus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:geaafs
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Georgetown School of Business 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:gesbwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Statistic und Oekonometrie
+Provider-Name: Humboldt Universitaet Berlin 
+Provider-Homepage: http://sfb.wiwi.hu-berlin.de/
+Provider-Institution: RePEc:edi:ishubde
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:humbse
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Sonderforschungsbereich 373
+#Provider-Name: Humboldt Universitaet Berlin 
+#Provider-Homepage: http://sfb.wiwi.hu-berlin.de
+#Provider-Institution: RePEc:edi:sfhubde
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:humbsf
+#Covered by RePEc:zbw:sfb373
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: International Institute for Applied Systems Analysis 
+Provider-Homepage: http://www.iiasa.ac.at/Publications/Catalog/PUB_ONLINE.html
+Provider-Institution: RePEc:edi:iiasaat
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:iasawp
+
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  ACE OFOR
+#Provider-Name: University of Illinois at Urbana-Champaign
+#Provider-Postal:  University of Illinois at Urbana-Champaign, 
+# Department of Agricultural and Consumer Economics, 1301 West 
+# Gregory Drive, Urbana, Illinois 61801
+#Provider-Institution: RePEc:edi:dauiuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:ilucae
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  ACE
+#Provider-Name: University of Illinois at Urbana-Champaign
+#Provider-Postal:  University of Illinois at Urbana-Champaign, 
+# Department of Agricultural and Consumer Economics, 1301 West 
+# Gregory Drive, Urbana, Illinois 61801
+#Provider-Institution: RePEc:edi:dauiuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:ilucac
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of Illinois at Urbana-Champaign
+Provider-Institution: RePEc:edi:deuiuus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:ilucwp
+
+#Template-Type: ReDIF-Series 1.0
+#Name: Discussion Paper E-Series 
+#Provider-Name: Institute for Monetary and Economic Studies
+#Provider-Institution: RePEc:edi:imegvjp
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:imespe
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Instituto de Matematica Pura e Aplicada de Rio de Janeiro 
+Provider-Institution: RePEc:edi:eimpabr
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:impaec
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Staff Papers
+#Provider-Name: Iowa State University Department of Economics 
+#Provider-Postal: Iowa State University, Dept. of Economics, Ames, IA 
+#50011-
+#  	1070
+#Provider-Institution: RePEc:edi:deiasus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:isuesp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Economic Report 
+#Provider-Name: Iowa State University Department of Economics
+#Provider-Postal:  Iowa State University, Dept. of 
+# Economics, 265 Heady Hall, Ames, IA 50011-1070
+#Provider-Institution: RePEc:edi:deiasus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:iowaer
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Statistics and Econometrics
+#Provider-Name: Universitaet zu Koeln 
+#Provider-Institution: RePEc:edi:wskoede
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:koelse
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Information Series
+#Provider-Name: Louisiana State University, A.E.A. 
+#Provider-Postal: Louisiana State University, Dept. of Agricultural
+#  	Economics and Agribusiness, 101  Agricultural Administration
+#  	Building, Baton Rouge, LA 70803-5604
+#Provider-Institution: RePEc:edi:dalsuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:lsuaea
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Staff Papers
+#Provider-Name: Louisiana State University, Agricultural Economics and Agribussines 
+#Provider-Postal: Louisiana State University, Dept. of Agricultural
+#  	Economics and Agribusiness, 101  Agricultural Administration
+#  	Building, Baton Rouge, LA 70803-5604
+#Provider-Institution: RePEc:edi:dalsuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:lsuaep
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Agricultural Experiment Station Bulletin
+#Provider-Name: Louisiana State University 
+#Provider-Postal: Louisiana State University, Dept. of Agricultural
+#  	Economics and Agribusiness, 101 Agricultural Administration
+#  	Building, Baton Rouge, LA 70803-5604
+#Provider-Institution: RePEc:edi:dalsuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:lsuasb
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Research Reports
+#Provider-Name: Louisiana State University, D.A.E. 
+#Provider-Postal: Louisiana State University, Dept. of Agricultural
+#  	Economics and Agribusiness, 101 Agricultural Administration
+#  	Building, Baton Rouge, LA 70803-5604
+#Provider-Institution: RePEc:edi:dalsuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:lsudae
+
+Template-Type: ReDIF-Series 1.0
+Name:  Home Pages
+Provider-Name: Massachussets Institute of Technology, Economics 
+Provider-Institution: RePEc:edi:edmitus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:maitec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Department of Resource Economics Regional Research Project
+Provider-Name: University of Massachusetts 
+Provider-Postal: Regional Research Project NE-165: Private Strategies,
+  	Public Policies, and Food System Performance, University of
+  	Massachusetts, Dept. of Resource  Economics, Amherst, MA 01003
+Provider-Institution: RePEc:edi:rrumaus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:marerp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name: McGill University, Economics Department 
+#Provider-Institution: RePEc:edi:demcgca
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:mgecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers
+Provider-Name: University of Michigan, Department of Economics 
+Provider-Institution: RePEc:edi:edumius
+Provider-Postal: Ann Arbor Mi, 48109
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:michec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers
+Provider-Name: University of Michigan, School of Public Policy 
+Provider-Postal: 440 Lorch Hall, Ann Arbor,  MI 48109-1220
+Provider-Institution: RePEc:edi:gfumius
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:michpp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Tax Research Reports
+Provider-Name: Minnesota Department of Revenue 
+Provider-Institution: RePEc:edi:drmngus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:midrrr
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Staff Papers
+#Provider-Name: University of Minnesota, Department of Applied Economics 
+#Provider-Postal: University of Minnesota, Dept. of  Applied Economics, 1994
+#  	Buford Avenue, St. Paul, MN  55108
+#Provider-Institution: RePEc:edi:daumnus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:minnas
+
+Template-Type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: University of Minnesota, Department of Economics 
+Provider-Institution: RePEc:edi:deumnus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:minnec
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Papers
+#Provider-Name: University of Minnesota, Center for International Food and Agricultural Policy 
+#Provider-Postal: University of Minnesota, Center for International Food and
+#  	Agricultural Policy, Dept. of Applied Economics, 1994 Buford Avenue,
+#  	St. Paul, MN  55108
+#Provider-Institution: RePEc:edi:daumnus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:minnif
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name:  University of Minnesota, The Retail Food 
+# Industry Center, Dept. of Applied Economics
+#Provider-Postal:  University of Minnesota, The Retail Food 
+# Industry Center, Dept. of Applied Economics, 1994 Buford Avenue, 
+# St. Paul, MN  55108
+#Provider-Institution: RePEc:edi:rfumnus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:minnit
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Staff Papers
+#Provider-Name: Michigan State University, Agricultural Economics 
+#Provider-Postal: Michigan State University, Dept. of Agricultural
+#  	Economics, East Lansing, MI 48824
+#Provider-Institution: RePEc:edi:damsuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:misasp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Monash University, Department of Compter Studies 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:monaco
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Regional Research Project NE-165
+#Provider-Name: University of Massachusetts, Dept. of Resource  Economics 
+#Provider-Postal: Regional Research Project NE-165: Private Strategies,
+#  	Public Policies, and Food System Performance, University of
+#  	Massachusetts, Dept. of Resource  Economics, Amherst, MA 01003
+#Provider-Institution: RePEc:edi:rrumaus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:mrerrp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Home Pages
+Provider-Name: University of Mississippi Department of Economics and Finance 
+Provider-Institution: RePEc:edi:deumsus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:msefhp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  AE
+#Provider-Name: North Dakota State University Department of Agricultural Economics 
+#Provider-Postal: North Dakota State University, Dept. of Agricultural
+#  	Economics, PO Box 5636, Fargo, ND 58105-5636
+#Provider-Institution: RePEc:edi:dandsus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:ndsaae
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Miscellaneous Reports
+#Provider-Name: North Dakota State University Department of Agricultural Economics 
+#Provider-Postal: North Dakota State University, Dept. of Agricultural
+#  	Economics, PO Box 5636, Fargo, ND 58105-5636
+#Provider-Institution: RePEc:edi:dandsus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:ndsaem
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Reports
+#Provider-Name: North Dakota State University Department of Agricultural Economics 
+#Provider-Postal: North Dakota State University, Dept. of Agricultural
+#  	Economics, PO Box 5636, Fargo, ND 58105-5636
+#Provider-Institution: RePEc:edi:dandsus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:ndsaer
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Economics and Sociology Occasional Papers
+#Provider-Name:  The Ohio State University, Department of 
+# Agricultural Economics
+#Provider-Postal:  The Ohio State University, Department of 
+# Agricultural Economics, 2120 Fyffe Road, Columbus, The Ohio 
+# 43210-1099
+#Provider-Institution: RePEc:edi:daohsus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:ohsesp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Research in Financial Economics
+Provider-Name: Ohio State University 
+Provider-Institution: RePEc:edi:dfohsus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:ohsrfe
+
+Template-Type: ReDIF-Series 1.0
+Name:  Corporate Finance & Organizations
+Provider-Name: Ohio State University 
+Provider-Institution: RePEc:edi:dfohsus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:ohstfi
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Olsen and Associates 
+Provider-Institution: RePEc:edi:olsench
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:olaswp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Home Pages
+Provider-Name: University of Pennsylvania 
+Provider-Institution: RePEc:edi:deupaus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:pennhp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Pennsylvania State University, Economics and Management 
+Provider-Institution: RePEc:edi:lempsus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:pestem
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers deposited by Authors 
+Provider-Name: Post-Keynesian Archive 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:pokear
+
+Template-Type: ReDIF-Series 1.0
+Name:  Home Pages
+Provider-Name: Princeton University, Department of Economics 
+Provider-Institution: RePEc:edi:deprius
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:priech
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Price Waterhouse 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:prwawp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Agricultural Economics Staff Papers
+#Provider-Name: Purdue University 
+#Provider-Postal: Purdue University, Department of Agricultural Economics,
+#  	West Lafayette, Indiana 47907-1145
+#Provider-Institution: RePEc:edi:dapurus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:puaesp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name: Queen's University, Institute for Economic Research 
+#Provider-Institution: RePEc:edi:qedquca
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:qierwp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Discussion Papers
+#Provider-Name: Resources for the Future 
+#Provider-Institution: RePEc:edi:rffffus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:refudp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Risk and Insurance Archive 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:riskar
+
+Template-Type: ReDIF-Series 1.0
+Name:  Research in Economics
+Provider-Name: Santa Fe Institute 
+Provider-Homepage: http://www.santafe.edu/sfi/publications/working-papers.html
+Provider-Institution: RePEc:edi:epstfus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:safire
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Santa Fe Institute 
+Provider-Homepage: http://www.santafe.edu/sfi/publications/working-papers.html
+Provider-Institution: RePEc:edi:epstfus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:safiwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  News Group
+Provider-Name: Sci.Finance.Abstract 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:scfiab
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: SELAPO Center for Human Resources 
+Provider-Institution: RePEc:edi:selapde
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:selapo
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Discussion Papers
+#Provider-Name: Simon Fraser University, Department of Economics 
+#Provider-Postal: Burnaby, B.C., CANADA V5A 1S6
+#Provider-Institution: RePEc:edi:desfuca
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:sifedp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Discussion Papers
+#Provider-Name: State University of New York at Albany, Department of Economics 
+#Provider-Fax: (518) 442-4736
+#Provider-Phone: (518) 442-4735
+#Provider-Postal: Albany, NY 12222  U.S.A.
+#Provider-Homepage: http://www.albany.edu/econ/dp/
+#Provider-Institution: RePEc:edi:dealbus
+#Maintainer-Name: Stacey Chen
+#Maintainer-Email: schen@albany.edu
+#Handle: RePEc:wop:snyaec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Sonoma State University, Department of Economics 
+Provider-Institution: RePEc:edi:edsonus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:sonoma
+
+Template-Type: ReDIF-Series 1.0
+Name:  Discussion Papers
+Provider-Name: University of New South Wales, Social Policy Research Centre 
+Provider-Homepage: http://www.sprc.unsw.edu.au/dp/
+Provider-Institution: RePEc:edi:spnswau
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:sprcdp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Description: Archive of papers published in Electronic Journals on the
+	Internet
+Provider-Name: Stanford University, Department of Economics 
+Provider-Homepage: http://www-econ.stanford.edu/econ/workp/
+Provider-Institution: RePEc:edi:destaus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:stanec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Home Pages
+Provider-Name: Stanford University 
+Provider-Institution: RePEc:edi:destaus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:stanhp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Research Papers
+#Provider-Name: Statistics Canada, Analytical Studies Branch 
+#Provider-Institution: RePEc:edi:stagvca
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:statca
+
+Template-Type: ReDIF-Series 1.0
+Name:  Homapage Papers
+Provider-Name: Stockholm University, Institute for International Economic Studies 
+Provider-Institution: RePEc:edi:iiesuse
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:stocis
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of Sydney, Department of Accounting 
+Provider-Institution: RePEc:edi:sbsydau
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:syacwp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Working Papers
+#Provider-Name: University of Sydney, Department of Economics
+#Provider-Postal: Department of Economics
+#	The University of Sydney 
+#	N.S.W. 2006, Australia 
+#Provider-Institution: RePEc:edi:deusyau
+#Provider-Homepage: http://www.usyd.edu.au/su/econ/welcome.htm
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:syecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of Tasmania, Department of Economics 
+Provider-Institution: RePEc:edi:dutasau
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:taecwp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Faculty Paper
+#Provider-Name: Texas A&M University System, Texas  Agricultural Experiment Station, Department of Agricultural Economics 
+#Provider-Postal:  Texas A&M University System, Texas 
+# Agricultural Experiment Station, Department of Agricultural Economics, 
+# College Station, TX 77840-2124
+#Provider-Institution: RePEc:edi:datamus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:tamsfp
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Technical Reports
+#Provider-Name: Texas A&M University System, Texas  Agricultural Experiment Station, Department of Agricultural Economics 
+#Provider-Postal:  Texas A&M University System, Texas 
+# Agricultural Experiment Station, Department of Agricultural Economics, 
+# College Station, TX 77840-2124
+#Provider-Institution: RePEc:edi:datamus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:tamstr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Preprints
+Provider-Name: Theory and Mathematics of the Economy and the Society 
+Provider-Institution: RePEc:edi:tmegech
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:tmespr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Theory and Mathematics of the Economy and the Society 
+Provider-Institution: RePEc:edi:tmegech
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:tmeswp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Triangle Economic Research 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:trerwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers
+Provider-Name: Universitat Basel, Institut fur Statistik und  Okonometrie 
+Provider-Postal: Universität Basel Holbeinstrasse 12 4051 Basel
+Provider-Institution: RePEc:edi:isobsch
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:ubisop
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Papers
+#Provider-Name: University of Trento, Computable and Experimental Economics Laboratory 
+#Provider-Fax: +39-461-882312
+#Provider-Phone: +39-461-882246 / 882313
+#Provider-Postal: Via Iname, 1 38100 Trento, Italy
+#Provider-Email: www@black.gelso.unitn.it
+#Provider-Institution: RePEc:edi:cetreit
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:uteepu
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Study Papers
+#Provider-Name: Utah State University, Department of Economics 
+#Provider-Institution: RePEc:edi:edusuus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:utstec
+
+Template-Type: ReDIF-Series 1.0
+Name:  Papers
+Provider-Name: Department of Accounting and Finance, University of Vaasa, Finland
+Provider-Institution: RePEc:edi:dewasfi
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:vaabuf
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Annual Meeting Selected Papers
+#Provider-Name:  Western Agricultural Economics Association, 
+# Selected Papers of the 1997 Annual Meeting, July 13-16, 1997, 
+# Reno/Sparks, Nevada 
+#Provider-Institution: RePEc:edi:waeaaea
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:waeaam
+
+#Template-Type: ReDIF-Series 1.0
+#Name:  Economics Papers
+#Provider-Name: Wageningen Agricultural University, Faculty of Economics 
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:wafeep
+
+#Template-Type: ReDIF-Series 1.0
+#Name: Marketing & Policy Briefing Papers
+#Provider-Name: University of Wisconsin Maddison, AAE
+#Provider-Postal: University of Wisconsin, Dept. of Agricultural and Applied
+#  	Economics, 427 Lorch Street, Madison, WI 53706
+#Provider-Institution: RePEc:edi:dauwius
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:wiaema
+
+Template-Type: ReDIF-Series 1.0
+Name: Staff Papers
+Provider-Name: University of Wisconsin Madison, AAE 
+Provider-Postal: University of Wisconsin, Dept. of Agricultural and Applied
+  	Economics, 427 Lorch Street, Madison, WI 53706
+Provider-Institution: RePEc:edi:dauwius
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:wiaesp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: University of Wisconsin - Madison
+Provider-Institution: RePEc:edi:eduwius
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:wimahp
+
+Template-Type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: University of Wisconsin - Milwaukee 
+Provider-Institution: RePEc:edi:eduwmus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:wimihp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: University of Washington, Department of Economics 
+Provider-Institution: RePEc:edi:deuwaus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:wuecwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Xerox Research Park 
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:xeroxp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: Yale University 
+Provider-Institution: RePEc:edi:edyalus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:yaluwp
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers
+Provider-Name: George Mason University
+Provider-Postal:  MSN 3G4, Enterprise Hall, Fairfax, VA 22030-4444
+Provider-Institution: RePEc:edi:edgmuus
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:gemaec
+
+Template-Type: ReDIF-Series 1.0 
+Name: Working Paper Series
+Provider-Name:MIT Center for Coordination Science
+Provider-Homepage:http://ccs.mit.edu/wpmenu.html 
+Maintainer-Name: Thomas Krichel 
+Maintainer-Email: krichel@openlib.org 
+Handle: RePEc:wop:mitccs
+
+Template-Type: ReDIF-Series 1.0
+Name: New 21st Century Working Papers Series
+Provider-Name: MIT Center for Coordination Science
+Provider-Homepage: http://ccs.mit.edu/21c/21cwpmain.html
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:mit21c
+
+#Template-Type: ReDIF-Series 1.0
+#Name: Center Discussion Papers
+#Provider-Name: Yale University, Economic Growth Center
+#Provider-Homepage: http://www.library.yale.edu/socsci/egcdis2.html
+#Provider-Institution: RePEc:edi:egyalus
+#Maintainer-Name: Thomas Krichel
+#Maintainer-Email: krichel@openlib.org
+#Handle: RePEc:wop:yalegr
+
+Template-Type: ReDIF-Series 1.0
+Name: Center for Financial Institutions Working Papers
+Provider-Name:  Wharton School Center for Financial Institutions,
+  University of Pennsylvania
+Provider-Institution: RePEc:edi:fiupaus
+Provider-Email: petrakis@wharton.upenn.edu
+Provider-Homepage: http://fic.wharton.upenn.edu/fic/
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:pennin
+
+Template-Type: ReDIF-Series 1.0
+Name: JCPR Working Papers
+Provider-Name: Northwestern University/University of Chicago Joint Center for Poverty Research
+Provider-Institution: RePEc:edi:jcuchus
+Provider-Homepage: http://www.jcpr.org/wp/ByDate.html
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:jopovw
+
+Template-Type: ReDIF-Series 1.0
+Name: CRSP working papers
+Provider-Name: Center for Research in Security Prices,
+ Graduate School of Business, University of Chicago
+Provider-Institution: RePEc:edi:cruchus
+Provider-Email: valerie.ruff@gsb.uchicago.edu
+Provider-Homepage: http://gsbwww.uchicago.edu/fac/finance/papers/
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:chispw
+
+Template-Type: ReDIF-Series 1.0
+Name: CARESS Working Papres
+Provider-Name: University of Pennsylvania Center for Analytic Research and
+  Economics in the Social Sciences
+Provider-Institution: RePEc:edi:caupaus
+Provider-Email: smith@ssc.upenn.edu
+Provider-Homepage: http://www.ssc.upenn.edu/ier/paperier.html
+Provider-Homepage: http://www.ssc.upenn.edu/econ/CARESS/caress-wp.htm
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+X-Basis-Code: 0163
+Handle: RePEc:wop:pennca
+
+Template-Type: ReDIF-Series 1.0
+Name: Zell/Lurie Center Working Papers
+Provider-Name: Wharton School Samuel Zell and Robert Lurie Real Estate Center,
+ University of Pennsylvania
+Provider-Institution: RePEc:edi:szupaus
+Provider-Email: frostr@wharton.upenn.edu
+Provider-Homepage: http://zell-lurie-center.wharton.upenn.edu/working.html
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:pennzl
+
+Template-Type: ReDIF-Series 1.0
+Name: Pension Research Council Working Papers
+Provider-Name:  Wharton School Pension Research Council,
+ University of Pennsylvania
+Provider-Institution: RePEc:edi:prupaus
+Provider-Email: mmendis@wharton.upenn.edu
+Provider-Homepage:  http://www.pensionresearchcouncil.org/
+Maintainer-Name: Hilary Farrell
+Maintainer-Email: prc@wharton.upenn.edu
+Handle: RePEc:wop:pennpr
+
+Template-Type: ReDIF-Series 1.0
+Name: Princeton Economic Theory Papers
+Provider-Name: Economics Department, Princeton University
+Provider-Institution: RePEc:edi:deprius
+Provider-Email: kahurley@princeton.edu
+Provider-Homepage: http://www.princeton.edu/~ectheory/
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:prinet
+
+Template-Type: ReDIF-Series 1.0
+Name: CPE working papers
+Provider-Name: University of Chicago - Centre for Population Economics
+Provider-Institution: RePEc:edi:cpuchus
+Provider-Homepage: http://www.cpe.uchicago.edu/publication/publication.html
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:chicpw
+
+Template-Type: ReDIF-Series 1.0
+Name: IPR working papers
+Provider-Name: Institute for Policy Resarch at Northwestern University
+Provider-Email: p-reese@northwestern.edu
+Provider-Institution: RePEc:edi:ipnwuus
+Provider-Homepage: http://www.nwu.edu/IPR/publications/wpindex1.html
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:nwuipr
+
+Template-Type: ReDIF-Series 1.0
+Name: Institute for Research on Poverty Discussion Papers
+Provider-Name: University of Wisconsin Institute for Research on
+  Poverty
+Provider-Institution:  RePEc:edi:iruwius
+Provider-Email:  irppubs@ssc.wisc.edu
+Provider-Homepage: http://www.ssc.wisc.edu/irp/dp/dplist.htm
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:wispod
+
+Template-Type: ReDIF-Series 1.0
+Name: Wisconsin-Madison CULER working papers
+Provider-Name: University of Wisconsin Center for Urban
+  Land Economic Research
+Provider-Institution:  RePEc:edi:cuuwius
+Provider-Email:  pmiller@bus.wisc.edu
+Provider-Homepage: http://wiscinfo.doit.wisc.edu/realestate/paper.htm
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:wisule
+
+Template-Type: ReDIF-Series 1.0
+Name: Wisconsin-Madison Agricultural and Applied Economics Staff Papers
+Provider-Name: Wisconsin-Madison Agricultural and Applied Economics Department
+Provider-Institution:  RePEc:edi:dauwius
+Provider-Email:  info@aae.wisc.edu
+Provider-Homepage: http://www.aae.wisc.edu/www/pub/sps/body.html
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Handle: RePEc:wop:wisaes
+

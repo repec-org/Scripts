@@ -1,0 +1,12 @@
+Template-type: ReDIF-Series 1.0
+Name: Global Entrepreneurship Monitor Working Paper Series
+Description: Papers that use Global Entrepreneurship Monitor (GEM) data 
+Provider-Name: Global Entrepreneurship Research Association
+Provider-Homepage: http://www.gemconsortium.org
+Provider-Institution: RePEc:edi:geraaea
+Maintainer-Name: Chris Aylett
+Maintainer-Email: caylett@gemconsortium.org
+Editor-Name: Niels Bosma
+Editor-Email: nbosma@gemconsortium.org
+Type: ReDIF-Paper
+Handle: RePEc:gem:wpaper

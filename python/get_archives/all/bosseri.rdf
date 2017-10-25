@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Boston University - Department of Economics - Working Papers Series
+Provider-Name: Boston University - Department of Economics
+Provider-Homepage: http://www.bu.edu/econ/
+Provider-Institution: RePEc:edi:decbuus
+Maintainer-Name: Gillian Gurish
+Maintainer-Email: gjgurish@bu.edu
+Type: ReDIF-Paper
+Handle: RePEc:bos:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Boston University - Department of Economics - Macroeconomics Working Papers Series
+Provider-Name: Boston University - Department of Economics
+Provider-Homepage: http://www.bu.edu/econ/
+Provider-Institution: RePEc:edi:decbuus
+Maintainer-Name: Gillian Gurish
+Maintainer-Email: gjgurish@bu.edu
+Type: ReDIF-Paper
+Handle: RePEc:bos:macppr
+
+Template-type: ReDIF-Series 1.0
+Name: Boston University - Department of Economics - The Institute for Economic Development Working Papers Series
+Provider-Name: Boston University - Department of Economics
+Provider-Homepage: http://www.bu.edu/econ/
+Provider-Institution: RePEc:edi:decbuus
+Maintainer-Name: Gillian Gurish
+Maintainer-Email: gjgurish@bu.edu
+Type: ReDIF-Paper
+Handle: RePEc:bos:iedwpr

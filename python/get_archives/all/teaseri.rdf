@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Rural Economy and Development Programme,Teagasc
+Provider-Homepage: http://www.teagasc.ie/rural-economy/
+Provider-Institution: RePEc:edi:reteaie
+Maintainer-Name: John Lennon
+Maintainer-Email: john.lennon@teagasc.ie
+Type: ReDIF-Paper
+Handle: RePEc:tea:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters from Rural Economic Development in Ireland
+Provider-Name: Rural Economy and Development Programme,Teagasc
+Provider-Homepage: http://www.teagasc.ie/rural-economy/
+Provider-Institution: RePEc:edi:reteaie
+Maintainer-Name: John Lennon
+Maintainer-Email: john.lennon@teagasc.ie
+Type: ReDIF-Chapter
+Handle: RePEc:tea:chaptr

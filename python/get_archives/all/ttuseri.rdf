@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Tallinn School of Economics and Business Administration, Tallinn University of Technology
+Provider-Homepage: http://majandus.ttu.ee
+Provider-Institution: RePEc:edi:fettuee
+Maintainer-Name: Urve Venesaar
+Maintainer-Email: urve.venesaar@ttu.ee
+Type: ReDIF-Paper
+Handle: RePEc:ttu:wpaper
+Template-type: ReDIF-Series 1.0
+Name: TUT Economic Research Series
+Provider-Name: Department of Finance and Economics, Tallinn University of Technology
+Provider-Homepage: http://majandus.ttu.ee
+Provider-Institution: RePEc:edi:fettuee
+Maintainer-Name: Anneli Kalm
+Maintainer-Email: anneli.kalm@ttu.ee
+Type: ReDIF-Paper
+Handle: RePEc:ttu:tuteco
+Template-type: ReDIF-Series 1.0
+Name: Research in Economics and Business: Central and Eastern Europe
+Provider-Name: Tallinn School of Economics and Business Administration, Tallinn University of Technology
+Provider-Homepage: http://majandus.ttu.ee
+Provider-Institution: RePEc:edi:fettuee
+Maintainer-Name: Anneli Kalm
+Maintainer-Email: anneli.kalm@ttu.ee
+Type: ReDIF-Article
+Handle: RePEc:ttu:rebcee

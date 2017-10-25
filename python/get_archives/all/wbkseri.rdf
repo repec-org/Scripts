@@ -1,0 +1,126 @@
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Working Paper Series
+Description: The Policy Research Working Paper Series disseminates findings of
+    work in progress to encourage the exchange of ideas about development issues.
+    The series aims to share the findings out quickly, even if the presentations are
+    less than fully polished. The papers carry the name of authors and should be
+    used and cited accordingly. The findings, interpretations, and conclusions are
+    the authors' own and should not be attributed to the World Bank, its Executive
+    Board of Directors, or any of its member countries.
+Type: ReDIF-Paper
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org/
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:dvewbus
+Maintainer-Name: Roula I. Yazigi 
+Maintainer-Email: Ryazigi@worldbank.org
+Handle: RePEc:wbk:wbrwps
+
+Template-type: ReDIF-Series 1.0
+Name: Policy Research Notes (PRNs)
+Description: Policy Research Notes (PRNs) are prepared under the direction of the World Bank Chief Economist and Senior Vice President for Development Economics. PRNs combine and distill existing and new research to inform discussion on topical policy issues. They are aimed at a broad audience interested in economic policy.
+Type: ReDIF-Paper
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org/
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:dvewbus
+Maintainer-Name: Roula I. Yazigi 
+Maintainer-Email: Ryazigi@worldbank.org
+Handle: RePEc:wbk:wbkprn
+
+Template-type: ReDIF-Series 1.0
+Name: Research and Policy Briefs
+Description: The research policy briefs are designed to be a bridge between formal scholarship and development policy and practice. They seek to summarize the key findings of recent formal research on a relevant topic and, on this basis, explore the implications for policy and social debate. This may include a discussion on how policies could be more effectively implemented and assessed, taking into account a country’s particular context.
+Type: ReDIF-Paper
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org/
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:dvewbus
+Maintainer-Name: Roula I. Yazigi 
+Maintainer-Email: Ryazigi@worldbank.org
+Handle: RePEc:wbk:wbkrpb
+
+Template-type: ReDIF-Series 1.0
+Name: Social Protection and Labor Policy and Technical Notes
+Description: Social Protection and Labor Policy or Techical Notes communicate important findings and solutions in an easy-to-read manner. They are not formal publications of the World Bank. The findings, interpretations, and conclusions expressed in this paper are entirely those of the author(s) and should not be attributed in any manner to the World Bank, to its affiliated organizations or to members of its Board of Executive Directors or the countries they represent.
+Type: ReDIF-paper
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org/spl
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:wrldbus
+Maintainer-Name: Raiden C. Dillard
+Maintainer-Email: rdillard@worldbank.org
+Handle: RePEc:wbk:hdnspu
+
+Template-type: ReDIF-Series 1.0
+Name: World Bank - Economic Premise
+Description: The Economic Premise note series is intended to summarize good practices and key policy findings on topics related to economic policy. They are produced by the Poverty Reduction and Economic Management (PREM) Network of the World Bank.
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org/
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:prewbus
+Type: ReDIF-Article
+Maintainer-Name: Michael Jelenic
+Maintainer-Email: mjelenic@worldbank.org
+Handle: RePEc:wbk:prmecp
+
+Template-type: ReDIF-Series 1.0
+Name: World Bank - Inequality in Focus
+Description: The overall objective of the series is to inform the public policy debate on equality, inequality of opportunity and socioeconomic mobility.  It features articles written by World Bank Staff, as well as researchers and policy makers from the broad development community.  
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org/
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:prewbus
+Type: ReDIF-Article
+Maintainer-Name: Anna Reva
+Maintainer-Email: areva@worldbank.org
+Handle: RePEc:wbk:prminq
+
+Template-type: ReDIF-Series 1.0
+Name: World Bank Publications
+Description: The World Bank is the largest single source of development knowledge. The Open Knowledge Repository (OKR) is The World Bank’s official open access repository for its research outputs and knowledge products. This series includes books and formal publications that are published by the World Bank. 
+Type: ReDIF-Book
+Provider-Name: The World Bank
+Provider-Homepage: https://openknowledge.worldbank.org
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:dvewbus
+Maintainer-Name: Thomas Breineder
+Maintainer-Email: tbreineder@worldbank.org
+Handle: RePEc:wbk:wbpubs
+
+Template-type: ReDIF-Series 1.0
+Name: World Bank Other Operational Studies
+Description: World Bank Other Operational Studies include Economic and Sector Work, Knowledge Notes, and Serial Publications. The series comprises original analytic reports intended to influence programs and policy in client countries, short briefs that capture lessons of experience from World Bank operations and research, and reports that are produced on a periodic basis. 
+Type: ReDIF-Paper
+Provider-Name: The World Bank
+Provider-Homepage: https://openknowledge.worldbank.org
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:dvewbus
+Maintainer-Name: Thomas Breineder
+Maintainer-Email: tbreineder@worldbank.org
+Handle: RePEc:wbk:wboper
+
+Template-type: ReDIF-Series 1.0
+Name: Health, Nutrition and Population (HNP) Discussion Paper Series
+Description: Preliminary think pieces of varying length to encourage discussion and debate and to rapidly share new knowledge with staff and Bank clients with minimal wait time. Light peer review is required.
+Type: ReDIF-Paper
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:dvewbus
+Maintainer-Name: Erika L. Yanick
+Maintainer-Email: Eyanick@worldbank.org 
+Handle: RePEc:wbk:hnpdps
+
+
+Template-type: ReDIF-Series 1.0
+Name: Health, Nutrition and Population (HNP) Knowledge Briefs
+Description: The Health, Nutrition and Population Knowledge Briefs of the World Bank are a quick reference on the essentials of specific HNP-related topics summarizing new findings and information.  These may highlight an issue and key interventions proven to be effective in improving health, or disseminate new findings and lessons learned from the regions.
+Type: ReDIF-Paper
+Provider-Name: The World Bank
+Provider-Homepage: http://www.worldbank.org
+Provider-Postal: 1818 H Street, N.W., Washington, DC 20433
+Provider-Institution: RePEc:edi:dvewbus
+Maintainer-Name: Erika L. Yanick
+Maintainer-Email: Eyanick@worldbank.org 
+Handle: RePEc:wbk:hnpkbs

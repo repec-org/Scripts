@@ -1,0 +1,223 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers of DIW Berlin
+Description: Discussion Papers of DIW Berlin
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwwpp
+Notification: Newsletter can be ordered at: http://www.diw.de/de/diw_02.c.289103.de/newsletter/themen_newsletter/themen_newsletter.html
+ISSN: 1619-4535
+ISSN: 1433-0210
+
+Template-type: ReDIF-Series 1.0
+Name: SOEPpapers on Multidisciplinary Panel Data Research
+Description: Working Papers based an the German Socio-Economic Panel Study (SOEP)
+Provider-Name: DIW Berlin, The German Socio-Economic Panel (SOEP)
+Provider-Homepage: http://www.diw.de/en/soep
+Provider-Institution: RePEc:edi:sodiwde
+Editor-Name: Jan Goebel
+Editor-Name: Martin Kroh
+Editor-Name: Carsten Schröder
+Editor-Name: Jürgen Schupp
+Editor-Email: soeppapers@diw.de
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwsop
+Notification: Newsletter can be ordered at: http://www.diw.de/de/diw_02.c.289103.de/newsletter/themen_newsletter/themen_newsletter.html
+ISSN: 1864-6689
+
+Template-type: ReDIF-Series 1.0
+Name: DIW aktuell
+Description: Papers of DIW Berlin
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwakt
+
+Template-type: ReDIF-Series 1.0
+Name: DIW Roundup: Politik im Fokus
+Description: Papers of DIW Berlin
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwrup
+Notification: Newsletter can be ordered at: http://diw.de/en/diw_01.c.437906.en/newsletter/diw_roundup_alert/diw_roundup_alert.html
+ISSN: 2198-3925
+
+Template-type: ReDIF-Series 1.0
+Name: Data Documentation
+Description: The series Data Documentation presents data, metadata and databases which are compiled by DIW Berlin researchers in all areas of social and economic sciences.
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwddc
+Notification: Newsletter can be ordered at: http://www.diw.de/de/diw_02.c.289103.de/newsletter/themen_newsletter/themen_newsletter.html
+ISSN: 1861-1532
+
+Template-type: ReDIF-Series 1.0
+Name: DIW Berlin: Politikberatung kompakt
+Description: The series DIW Berlin: Politikberatung kompakt presents policy advice, descriptive empirical reports like market analyses or reports on the economical structure.
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Book
+Handle: RePEc:diw:diwpok
+Notification: Newsletter can be ordered at: http://www.diw.de/de/diw_02.c.289103.de/newsletter/themen_newsletter/themen_newsletter.html
+ISSN: 1614-6921
+
+Template-type: ReDIF-Series 1.0
+Name: Vierteljahrshefte zur Wirtschaftsforschung / Quarterly Journal of Economic Research
+Description: The Quarterly Journal of Economic Research publishes contributions dealing with current economic policy issues and empirical work of a fundamental nature on a high level. The journal is oriented towards the scientific community as well as policy-makers in politics and the economy. Articles are published in German or English language.
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Editor-Name: Marcel Fratzscher 
+Editor-Name: Dorothea Schäfer
+Editor-Email: dschaefer@diw.de
+Editor-Name: Gert G. Wagner
+Editor-Name: Tomaso Duso
+Editor-Name: Ferdinand Fichtner
+Editor-Name: Peter Haan
+Editor-Name: Claudia Kemfert
+Editor-Name: Lukas Menkhoff
+Editor-Name: Johanna Möllerström
+Editor-Name: Karsten Neuhoff
+Editor-Name: Jürgen Schupp
+Editor-Name: C. Katharina Spieß
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Article
+Handle: RePEc:diw:diwvjh
+Price: Fulltext of the latest 4 issues for subscribers or as pay-per-view articles from Atypon; older issues: free of charge. Print (incl. online): from the publishing house Duncker & Humblot; institutional subscribers: 388 EUR/year; individual subscribers: 299,90 EUR/year.
+Notification: RSS feed and e-alert at: http://ejournals.duncker-humblot.de/loi/vjh
+ISSN: 0340-1707
+ISSN: 1861-1559
+
+Template-type: ReDIF-Series 1.0
+Name: DIW Wochenbericht
+Description: The Wochenbericht of DIW Berlin is published every week in German. Condensed information on current economic policy issues is made readily available to policy-makers, scientists, academics, the business community and public administrators but also to the public at large. It presents compact information on current results of economic research. The spectrum of themes reflects the work of all departments of the institute. 
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Editor-Name: Tomaso Duso
+Editor-Name: Ferdinand Fichtner
+Editor-Name: Marcel Fratzscher
+Editor-Name: Peter Haan
+Editor-Name: Claudia Kemfert
+Editor-Name: Lukas Menkhoff
+Editor-Name: Johanna Möllerström
+Editor-Name: Karsten Neuhoff
+Editor-Name: Jürgen Schupp
+Editor-Name: C. Katharina Spieß
+Editor-Name: Gert G. Wagner
+Editor-Name: Gritje Hartmann
+Editor-Name: Wolf-Peter Schill
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Article
+Handle: RePEc:diw:diwwob
+Notification: Newsletter can be ordered at: http://www.diw.de/sixcms/detail.php?id=diw_01.c.357554.en
+ISSN: 0012-1304
+ISSN: 1860-8787
+
+Template-type: ReDIF-Series 1.0
+Name: DIW Economic Bulletin
+Description: The DIW Economic Bulletin presents selected articles of the Wochenbericht published in English. The DIW Economic Bulletin covers compact information on current results of economic research on highest level. The DIW Economic Bulletin continues the Weekly Report and is published monthly.
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Editor-Name: Tomaso Duso
+Editor-Name: Ferdinand Fichtner
+Editor-Name: Marcel Fratzscher
+Editor-Name: Peter Haan
+Editor-Name: Claudia Kemfert
+Editor-Name: Lukas Menkhoff
+Editor-Name: Johanna Möllerström
+Editor-Name: Karsten Neuhoff
+Editor-Name: Jürgen Schupp
+Editor-Name: C. Katharina Spieß
+Editor-Name: Gert G. Wagner
+Editor-Name: Gritje Hartmann
+Editor-Name: Wolf-Peter Schill
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Article
+Handle: RePEc:diw:diwdeb
+Predecessor: RePEc:diw:diwwrp
+Notification: Newsletter can be ordered at: http://diw.de/en/diw_01.c.361431.en/newsletter/diw_economic_bulletin_alert/diw_economic_bulletin_alert.html
+ISSN: 2192-7200
+ISSN: 2192-7219
+
+Template-type: ReDIF-Series 1.0
+Name: Weekly Report
+Description: The Weekly Report presented selected articles of the Wochenbericht published in English. It is continued by the DIW Economic Bulletin.
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Article
+Handle: RePEc:diw:diwwrp
+Followup: RePEc:diw:diwdeb
+ISSN: 1860-3343
+
+Template-type: ReDIF-Series 1.0
+Name: ESCIRRU Working Papers
+Description: Working Papers of the Project Economic and Social Consequences of Industrial Restructuring in Russia and Ukraine (discontinued)
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwesc
+
+Template-type: ReDIF-Series 1.0
+Name: Economics of Security Working Paper Series
+Description: Working Papers of the Project Economics of Security (discontinued)
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diweos
+ISSN: 1868-0488
+
+Template-type: ReDIF-Series 1.0
+Name: EUSECON Policy Briefing
+Description: Short information on the Project Economics of Security (discontinued)
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwepb
+
+Template-type: ReDIF-Series 1.0
+Name: Working Paper / FINESS
+Description: Working Papers of the EU Project "Financial Systems, Efficiency and Stimulation of Sustainable Growth (FINESS)" (discontinued)
+Provider-Name: DIW Berlin, German Institute for Economic Research
+Provider-Homepage: http://www.diw.de/en
+Provider-Institution: RePEc:edi:diwbede
+Maintainer-Name: Bibliothek
+Maintainer-Email: bibliothek@diw.de
+Type: ReDIF-Paper
+Handle: RePEc:diw:diwfin
+

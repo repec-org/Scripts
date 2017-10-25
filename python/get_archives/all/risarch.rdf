@@ -1,0 +1,6 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:ris
+Name: RePEc Input Service
+Maintainer-Email: zimmermann@stlouisfed.org
+Description: This archive collects bibliographic data from journals and series that cannot set up their server to satisfy mirroring criteria for RePEc
+URL: ftp://input.repec.org/pub/RePEc/ris/ris/

@@ -1,0 +1,28 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: College of the Holy Cross, Department of Economics
+Provider-Homepage: http://www.holycross.edu/departments/economics/website/
+Provider-Institution: RePEc:edi:deholus
+Maintainer-Name: Victor Matheson
+Maintainer-Email: vmatheso@holycross.edu
+Type: ReDIF-Paper
+Handle: RePEc:hcx:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Sports Economics
+Description: 
+Provider-Name: SAGE Publications
+Provider-Homepage: http://jse.sagepub.com/
+Provider-Institution:
+Editor-Name: Leo Kahane
+Editor-Email: leo.kahane@csueastbay.edu
+Order-Email:
+Order-Homepage: http://www.sagepub.com/journalsSubscribe.nav?prodId=Journal200938
+Order-Postal:
+Restriction: Full-text download requires subscription from SAGE.
+Maintainer-Name: Victor Matheson	
+Maintainer-Email: vmatheso@holycross.edu
+ISSN: 1527-0025
+Type: ReDIF-Article
+Handle: RePEc:hcx:jsport
+

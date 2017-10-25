@@ -1,0 +1,54 @@
+Template-type: ReDIF-Series 1.0
+Name:Revue Finance Contrôle Stratégie
+Description:This is a series presenting the abstracts
+	of the articles published in revue Finance Contrôle
+	Stratégie
+Classification-JEL:G300;L200;M100;M400
+Restriction:
+Notification:
+Type: ReDIF-Article
+Provider-Name:revues.org
+Provider-Homepage:http://www.revues.org/
+Provider-Phone:
+Provider-Postal:
+Provider-Fax:
+Provider-Institution:Centre pour l'édition électronique ouverte - Centre for open electronic publishing
+Maintainer-Name:Gérard Charreaux
+Maintainer-Email:gerard.charreaux@wanadoo.fr
+Editor-Name:Albert David
+Editor-Email:albert.david@dauphine.fr
+Editor-Workplace-Name:Paris IX Dauphine
+Editor-Workplace-Homepage:http://mlab-innovation.net
+Order-Email:albert.david@dauphine.fr
+Order-Homepage:
+Order-Postal:
+Price:
+Handle:RePEc:dij:revfcs
+
+Template-type: ReDIF-Series 1.0
+Name:Working Papers CREGO 
+Description:This is a serie presenting the abstracts
+	of the working papers edited by CREGO (Research
+	center in management sciences)
+Classification-JEL:G30;J30;J50;J60;L10;L20;L30;M10;M40
+Restriction:
+Notification:
+Type: ReDIF-Paper
+Provider-Name:Université de Bourgogne - CREGO EA7317 Centre de recherches en gestion des organisations
+Provider-Homepage:
+Provider-Phone:
+Provider-Postal:2 Bd Gabriel, BP 26611, 21066 Dijon Cedex, France
+Provider-Fax:
+Provider-Institution:
+Maintainer-Name:Angèle RENAUD
+Maintainer-Email:Angele.Renaud@u-bourgogne.fr
+Editor-Name:Marc Filser
+Editor-Email:marc.filser@u-bourgogne.fr
+Editor-Workplace-Name:Université de Bourgogne
+Editor-Workplace-Homepage:
+Order-Email:Angele.Renaud@u-bourgogne.fr
+Order-Homepage:
+Order-Postal:Angèle Renaud, CREGO,
+2 Bd Gabriel, BP 26611, 21066 Dijon Cedex, France
+Price:
+Handle:RePEc:dij:wpfarg

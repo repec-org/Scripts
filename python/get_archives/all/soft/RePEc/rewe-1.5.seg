@@ -1,0 +1,2265 @@
+#!/usr/bin/perl 
+#
+# script: rewe
+# make a html presentation from *.rdf data
+#
+
+use Cwd;         # Standard Perl 5 library module for
+use ReDIF::init;
+
+$thisprog='rewe';
+$version='1.5';
+
+$usage = <<EOT;
+This is $thisprog, version $version.
+Use: $thisprog -conf CONFFILE
+
+EOT
+
+# read command line arguments
+use Getopt::Long;
+GetOptions("conf|c=s" => \$sConfFile) or
+    die "$usage\n";
+
+if ($ENV{'AUTHORITY'}) {
+    $AUTHORITY = $ENV{'AUTHORITY'};
+} else {
+    $AUTHORITY = 'RePEc' unless $AUTHORITY;
+}
+
+ReDIF::initialize( { conf_file_name => $sConfFile,
+		      conf_required  => 1 ,	
+		      silent_init    => 0  } );
+
+require $ReDIF::CONFIG{conf_full_name};
+
+$RedifRemo = $ReDIF::CONFIG{redif_home}.'/../remo';
+$RedifDir = $ReDIF::CONFIG{redif_home};
+
+unshift @INC, "$RedifRemo/all/soft/$AUTHORITY" unless $RemoNotFound;
+unshift @INC, "$RedifRemo/all/soft/$AUTHORITY/all";
+unshift @INC, "$RedifDir/conf";
+
+unshift @INC, $my_redif_perl if $my_redif_perl;
+
+
+#############################################################################
+#
+# MAIN 
+#
+############################################################################
+require ("all.sub");
+use File::Path;
+use File::Find;
+use rr BUG_FIX;
+use ReDIF::JELcodes;
+
+%series_mes = (
+'Paper','Working Papers Series',
+'Article','Journals List'
+	       );
+
+$log_file=$log.'/rewe.log';
+
+if ($index_s == 1) { use DB_File; }
+
+######################################
+#
+# Some preliminary testing
+#
+######################################
+if ($metadata == 1) {$metadata="DC."; } else { undef $metadata; }
+
+#
+# case to be used as cgi-bin
+if ($ENV{'CONTENT_LENGTH'}) {
+    read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
+
+# Split the name-value pairs
+    @pairs = split(/&/, $buffer);
+ 
+    foreach $pair (@pairs)
+    {
+	($name, $value) = split(/=/, $pair);
+ 
+	# Un-Webify plus signs and %-encoding
+	$value =~ tr/+/ /;
+	$value =~ s/%([a-fA-F0-9][a-fA-F0-9])/pack("C", hex($1))/eg;
+	$name =~ s/%([a-fA-F0-9][a-fA-F0-9])/pack("C", hex($1))/eg;
+ 
+	# Stop people from using subshells to execute commands
+	# Not a big deal when using sendmail, but very important
+	# when using UCB mail (aka mailx).
+	# $value =~ s/~!/ ~!/g;
+ 
+	$FORM{$name} .= $value;
+    }
+    $RedifDir = $FORM{'RePEc_Dir'};
+    $ConfFile = $FORM{'RePEc_Conf'};
+    $FORM{'Handle'} =~ s/RePEc/ RePEc/g;
+    @handle_in = split / /,$FORM{'Handle'};
+    $file = $FORM{'File'};
+    $cgi = 'Y';
+
+#
+# writes HTML header
+    print "Content-type: text/html\n\n\n";
+}
+
+unless ($cgi) {
+    &logger('1',"New rewe version $version starts now",$log_file);
+
+#
+# Looks for PID file
+    $rewe_pid = $tmp.'/rewe.pid.'.$structure;
+    if (-e $rewe_pid) {
+	open(RPID,"<$rewe_pid");
+	@rpid = <RPID>;
+	($str,$p_num) = split(/:/,$rpid[0]);
+	if ($str eq $structure) {
+	    print STDERR "
+ !!! Exiting ...
+ It looks that other rewe procces with the same presentation is running.
+ That can produce serious problems, so it would be inteligent to wait until
+ the previous proces finish. Otherwise still you can force the execution of
+ a second rewe by runing again rewe \n";
+	    &logger('0',"Rewe PID detected. Exiting ...",$log_file);
+	}
+    } else {
+	open(RPID,">$rewe_pid"); print RPID "$structure\:$$"; close(RPID);
+    }
+}
+
+#
+# checking version ...
+if ($version ne $REWEVERSION) {
+    print STDERR '
+ !!! Exiting ...
+
+ Incorrect version of configuration file found. Please make sure you are
+ using the correct config file for rewe version '.$version.'. This 
+ file can be found at:
+
+ ftp://netec.mcc.ac.uk/pub/NetEc/RePEc/all/soft/RePEc/rewe.conf.eg
+
+  ';
+    &logger('0',"Incorrect config file. Exiting ...",$log_file);
+}
+
+#
+# checking papers to include ...
+if ($p_to_i <= 0 and $p_to_i >= 4) {
+    $p_to_i = 3;
+    &logger('1',"Incorrect p_to_i value, using default $p_to_i",$log_file);
+}
+
+$all=$RedifRemo.'/all' if (-e $RedifRemo.'/all') || 
+    &logger('0',"I can not find your all directory",$log_file);
+
+######################################
+#
+# Setting up some variables...
+#
+######################################
+
+$downloadnumber = 0;
+
+@person = qw(name-full name-first name-last email fax postal phone homepage);
+
+## removed person because it's a link to /Persons/
+@author_data = qw(name email fax postal phone homepage workplace);
+
+@person_links = qw(Author-Paper Author-Article Author-Software Editor-Series 
+		   Editor-Paper);
+
+@workplace = qw(name email postal phone fax homepage institution);
+
+@i_fields = qw(location postal phone fax email homepage);
+@rest = qw(creation revision abstract keywords note
+	   availability publication price notification
+	   restriction length pages volume month year issue 
+	   requires size publication-status paper-handle
+	   article-handle order-url);
+
+@file_down = qw(url format function size restriction);
+
+@counters = qw(seriesnumber Articlenumber Papernumber Booknumber 
+ Softwarenumber Institutionnumber Personnumber jelnumber downloadnumber date);
+
+$date = &parse_date;
+
+$titleindexdb = $tmp.'/titleindex.db';
+
+###################################### 
+#
+# If rewe is executed as cgi, don't do nothing more...
+#
+######################################
+$cgi eq 'Y' && 
+    do { 
+	local($handle);
+	$RedifDir = $FORM{'RePEc_Dir'};
+	$ConfFile = $FORM{'RePEc_Conf'};
+
+	$cgi = 'Y';
+#
+# Writes the header
+	print join '',$headstart,'<title> Full Records </title>',$headend
+	    ,$title_header;
+
+#
+# Main process
+	foreach $handle_in (@handle_in) {
+	    next if ! $handle_in;
+
+	    my $Cgifile = $FORM{$handle_in};
+
+	    $handle_in=~/$AUTHORITY:(\w{3}):(\w{6}):(.*)/;
+	    local $archivo=$1;
+	    local $series=$2;
+	    local $number=$3;
+
+	    local $indexdb = join '',$wwwdatadir,'/',$archivo,'index.db';
+
+	    if ($Cgifile) {
+		$cgi_papers_directory = join '',
+		$RedifRemo,'/',$archivo,'/',$series,'/',$Cgifile;
+	    } elsif (-e $indexdb) {
+## if file name is not provided we look for index files...
+		tie %SERIESINDEX,"DB_File",$indexdb;
+		if (-e $SERIESINDEX{$handle_in}) {
+		    $cgi_papers_directory = $SERIESINDEX{$handle_in};
+		} else {
+		    $cgi_papers_directory = join '',
+		    $RedifRemo,'/',$archivo,'/',$series ;
+		}
+	    }
+
+	    $s_to_search = join '',$all,'/../',$archivo,'/',$archivo,'seri.rdf';
+
+# second position, 0 for files, 1 for directories
+	    read_series_files($s_to_search,0);
+
+	    undef $/;
+	    chdir $RedifDir or w_error("$! $RedifDir");
+
+#########	    print "$cgi_papers_directory<P>DIR $dir<P>";
+
+	    $/ = "\n";
+
+	    $n_redifs = &rr::OpenDirTree ( "$cgi_papers_directory", undef, undef, 1 )  or
+		w_error(join '',$headstart
+			,'<TITLE>Error</TITLE>',$headend,$title_header
+			,'<H1><FONT COLOR=RED><CENTER>Error opening redif files'
+			,'</CENTER></FONT></H1><P>'
+			,$endhtml);
+
+	    while ($t = &rr::NextTemplate) {
+
+		undef $T; $T=\%::HashT;
+
+#
+# Squiping files without data about papers
+		next if $T->{'template-type'}[0] =~ /Series/i ||
+		    $T->{'template-type'}[0] =~ /Archive/i ||
+			$T->{'template-type'}[0] =~ /Mirror/i;
+
+		undef $papercode;
+		undef %Paper;
+
+	    if ( ($T->{file}[0]{restriction} or 
+		  $Series{$archivo.$series}{restriction}[0] ) and 
+		 $restriction=~/Y/i) {
+		undef @excluded;
+		@excluded = grep /$series/,@series_not_restricted;
+		next unless $#excluded == 0;
+	    }
+
+		next if $T->{handle}[0] ne $handle_in;
+		next if ! $T->{handle}[0];
+#########		    next if ! $redif_template;
+
+		$T->{'template-type'}[0]=~/ReDIF-([^ ]+)/i;
+		$templatetype = $1;	
+
+#
+# Creates the main info for each paper
+		print $cgi_record_sep.'<P>';
+		my $cgi_redifht = &make_paper_description($handle_in);
+		print $cgi_redifht ; 
+	    }
+	}
+	print $endhtml;
+	exit;
+    };
+######################################
+# End of cgi stuff
+######################################
+######################################
+#
+# Otherwise, go ahead with the directory structure...
+#
+######################################
+
+#
+# well, now we take the information about series
+# second position: 0 for files, 1 for directories
+read_series_files($all,1);
+#
+# make a temporary directory 
+#
+&logger('1',"Making tmp directory ... ",$log_file);
+to_system($data_tmp,'','rm -r') if -e $data_tmp;
+mkpath($data_tmp,$verbose,0755) || 
+    &logger('0',"Can not create tmp directory $data_tmp",$log_file);
+
+#
+# make the directory for JEL classification
+if ($jel_dir) {
+    &logger('1',"Creating JEL classification...",$log_file);
+    mkpath($jel_dir,$verbose,0755) ||
+	&logger('0',"Can not create JEL directory $jel_dir",$log_file);
+}
+
+#
+# tie title index 
+tie %TITLEINDEX,"DB_File",$titleindexdb;
+
+&do_presentation;
+&logger('0',"End of rewe process. Installation ended.",$log_file);
+
+###########################################################################
+#
+# PRESENTATION
+#
+###########################################################################
+
+sub do_presentation {
+
+    &logger('1',"Making html presentation that looks like WoPEc",$log_file);
+
+    $\="\n";			# add newline after each print
+    $jelnumber=1;
+
+#
+# make directories for full descriptions
+#
+    foreach $te (@templates) {
+# What templates we want?
+	$allow = join '','C_',uc($te);
+	$$allow = 1;
+	mkpath($data_tmp.'/'.$te.'s',$verbose,0755) || 
+	    &logger('0',"Can not create $te directory",$log_file);
+	if ($te =~ /Institution/i ) {
+	    require "$RedifRemo/all/conf/country_codes.pl";
+	    mkpath($data_tmp.'/'.$te.'s/data',$verbose,0755) || 
+		&logger('0',"Can not create $te directory",$log_file);
+	}
+    }
+
+#
+# reads templates
+#
+foreach $sTemplate ( qw(sMainSeriesPageTemplate
+	sSeriesPageTemplate sDocumentsPageTemplate sJELPageTemplate
+	sPersonsTemplate) ) {
+
+    if (open (TEMPLATE,"< $$sTemplate")) {
+	$sVTemplate = '';
+	print "->$sVTemplate<-\n";
+
+	while (<TEMPLATE>) {$sVTemplate .= $_ ; }
+	close(TEMPLATE);
+    } else {
+	&logger('0',"Can not read * $sTemplate * $$sTemplate",$log_file);
+    }
+    $$sTemplate = $sVTemplate;
+
+##    print " ---> $$sTemplate <--- \n";
+##    exit(0);
+}
+##    exit(0);
+##    print "---------------------> $sSeriesPageTemplate \n";
+##    exit(0);
+
+
+#
+# read hopec2rech.txt file
+#
+if ($HoPEc_links == 1) {
+###    $hopec2rech = join '',$RedifRemo,'/per/pers/hopec2rech.txt';
+    &logger('1',"Reading $hopec2rech file...",$log_file);
+    open(HOPEC2RECH,"<$hopec2rech") or &logger('1',"Not fount $hopec2rech file...",$log_file);
+    @hopec2rech = <HOPEC2RECH>;
+}
+
+    &logger('1',"Starting main process ...",$log_file);
+
+#
+# Creates temp file for institutions data
+$inst_temp = $tmp.'/'.'reweinst'.$$;
+open(INSTTEMP,">$inst_temp") or &logger
+    ('1',"Can not open inst_tmp $inst_tmp file $!",$log_file);
+
+    foreach $dir (@directories) {
+#
+# Find ReDIFs files
+#
+    &logger('1',"Searching rdf files in $dir ...",$log_file);
+
+    $n_redifs = &rr::OpenDirTree ( "$dir", undef, undef, 1 ) ;
+    &logger('1',"ReDIF files: $n_redifs",$log_file);
+
+    while ($t = &rr::NextTemplate) {
+
+	undef $T; $T=\%::HashT;
+
+####	print "Working with: $T->{handle}[0]\n";
+
+#
+# Squiping files without data about papers
+	next if $T->{'template-type'}[0] =~ /Archive|Series|Mirror/i;
+
+#
+# Squiping person templates. Since Persons are provided by a centraliced
+# archive and we must have all html pages for documents done before create
+# person pages. We will read such file later...
+
+
+	    next if $T->{'template-type'}[0] =~ /Person/i;
+
+#
+# We take only selected templates
+	    $T->{'template-type'}[0] =~ /ReDIF\-([^ ]+)/i;
+	    $Ttype = join '','C_',uc($1);
+	    next if $$Ttype ne 1;
+
+	    undef $papercode;
+	    undef %Paper;
+
+	    if ($T->{'template-type'}[0] =~ /Institution/i) {
+		$$counter++; 
+		&make_full_inst($T->{'handle'}[0]);
+		next;
+	    }
+
+ 	    next if (! $T->{file}[0]{url} and $p_to_i == 1);
+	    next if ($T->{file}[0]{url} and $p_to_i == 2);
+
+	    $T->{creation}[0] = convert_date($T->{'creation-date'}[0]) 
+		if $T->{'creation-date'}[0] ;
+	    $T->{revision}[0] = convert_date($T->{'revision-date'}[0])
+		if $T->{'revision-date'}[0] ;
+
+## If we find a restriction in the series or document template we exclude the
+## template unless it is in the list of series not restricted:
+
+	    if ( ($T->{file}[0]{restriction} or 
+		  $Series{$archivo.$series}{restriction}[0] ) and 
+		 $restriction=~/Y/i) {
+		undef @excluded;
+		@excluded = grep /$series/,@series_not_restricted;
+		next unless $#excluded == 0;
+	    }
+
+	if (@excluded_series) {
+		undef @excluded;
+		@excluded = grep /$series/,@excluded_series ;
+		next if $#excluded == 0;
+	    }
+
+	    @hopec_links = grep /$T->{'handle'}[0]\|/,@hopec2rech ;	
+
+# we prevent / to appear in the handle. Otherwise it will produce problems with
+# file names
+	    $T->{'handle'}[0]=~s|\/|\-|g;	
+	    $T->{handle}[0]=~/(\w{3}):(\w{6}):([^ \n\r]+)/i;
+	    $papercode=$1.$2.$3; 	    $code=$2.$3;
+	    $papercode=~s|\/|\-|g; 
+	    $archivo=$1;   $series = $2;    $number = $3;
+
+	    $author = join(' & ', map { $_->{name}[0] } @{ $T->{author} });
+#
+# save info about full text
+	    $full_text{$archivo.$series} = 1 if ($T->{file}[0]{url}[0] and $p_to_i == 3);
+
+	    $T->{'template-type'}[0]=~/ReDIF-([^ ]+)/i;
+	    $templatetype = $1;
+	    $counter = $templatetype.'number';
+
+#
+# set up title index
+	$TITLEINDEX{$T->{handle}[0]} = $T->{title}[0];
+
+#
+# series indexes
+# If we have a new series, open the index file which will contain "handle -> file";
+	    if ( ($archivo ne $archivo_before) and $index_s == 1)  {
+		untie %SERIESINDEX if %SERIESINDEX;
+		$series_index_file = join '',$data_tmp,'/',$archivo,'index.db';
+		tie %SERIESINDEX,"DB_File",$series_index_file;
+	    }
+
+	    $pu_na = lc($Ed{$archivo.$series});
+
+	    if($series ne $series_before) {    # if beginning of new series
+
+		if($sTmpSeriesPage) { #close previous series file
+
+####		    print "-- Working with $archivo $series\n";
+
+		    $sSeriesData .= CloseSeries($archivo_before,$series_before);
+
+		    $sTmpSeriesPage =~ s/\{main\}/$sSeriesData/i;
+
+		    $sTmpSeriesPage =~ s#\{BANER\}# $messages{2} $series_string #g if $series_string;
+			$sTmpSeriesPage =~ s#\{BANER\}##g;
+
+		    print SERIESFILE $sTmpSeriesPage; close(SERIESFILE); 
+		    
+		    undef $sTmpSeriesPage; undef $sSeriesData;
+		    
+		    system("cp $series_file $series_file_end")
+			unless $pag_count <= 0;
+		}
+		$tem_count = 0; 	$pag_count = 0;
+		$seriesnumber++;        $tem_count_full = 1;
+		$series_file=join '',$data_tmp,'/',$archivo,$series,'.html';
+		$series_file_end=join '',$data_tmp,'/',$archivo,$series,'e.html';
+
+		&OpenSeries($templatetype);
+
+		} elsif ($tem_count >= $user_tem_count) {
+
+		if($sTmpSeriesPage) {
+
+		    $sSeriesData .= CloseSeries($archivo,$series);
+
+		    $sTmpSeriesPage =~ s/\{main\}/$sSeriesData/i;
+		    $sTmpSeriesPage =~ s@\{BANER\}@ \<p align\=\"left\"\>$messages{2} $series_string \<\/p\> @g if $series_string;
+
+		    $sTmpSeriesPage =~ s#\{BANER\}##g;
+
+		    print SERIESFILE $sTmpSeriesPage;  close(SERIESFILE); 
+
+		    undef $sTmpSeriesPage; undef $sSeriesData;
+
+		}
+		$tem_count = 0; 	$pag_count++;
+		$series_file=join '',$data_tmp,'/',$archivo,$series,$pag_count,'.html';
+
+		&OpenSeries($templatetype);
+	    }
+
+	    if (! $papercode) {
+		&logger('1',"Error with template in $redif",$log_file);
+		next;
+	    }
+
+	    $$counter++; $$counter{$archivo.$series}++;
+
+	    $aut{$T->{handle}[0]} = $author;
+
+# definition of line to be inserted in the SERIES page
+#
+	    undef $paperline;
+	    $paperline = join '','<INPUT TYPE="checkbox" name="Handle" value="',
+	    $T->{'handle'}[0],' ">&nbsp;' if $rewe_cgi ;
+	    $paperline.=join '',$tem_count_full,'.- <a href="',$wwwdataaliasdir,'/',
+	    $templatetype,'s/',
+	    $papercode,'.html"><b> ',$T->{title}[0],'</b></a><i> by </i> '
+		,$author,' (<i>',$T->{handle}[0],"</i>)\n";
+
+#
+# If there is electronic full text of the paper we include a icon 
+	    if ($T->{file}[0]{url}[0] && $downicon) {
+		$paperline .= $downicon.' ';
+	    }
+
+	    $paperline .= ' <br><br>';
+
+	$sSeriesData .= $paperline;
+	$SERIESINDEX{$T->{handle}[0]} = $T->{FILENAME} if $index_s == 1;
+
+#
+# Creates the main info for each paper
+	($redifht,$redifdown,$navigation) = 
+	    make_paper_description($T->{'handle'}[0]);
+
+	$redifht_file=join '',$data_tmp,'/',$templatetype,'s/',$papercode,'.html';
+
+	open(REDIFHT,"> $redifht_file") or &logger
+	    ('1',"Can not open redifht $redifht_file $!",$log_file);
+
+	$sTmpDocumentsPage = $sDocumentsPageTemplate;
+
+	$sTmpDocumentsPage =~ s/\{main\}/$redifht/i;
+	$sTmpDocumentsPage =~ s/\{doctitle\}/$doctitle/i;
+	$sTmpDocumentsPage =~ s/\{Navigation\}/$navigation/i;
+	$sTmpDocumentsPage =~ s/\{download\}/$redifdown/i;
+	$sTmpDocumentsPage =~ s/\{date\}/$date/i;
+
+	print REDIFHT $sTmpDocumentsPage; close(REDIFHT);
+	$series_before = $series;
+	$archivo_before = $archivo;
+	$tem_count++;        $tem_count_full++;
+    }
+
+}
+
+close(INSTTEMP);
+
+#
+# If you want person data:
+
+if ($C_PERSON == 1) {
+
+#
+# Find ReDIFs files for persons
+#
+
+    $persons_dir = $RedifRemo.'/per';
+    &logger('1',"Searching rdf files for persons in $persons_dir ...",$log_file);
+
+    $n_persons = &rr::OpenDirTree ( "$persons_dir", undef, undef, 1 ) ;
+    &logger('1',"ReDIF person files: $n_persons",$log_file);
+
+
+    while ($t = &rr::NextTemplate) {
+
+	    undef $T; $T=\%::HashT;
+#
+# Squiping files without data about papers
+	    next if $T->{'template-type'}[0] =~ /Series/i ||
+		$T->{'template-type'}[0] =~ /Archive/i ||
+		    $T->{'template-type'}[0] =~ /Mirror/i;
+
+	    $T->{'template-type'}[0] =~ /ReDIF\-([^ ]+)/i;
+	    $Ttype = join '','C_',uc($1);
+	    next if $$Ttype ne 1;
+
+	    undef $papercode;
+	    undef %Paper;
+
+	    $T->{'template-type'}[0]=~/ReDIF-([^ ]+)/i;
+	    $templatetype = $1;
+
+	    &make_full_pers($T->{handle}[0]);
+	}
+}
+
+#
+# generating intermediate pages for institutions data
+&make_institutions_int if $C_INSTITUTION == 1;
+&make_persons_int;
+
+    &logger('1',"Main process ended, making series page ...",$log_file);
+    &make_series_page;
+
+    &logger('1',"Copying permanent files ...",$log_file);
+
+###    to_system($gloinst,$data_tmp.'/Institutions/index.html','cp');
+    to_system($gloind,$data_tmp.'/index.html','cp');
+
+# Making /JEL/index.html
+    $sTmpJELPageTemplate = $messages{18};
+
+    foreach $j (keys %JELcodes::JEL) {
+	next if $j =~ /\d/;
+	$sTmpJELPageTemplate .= join '','<p align="left">
+        <a href=',$wwwdataaliasdir,'/JEL/',$j,'.html><b>',$j,'</b> ',$JELcodes::JEL{$j},
+	    "</a></p>\n";
+    }
+
+    $JEL_PAGE = $sJELPageTemplate;
+    $navigation = '<a href="'.$wwwdataaliasdir.'">Home</a> >> JEL Classification';
+    $JEL_PAGE =~ s/\{main\}/$sTmpJELPageTemplate/;
+    $JEL_PAGE =~ s@\{Navigation\}@$navigation@;
+    $JEL_PAGE =~ s@\{doctitle\}@\<title\> JEL Classification \<\/title\>@;
+    $JEL_PAGE =~ s@\{date\}@$date@;
+    $main_jel = $data_tmp.'/JEL/index.html';
+
+    open(JEL,">$main_jel"); print JEL $JEL_PAGE; close JEL;
+
+#
+# copy exposure file
+    to_system($exposure,$data_tmp.'/.','cp') if -e $exposure;
+#
+# Copy the new additions file to the WWW directory
+    to_system($wopec_new,$data_tmp.'/New.html','cp') if $wopec_new;
+
+########################################
+#
+# Since the number of papers and series increases, but needs to be
+# announced on the top pape $wwww/WoPEc,html, we call a
+# perl script that will replace the string 'PAPERNUMBER'
+# with the number of papers, i.e. the value currently taken
+# by $papernumber, within $www/WoPEc.html and  we call a
+# perl script that will replace the string 'SERIESNUMBER'
+# with the number of papers, i.e. the value currently taken
+# by $seriesnumber.  
+#
+########################################
+#
+# put starthtml  info in index.html
+#
+system("perl -pi -e \'s@</TITLE>@</TITLE>$headend@;\' $data_tmp/index.html");
+    foreach $word (@counters) {
+	$com = join '', "perl -pi -e \'s/",uc($word),'/',${"$word"}
+    ,"/;\' ",$data_tmp,'/index.html';
+    system("$com");
+}
+
+#
+# Complete JEL classification (if exists) with blank pages.
+   if ($jel_dir and $cgi ne 'Y') {
+       &logger('1',"Completing JEL classification...",$log_file);
+       foreach $j (keys %JELcodes::JEL) {
+	   $jf = join('',$jel_dir,'/',$j,'.html');
+###	   $sTmpJELPageTemplate{$j} = addjelheader($jf,$j).$sTmpJELPageTemplate{$j};
+###	   print "------->\n $sTmpJELPageTemplate{$j} <------\n";
+
+	   $sTmpJELPageTemplate{$j} .= join '',
+	       '<input type="submit" value="',$messages{1},'"></form><p>' if $rewe_cgi;
+
+	   $JEL_PAGE = $sJELPageTemplate;
+	   $JEL_PAGE =~ s/\{main\}/$sTmpJELPageTemplate{$j}/;
+	   $JEL_PAGE =~ s/\{Navigation\}/$navigation/g;
+	   $JEL_PAGE =~ s/\{date\}/$date/g;
+	   $JEL_PAGE =~ s/\{doctitle\}/\<title\> $JELcodes::JEL{$j} \<\/title\>/g;
+
+	   open(JF,">> $jf");  print JF $JEL_PAGE; close(JF);
+
+       }
+   }
+
+#
+# Close the last archive index if exists...
+untie %SERIESINDEX if %SERIESINDEX;
+untie %TITLEINDEX;
+system("rm $titleindexdb");
+
+#
+# delete current version of WoPEc  and move the new from the tmp directory
+#
+    &logger('1',"Deleting old info...",$log_file);
+    to_system($wwwdatadir,'','rm -r',1);
+    &logger('1',"Moving new info ...",$log_file);
+    to_system($data_tmp,$wwwdatadir,'mv',1);
+#
+# Delete temp inst  data
+rmtree($inst_temp,$verbose,1);
+
+#
+# Now we write the number of papers and series in the log file
+foreach $word (@counters) {
+    next if $word=~/date/i;
+    $word =~ /(.*)number/;
+    &logger('1',"$1: $$word",$log_file);
+   }
+}
+
+#######################################################
+#
+# End of presentation
+#
+#######################################################
+#
+###########################################################################
+#
+# REQUIRED PROCEDURES
+#
+###########################################################################
+
+sub add_publisher_info {
+    my ($string,$fi);
+    my ($s_a) = $_[0].$_[1];
+
+    $fi = lc($Ed{$s_a});
+
+    if ($Series{$s_a}{$fi}[0]{homepage}[0]) {
+	$string .= join '',"\n",'<br>',
+	,m_a_l($Series{$s_a}{$fi}[0]{homepage}[0],'',$Series{$s_a}{$fi}[0]{name}[0]);
+    } elsif ($Series{$s_a}{$fi}[0]{email}[0]) {
+	$string .= join '',"\n",'<br>',$Series{$s_a}{$fi}[0]{name}[0],' ',
+	,m_a_l($Series{$s_a}{$fi}[0]{email}[0],'mailto:',$Series{$s_a}{$fi}[0]{email}[0]);
+    }
+
+    if ($edirc_url and $Series{$s_a}{$fi}[0]{institution}[0]) {
+	$Series{$s_a}{$fi}[0]{institution}[0] =~ /edi:(\w{7})/;
+	$w_i_u = join '',$edirc_url,'/',$1,'.html';
+	$string .= join '',"\n",'<br>(See ',m_a_l($w_i_u,'','more information at EDIRC'),')';
+    }
+
+    foreach ( @workplace ) {
+	next if /name|homepage|email|institution/i;
+	$Aj=0;
+	for ($Aj == 0 ; $Aj <= $#{ $Series{$s_a}{$fi}[0]{$_} } ; $Aj++) {
+	    $string .= join '',"\n",'<br>',ucfirst $_,': ',$Series{$s_a}{$fi}[0]{$_}[$Aj] 
+		    if $Series{$s_a}{$fi}[0]{$_}[$Aj] ;
+	}
+    }
+    $string;
+}
+
+sub redifdownht {
+    local($paper,$papercode,$handle)=@_;
+    local($formats,$urls,$sizes,@lines,$line,@formats,@sizes,@urls,$count,
+	  $prefix,$out,$form,$number);
+
+    my ($ele,$df);
+    my $countf = 0;
+
+    if (! $download_form) {
+	for $ele (@{ $T->{file} }) {
+	    if ($ele->{url}[0]) {
+		$ele->{url}[0] =~ /([^\/]+)$/; 
+		$file_n = join '',$RedifRemo,'/',$archivo,'/',$series,'/',$1;
+		$ele->{url}[0] = join '',$link_papers,'/',$archivo,'/',$series,'/'
+		    ,$1 if (-e $file_n);
+	    }
+
+	    if ( $T->{file}[0]{url} ) {
+
+		$form .= "<INPUT TYPE=radio NAME=url VALUE="
+		    .$ele->{url}[0] if $ele->{url}[0];
+		
+		if ($countf == 0 and $ele->{url}[0]) {
+		    $form .= " checked"; $countf++;
+		}
+
+		$form .= join('',"> <B>File-URL: </B>",$ele->{url}[0]) 
+		    if $ele->{url}[0];
+
+		$form .= join '',"<BR> <B>File-Format: </B> "
+		    ,&chekformat($ele->{format}[0],$handle)," <BR>\n"  
+			if $ele->{format}[0];
+
+		foreach $df (@file_down) {
+		    next if $df=~/format|url/i;
+		    $form .= join('','<B>File-',ucfirst($df),': </B> '
+				  ,$ele->{$df}[0]," <BR>\n") if $ele->{$df}[0];
+		}
+	    } else {
+		$form .= join '','<B>File-URL: </B>',$ele->{url}[0],'<BR>'
+		    ,'<INPUT TYPE=HIDDEN NAME=url VALUE=',$ele->{url}[0],'> ' 
+			if $ele->{url}[0];
+
+		$form .= join '','<BR> <B>File-Format:</B> '
+		    ,&chekformat($ele->{format}[0],$handle),'<BR>' 
+			if $ele->{format}[0];
+
+		foreach $df (@file_down) {
+		    next if $df=~/format|url/i;
+		    $form .= join('','<B>File-',ucfirst($df),': </B> '
+				  ,$ele->{$df}[0]," <BR>\n") if $ele->{$df}[0];
+		}
+	    }
+	    $count++;
+	}
+#
+# Start download form
+#
+	$out .= join('','<FORM METHOD=GET ACTION="',$path_url,'get_doc.pl">
+<INPUT TYPE=HIDDEN NAME=urn VALUE=',$handle,'>',"\n");
+
+	$out .= "<P> <B> $messages{5} </B> <P> " if $T->{file}[1]{url};
+	$out .= $form."\n";
+	$out .= "and " if $T->{file}[1]{url};
+
+#
+# End form
+#
+	$out .= join '','<INPUT TYPE=SUBMIT VALUE="',$messages{6},'"></FORM>';
+
+    } else {
+
+	for $ele (@{ $T->{file} }) {
+
+	    $ele->{function}[0] = 'Main Text' if ! $ele->{function}[0];
+	    $ele->{format}[0] = 'Full Text' if ! $ele->{format}[0];
+
+	    if ($ele->{url}[0]) {
+		$ele->{url}[0] =~ /([^\/]+)$/; 
+		$file_n = join '',$RedifRemo,'/',$archivo,'/',$series,'/',$1;
+		$ele->{url}[0] = join '',$link_papers,'/',$archivo,'/',$series,'/'
+		    ,$1 if (-e $file_n);
+	    }
+
+	    if ($redirec) {
+		$ele->{url}[0] = join '',$redirec,'?urn=',$handle,
+		'&url=',$ele->{url}[0]
+	    }
+
+	    $out .= join '',$download_form if $ele->{url}[0];
+
+	    foreach $df (@file_down) {
+		$df_t = join '','FFile',ucfirst($df);
+		$out=~s/$df_t/$ele->{$df}[0]/g if $ele->{$df}[0];
+	    }
+
+	}
+	$out =~ s/FFile\w+/$download_replace/g;
+	$out = join '','<P>',$out;
+    }
+    $out = join '','<HR>',$download_help,$out;
+    $out;
+}
+
+sub chekformat {
+    local($field,@mimetypes,$type,$subtype,$subsubtype);
+    local($fieldcontent,$code)=@_;
+
+    $fieldcontent=~tr/[A-Z]/[a-z]/;
+    @mimetypes=split(/\//,$fieldcontent);
+
+    if (! $mimetypes[0]=~/text/ 
+	&& $mimetypes[0]=~/application/ && $mimetypes[0]=~/image/) {
+	&logger('1',"Bad type at $code paper",$log_file);
+    } else {
+	$type=$mimetypes[0];
+	$subtype=$mimetypes[1];
+	$subtype=~tr/ (.*)//d;
+	$subtype=~tr/\n//d;
+    }
+
+    if ($#mimetypes > 1) {
+	$correct="n";
+	for ($i=2; $i==$#mimetypes; $i++) {
+	    foreach $subsubtype (@subsubtypes) {
+		if ($subsubtype eq $mimetypes[$i]) {
+		    $correct="y";
+		    $output="/<A HREF=\"$helpformats{$subsubtype}\">$subsubtype</A>";
+		}
+	    }
+	    $correct="n";$i=2;
+	}
+    }
+    $subtypehelp=$helpformats{$subtype};
+
+    if ($subtypehelp ne "") {
+	$foroutput="$type/<A HREF=\"$subtypehelp\">$subtype</A>".$output;
+    } else {
+	$foroutput="$type/$subtype".$output;
+    }
+    undef $output;
+    $foroutput;
+}
+
+sub redifjelht {
+    local($author,$ha) = @_;
+    my ($jelline,$jelcat,@jelcont);
+
+    $jelnumber++;
+    undef $outjel;
+
+    if ($jel_dir) {
+	$outjel = $messages{7};
+    } else {
+	$outjel = "JEL Classification: <br>";
+    }
+
+    $T->{'classification-jel'}[0] =~ s/\;/ /g;
+    @jelcont=split /[ ]+/,$T->{'classification-jel'}[0];
+
+    foreach $jelcat (@jelcont) {
+
+	$jelcat=~s/[\;\,\s]//;
+
+	if (! $JELcodes::JEL{$jelcat}) {
+	    $outjel .= join('',' ',$jelcat,' ');
+	} else {
+# Add a line to the JEL file with this paper
+######	$jel_file_html=join('',$jel_dir,'/',$jelcat,'.html');
+
+	    if (! $sTmpJELPageTemplate{$jelcat}) {
+
+	    $sTmpJELPageTemplate{$jelcat} = 
+		addjelheader($jel_file_html,$jelcat) ;
+
+	    $sTmpJELPageTemplate{$jelcat} .= join '','<form action=',$rewe_cgi,' method=post>
+      <input type=hidden name=RePEc_Dir value=',$RedifDir,'>
+      <input type=hidden name=RePEc_Conf value=',$rewe_cgi_conf,'>
+      <p><input type="submit" value="',$messages{1},'"></p>'
+	  if $rewe_cgi ;
+
+	}
+
+	    undef $paperline;
+	    $paperline = join '','<INPUT TYPE="checkbox" name="Handle" value="',
+	    $T->{'handle'}[0],' ">&nbsp;' if $rewe_cgi ;
+
+	    $paperline.=join '','<a href="',$wwwdataaliasdir,'/',
+	    $templatetype,'s/',$papercode,'.html"><b> ',
+	    $T->{title}[0],'</b></a><i> by </i> ',$author,
+	    ' (<i>',$ha,"</i>)\n";
+
+#
+# If there is electronic full text of the paper we include a icon 
+	    if ($T->{file}[0]{url}[0] && $downicon) {
+		$paperline .= $downicon.' ';
+	    }
+
+	    $paperline .= ' <br>';
+
+	    $sTmpJELPageTemplate{$jelcat} .= $paperline;
+
+	    $sTmpJELPageTemplate{$jelcat} .= $downicon.' ' if ($redifdown && $downicon) ;
+	    $sTmpJELPageTemplate{$jelcat} .= ' <p> ';
+
+################	    print "---->\n $sTmpJELPageTemplate{$jelcat} \n <-----------\n";
+
+	    $outjel .= join '',$jelcat,': <a href="',$jelaliasdir,$jelcat,'.html"> ',$JELcodes::JEL{$jelcat},'</a><br> ';
+
+	}
+    }
+
+    $outjel;
+}
+
+sub redifmainht {
+    local $redifht;
+    my($ww,$kk);
+    my($ha_r) = $_[0];
+
+    undef $redifht; undef $ideasali;
+
+    $doctitle = join '',&add_start_record($ha_r) unless $cgi eq 'Y';
+
+    $redifht = join '',
+    '<p align="left"><b><font size="+2"> <a name="top">',$T->{title}[0],"</a></font></b></p>\n";
+
+#
+# Authors
+    $ideasali = '<p align="left"><font face="Arial, Helvetica, sans-serif">';
+    for $w ( @{ $T->{author} } ) {
+
+	if ($w->{homepage}[0]) {
+	    $ideasali .= join '','<b>',$w->{name}[0],'</b> (',
+	    m_a_l($w->{homepage}[0],'','Homepage'),")<br>\n";
+	} elsif ($w->{email}[0]) {
+	    $ideasali .= join '','<b>',$w->{name}[0],'</b><br>&nbsp;&nbsp;&nbsp;',
+	    m_a_l($w->{email}[0],'mailto:',$w->{email}[0]),"<br>\n";
+	} else {
+	    $ideasali .= join '','<b>',$w->{name}[0],"</b> <br>\n";
+	}
+
+#####	print "Link: $ideasali<-\n";
+
+	if ($w->{workplace}[0]{name}[0] and $w->{workplace}[0]{homepage}[0]) {
+	    $ideasali .= join '','&nbsp;&nbsp;&nbsp;&nbsp;(',$w->{workplace}[0]{name}[0],' (',
+	    m_a_l($w->{workplace}[0]{homepage}[0],'','web site'),")<br>&nbsp;<br>\n";
+	} elsif ($w->{workplace}[0]{name}[0]) {
+	    $ideasali .= join '','&nbsp;&nbsp;&nbsp;&nbsp;(',$w->{workplace}[0]{name}[0],") <br>&nbsp;<br>\n";
+	}
+    }
+
+    $redifht .= join '','<p><table width="100%" border="0"><tr><td width="60%" valign="top" align="left">'
+	,$ideasali,'</p></td><td width="5%"></td><td width="35%" valign="top" align="left">';
+    $redifht .= &add_hopec_link($ha_r) if $HoPEc_links == 1 and $#hopec_links >= 0 ;
+    $redifht .= '</td></tr></table></p><p>&nbsp;</p>';
+
+    $redifht;
+}
+
+sub redifmainht_ideas {
+    my $ha_i = $_[0];
+    my $n;
+    undef $redif_re;
+    undef $au_re;
+
+    my $redif_re = &add_start_record($ha_i) unless $cgi eq 'Y';
+    $redif_re .= &add_hopec_link($ha_i) if $HoPEc_links == 1 and $#hopec_links >= 0 ;
+
+    for $w ( @{ $T->{author} } ) {
+
+
+	undef $ideasali;
+	undef $ideaswli;
+
+	$ideasali = join '', "\n<A HREF=mailto:",$w->{email}[0],'> '
+	    if $w->{email}[0];	
+
+	$ideasali = join '', "\n<A HREF=",$w->{homepage}[0],'> '
+	    if $w->{homepage}[0];	
+
+	$ideaswli = join '', "\n<A HREF=",$w->{'workplace'}[0]{'homepage'}[0]
+	,'> ' if $w->{'workplace'}[0]{'homepage'}[0];	
+
+	$ideaswli = join '', "\n<A HREF=mailto:"
+	    ,$w->{'workplace'}[0]{'email'}[0],'> ' 
+		if $w->{'workplace'}[0]{'email'}[0];
+
+	$au_re .= $ideasali if $ideasali;
+	$au_re .= ' <BR>'.$w->{name}[0].' ';
+	$au_re .= '</A>' if $ideasali;
+
+	$au_re .= $ideaswli if $ideaswli;
+	$au_re .= ' ('.$w->{'workplace'}[0]{'name'}[0].') ' 
+	    if $w->{'workplace'}[0]{'name'}[0];
+	$au_re .= '</A>' if $ideaswli;
+
+    }
+
+    $redif_re .= join '', '<P><CENTER><B>',$T->{title}[0],'</B><P>';
+    $redif_re .= join '', $au_re,"\n";
+    $redif_re .= join '', '<P></CENTER><BLOCKQUOTE>'
+	,$T->{abstract}[0],'</BLOCKQUOTE><P>';
+
+    foreach $ww ( @rest ) {
+	next if $ww=~/abstract/i;
+
+	$Aj = 0;
+	for ($Aj == 0 ; $Aj <= $#{ $T->{$ww} }; $Aj++) {
+
+		if ($ww=~/(paper)\-handle/i or $ww=~/(article)\-handle/i) {
+		    $T->{$ww}[$Aj] = make_paper_link($T->{$ww}[$Aj],ucfirst $1) if $T->{$ww}[$Aj];
+		}	
+		$redif_re .= join '', '<BR> <B>',ucfirst($ww),':</B> '
+		    ,$T->{$ww}[$Aj] if $T->{$ww}[$Aj];
+	    }
+    }
+    $redif_re .= join '', '<br>Handle: ',$ha_i,'<p>';
+    $redif_re;
+}
+
+sub add_hopec_link {
+    my $ha_ho = $_[0];
+
+    $hopec_link = $messages{8};
+
+###    print "\nNo. of authors: $#hopec_links\n";
+
+    foreach $aut (@hopec_links) {
+
+###	print "Working with $aut\n";
+
+	($paper_handle,$se_name,$fi_name,$person_handle) = split /\|\|/, $aut;
+	chop($person_handle);
+
+	$hln = "$fi_name $se_name";
+
+	foreach $di (keys %persons_dirs) {
+	    $p_out_full_tmp = join '',$di,'/Persons/',hcode(uc($person_handle)),'.html';
+	    if ( -e $p_out_full_tmp) {
+		$hlu = join '',$persons_dirs{$di},'/Persons/',hcode(uc($person_handle)),'.html';
+	    }
+	}
+####	$hlu = join '',$wwwdataaliasdir,'/Persons/',hcode(uc($person_handle)),'.html';
+
+	$hopec_link .= join '',"\n",' ',m_a_l($hlu,'',$hln),"<br>\n";
+    }
+    $hopec_link .= join '',"\n",'<P>';
+    $hopec_link;
+}
+
+sub add_start_record {
+    my($rr,$ab);
+    my $ha_a = $_[0];
+
+    $ab = $T->{'abstract'}[0];
+    $ab=~s/\<([^>]+)//g;
+    $ab=~s/\"//g;
+    $ab = ' No abstract available' if ! defined $ab;
+
+#
+#   Add header of htlm file
+    $rr=$headstart.'<title> '.$T->{'title'}[0].' </title>';
+#
+# We include meta information as indicated by Altavista 
+# (if indicated in rewe conf)
+    foreach $meta (@meta) {
+	if ($meta =~ /author/i) { $$meta = $author; } 
+	else { $$meta = $T->{$meta}[0];}
+	if ($meta=~/description/i) {
+	    $meta = 'description' if ! $metadata;
+	    if ($searchdownicon && $T->{file}[0]{url}[0]) {
+		$rr .= join '', '<META NAME="',$metadata
+		    ,$meta,'" CONTENT="',$searchdownicon,' Author(s): '
+			,$author,' Abstract: ',$ab,'">' 
+			,"\n" if defined $ab;
+	    } else {
+		$rr .= join '','<META NAME="',$metadata,
+		$meta,'" CONTENT="Author(s): ',$author,' Abstract: ',$ab,'">',"\n" if defined $ab;
+	    }
+	} else {
+	    $rr .= join '', '<META NAME="',$metadata,$meta,'" CONTENT="'
+		,$$meta,'">',"\n" if $$meta ne '';
+	}
+    }
+    $rr .= join '', $headend,"\n",$title_header,"\n";
+    $rr .= join '','<BR><CENTER>',$downicon,'</CENTER><BR>' if ($T->{file}[0]{url}[0] && $downicon) ;
+
+    $rr .= join '',$start_record,"\n";
+####     print "-------> BEFORE: \n $rr \n<-------";
+
+    $rr;
+}
+
+sub make_series_page {
+
+    $alphabet_line = '<font size="-1">';
+    foreach (A..Z) {
+	$alphabet_line .= join '','<A HREF="#',$_,'">&nbsp;',$_,'</A>&nbsp; |';
+    }
+    $alphabet_line .= '</font>';
+
+    foreach $i (sort keys %series_ord) { 
+
+	my($series_ed,$series_na) = split /\|\|/, $i;
+
+	$pu_na = lc($Ed{$series_ord{$i}});
+#
+# sets default
+	$Series{$series_ord{$i}}{type}[0] = 'ReDIF-Paper' 
+	    if ! $Series{$series_ord{$i}}{type}[0];
+
+	$Series{$series_ord{$i}}{type}[0] =~ /ReDIF\-([^\s]+)/i;
+	$co = join '',$1,'number';
+	$tem = $1;
+#
+# only series with papers
+	if ( $$co{$series_ord{$i}}) {
+
+	    next if $Series{$series_ord{$i}}{$pu_na}[0]{name}[0] eq '';
+
+#   write series links into Series file 
+	    if ($Series{$series_ord{$i}}{$pu_na}[0]{homepage}[0]) {
+		$cola_home = $Series{$series_ord{$i}}{$pu_na}[0]{name}[0].' ';
+		$cola_home .= m_a_l($Series{$series_ord{$i}}{$pu_na}[0]{homepage}[0],''
+			     ,'(web site)');
+	    } else {
+		$cola_home = $Series{$series_ord{$i}}{$pu_na}[0]{name}[0].' ';
+	    }
+
+## new editor...
+	    if ($previous_editor{$tem} ne $Series{$series_ord{$i}}{$pu_na}[0]{name}[0]) {
+
+		$sTmpMainSeriesData{$tem} =~ s#<\!-- NEXT -->##g;
+
+		if (! $previous_editor{$tem}) {
+		    $sTmpMainSeriesData{$tem} = join '',
+			'<p align="center"><b>',$series_mes{$tem},'</b></p><p> ',$alphabet_line,' </p>';
+		} else {
+		    $sTmpMainSeriesData{$tem} .= '</tr></table></p>';
+		}
+
+		$Series{$series_ord{$i}}{$pu_na}[0]{name}[0] =~ /(\w)/;
+		$ini_let{$tem} = $1;
+
+## if new initial...
+		if ($ini_let{$tem} ne $ini_let_previous{$tem}) {
+		    $sTmpMainSeriesData{$tem} .= join '',
+		    '<p><table width="100%" border="0"><tr><td align="left">
+                    <A NAME="',$ini_let{$tem},'"> ',$ini_let{$tem},'</A></td>
+                    <td align="right"><A HREF="#top">(go top)</a></td></tr>
+                    </table></p>';
+		}
+
+		$sTmpMainSeriesData{$tem} .= 
+		    '<p><table width="100%" border="0"><tr><td colspan="2">';
+
+		if ($cola_home) {
+		    $sTmpMainSeriesData{$tem} .= join '', '<b>',$cola_home,'</b> ';
+		} else {
+		    $sTmpMainSeriesData{$tem} .= join '','<b>',$series_ed,'</b> ';
+		}
+		$sTmpMainSeriesData{$tem} .= '</td></tr>';
+	    }
+
+	    $series_name_link = join '',
+	    '&nbsp;&nbsp;<a href="',$wwwaliasdir,'/data/',$series_ord{$i},'.html">',
+	    $Series{$series_ord{$i}}{name}[0],' </a>(',$$co{$series_ord{$i}},')';
+
+	    $series_name_link .= $downicon if $full_text{$series_ord{$i}};
+
+## segunda series
+	    if ($sTmpMainSeriesData{$tem} =~ m#<\!-- NEXT -->#) {
+		$sTmpMainSeriesData{$tem} =~ s#\<\!\-\- NEXT \-\-\>#$series_name_link#g;
+	    } else {
+		$sTmpMainSeriesData{$tem} .= join '', '<tr><td width="50%" align="left">',
+		$series_name_link,'</td><td  width="50%" align="left"><!-- NEXT --></td>';
+	    }
+
+	    $previous_editor{$tem} = $series_ed;
+	    $ini_let_previous{$tem} = $ini_let{$tem};
+
+	}
+    }
+
+#
+# End of files...
+    foreach (@templates) {
+	next if $_ =~ /Person/i;
+
+# Closing last table
+	$sTmpMainSeriesData{$_} =~ s#<\!-- NEXT -->##g;
+	$sTmpMainSeriesData{$_} .= '</tr></table>';
+
+	$navigation = '<a href="'.$wwwdataaliasdir.'">Home</a> >> '.$series_mes{$_};
+	$SERIES_PAGE = $sMainSeriesPageTemplate;
+	$SERIES_PAGE =~ s@\{main\}@$sTmpMainSeriesData{$_}@;
+	$SERIES_PAGE =~ s@\{Navigation\}@$navigation@;
+	$SERIES_PAGE =~ s@\{date\}@$date@;
+	$SERIES_PAGE =~ s@\{doctitle\}@\<title\> $series_mes{$_} \<\/title\>@;
+
+	undef $navigation;
+	$sf = join '',$data_tmp,'/',ucfirst lc $_,$file_names{$_},'.html';
+	open(SERIES,"> $sf"); print SERIES $SERIES_PAGE; close(SERIES);
+    }
+}
+
+sub to_system {
+    local($in_file,$out_file,$command,$remote) = @_;
+    ($remote_user,$remote_machine) = split(/\@/,$remote_address);
+    if ($remote and $remote_address) {
+	$command =~s/cp/rcp/;
+	$command =~s/mv/rcp \-r/;
+	$command =~s|rm \-r|rsh \-l $remote_user $remote_machine rm \-r |;
+	$out_file = join '', $remote_address,':',$out_file if $command =~/rcp/;
+    }
+    system("$command $in_file $out_file");
+    undef $remote;
+}
+
+sub make_paper_description {
+    my($ha) = @_[0];
+    my($d_string,$down_string,$d_nav);
+
+#
+# For the actual paper file. First look at main info
+    if ($full_type eq 'cover-page') {
+	$d_string=&redifmainht_ideas($ha);
+
+#
+# adds jel information
+	$d_string .= join '', "\n<p align=left>",&redifjelht($aut{$ha},$ha),'</p>' 
+	    if $T->{'classification-jel'}[0];
+
+#
+# We add publisher information from the series templates
+	$d_string .= join '',"\n<P>",$templatetype,' '
+	    ,$pub_mes{$templatetype}[0],'  by ';
+	if ($Series{$archivo.$series}{$pu_na}[0]{homepage}[0]) {
+	    $d_string .= join '',
+	    '<A HREF=',$Series{$archivo.$series}{$pu_na}[0]{homepage}[0]
+		,'> ',$Series{$archivo.$series}{$pu_na}[0]{name}[0],' </A>'
+		}
+	else {
+	    $d_string .= $Series{$archivo.$series}{$pu_na}[0]{name}[0].' ';
+	}
+
+	$d_string .= join '','</A> ',$pub_mes{$templatetype}[1]
+	    ,' <B><A HREF=',$wwwdataaliasdir,'/',$archivo,$series,'.html>'
+		,$Series{$archivo.$series}{name}[0],'</A></B> ';
+
+	$d_string .= join '','as number ',$T->{number}[0],' ' 
+	    if $T->{number}[0];
+	$d_string .= "<P>\n";
+
+#
+# Add general restriction if exists.
+	$d_string .= join '','<BR><CENTER><B>',$messages{11},'</B><BR>',
+	$Series{$archivo.$series}{restriction}[0],
+	'</CENTER><P>' if $Series{$archivo.$series}{restriction}[0];
+
+    } else {
+
+	$d_string=&redifmainht($ha);
+
+#
+# We add publisher information from the series templates
+
+	$d_string .= join '','<p align="left">'
+	    ,'<a href="',$wwwdataaliasdir,'/',$archivo,$series,'.html">'
+		,$Series{$archivo.$series}{name}[0],'</a>';
+
+	$d_string .= join '',' ',$T->{number}[0],' / '
+	    ,$Series{$archivo.$series}{$pu_na}[0]{name}[0],' '
+		if $templatetype =~ /paper/i;
+
+	$d_string .= join '',' (',m_a_l($Series{$archivo.$series}{$pu_na}[0]{homepage}[0],'','web site'),')'
+	    if $Series{$archivo.$series}{$pu_na}[0]{homepage}[0];
+
+	$d_string .= join '',' ',$T->{year}[0],' ',$T->{volume}[0]
+	    if $templatetype =~ /article/i;
+
+	$d_string .= join '',' (',$T->{issue}[0],')'
+	    if $templatetype =~ /article/i and $T->{issue}[0];
+
+	$d_string .= join '',$T->{pages}[0];
+	$d_string .= '<br>';
+	$d_string .= join '','(',$T->{'publication-status'}[0],')&nbsp; '
+	    if $T->{'publication-status'}[0];
+
+	$d_string .= join '',' (',$T->{handle}[0],")</p>\n";
+#
+# adds jel information
+	$d_string .= join '', "\n<p>",&redifjelht($aut{$ha},$ha),'</p>' 
+	    if $T->{'classification-jel'}[0];
+
+	$d_string .= join '','<p align="left">Abstract:</p><blockquote>'
+	    ,$T->{abstract}[0],"</blockquote><p>\n"
+		if $T->{abstract}[0];
+	$d_string .= '<font face="Arial, Helvetica, sans-serif">';
+
+	foreach $ww ( @rest ) {
+	    next if $ww=~/abstract/i;
+
+	    $Aj = 0;
+	    for ($Aj == 0 ; $Aj <= $#{ $T->{$ww} }; $Aj++) {
+
+		if ($ww=~/(paper)\-handle/i or $ww=~/(article)\-handle/i) {
+		    $T->{$ww}[$Aj] = make_paper_link($T->{$ww}[$Aj],ucfirst $1) if $T->{$ww}[$Aj];
+		}	
+		$d_string .= join '', '<BR> ',ucfirst($ww),': '
+		    ,$T->{$ww}[$Aj] if $T->{$ww}[$Aj];
+	    }
+	}
+	$d_string .= '</font>';
+
+#
+# Add general restriction if exists.
+	if ($Series{$archivo.$series}{restriction}[0]) {
+	    $d_string .= join '',$messages{11},'<blockquote>'
+		,$Series{$archivo.$series}{restriction}[0],'</blockquote>' ;
+	} elsif ($T->{file}[0]{restriction}[0]) {
+	    $d_string .= join '',$messages{11},'<blockquote>'
+		,$T->{file}[0]{restriction}[0],'</blockquote>' ;
+	}
+
+    }
+
+#
+# Add link to top of the page
+    $d_string .= join '',
+    '<p align="left">&nbsp;<font size="-1">(<a href="#top">go top</a>)</font></p>';
+
+
+#
+# Add download information if exists
+    if ($T->{file}[0]{url}[0]) {
+	$downloadnumber++;
+	$down_string = join '',$messages{19},redifdownht($redifdown,$papercode,$ha);
+    }
+
+#
+# Add ordering information, if exist.
+    $OrderInf eq 'Y' and do {
+	if ($Series{$archivo.$series}{'order-homepage'}[0]) {
+##		$t_v = $Series{$archivo.$series}{order}[0]{homepage}[0];
+	    $OrderURLText_N = $OrderURLText;
+	    $OrderURLText_N =~ 
+		s@ORDERURL@$Series{$archivo.$series}{'order-homepage'}[0]@g;
+	    $down_string .= join '','<p>',$OrderURLText_N,'<p>';
+	}elsif ($Series{$archivo.$series}{'order-email'}[0] ) {
+##		$t_v = $Series{$archivo.$series}{'order-email'};
+	    $OrderEmailText_N = $OrderEmailText;
+	    $OrderEmailText_N =~ 
+		s@ORDEREMAIL@$Series{$archivo.$series}{'order-email'}[0]@g;
+	    $down_string .= join '','<p>',$OrderEmailText_N,'<p>';
+	} elsif ($Series{$archivo.$series}{'order-postal'}[0]) {
+##		$t_v = $Series{$archivo.$series}{'order-postal'};
+	    $OrderPOSTALText_N = $OrderPOSTALText;
+	    $OrderPOSTALText_N =~ 
+		s@ORDERPOSTAL@$Series{$archivo.$series}{'order-postal'}[0]@g;
+	    $down_string .= join '','<p>',$OrderPOSTALText_N,'<p>';
+	}	    
+    };
+
+
+#
+# Add statistics
+    $down_string .=  join '',
+    '<p><br>&nbsp;<br><a href=http://logec.hhs.se/scripts/paperstat.pl?h='
+	,$T->{handle}[0],'> ',$messages{12},' </a>';
+    $down_string .=  join '',
+    '<p><br>&nbsp;<br><a href="',$cite_url,
+	,$T->{handle}[0],'&action=All" TARGET="link" onClick="window.open(',"'','link'",')"> See my references </a>' if $cite_url;
+
+    $d_nav = join '','<a href="',$wwwdataaliasdir,'">Home</a> >> <a href="'
+	,$wwwdataaliasdir,'/',$templatetype,$file_names{$templatetype}
+    ,'.html"> ',$series_mes{$templatetype},' </a> >> '
+	,'<a href="',$wwwdataaliasdir,'/',$archivo,$series,'.html">'
+	    ,$Series{$archivo.$series}{name}[0],'</a> >> '
+		,$T->{title}[0],"</font>\n";
+
+    ($d_string,$down_string,$d_nav);
+}
+
+sub w_error { print $_[0]; exit; }
+
+sub read_series_files {
+    ($to_read,$to_type) = @_ ;
+    local($file,$handle);
+
+    if ($to_type == 0) {
+	&rr::OpenRDF ( "$to_read", undef, undef, 1 ) ;
+    } elsif ($to_type == 1) {
+	&rr::OpenDirTree ( "$to_read", undef, undef, 1 ) ;
+    }
+
+    while ($t = &rr::NextTemplate) {
+	undef $series_publisher;
+	undef $series_name;
+	$H=\%::HashT;
+
+	next if $H->{'template-type'}[0] ne "ReDIF-Series 1.0";
+
+	$H->{handle}[0]=~/$AUTHORITY:(\w{3}):(\w{6})/i;
+
+	$handle=$1.$2;
+
+	$rec = { %::HashT } ;
+	$Series{$handle}=$rec;
+
+	$series_name=$H->{'name'}[0];
+
+	foreach $s_e ( qw(publisher provider) ) {
+	    $series_publisher=$H->{$s_e}[0]{'name'}[0] if $H->{$s_e}[0]{'name'}[0];
+	    if ($H->{publisher}[0]{'name'}[0]) {
+		$Ed{$handle} = 'Publisher' ;
+	    } elsif ($H->{provider}[0]{'name'}[0]) {
+		$Ed{$handle} = 'Provider';
+	    }
+	}
+
+#
+# We need this additional hash to sort by the content of the publisher-name
+#
+	$string=join '',$series_publisher,"||",$series_name;
+	$string=~s/[\n\r]//g;
+
+	if ($handle=~/(\w{6})/) {
+	    $series_ord{$string}=$handle;
+	} 
+    }
+}
+
+
+sub addjelheader {
+
+    my ($fi,$ct) = @_;
+    my $jel_line;
+
+    $jel_line = join '', '<a href=',$jelaliasdir,'index.html><b>Top</b> JEL</a> : <br>';
+
+    $jel_line .= join '', '<a href=',$jelaliasdir,substr($ct,0,length($ct)-2),'.html>'
+	,' ',substr($ct,0,length($ct)-2),' ',$JELcodes::JEL{substr($ct,0,length($ct)-2)}
+    ,'</a><br>' if $JELcodes::JEL{substr($ct,0,length($ct)-2)};
+
+    $jel_line .= join '', '<a href=',$jelaliasdir,substr($ct,0,length($ct)-1),'.html>'
+	,' ',substr($ct,0,length($ct)-1),' ',$JELcodes::JEL{substr($ct,0,length($ct)-1)} 
+    ,'</a><br>' if $JELcodes::JEL{substr($ct,0,length($ct)-1)};
+
+    $jel_line .= join '', ' <b>',$ct,' ',$JELcodes::JEL{$ct},'</B> ';
+
+    length($ct) != 3 and do {
+	$jel_line .= join '', '<P><UL>';
+	for ($i = 0; $i<=9; $i++) {
+	    $str = $ct.$i;
+	    $jel_line .= join '', '<li><a href=',$jelaliasdir,$str,'.html><b>',$str,'</b></a> ',$JELcodes::JEL{$str} if $JELcodes::JEL{$str} ;
+	}
+	$jel_line .= join '', '</ul>';
+    };
+    
+    $jel_line .= join '', '<p><hr><p>';
+
+    $jel_line;
+
+}
+
+sub convert_date {
+    my $da = $_[0];
+    $da =~s/\-//g;
+    my $da_re = join ' ',substr($da,6,2),$months{substr($da,4,2)},substr($da,0,4);
+    $da_re;
+}
+
+sub make_institutions_int {
+
+    local $/ = "\n";
+    open(INSTTEMPN,"<$inst_temp") or &logger
+	('1',"Can not open redifht $redifht_file $!",$log_file);
+    @insttemp=<INSTTEMPN>;
+
+    foreach $i_l (sort @insttemp) {
+
+	($c_n,$primary_name,$secondary_name,$tertiary_name,$i_handle) = 
+	    split /00/,$i_l;
+
+	$i_handle =~ /$AUTHORITY:\w{3}:(\w{7})/;
+	$i_code = $1;
+
+#
+# writes country data
+
+	if($c_n ne $c_n_before) {    # if beginning of new series
+	    push @country_names, lc($c_n);
+
+	    $c_n =~ /([^ ]+)/;
+	    print INSTITUTIONSFILE "</DL><P>",$endhtml if INSTITUTIONSFILE;
+	    $institutions_file=join '',$data_tmp,'/Institutions/',$1,'.html';
+#
+#       open instituins file
+	    open(INSTITUTIONSFILE, ">> $institutions_file") or &logger
+		('1',"Can not open inst_file $institutions_file file $!",
+		 $log_file);
+
+	    if ($c_n=~/uk/i) {
+		$c_n_title = 'united Kingdom';
+	    } elsif ($c_n=~/usa/i) {
+		$c_n_title = 'united States';
+	    }elsif ($c_n=~/assocs/i) {
+		$c_n_title = 'associations and Societies';
+	    } else {
+		$c_n_title = $c_n;
+	    }
+
+	print INSTITUTIONSFILE join '',$headstart,
+	    '<TITLE> Institutions from:',ucfirst($c_n_title),' </TITLE>'
+		,$headend,$title_header,'<P><H2>',ucfirst($c_n_title),
+		'</H2><HR>';
+	}
+
+	if($primary_name ne $primary_name_before) {
+
+	    if ($secondary_name) {
+		print INSTITUTIONSFILE "<B>$primary_name</B><BR>\n";
+	    } else {
+		print INSTITUTIONSFILE 
+		    "<B><A HREF=data/$i_code.html>$primary_name</A></B><BR>\n";
+	    }
+	    undef $secondary_name_before;
+	}
+
+	if($secondary_name ne $secondary_name_before) {
+
+	    if ($tertiary_name) {
+		print INSTITUTIONSFILE join '','&nbsp;' x 7
+		    ,"$secondary_name<BR>\n";
+	    } else {
+		print INSTITUTIONSFILE join '','&nbsp;' x 7,
+		"<A HREF=data/$i_code.html>$secondary_name</A><BR>\n";
+	    }
+	}
+
+	if ($tertiary_name) {
+	    print INSTITUTIONSFILE join '','&nbsp;' x 14,
+	    "<A HREF=data/$i_code.html>$tertiary_name</A><BR>\n";
+	}
+
+	$primary_name_before = $primary_name if $primary_name;
+	$secondary_name_before = $secondary_name if $secondary_name;
+	$tertiary_name_before = $tertiary_name if $secondary_name;
+
+	undef $primary_name;
+	undef $secondary_name;
+	undef $tertiary_name;
+
+	$c_n_before = $c_n;
+    }
+
+#
+# writes alphabet data
+
+    $alphabet = join '',$data_tmp,'/Institutions/alphabet.html';
+
+    open(ALPHABET,"> $alphabet") or &logger
+	('1',"Can not open alphabet $alphabet file $!",$log_file);
+
+    print ALPHABET join '',$headstart,
+    '<TITLE>Countries listed alphabetically</TITLE>',$headend,$title_header,
+    '<P>';
+
+    foreach $c_n (sort @country_names) {
+	$c_n =~ /([^ ]+)/;
+	$c_nn = $1; undef $1;
+
+	$c_n = 'associations and Societies' if $c_nn eq 'assocs';
+	if ($c_nn eq uk) {
+	    $c_nn = 'UK';
+	    $c_n = 'United Kingdom';
+	} elsif ($c_nn eq usa) {
+	    $c_n = 'United States';
+	}
+
+	if ($c_n) {
+	    print ALPHABET '<LI>';
+	    print ALPHABET '<B>' if $countryhits{$c_nn} >= 50;
+	    print ALPHABET join '','<A HREF=',$c_nn,'.html>',ucfirst($c_n),
+	    '</A>&nbsp;&nbsp;[',$countryhits{$c_nn};
+
+	    if ($countryhits{$c_nn} >= 2) {
+		print ALPHABET join '',' entries]';
+	    } else {
+		print ALPHABET join '',' entry]';
+	    }
+	    print ALPHABET '</B>' if $countryhits{$c_nn} >= 50;
+	}
+    }
+    print ALPHABET "<P>",$endhtml;
+
+#
+# writes code data
+
+    $codes = join '',$data_tmp,'/Institutions/codes.html';
+
+    open(CODES,"> $codes") or &logger
+	('1',"Can not open codes $codes file $!",$log_file);
+
+    print CODES join '',$headstart,
+    '<TITLE>Countries listed by codes</TITLE>',$headend,$title_header,
+    '<P>';
+
+    foreach $c_c (sort keys %COUNTRYcodes::COUNTRY) {
+	next if $COUNTRYcodes::COUNTRY{$c_c} =~ /not available/i;
+
+	$COUNTRYcodes::COUNTRY{$c_c} =~ /([^ ]+)/;
+	$c_cn = $1; undef $1;
+
+	if ($c_cn eq uk) {
+	    $c_cn = 'UK';
+	    $c_c = 'United Kingdom';
+	} elsif ($c_cn eq usa) {
+	    $c_c = 'usa';
+	}
+	print CODES join '','<A HREF=',$c_cn,'.html>',$c_c,'</A> | ';
+    }
+    print CODES "<P>",$endhtml;
+
+#
+# writes continental data
+
+    $continents = join '',$data_tmp,'/Institutions/continents.html';
+
+    open(CONTINENTS,"> $continents") or &logger
+	('1',"Can not open codes $continents file $!",$log_file);
+
+    print CONTINENTS join '',$headstart,
+    '<TITLE>Countries listed by continent</TITLE>',$headend,$title_header,
+    '<P><TABLE WIDTH="100%"><TR><TD>AFRICA</TD><TD>AMERICA</TD><TD>ASIA</TD><TD>EUROPE
+     </TD><TD>OCEANIA</TD></TR>';
+
+    for ($i_n = 0 ; $i_n <= $#COUNTRYcodes::europe ; $i_n++) {
+
+	undef $i_n_l;
+
+	if ($COUNTRYcodes::africa[$i_n]) {
+	    $COUNTRYcodes::africa[$i_n] =~ /([^ ]+)/;
+	    $i_af = $1; undef $1;
+	    $i_n_l .= join '','<TR><TD><A HREF=',$i_af,
+	    '.html>',ucfirst($COUNTRYcodes::africa[$i_n]),'</A></TD>' ;
+	} else {
+	    $i_n_l .= '<TR><TD></TD>';
+	}
+
+	if ($COUNTRYcodes::america[$i_n]) {
+	    $COUNTRYcodes::america[$i_n] =~ /([^ ]+)/;
+	    $i_am = $1; undef $1;
+	    $i_n_l .= join '','<TD><A HREF=',$i_am,
+	    '.html>',ucfirst($COUNTRYcodes::america[$i_n]),'</A></TD>';
+	} else {
+	    $i_n_l .= '<TD></TD>';
+	}	
+
+
+	if ($COUNTRYcodes::asia[$i_n]) {
+	    $COUNTRYcodes::asia[$i_n] =~ /([^ ]+)/;
+	    $i_as = $1; undef $1;
+	    $i_n_l .= join '','<TD><A HREF=',$i_as,
+	    '.html>',ucfirst($COUNTRYcodes::asia[$i_n]),'</A></TD>';
+	} else {
+	    $i_n_l .= '<TD></TD>';
+	}	
+
+	if ($COUNTRYcodes::europe[$i_n]) {
+	    $COUNTRYcodes::europe[$i_n] =~ /([^ ]+)/;
+	    $i_eu = $1; undef $1;
+	    $i_n_l .= join '','<TD><A HREF=',$i_eu,
+	    '.html>',ucfirst($COUNTRYcodes::europe[$i_n]),'</A></TD>';
+	} else {
+	    $i_n_l .= '<TD></TD>';
+	}	
+
+	if ($COUNTRYcodes::oceania[$i_n]) {
+	    $COUNTRYcodes::oceania[$i_n] =~ /([^ ]+)/;
+	    $i_oc = $1; undef $1;
+	    $i_n_l .= join '','<TD><A HREF=',$i_oc,
+	    '.html>',ucfirst($COUNTRYcodes::oceania[$i_n]),'</A></TD></TR>';
+	} else {
+	    $i_n_l .= '<TD></TD></TR>';
+	}	
+	    
+
+	print CONTINENTS $i_n_l;
+
+    }
+    print CONTINENTS "</TABLE><P>",$endhtml;
+}
+
+sub make_persons_int {
+    $pf = join '',$data_tmp,'/Person',$file_names{'Person'},'.html';
+
+    undef $sTmpPersonsTemplate;
+
+    foreach (A..Z) {
+	if ($Initials{lc($_)}) {
+	    $sTmpPersonsTemplate .=  join '','<A HREF="#',$_,'">',$_,'</A> |';
+	} else {
+	    $sTmpPersonsTemplate .=  join '',$_,' |';
+	}
+    }
+
+    $sTmpPersonsTemplate .=  $messages{13};
+
+    foreach (sort keys %Authors) {
+
+	m/^(\w)/i;
+	$initial_now = $1;
+
+	if ($initial_now ne $initial_before) {
+	    $sTmpPersonsTemplate .=  join '','<P><A NAME="',uc $initial_now,'">'
+		,$initial_now,'</A><P>';
+	}
+
+	$sTmpPersonsTemplate .=  join '','<A HREF="',$wwwdataaliasdir,'/Persons/'
+	    ,$Authors{$_},'.html">',$_,'</A><BR>';
+
+	$initial_before = $initial_now;
+    }
+
+    $PERS_PAGE = $sPersonsTemplate;
+
+    open(PERS,"> $pf") or logger('1',"Can not open $p_file $!",$log_file);
+
+    $PERS_PAGE =~ s/\{main\}/$sTmpPersonsTemplate/g;
+    $navigation = join '','<a href="',$wwwdataaliasdir,'">Home</a> >> Authors </a> ';
+    $PERS_PAGE =~ s/\{Navigation\}/$navigation/g;
+    $PERS_PAGE =~ s/\{date\}/$date/g;
+    $PERS_PAGE =~ s/\{doctitle\}/\<title\> Authors \<\/title\>/g;
+    undef $navigation;
+
+    print PERS $PERS_PAGE;    close(PERS);
+}
+
+sub make_paper_link {
+    my ($p_h,$p_t) = @_;
+    $p_h =~/(\w{3}):(\w{6}):([^ \n\r]+)/i;
+    my $ly = join '','<A HREF="',$wwwdataaliasdir,'/',$p_t,'s/'
+	,$1,$2,$3,'.html">',$p_h,'</A>';
+    $ly;
+}
+
+sub m_a_l {
+    my ($a_c,$a_s,$a_z) = @_;
+    $a_z = $a_c if ! $a_z;
+    $a_l = join '',"\n",'<A HREF="',$a_s,$a_c,'">',$a_z,'</A>';
+    $a_l;
+}
+
+sub m_p_l {
+    my ($p_c,$p_s) = @_;
+    my $p_out;
+
+####    print "Doing m_p_l $p_s \n";
+
+    if ($p_s =~ /paper/i or $p_s =~ /article/i or $p_s =~ /software/i) {
+
+	$p_c =~ /$AUTHORITY:(\w{3}):(\w{6}):([^ \n\r]+)/i;
+	$p_s =~ tr/[A-Z]/[a-z]/;
+	$p_s_n = join '',ucfirst $p_s,'s';
+
+	foreach $di (keys %persons_dirs) {
+	    $p_out_full_tmp = join '',$di,'/',$p_s_n,'/',$1,$2,$3,'.html' ;
+	    if ( -e $p_out_full_tmp) {
+		$p_t = $TITLEINDEX{$p_c};
+		$p_out = join '','<A HREF="',$persons_dirs{$di},'/',$p_s_n,'/'
+		    ,$1,$2,$3,'.html">',$p_t,' </A>';
+		$p_out_full = $p_out_full_tmp;
+		last;
+	    } else {
+	    }
+    }
+    } elsif ($p_s =~ /series/i) {    
+	$p_c =~ /$AUTHORITY:(\w{3}):(\w{6})/i;
+	foreach $di (keys %persons_dirs) {
+	    $p_out_full_tmp = join '',$di,$1,$2,'.html';
+	    if ( -e $p_out_full_tmp) {
+		open(PERIN,"<$p_out_full_tmp");
+		while ( <PERIN> ) {
+		    if (/\<title\> (.*) \</i) {
+######			print "************* Looking at $1\n";
+			$p_t = $1;
+			last;
+		    }
+		}
+
+#####		print "Not title in $p_out_full_tmp \n" if ! $p_t;
+		$p_out = join '','<A HREF="',$persons_dirs{$di},'/',$1,$2,'.html">'
+		    ,$p_t,' </A>';
+		$p_out_full = $p_out_full_tmp;
+		next;
+	    }
+	}
+    }
+    ($p_out, $p_out_full);
+}
+
+## unsupported
+sub make_full_inst {
+
+    my $i_ha = @_[0];
+    $i_ha =~ /$AUTHORITY:(\w{3}):(\w{5})(\w{2})/i;
+
+    $i_archive = $1; $i_series = $2.$3; $c_code = $3;
+
+    my $i_file = join '',$data_tmp,'/Institutions/data/',$i_series,'.html';
+
+    open(INST,"> $i_file") or &logger ('1',"Can not open $i_file $!",$log_file);
+    my $i_rr=$headstart.'<TITLE> '.$i_title.' </TITLE>';
+    $i_rr .= join '', $headend,"\n",$title_header,"\n",$start_record,"\n";
+
+    $i_rr .= join '','<H3>',$T->{primary}[0]{name},'</H3><H3>',
+    $T->{secondary}[0]{name},'</H3><H3>',$T->{tertiary}[0]{name},'</H3><P><HR>';
+
+    $s_n_t = $T->{secondary}[0]{name};
+    $t_n_t = $T->{tertiary}[0]{name};
+
+    if ($T->{tertiary}[0]{name}[0]{english}) {
+	$i_rr .= join '','<B>Translation:</B> ',$T->{tertiary}[0]{name}[0]{english},"<BR>\n";
+    } elsif ($T->{secondary}[0]{name}[0]{english}) {
+	$i_rr .= join '','<B>Translation:</B> ',$T->{secondary}[0]{name}[0]{english},"<BR>\n";
+    } elsif ($T->{primary}[0]{name}[0]{english}) {
+	$i_rr .= join '','<B>Translation:</B> ',
+	$T->{primary}[0]{name}[0]{english},"<BR>\n";
+    }
+
+    foreach $i_field (@i_fields) {
+
+	if ($T->{tertiary}[0]{$i_field} ne '') {
+
+	     if ($i_field eq 'homepage') {
+		$T->{tertiary}[0]{homepage} = make_i_link
+		    ($T->{tertiary}[0]{homepage},'');
+	    } elsif ($i_field eq 'email'){
+		$T->{tertiary}[0]{email} = make_i_link
+		    ($T->{tertiary}[0]{email},'mailto:');
+	    } elsif ($i_field eq 'location'){
+		$i_location = $T->{tertiary}[0]{location} 
+		if $T->{tertiary}[0]{location};
+		next;
+	    }
+
+	    $i_rr .= join '','<B>',ucfirst($i_field),':</B> ',
+	    $T->{tertiary}[0]{$i_field},"<BR>\n";
+
+	 } elsif ($T->{secondary}[0]{$i_field} ne '') {
+
+	     if ($i_field eq 'homepage') {
+		$T->{secondary}[0]{homepage} = make_i_link
+		    ($T->{secondary}[0]{homepage},'');
+	    } elsif ($i_field eq 'email'){
+		$T->{secondary}[0]{email} = make_i_link
+		    ($T->{secondary}[0]{email},'mailto:');
+	    } elsif ($i_field eq 'location'){
+		$i_location = $T->{secondary}[0]{location} 
+		if $T->{secondary}[0]{location};
+		next;
+	    }
+
+	    $i_rr .= join '','<B>',ucfirst($i_field),':</B> ',
+	    $T->{secondary}[0]{$i_field},"<BR>\n";
+
+	} elsif ($T->{primary}[0]{$i_field} ne '') {
+
+	    if($i_field eq 'homepage') {
+		$T->{primary}[0]{homepage} =~ m@\.([^\/]+)@;
+		$i_url_t = $1;
+		$i_url_t =~ tr/[A-Z]/[a-z]/d;
+		$i_url_t =~ s/\:(\d)+//gi;
+
+		$T->{primary}[0]{homepage} = make_i_link
+		    ($T->{primary}[0]{homepage},'');
+	    } elsif ($i_field eq 'email') {
+		$T->{primary}[0]{email} = make_i_link
+		    ($T->{primary}[0]{email},'mailto:');
+	    } elsif ($i_field eq 'location') {
+		$i_location = $T->{primary}[0]{location} 
+		if $T->{primary}[0]{location};
+
+		next;
+	    }
+	    $i_rr .= join '','<B>',ucfirst($i_field),':</B> ',
+	    $T->{primary}[0]{$i_field},"<BR>\n";
+	}
+    }
+
+    $c_c = $COUNTRYcodes::COUNTRY{$c_code};
+
+    $countryhits{$c_c}++;
+
+    $i_rr .= join '','<B>Location:</B> ',$i_location,' <A HREF="../',
+    $c_c,'.html">(',ucfirst($c_c),')</A><P>';
+
+    $i_rr .= join '','<B>Handle:</B> ',$T->{handle},"<BR><P>\n",$endhtml;
+
+    $t_i_s = join '00',$c_c,$T->{primary}[0]{name},$s_n_t,$t_n_t,$T->{handle};
+
+    undef $c_c,$s_n_t;
+    undef $i_location;
+
+    print INSTTEMP $t_i_s;
+    print INST $i_rr;
+
+}
+
+sub make_i_link {
+    my ($i_url,$i_proto) = @_;
+    $i_url = join '','<A HREF=',$i_proto,$i_url,'> ',$i_url,'</A>';
+    $i_url;
+}
+
+sub hcode {
+    my $tmp_handle = $_[0];
+
+    $tmp_handle =~ s/RePEc\:per\://i;
+    $tmp_handle =~ s/[\:\-]//gi;
+
+    $tmp_handle =~ tr/[a-z]/[A-Z]/;
+
+    return join( "", unpack('C*',$tmp_handle) );
+}
+
+sub make_full_pers {  
+    $p_ha = $_[0];
+
+    my $workplace_full_person_current;
+    my $links_full_person_current;
+    my $main_full_person_current = $main_full_person;
+    my $start_full_person_current = $start_full_person;
+    my $end_full_person_current = $end_full_person;
+    my @author_work;
+
+    $count_author++;
+    $T->{'name-full'}[0]=~/^(\w)/;
+
+    $Initials{lc($1)} = 1;
+
+    $T->{email}[0] = m_a_l($T->{email}[0],"mailto:");
+    $T->{homepage}[0] = m_a_l($T->{homepage}[0]);
+###    print "Working with $T->{handle}[0]\n";
+###    print "ECHO -> 0 $#{ $T->{'workplace-institution'} }\n";
+####    print "ECHO -> 1 $T->{'workplace-institution'}\n";
+####    for ($wi == 0 ; $wi <= $#{ $T->{'workplace-institution'} } ; $wi++) {
+    foreach $wi (0 .. $#{ $T->{'workplace-institution'} } ) {
+####	print "ECHO $T->{handle}[0] $wi 1 $T->{'workplace-institution'}[$wi]\n";
+	if ($T->{'workplace-institution'}[$wi] and $edirc_url) {
+	    $T->{'workplace-institution'}[$wi] =~ /edi:(\w{7})/;
+	    $w_i_u = join '',$edirc_url,'/',$1,'.html';
+	    $T->{'workplace-institution'}[$wi] = m_a_l($w_i_u);
+####	print "ECHO $T->{handle}[0] $wi 2 $T->{'workplace-institution'}[$wi]\n";
+	$main_full_person_current =~ s#\<\!\-\- workplace-institution \-\-\>#$T->{'workplace-institution'}[$wi]\<br\>\<\!\-\- workplace-institution \-\-\>#gi;
+	$start_full_person_current =~ s#\<\!\-\- workplace-institution \-\-\>#$T->{'workplace-institution'}[$wi]\<br\>\<\!\-\- workplace-institution \-\-\>#gi;
+	$end_full_person_current =~ s#\<\!\-\- workplace-institution \-\-\>#$T->{'workplace-institution'}[$wi]\<br\>\<\!\-\- workplace-institution \-\-\>#gi;
+	}
+    }
+
+    foreach (@person) {
+	$main_full_person_current =~ s#\<\!\-\- $_ \-\-\>#$T->{$_}[0]#gi;
+	$start_full_person_current =~ s#\<\!\-\- $_ \-\-\>#$T->{$_}[0]#gi;
+	$end_full_person_current =~ s#\<\!\-\- $_ \-\-\>#$T->{$_}[0]#gi;
+    }
+
+    foreach $p_l (@person_links) {
+	if ($T->{lc($p_l)}[0]) {
+	    $Aj = 0;
+	    for ($Aj == 0 ; $Aj <= $#{ $T->{lc($p_l)} }; $Aj++) {
+		undef $p_link;
+		undef $p_link_full;
+		$p_l =~ m/([^\-]+)\-(.*)/;
+
+		($p_link, $p_link_full) = m_p_l($T->{lc($p_l)}[$Aj],lc($2));
+
+		next if ! -e $p_link_full;
+		next if ! $p_link;
+
+		if (-e $p_link_full) {
+		    $links_full_person_current .= $links_full_person;
+		    $links_full_person_current=~s#ATRIBUTE\-NAME#$p_l#i;
+		    $links_full_person_current=~s#ATRIBUTE\-CONTENT#$p_link#i;
+		}
+	    }
+	}
+    }
+
+    for $w ( @{ $T->{workplace} } ) {
+	foreach $kk ( @workplace ) {
+	    $atribute_name = join '','Workplace-',ucfirst $kk;
+	    if ($kk=~/email/i and $w->{$kk}[0]) {
+		$w->{$kk}[0] = m_a_l($w->{$kk}[0],'mailto:');
+	    } elsif ($kk=~/homepage/i and $w->{$kk}[0]) {
+		$w->{$kk}[0] = m_a_l($w->{$kk}[0]);
+	    }
+	    if ($w->{$kk}[0]) {
+		$workplace_full_person_current .= $workplace_full_person;
+		$workplace_full_person_current=~s#ATRIBUTE\-NAME#$atribute_name#i;
+		$workplace_full_person_current=~s#ATRIBUTE\-CONTENT#$w->{$kk}[0]#i;
+	    }
+	}
+	next;
+    }
+
+    $counter = $templatetype.'number';
+    $p_str = hcode(uc($p_ha));
+    $logec_link = '<P><A HREF="http://logec.hhs.se/HoPEc/'.$p_str.'.htm">Statistics for this person</A><P>';
+
+#
+# Now we put all together...
+    if ($links_full_person_current and $all_persons eq '0') {
+## we get person file code
+	$p_str = hcode(uc($p_ha));    
+
+	$Authors{$T->{'name-full'}[0]}= $p_str;
+
+	$sTmpPersonsTemplate = join '',$start_full_person_current
+	,$main_full_person_current,$workplace_full_person_current
+	,$links_full_person_current,$logec_link,$end_full_person_current;
+
+	&SavePerson;
+
+    } elsif ($all_persons eq '1') {
+	$p_str = hcode(uc($p_ha));    
+
+	$Authors{$T->{'name-full'}[0]}= $p_str;
+
+	$sTmpPersonsTemplate = join '',$start_full_person_current
+	    ,$main_full_person_current,$workplace_full_person_current
+		,$links_full_person_current,$logec_link,$end_full_person_current;
+	&SavePerson;
+    }
+}
+
+sub SavePerson {
+
+    $PERS_PAGE = $sPersonsTemplate;
+
+    $p_file = join '',$data_tmp,'/Persons/',$p_str,'.html';
+    open(PERS,"> $p_file") or logger('1',"Can not open $p_file $!",$log_file);
+
+    $PERS_PAGE =~ s/\{main\}/$sTmpPersonsTemplate/g;
+    $navigation = join '','<a href="',$wwwdataaliasdir,'">Home</a> >> <a href="'
+	,$wwwdataaliasdir,
+	'/PersonInfo.html"> Authors </a> >> ',$T->{'name-full'}[0];
+    $PERS_PAGE =~ s/\{Navigation\}/$navigation/g;
+    $PERS_PAGE =~ s/\{date\}/$date/g;
+    undef $navigation;
+
+    print PERS $PERS_PAGE;
+
+    close(PERS);
+    $$counter++; 
+
+}
+
+
+sub CloseSeries {
+    my ($sTmpA,$sTmpS) = @_;
+    my $sTSD;
+    
+####    print "-- Closing $sTmpA $sTmpS\n";
+
+    $fir_page_file = join '',$sTmpA,$sTmpS,'.html' ;
+    $end_page_file = join '',$sTmpA,$sTmpS,'e.html' ;
+    $pre_page_file = join '',$sTmpA,$sTmpS,$pag_count - 1,'.html' ;
+    $pre_page_file =~ s/([a-z])0\.html/$1\.html/g;
+    $next_page_file = join '',$sTmpA,$sTmpS,$pag_count + 1,'.html' ;
+
+    undef $series_string;
+    $series_string .= join '','<a href="',$fir_page_file,'"><B>',$messages{'14'},'</B></A>&nbsp;&nbsp;'
+	if $pag_count >= 1;
+    $series_string .= join '','<a href="',$pre_page_file,'"><B>',$messages{'15'},'</B></A>&nbsp;&nbsp;'
+	unless $pag_count <= 0;
+    $series_string .= join '','<a href="',$next_page_file,'"><B>',$messages{'16'},'</B></A>&nbsp;&nbsp;'
+	if $tem_count == $user_tem_count;
+    $series_string .= join '','<a href="',$end_page_file,'"><B>',$messages{'17'},'</B></A>&nbsp;&nbsp;'
+	if $sTmpS eq $series;
+
+    $sTSD .= join '','<p align="left">',$messages{'2'},' ',$series_string
+	,'</p>',"\n"  if $series_string ;
+
+    $sTSD .= join '',
+    '<INPUT TYPE="submit" VALUE="',$messages{'1'},'"></FORM><P>' if $rewe_cgi;
+
+###    print "-------> BEFORE: \n $sTSD \n<-------";
+
+    $sTSD .= &add_publisher_info($sTmpA,$sTmpS);
+
+    $sTSD .= join '','<p>',$messages{3},' ',
+    $Series{$sTmpA.$sTmpS}{'maintainer-name'}[0],
+    '(',m_a_l($Series{$sTmpA.$sTmpS}{'maintainer-email'}[0],
+    'mailto:',$Series{$sTmpA.$sTmpS}{'maintainer-email'}[0]),')</p>';
+
+###    print "*********".m_a_l($Series{$archivo_before.$series_before}{'maintainer-email'}[0],'mailto:',$Series{$archivo_before.$series_before}{'maintainer-name'}[0])." \n\n";
+
+    $sTSD .= join '','<p>',$messages{4},
+    m_a_l($Series{$sTmpA.$sTmpS}{'notification'}[0],'mailto:'),'</p>'
+	if $Series{$sTmpA.$sTmpS}{notification}[0];
+
+###		    print "-----> \n $sTSD \n <-------\n\n";
+###		    exit(0);
+
+    $sTSD;
+}
+
+
+sub OpenSeries {
+
+    my $tt = $_[0];
+
+###    print "---> $tt\b";
+###    print "--->$file_names{$tt}\n";
+
+
+#
+#       open series file
+    open(SERIESFILE, ">> $series_file") ;
+
+    $sTmpSeriesPage = $sSeriesPageTemplate;
+
+    $sTmpSeriesPage =~ s#\{doctitle\}#<title> $Series{$archivo.$series}{$pu_na}[0]{name}[0] -- $Series{$archivo.$series}{name}[0] </title>#i;
+
+    $navigation = join '','<a href="',$wwwdataaliasdir,'">Home</a> >> <a href="'
+	,$wwwdataaliasdir,'/',$tt,$file_names{$tt}
+	,'.html"> ',$series_mes{$tt},' </a> >> '
+	,$Series{$archivo.$series}{name}[0];
+
+    $sTmpSeriesPage =~ s@\{Navigation\}@$navigation@;
+    $sTmpSeriesPage =~ s@\{date\}@$date@;
+    undef $navigation;
+
+    $fi = lc($Ed{$archivo.$series});
+
+    if ($Series{$archivo.$series}{url}[0]) {
+	$sSeriesData .= join '','<p align="center"><b>',
+	m_a_l($Series{$archivo.$series}{url}[0],'',$Series{$archivo.$series}{name}[0])
+	    ,'</b>';
+    } else {
+	$sSeriesData .= join '','<p align="center"><b>',$Series{$archivo.$series}{name}[0],'</b>';
+    }
+
+    $sSeriesData .= join '','<br>'
+	,$Series{$archivo.$series}{$fi}[0]{name}[0],'</p>';
+		    
+    $sSeriesData .= '<p> {BANER} </p>';
+
+    $sSeriesData .= join '','<form action=',$rewe_cgi,' method=post>
+      <input type=hidden name=RePEc_Dir value=',$RedifDir,'>
+      <input type=hidden name=RePEc_Conf value=',$rewe_cgi_conf,'>
+      <p><input type="submit" value="',$messages{'1'},'"></p>'
+	  if $rewe_cgi ;
+
+}
+
+END { rmtree($rewe_pid,$verbose,1); # Deletes PID file  
+}

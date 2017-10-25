@@ -1,0 +1,34 @@
+Template-Type: ReDIF-Series 1.0
+Name: Discussion  papers
+Provider-Name: Urban Institute, Program on Retirement Policy
+Provider-Postal: Urban Institute, IBP
+                              2100 M ST NW
+                                Washington, DC  20037
+Provider-Institution: RePEc:edi:urbanus
+Maintainer-Name: Nadia Karamcheva
+Maintainer-Email: nkaramcheva@urban.org
+Handle: RePEc:rbn:wpaper
+
+Template-Type: ReDIF-Series 1.0
+Name: Project Reports
+Provider-Name: Urban Institute, Program on Retirement Policy
+Provider-Postal: Urban Institute, IBP
+                              2100 M ST NW
+                                Washington, DC  20037
+Provider-Institution: RePEc:edi:urbanus
+Maintainer-Name: Nadia Karamcheva
+Maintainer-Email: nkaramcheva@urban.org
+Handle: RePEc:rbn:report
+
+
+Template-Type: ReDIF-Series 1.0
+Name: Issue Briefs
+Provider-Name: Urban Institute, Program on Retirement Policy
+Provider-Postal: Urban Institute, IBP
+                              2100 M ST NW
+                                Washington, DC  20037
+Provider-Institution: RePEc:edi:urbanus
+Maintainer-Name: Nadia Karamcheva
+Maintainer-Email: nkaramcheva@urban.org
+Handle: RePEc:rbn:briefs
+

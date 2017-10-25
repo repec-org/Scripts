@@ -1,0 +1,8 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:hom
+Name: Institute of SocioEconomics, University of Hamburg
+#Maintainer-Email: braham@econ.uni-hamburg.de
+Maintainer-Email: EconPapers@oru.se
+Description: This archive contains research output of members of the Institute of SocioEconomics at the University of Hamburg, Germany, and their collaborators, as well as the journal Homo Oeconomicus.
+#URL: http://www.rrz.uni-hamburg.de/holler/RePEc/hom/
+URL: ftp://repec.oru.se/RePEc/legacy/hom/

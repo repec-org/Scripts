@@ -1,0 +1,38 @@
+Template-type: ReDIF-Series 1.0
+Name: Scientia Moralitas Journal
+Description: SCIENTIA MORALITAS is a multidisciplinary journal publishing a wide range of high-quality papers in the field of economics, philosophy, juridical, political and communication sciences, religion, history, education, theology, human rights, current events, legal and social issues, medicine, human behavior and so on.
+Provider-Name: Scientia Moralitas, Research Institute
+Maintainer-Name: Eduard David
+Maintainer-Email: scientia.moralitas@email.com
+Editor-Name: Nelu Burcea
+Editor-Email: nelu.burcea@email.com
+Type: ReDIF-Article
+Handle: RePEc:smo:journl
+ISSN: 2472-5358
+
+Template-type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: Research Association for Interdisciplinary Studies
+Provider-Homepage: http://rais.education/ 
+Maintainer-Name: Eduard Burcea
+Maintainer-Email: rais.education@email.com
+Type: ReDIF-Paper
+Handle: RePEc:smo:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: Research Association for Interdisciplinary Studies
+Provider-Homepage: http://rais.education/ 
+Maintainer-Name: Eduard Burcea
+Maintainer-Email: rais.education@email.com
+Type: ReDIF-Paper
+Handle: RePEc:smo:gpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working papers
+Provider-Name: Research Association for Interdisciplinary Studies
+Provider-Homepage: http://rais.education/ 
+Maintainer-Name: Eduard Burcea
+Maintainer-Email: rais.education@email.com
+Type: ReDIF-Paper
+Handle: RePEc:smo:mpaper

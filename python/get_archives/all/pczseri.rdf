@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Polish Journal of Management Studies
+Provider-Name: Czestochowa Technical University, Department of Management
+Provider-Homepage: http://www.pjms.zim.pcz.pl/edi/
+Provider-Institution: RePEc:edi:wzpczpl
+Maintainer-Name: Paula Bajdor
+Maintainer-Email: paula.bajdor@googlemail.com
+Type: ReDIF-Article
+Handle: RePEc:pcz:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Advanced Logistic systems
+Provider-Name: University of Miskolc, Department of Material Handling and Logistics
+Provider-Homepage: http://www.als.zim.pcz.pl/edi/
+Provider-Institution: RePEc:edi:wzpczpl
+Maintainer-Name: Paula Bajdor
+Maintainer-Email: paula.bajdor@googlemail.com
+Type: ReDIF-Article
+Handle: RePEc:pcz:alspcz

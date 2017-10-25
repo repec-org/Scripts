@@ -1,0 +1,27 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Center for Agricultural and Rural Development (CARD) Publications
+Description: Center for Agricultural and Rural Development (CARD) Publications
+Provider-Name: Center for Agricultural and Rural Development (CARD) at Iowa State University
+Provider-Homepage: http://www.card.iastate.edu/
+Provider-Institution: RePEc:edi:caiasus
+Maintainer-Email: card-web@iastate.edu
+Handle: RePEc:ias:cpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Food and Agricultural Policy Research Institute (FAPRI) Publications
+Description: Food and Agricultural Policy Research Institute (FAPRI) Publications
+Provider-Name: Food and Agricultural Policy Research Institute (FAPRI) at Iowa State University
+Provider-Homepage: http://www.fapri.iastate.edu/
+Provider-Institution: RePEc:edi:faiasus
+Maintainer-Email: card-web@iastate.edu
+Handle: RePEc:ias:fpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Midwest Agribusiness Trade Research and Information Center (MATRIC) Publications
+Description: Midwest Agribusiness Trade Research and Information Center (MATRIC) Publications
+Provider-Name: Midwest Agribusiness Trade Research and Information Center (MATRIC) at Iowa State University
+Provider-Homepage: http://www.card.iastate.edu/
+Provider-Institution: RePEc:edi:maiasus
+Maintainer-Email: card-web@iastate.edu
+Handle: RePEc:ias:mpaper

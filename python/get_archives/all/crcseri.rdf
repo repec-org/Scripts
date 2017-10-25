@@ -1,0 +1,13 @@
+Template-type: ReDIF-Series 1.0
+Name: CIRIEC Working Papers
+Description: CIRIEC's working papers are essentially intended to quickly disseminate the contributions issued from the work of the scientific commissions and working groups. 
+They also welcome research contributions from members of CIRIEC's scientific network or from researches stemming from national sections of CIRIEC. 
+The working papers are published in one of the three official languages of CIRIEC (English, French, German) under the responsibility of the International Scientific Council. The latter has mandated Fabienne Fecher, Rafael Chaves and Gabriel Obermann as scientific editors. 
+
+Provider-Name: CIRIEC - Université de Liège 
+Provider-Homepage: http://www.ciriec.ulg.ac.be/
+Provider-Institution: RePEc:edi:ciulgbe
+Maintainer-Name: CIRIEC
+Maintainer-Email: ciriec@ulg.ac.be
+Type: ReDIF-Paper
+Handle: RePEc:crc:wpaper

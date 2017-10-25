@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: TWI Diskussionsbeitraege
+Provider-Name: Thurgauer Wirtschaftsinstitut, Universit�t Konstanz
+Provider-Homepage: http://www.twi-kreuzlingen.ch/
+Provider-Institution: RePEc:edi:twikrch
+Maintainer-Name: Gregor Govtvan
+Maintainer-Email: govtvan@twi-kreuzlingen.ch
+Type: ReDIF-Paper
+Handle: RePEc:twi:diskus
+
+Template-type: ReDIF-Series 1.0
+Name: TWI Research Paper Series
+Provider-Name: Thurgauer Wirtschaftsinstitut, Universit�t Konstanz
+Provider-Homepage: http://www.twi-kreuzlingen.ch/
+Provider-Institution: RePEc:edi:twikrch
+Maintainer-Name: Gregor Govtvan
+Maintainer-Email: govtvan@twi-kreuzlingen.ch
+Type: ReDIF-Paper
+Handle: RePEc:twi:respas

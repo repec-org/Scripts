@@ -1,0 +1,17 @@
+Template-type: ReDIF-Series 1.0
+Name: MIT Press Books	
+Provider-Name: The MIT Press
+Provider-Homepage: http://mitpress.mit.edu
+Maintainer-Name: Kristin Waites	
+Maintainer-Email: kwaites@mit.edu
+Type: ReDIF-Book
+Handle: RePEc:mtp:titles
+
+Template-type: ReDIF-Series 1.0
+Name: MIT Press Book Chapters	
+Provider-Name: The MIT Press
+Provider-Homepage: http://mitpress.mit.edu
+Maintainer-Name: Kristin Waites	
+Maintainer-Email: kwaites@mit.edu
+Type: ReDIF-Chapter
+Handle: RePEc:mtp:chapts

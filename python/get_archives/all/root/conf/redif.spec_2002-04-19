@@ -1,0 +1,752 @@
+###
+### ReDIF data format specification file
+###
+#
+# Brief history since 2000
+#
+# version revised by Thomas Krichel in July 2000
+# 
+# Book and Chapter templates added by Ivan Kurmanov, Jul 2001
+#
+# Format of this file is
+#
+# statement : <type> = <name> <block> '\n' (space and
+#                       tabulation characters insensitive)
+#             'type' = <typename> <typeblock>
+#             'cluster' = <clustername> <attrblock>
+#             'template' = <templatename> <attrblock>
+#
+# <type> : 'type' | 'cluster' | 'template' (case insensitive)
+# <name> : /[
+#
+# attribute_name[:[type][:[subtype][:[required flag][:[repeatable flag]]]]]
+#
+
+###
+### User-defined types (checking procedures)
+###
+
+###  July 27, 2000  change:
+
+###  The following defines a datatype "MIME_type" through
+###  preproc-essing aspect.  The following code is executed
+###  (eval-uated) each time a value ($value) of type MIME_type has
+###  just been read from a datafile.
+
+type = MIME_type / preproc {
+
+  ### strip whitespaces from the value
+  $value =~ s/^\s+|\s+$//;  
+
+  ### strip everything after the second slash
+  $value =~ s!(^[^/]+/[^/]+)/.*!$1!;  
+
+  ### exit if the value is empty
+  return 1 if $value eq ''; 
+
+  ### save the value 
+  my $v = $value;           
+
+  ### try loading the types list module
+
+#  eval { require( ReDIF::MIME_types ) }; 
+#  my $error = $@;
+#
+#  if ($error) { 
+#      ###  just another one try
+#      eval { require( MIME_types ) };
+#      $error = $@;
+#  };
+#
+#  if ( $error ){
+#
+#    &include_attrline;
+#    msg( "can't load MIME_types.pm file", 3 );     
+#
+#    ### clear the value
+#    $value = '';            
+#
+#    return 1;
+#  };
+#
+#  msg( "MIME types badly loaded", 3 ) 
+#        if not $ReDIF::MIME_types::LIST{'application/pdf'};
+#
+#  my $ok = 0;
+#
+#  ### check the MIME type
+#  if ( $ReDIF::MIME_types::LIST{$v} ) { 
+#    $ok = 1;
+#  } else {
+#    if( $v =~ /[A-Z]/ ) {
+#      if ( $ReDIF::MIME_types::LIST{ lc($v)} ) {   
+#        $ok  = 1;
+#        $value = lc $value;
+#  } } }
+#
+#  if ( not $ok ) {   
+#       if ($rr::Options{'MessageOut'}) {
+#	  &include_attrline;
+#
+#	  ###  issue a warning
+#	  msg "($file, $line): An invalid MIME-type used \"$v\"", 2; 
+#
+#      } else {
+#	  $value = '' ;
+#      };
+#  };
+
+  return 1;
+
+}
+
+
+##
+## Handles checking regular expression 
+##
+type = handle / check-regex {
+^[A-Za-z]+\:[a-zA-Z]+(\:[a-zA-Z0-9]+(\:[^\s\n]+)?)?$
+}
+
+# all handles types follow in alphabetic order
+type = archivehandle / check-regex {
+   ^(?:RePEc|ReLIS|mapin):[a-zA-Z]{3}$
+}
+
+# documenthandle to be used for paper, article and software
+type = documenthandle / check-regex {
+   ^(?:RePEc|ReLIS|mapin):[a-zA-Z]{3}:[a-zA-Z\d]{6}:[^\s\n]+$
+}
+
+type = institutionhandle / check-regex {
+   ^(?:RePEc|ReLIS|mapin):[a-zA-Z]{3}:[a-zA-Z\d]{7}$
+}
+
+type = personhandle / check-regex {
+   ^(?:RePEc|ReLIS|mapin):[a-zA-Z]{3}:\d{4}-[01]\d-[0-3]\d:[\w\-]+$
+}
+
+type = serieshandle / check-regex {
+   ^(?:RePEc|ReLIS|mapin):[a-zA-Z]{3}:[a-zA-Z\d]{6}$
+}
+
+
+##
+## all non-handle types, ordered alphabetically 
+##
+
+type = date / preproc {
+     return if $value eq '';
+     if ($value !~ /-/ ) {
+        $value =~ s/^(\d{4})(\d{2})$/$1-$2/;
+        $value =~ s/^(\d{4})(\d{2})(\d{2})/$1-$2-$3/; }
+     if ($value !~ /^\d{4}(-\d\d){0,2}$/ ) {
+
+        if ($rr::Options{'MessageOut'}) {
+              &include_attrline;
+              msg "($file, $line): A bad date value format: \"$value\"", 2;
+        } else {
+              $value = '' ;
+        } return 1; }
+}
+
+type = email / check-eval {
+ $value =~ /^[\+A-Z0-9\-\.\=\_]+\@[A-Z0-9\-\.\=\_]+\.[A-Z0-9\.\-\=]+$/i;
+}
+
+
+### this is now obsolete
+
+type = fileformat / preproc {
+     return if $value eq '';
+     if ($value !~ (\w+)/(\w*) ) {
+        if ($rr::Options{'MessageOut'}) {
+              &include_attrline;
+              msg "($file, $line): A bad file format value: \"$value\"", 2;
+        } else {
+              $value = '' ;
+        } return 1; }
+}
+
+type = JEL / preproc {
+     return 1 if $value eq '';
+
+     if ($value !~ /^[A-Za-z][0-9]{0,3}([,;:\.\s]+[A-Za-z][0-9]{0,3})*[,;:\.\s]*$/ ) {
+           if ($rr::Options{'MessageOut'}) {
+              &include_attrline;
+              msg "($file, $line): An invalid JEL value \"$value\"", 2;
+           } else {
+              $value = '' ;
+           } return 1; }
+     my $v = uc $value ;
+     my @J = split ( /[,;:\s\.]+/, $v );
+
+    if ( not require ReDIF::JELcodes )   {
+        msg( "can't load JELcodes.pm file", 3 );     }
+     $value = '';
+     my $J;
+     foreach $J (@J) {
+       	if( $J =~ /^([A-Z]\d{2})0$/ ) {
+	  $J = $1;
+	;}
+          if (exists $JELcodes::JEL{$J}) {
+             $value .= $J;
+             $value .= ' ';
+          } else {
+             msg "($file, $line): An invalid JEL code used \"$J\"", 2;
+     } }
+     chop $value; return 1;
+}
+
+# publication status type implements Sune's requirement that the
+# first word in the publication status should be either "published" or
+# "forthcoming"
+type = pubstat / check-eval     {
+  if (($value !~ /^Forthcoming/i) && ($value !~ /^Published/i)) {
+    return 0;
+  } else { return 1; }
+}
+
+# url type---almost according to RFC URI specification
+
+type = url / preproc {
+     if ($value =~ /\-\ [^\ \n]/ ) {
+          &include_attrline;
+          msg ("($file, $line): Do not split URL after dash!", 3) ;
+          return 1; }
+     $value =~ s/\s+|\n+//g;
+}
+
+
+type = URL / check-eval {
+ if ( ($value =~ /^(ftp|http):\/\//i) && ($value !~ /^(ftp|http):\/\//) ) {
+#        msg "($file, $line): URL capitalization is bad \"$value\"", 2;
+        $value =~ s/^Ftp/ftp/i;
+        $value =~ s/^Http/http/i;
+        ;}
+ $value =~ /^(URL:)?
+ (ftp|http|gopher)\:
+ \/\/[^\=\;\/\#\?\:\ \{\}\|\[\]\\\^\~\<\>]+
+ (\:[0-9]+)?
+ ([^\=\;\#\?\:\ \{\}\|\[\]\\\^\<\>]+)?
+ (\?[^\;\#\?\:\ \{\}\|\[\]\\\^\~\<\>]*)?
+ (\#[^\;\#\?\:\ \{\}\|\[\]\\\^\~\<\>]*)?$/x;
+}
+
+
+
+###  The following have been used for UPS proto-proto:
+
+###  (in conjunction with ReDIF/math_class_msc1991.pm file it provides
+###  checking for the mathematics classification codes of MSC1991 system)
+
+type = MSC1991 / preproc {
+     return 1 if $value eq '';
+
+     my $v = uc $value ;
+     my @C = split ( /[,;:\s\.]+/, $v );
+
+     eval { require ReDIF::math_class_msc1991 };
+     my $error = $@;
+
+     if ( $error ) {
+        msg( "can't load ReDIF/math_class_msc1991.pm file", 3 );    
+	$value = ''; 
+	return 1;
+     };
+
+     $value = '';
+     my $C;
+     foreach $C (@C) {
+
+          $C =~ /xx$//;
+          if (exists $msc1991{$C}) {
+             $value .= $C;
+             $value .= ' ';
+          } else {
+             msg "($file, $line): An invalid MSC1991 code used \"$C\"", 2;
+     } }
+     chop $value; return 1;
+}
+
+
+
+
+###
+### Cluster definitions
+###
+
+###  File cluster definition:  (now with file-format attribute of MIME type)
+
+cluster=File {
+        URL:URL::*
+#        Format:MIME_type
+        Format
+        Restriction
+        Function::::1
+        Size
+}
+
+
+Cluster=Organization {
+        Name:::*
+        Name-English
+        Location
+        Postal
+        Email
+        Phone
+        Fax
+        Homepage:URL
+        Institution:institutionhandle:::1
+}
+
+Cluster=Person {
+        Name:::*
+        WorkPlace:cluster:Organization::
+        Email
+        Fax
+        Postal
+        Phone
+        Homepage:URL
+        Person:personhandle:::1
+}
+
+###
+### Template definition 
+###
+# reminder of structure of elment definition
+#
+#       1       2         3             4                  5
+# attribute[:[type][:[subtype][:[required (min) num][:[repeat (max) num ]]]]]
+#
+
+##
+## Collection templates
+##
+
+template=ReDIF-Archive 1.0 {
+        Template-Type:::*
+        Name:::1
+        URL:URL::1
+        Homepage:URL
+        Description
+        Maintainer-Email:email::1
+        Maintainer-Name
+        Maintainer-Fax
+        Maintainer-Phone
+        Access-policy
+        Restriction
+        Classification-Jel:JEL
+        Handle:archivehandle::1:1
+}
+
+
+template=ReDIF-Series 1.0 {
+        Template-Type:::*
+        Name:::1
+        Description
+        Classification-Jel:JEL
+        Classification-ILA
+        Keywords
+        type:doctype
+        Editor:cluster:Person
+        Publisher:cluster:organization
+        Order-Postal
+        Order-Homepage:URL
+        Order-Email:email
+        Provider:cluster:organization
+        Provider-Institution:institutionhandle
+        Maintainer-Email:email::1
+        Maintainer-Name
+        Maintainer-Fax
+        Maintainer-Phone
+        Type
+        Restriction
+        ISSN
+        Notification
+        Price
+        Handle:serieshandle::1:1
+}
+
+##
+## Resource templates
+##
+
+template=ReDIF-Article 1.0 {
+        Template-Type:::*
+        Author:cluster:Person:1
+        Title:::1:1
+        Abstract
+        File:cluster:file
+        Classification-Jel:JEL
+        Keywords
+        Keywords-Attent
+        Creation-Date:date:::1
+        Journal
+        Issue
+        Year
+        Pages
+        Volume
+        Month
+        Number
+        Note
+        Publication-Status:pubstat
+        Publication-Date:date
+        Order-URL:URL
+        Paper-Handle:documenthandle
+        Book-Handle:documenthandle
+        Chapter-Handle:documenthandle
+        Software-Handle:documenthandle
+        Handle:documenthandle::1:1
+}
+
+template=ReDIF-Paper 1.0 {
+        Template-Type:::*
+        Author:cluster:Person:1
+        Title:::1:1
+        Abstract
+        File:cluster:file
+        Classification-Jel:jel
+	Classification-arxiv
+	Classification-acm-1998
+
+### changed: (MSC1991 typing enabled)
+	Classification-msc-1991:MSC1991
+
+### added: 
+	Classification-xxx
+
+        Keywords
+        Keywords-Attent
+	Keywords-cogprints
+	comments-paper
+        Note
+        Length
+        Series
+        Number
+        Contact-Email:email:::1
+        Availability
+        Creation-Date:date:::1
+        Revision-Date:date
+        Restriction
+        Price
+        Publication-Status:pubstat
+        Issue
+        Order-URL:URL
+        Article-Handle:documenthandle
+        Software-Handle:documenthandle
+        Book-Handle:documenthandle
+        Chapter-Handle:documenthandle
+        Handle:documenthandle::1:1
+}
+
+template=ReDIF-Software 1.0 {
+        Template-Type:::*
+        Author:cluster:Person:1
+        Title:::1:1
+        Abstract
+        File:cluster:file
+        Keywords
+        Size
+        Requires
+        Note
+        Length
+        Series
+        Number
+        Creation-Date:date:::1
+        Revision-Date:date
+        Price
+        Programming-Language
+
+        Classification-Jel:jel:::1
+
+### ???
+        Publication-Status:pubstat
+
+        Article-Handle:documenthandle
+        Paper-Handle:documenthandle
+        Book-Handle:documenthandle
+        Chapter-Handle:documenthandle
+        Handle:documenthandle::1:1
+}
+
+##
+##  New resource templates: book and chapter
+##
+
+template=ReDIF-Book 1.0 {
+        Template-Type:::*
+
+        Handle:documenthandle::1:1
+
+        Author:cluster:Person:1
+        Title:::1:1
+        Abstract
+	Publisher:cluster:Organization:1
+
+        Year::::1
+        Month::::1
+        Volume::::1
+
+        Edition::::1
+        Series::::1
+	Editor:cluster:Person
+	ISBN::::1
+
+        Publication-Status:pubstat
+        Note
+
+#
+#  Classification data
+#
+        Classification-Jel:jel
+	Classification-arxiv
+	Classification-acm-1998
+
+### changed: (MSC1991 typing enabled)
+	Classification-msc-1991:MSC1991
+
+### added: 
+	Classification-xxx
+
+        Keywords
+        Keywords-Attent
+
+	HasChapter:documenthandle
+	
+	Paper-handle:documenthandle
+	Article-handle:documenthandle
+	Chapter-handle:documenthandle
+
+}
+
+
+template=ReDIF-Chapter 1.0 {
+        Template-Type:::*
+
+        Handle:documenthandle::1:1
+
+        Author:cluster:Person:1
+
+        Title:::1:1
+        Abstract
+
+#	Publisher:cluster:Organization:1
+
+###   at least one of the two is required, 
+###   but that is not expressible in redif.spec:
+
+	Provider:cluster:Organization:0
+	Sponsor:cluster:Organization:0
+
+	Book-Title:::1:1
+
+	Pages::::1
+        Year::::1
+        Month::::1
+        Volume::::1
+	Chapter::::1
+
+        Edition::::1
+        Series::::1
+	Editor:cluster:Person:1
+	ISBN::::1
+
+        Publication-Status:pubstat
+        Note
+
+#
+#  Classification data
+#
+        Classification-Jel:jel:::1
+	Classification-arxiv::::1
+	Classification-acm-1998::::1
+
+### changed: (MSC1991 typing enabled)
+	Classification-msc-1991:MSC1991::::1
+
+### added: 
+	Classification-xxx::::1
+
+        Keywords::::1
+        Keywords-Attent::::1
+
+	In-Book:documenthandle:::1
+	
+	Paper-handle:documenthandle
+	Article-handle:documenthandle
+#	Chapter-handle:documenthandle
+
+#	Book-handle:documenthandle
+
+}
+
+
+
+
+
+##
+## Tangibles templates
+##
+
+template=ReDIF-Institution 1.0 {
+        Template-Type:::*
+        Primary:cluster:organization
+        Primary-Area
+        Secondary:cluster:organization
+        Secondary-Area
+        Tertiary:cluster:organization
+        Tertiary-Area
+        Handle:institutionhandle::1:1
+
+	Primary-Defunct
+	Secondary-Defunct
+	Tertiary-Defunct
+
+}
+
+template=ReDIF-Person 1.0 {
+        Template-Type:::*
+        Name-Full:::1
+        Name-First
+        Name-Last
+        Email
+        Fax
+        Postal
+        Phone
+        Homepage:URL
+        Classification-Jel
+        WorkPlace:cluster:Organization::
+	Workplace-Institution:institutionhandle
+	Author-Paper:documenthandle
+	Author-Article:documenthandle
+	Author-Software:documenthandle
+	Editor-Series:serieshandle
+        Handle:personhandle::1:1
+}
+
+##
+## Obsolete templates
+##
+
+template=ReDIF-Mirror 1.0 {
+        Template-Type:::*
+        Archive-Handle:handle:archive:1
+        Archive-Handle:archivehandle::1:1
+        user
+        group
+        directory:::1
+        Description
+        Maintainer-Email:email::1
+        Maintainer-Name
+        Maintainer-Fax
+        Maintainer-Phone
+        Machine
+        Archives-Included
+        Archives-Excluded
+        Series-Included
+        Series-Excluded
+        Location
+        ReDIF-only
+}
+
+
+
+####
+#### the rest---from here onwards---are comments and some old stuff
+####
+
+
+########### IKu:
+#
+# in a check-eval or preproc type definition you can use msg() function 
+# to signal an error or a warning.  e.g.
+#
+#       msg( "found archive $archive\n" , 2) ;
+#
+# 2 - a warning
+# 3 - an error (will make template invalid)
+#
+# The code is executed in rc2.pm, package 'context' namespace
+#
+###########
+
+
+#type = articleid / check-eval {
+#   return 1;
+#   $months="(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)" ;
+#   $season="(spr|sum|aut|win|spe)" ;
+#   if ($value =~ /RePEc\:([a-zA-Z]{3}):([a-zA-Z]{6}):(\S+)/ ) {
+#       $archive=$1 ; $journal=$2 ; $artcod=$3 ;
+#       print("found artcod $artcod\n") ;
+#       @codfields = split(/(?=:\w:)/,":$artcod") ;
+#       foreach $field (@codfields) {
+#           print "$field\n";}
+#           if($field=~/^:y:([1-9][0-9]{3})$/) {
+#               print("found year $1\n") ;
+#               next;}
+#           elsif($field=~/^:n:([1-9][0-9]*)$/) {
+#               print("found number $1\n") ;
+#               next;}
+#           elsif($field=~/^:i:(($months\d*)|($season[S]*)|(Q[1234])|(\d+)|(\d\d-\d\d))$/i) {
+#               print("found issue $1\n") ;
+#               next;}
+#           elsif($field=~/^:p:(S*[1-9][0-9]*-S*[1-9][0-9]*)$/) {
+#               print("found pages $1\n") ;
+#               next;}
+#           else {print "not found $field\n";}
+#           next;}
+#       return 1;
+#    return 0;
+#}
+
+
+
+
+#
+# mainfestation type made for the UPS protoproto
+#
+
+#cluster=Manifestation {
+#
+#		Type:manifest::*
+#
+#		date
+#		title
+#		pages
+#		publisher-name
+#
+#		journal-title
+#		journal-volume
+#		journal-year
+#		journal-month
+#	
+#		book-chapter
+#		book-editor-name
+#		book-name
+#		book-volume
+#
+#		conference-editor-name
+#		conference-name
+#		conference-date
+#		conference-title
+#		conference-location
+#}
+
+##########################################################
+
+#template=ReDIF-Person 1.0 {
+#        Template-Type:::*
+#        Handle:handle:paper:1:1
+#        Name-Full:::1
+#        Name-First
+#        Name-Last
+#        WorkPlace:cluster:Organization::
+#        Email
+#        Fax
+#        Postal
+#        Phone
+#        Homepage:URL
+#        Homepage-Publications:URL
+#        Classification-Jel
+#}

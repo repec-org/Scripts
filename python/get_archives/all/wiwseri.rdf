@@ -1,0 +1,155 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Type: ReDIF-Paper
+Description: Working Papers of the Interdisciplinary Research Group 
+    in Growth and Employment in Europe: Sustainability and Competitiveness
+Provider-Name: Vienna University of Economics and Business Research Group: Growth and Employment in Europe: Sustainability and Competitiveness 
+Provider-Homepage: http://www.wu.ac.at/economics/en
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Department of Economics
+Maintainer-Email: economics@wu.ac.at
+Handle: RePEc:wiw:wiwgee
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics Working Papers
+Type: ReDIF-Paper
+Description: Department of Economics Working Papers
+Provider-Name:  Vienna University of Economics and Business, Department of Economics
+Provider-Homepage: http://www.wu.ac.at/economics/en
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Department of Economics
+Maintainer-Email: economics@wu.ac.at
+Handle: RePEc:wiw:wiwwuw
+
+Template-type: ReDIF-Series 1.0
+Name: ERSA conference papers
+Type: ReDIF-Paper
+Description: Papers presented at annual conferences of the European Regional 
+Science Association
+Provider-Name: European Regional Science Association
+Provider-Homepage: http://www.ersa.org
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Gunther Maier
+Maintainer-Email: gunther.maier@wu-wien.ac.at
+Handle: RePEc:wiw:wiwrsa
+
+Template-type: ReDIF-Series 1.0
+Name: NEURUS papers
+Type: ReDIF-Paper
+Description: Papers written by students participating in the NEURUS program. 
+Provider-Name: NEURUS - Network of European and US Regional and Urban Studies
+Provider-Homepage: http://www.neurus.org
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Gunther Maier
+Maintainer-Email: gunther.maier@wu-wien.ac.at
+Handle: RePEc:wiw:wiwneu
+
+Template-type: ReDIF-Series 1.0
+Name: SRE-Disc
+Type: ReDIF-Paper
+Description: Institute for Multilevel Governance and Development, discussion papers
+Provider-Name: Institute for Multilevel Governance and Development,
+Department of Socioeconomics, Vienna University 
+of Economics and Business
+Provider-Homepage: http://www.wu-wien.ac.at/mlgd/
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Gunther Maier
+Maintainer-Email: gunther.maier@wu-wien.ac.at
+Handle: RePEc:wiw:wiwsre
+
+Template-type: ReDIF-Series 1.0
+Name: REGION
+Type: ReDIF-Article
+Description: Articles published in REGION, the journal of ERSA / powered by WU
+Provider-Name: European Regional Science Association
+Provider-Homepage: http://www.ersa.org
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Gunther Maier
+Maintainer-Email: gunther.maier@wu-wien.ac.at
+Editor-Name: Roberto Patuelli
+Editor-Email: roberto.patuelli@unibo.it
+Editor-Workplace-Name: Department of Economics,
+University of Bologna, Rimini campus, Rimini, Italy
+Editor-Workplace-Homepage: http://www.unibo.it/en
+Handle: RePEc:wiw:wiwreg
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers/Institute for International Business
+Type: ReDIF-Paper
+Description: Working Papers/Institute for International Business
+Provider-Name: Institute for International Business
+Provider-Homepage: http://www.wu.ac.at/iib/iib
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Alicja Kaczynska
+Maintainer-Email: alicja.kaczynska@wu.ac.at
+Handle: RePEc:wiw:wiwiib
+
+Template-type: ReDIF-Series 1.0
+Name: Ecological Economics Papers
+Type: ReDIF-Paper
+Description: Working Papers/Institute of Ecological Economics
+Provider-Name: Institute of Ecological Economics
+Provider-Homepage: http://www.wu.ac.at/ecolecon/
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: Karin Lagger
+Maintainer-Email: karin.lagger@wu.ac.at
+Handle: RePEc:wiw:wiwiee
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics Working Paper Series
+Type: ReDIF-Paper
+Description: Department of Economics Working Paper Series
+Provider-Name: WU Vienna University of Economics and Business 
+Provider-Homepage: http://epub.wu.ac.at
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: WU Library
+Maintainer-Email: epub@wu.ac.at
+Handle: RePEc:wiw:wus005
+
+Template-type: ReDIF-Series 1.0
+Name: SRE-Discussion Papers
+Type: ReDIF-Paper
+Description: Discussion papers of the Institute for Multilevel Governance and Development
+Provider-Name: WU Vienna University of Economics and Business
+Provider-Homepage: http://epub.wu.ac.at
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: WU Library
+Maintainer-Email: epub@wu.ac.at
+Handle: RePEc:wiw:wus009
+
+Template-type: ReDIF-Series 1.0
+Name:Arbeitspapiere zum Tätigkeitsfeld Risikomanagement und Versicherung
+Type: ReDIF-Paper
+Description: Arbeitspapiere zum Tätigkeitsfeld Risikomanagement und Versicherung des 
+    Instituts für Versicherungswirtschaft
+Provider-Name: WU Vienna University of Economics and Business
+Provider-Homepage: http://epub.wu.ac.at
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: WU Library
+Maintainer-Email: epub@wu.ac.at
+Handle: RePEc:wiw:wus010
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers/Institute for International Business
+Type: ReDIF-Paper
+Description: Working papers of the Institute for International Business
+Provider-Name: WU Vienna University of Economics and Business
+Provider-Homepage: http://epub.wu.ac.at
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: WU Library
+Maintainer-Email: epub@wu.ac.at
+Handle: RePEc:wiw:wus043
+
+Template-type: ReDIF-Series 1.0
+Name: Ecological Economic Papers
+Type: ReDIF-Paper
+Description: Working papers of the Institute for Ecological Economics
+Provider-Name: WU Vienna University of Economics and Business
+Provider-Homepage: http://epub.wu.ac.at
+Provider-Postal: Welthandelsplatz 1, 1020 Vienna, Austria
+Maintainer-Name: WU Library
+Maintainer-Email: epub@wu.ac.at
+Handle: RePEc:wiw:wus045
+
+
+

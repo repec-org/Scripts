@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: SEET Working Papers
+Provider-Name: BELIS, Istanbul Bilgi University
+Provider-Homepage: http://belis.bilgi.edu.tr
+Provider-Institution: RePEc:edi:bebiltr
+Maintainer-Name: Fatma Aslan
+Maintainer-Email: fatma.aslan@bilgi.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:beb:wpseet
+
+Template-type: ReDIF-Series 1.0
+Name: BELIS Working Papers
+Provider-Name: BELIS, Istanbul Bilgi University
+Provider-Homepage: http://belis.bilgi.edu.tr
+Provider-Institution: RePEc:edi:bebiltr
+Maintainer-Name: Fatma Aslan
+Maintainer-Email: fatma.aslan@bilgi.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:beb:wpbels

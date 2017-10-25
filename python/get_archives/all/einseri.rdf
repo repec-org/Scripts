@@ -1,0 +1,11 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Eindhoven Center for Innovation Studies
+#Provider-Homepage: http://ecis.ieis.tue.nl/welcome
+Provider-Homepage: https://www.tue.nl/universiteit/faculteiten/industrial-engineering-innovation-sciences/onderzoek/onderzoeksinstituten/ecis/
+Provider-Institution: RePEc:edi:ectuenl
+#Maintainer-Name: Carolina Castaldi
+#Maintainer-Email: c.castaldi@tue.nl
+Maintainer-Email: econpapers@oru.se
+Type: ReDIF-Paper
+Handle: RePEc:ein:tuecis

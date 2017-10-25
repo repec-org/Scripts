@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: JOURNAL STUDIA UNIVERSITATIS BABES-BOLYAI NEGOTIA
+Description: This is the official journal of the Faculty of Business
+Provider-Name: Babes-Bolyai University, Faculty of Business
+Provider-Institution: RePEc:edi:fbubbro
+Maintainer-Name: Cornelia Pop
+Maintainer-Email: cornelia.pop@tbs.ubbcluj.ro
+Editor-Name: Cornelia Pop
+Editor-Email: cornelia.pop@tbs.ubbcluj.ro
+Type: ReDIF-Article
+Handle: RePEc:bbn:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Babes-Bolyai University, Faculty of Business
+Provider-Homepage: http://www.tbs.ubbcluj.ro
+Provider-Institution: RePEc:edi:fbubbro
+Maintainer-Name: Cornelia Pop
+Maintainer-Email: cornelia.pop@tbs.ubbcluj.ro
+Type: ReDIF-Paper
+Handle: RePEc:bbn:wpaper

@@ -1,0 +1,121 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Working Papers
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:wpaper
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Research Reports
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:rpaper
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Monthly Reports
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:mpaper
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Balkan Observatory Working Papers
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:bpaper
+
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Research Reports in German language
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:ratpap
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Forecast Reports
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: https://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Handle: RePEc:wii:fpaper
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Statistical Reports
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: https://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: http://www.wiiw.ac.at
+Handle: RePEc:wii:spaper
+
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Research Notes
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:rnotes
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw Policy Notes
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:pnotes
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: wiiw FDI Reports
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://www.wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:fdirep
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Books
+Provider-Name: The Vienna Institute for International Economic Studies, wiiw 
+Provider-Homepage: http://wiiw.ac.at
+Provider-Institution: RePEc:edi:wiiwwat
+Maintainer-Name: Customer service
+Maintainer-Email: customerservice@wiiw.ac.at
+Order-Homepage: https://wiiw.ac.at
+Handle: RePEc:wii:dbbook

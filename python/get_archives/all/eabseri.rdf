@@ -1,0 +1,98 @@
+Template-type: ReDIF-Series 1.0
+Name: Finance Working Papers
+Description: Finance working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:financ
+
+Template-type: ReDIF-Series 1.0
+Name: Trade Working Papers
+Description: Trade working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:tradew
+
+Template-type: ReDIF-Series 1.0
+Name: Governance Working Papers
+Description: Governance working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:govern
+
+Template-type: ReDIF-Series 1.0
+Name: Macroeconomics Working Papers
+Description: Macroeconomics working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:macroe
+
+Template-type: ReDIF-Series 1.0
+Name: Microeconomics Working Papers
+Description: Microeconomics working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:microe
+
+Template-type: ReDIF-Series 1.0
+Name: Development Economics Working Papers
+Description: Development Economics working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:develo
+ 
+Template-type: ReDIF-Series 1.0
+Name: Labor Economics Working Papers
+Description: Labor Economics working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:laborw
+
+Template-type: ReDIF-Series 1.0
+Name: Energy Working Papers
+Description: Energy working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:energy
+
+Template-type: ReDIF-Series 1.0
+Name: EABER Working Papers
+Description: EABER working papers of members of the East Asian Bureau of Economic Research
+Provider-Name: East Asian Bureau of Economic Research
+Provider-Institution: RePEc:edi:eaberau
+Provider-Homepage: http://www.eaber.org
+Maintainer-Name: Shiro Armstrong
+Maintainer-Email: shiro.armstrong@anu.edu.au
+Type: ReDIF-Paper
+Handle: RePEc:eab:wpaper

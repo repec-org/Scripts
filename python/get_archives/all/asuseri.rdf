@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Department of Economics, W. P. Carey School of Business, Arizona State University
+Provider-Homepage: http://repec.wpcarey.asu.edu/RePEc/asu/
+Provider-Institution: RePEc:edi:deasuus
+Maintainer-Name: Steve Salik
+Maintainer-Email: shsalik@asu.edu
+Type: ReDIF-Paper
+Handle: RePEc:asu:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Book Chapters
+Provider-Name: Department of Economics, W. P. Carey School of Business, Arizona State University
+Provider-Homepage: http://repec.wpcarey.asu.edu/RePEc/asu/
+Provider-Institution: RePEc:edi:deasuus
+Maintainer-Name: Steve Salik
+Maintainer-Email: shsalik@asu.edu
+Type: ReDIF-Article
+Handle: RePEc:asu:jartic
+
+Template-type: ReDIF-Series 1.0
+Name: Book Chapters
+Provider-Name: Department of Economics, W. P. Carey School of Business, Arizona State University
+Provider-Homepage: http://repec.wpcarey.asu.edu/RePEc/asu/
+Provider-Institution: RePEc:edi:deasuus
+Maintainer-Name: Steve Salik
+Maintainer-Email: shsalik@asu.edu
+Type: ReDIF-Chapter
+Handle: RePEc:asu:chapte

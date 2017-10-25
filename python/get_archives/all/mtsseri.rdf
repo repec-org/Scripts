@@ -1,0 +1,71 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Middle Tennessee State University, Department of Economics and Finance
+Provider-Homepage: http://www.mtsu.edu/~berc/working/Economics_Working_Papers.html
+Provider-Institution: RePEc:edi:efmtsus
+Maintainer-Name: E. Anthon Eff
+Maintainer-Email: eaeff@mtsu.edu
+Type: ReDIF-Paper
+Handle: RePEc:mts:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Global Commerce
+Provider-Name: Middle Tennessee State University, Business and Economic Research Center
+Provider-Homepage: http://www.mtsu.edu/~berc/globalcommerce.html
+Provider-Institution: RePEc:edi:efmtsus
+Maintainer-Name: Sally Govan
+Maintainer-Email: sgovan@mtsu.edu
+Type: ReDIF-Article
+Handle: RePEc:mts:global
+
+Template-type: ReDIF-Series 1.0
+Name: Midstate Economic Indicators
+Provider-Name: Middle Tennessee State University, Business and Economic Research Center
+Provider-Homepage: http://www.mtsu.edu/~berc/mei.html
+Provider-Institution: RePEc:edi:efmtsus
+Maintainer-Name: Sally Govan
+Maintainer-Email: sgovan@mtsu.edu
+Type: ReDIF-Article
+Handle: RePEc:mts:indica
+
+Template-type: ReDIF-Series 1.0
+Name: Tennessee's Business
+Provider-Name: Middle Tennessee State University, Business and Economic Research Center
+Provider-Homepage: http://www.mtsu.edu/~berc/tennbusiness.html
+Provider-Institution: RePEc:edi:efmtsus
+Maintainer-Name: Sally Govan
+Maintainer-Email: sgovan@mtsu.edu
+Type: ReDIF-Article
+Handle: RePEc:mts:tenbus
+
+Template-type: ReDIF-Series 1.0
+Name: Journal for Economic Educators
+Provider-Name: Middle Tennessee State University, Business and Economic Research Center
+Provider-Homepage: http://www.mtsu.edu/~jee
+Provider-Institution: RePEc:edi:efmtsus
+Maintainer-Name: Sally Govan
+Maintainer-Email: sgovan@mtsu.edu
+Type: ReDIF-Article
+Handle: RePEc:mts:jrnlee
+
+Template-type: ReDIF-Series 1.0
+Name: Studies
+Provider-Name: Middle Tennessee State University, Business and Economic Research Center
+Provider-Homepage: http://www.mtsu.edu/~berc/studies.html
+Provider-Institution: RePEc:edi:efmtsus
+Maintainer-Name: Sally Govan
+Maintainer-Email: sgovan@mtsu.edu
+Type: ReDIF-Paper
+Handle: RePEc:mts:studys
+
+Template-type: ReDIF-Series 1.0
+Name: Tennessee Housing Market
+Provider-Name: Middle Tennessee State University, Business and Economic Research Center
+Provider-Homepage: http://www.mtsu.edu/~berc/housingbrief.html
+Provider-Institution: RePEc:edi:efmtsus
+Maintainer-Name: Sally Govan
+Maintainer-Email: sgovan@mtsu.edu
+Type: ReDIF-Article
+Handle: RePEc:mts:thouse
+
+

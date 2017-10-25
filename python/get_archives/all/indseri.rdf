@@ -1,0 +1,89 @@
+Template-type: ReDIF-Series 1.0
+Name: Centre for Development Studies, Trivendrum Working Papers
+Type: ReDIF-Paper
+Description: Working papers collection of Centre for Development Studies, 
+ Trivendrum, India. Includes paper number 279 onwards, since they are 
+ downloadable.
+Provider-Name: Centre for Development Studies, Trivendrum, India
+Provider-Institution: RePEc:edi:cdsacin
+Provider-Homepage: http://www.cds.edu
+Maintainer-Name: Shamprasad M. Pujar
+Maintainer-Email: pujar@igidr.ac.in
+Handle: RePEc:ind:cdswpp
+
+Template-type: ReDIF-Series 1.0
+Name: Indian Statistical Institute, Planning Unit, New Delhi Discussion Papers
+Type: ReDIF-Paper
+Description: Discussion papers collection of Planning Unit, Indian Statistical
+ Institute, New Delhi, India. Includes paper number 02 onwards, since they are 
+ downloadable.
+Provider-Name: Indian Statistical Institute, New Delhi, India
+Provider-Institution: RePEc:edi:isindin
+Provider-Homepage: http://www.isid.ac.in/~pu/
+Maintainer-Name: Shamprasad M. Pujar
+Maintainer-Email: pujar@igidr.ac.in
+Handle: RePEc:ind:isipdp
+
+Template-type: ReDIF-Series 1.0
+Name: Centre for Economic and Social Studies, Hyderabad Working Papers
+Type: ReDIF-Paper
+Description: Working papers collection of Centre for Economic and Social
+ Studies, Hyderabad, India. Includes paper number 47 onwards, since they are 
+ downloadable.
+Provider-Name: Centre for Economic and Social Studies, Hyderabad, India
+Provider-Institution: RePEc:edi:cesssin
+Provider-Homepage: http://www.cess.ac.in
+Maintainer-Name: Shamprasad M. Pujar
+Maintainer-Email: pujar@igidr.ac.in
+Handle: RePEc:ind:cesswp
+
+Template-type: ReDIF-Series 1.0
+Name: Indian Council for Research on International Economic Relations, New Delhi
+ Working Papers  
+Type: ReDIF-Paper
+Description: Working papers collection of Indian Council for Research on 
+ International Economic Relations, New Delhi, India. Includes paper number
+ 43 onwards, since they are downloadable.
+Provider-Name: Indian Council for Research on International Economic Relations, 
+ New Delhi, India
+Provider-Institution: RePEc:edi:icriein
+Provider-Homepage: http://www.icrier.res.in
+Maintainer-Name: G.K. Manjunath
+Maintainer-Email: gkm@igidr.ac.in
+Handle: RePEc:ind:icrier
+
+Template-type: ReDIF-Series 1.0
+Name: Indira Gandhi Institute of Development Research, Mumbai Working Papers  
+Type: ReDIF-Paper
+Description: Working papers collection of Indira Gandhi Institute of Development        
+ Research (IGIDR), Mumbai, India. Includes paper number 1, 2003 onwards, 
+ since they are downloadable.
+Provider-Name: Indira Gandhi Institute of Development Research, Mumbai, India
+Provider-Institution: RePEc:edi:igidrin
+Provider-Homepage: http://www.igidr.ac.in
+Maintainer-Name: Shamprasad M. Pujar
+Maintainer-Email: pujar@igidr.ac.in
+Handle: RePEc:ind:igiwpp
+
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics, University of Mumbai, Mumbai Working Papers  
+Type: ReDIF-Paper
+Description: Working papers collection of Department of Economics, University of Mumbai, 
+ Mumbai, India. Includes paper number 1, 2002 onwards, since they are downloadable.
+Provider-Name: Department of Economics, University of Mumbai, Mumbai
+Provider-Institution: RePEc:edi:demumin
+Provider-Homepage: http://mu.ac.in/arts/social_science/eco/aboutus.html
+Maintainer-Name: Shamprasad M. Pujar
+Maintainer-Email: pujar@igidr.ac.in
+Handle: RePEc:ind:mudewp
+
+Template-type: ReDIF-Series 1.0
+Name: Centre for International Trade and Development, Jawaharlal Nehru University, New Delhi  Discussion Papers  
+Type: ReDIF-Paper
+Description: Discussion papers collection of Centre for International Trade and Development,  Jawaharlal Nehru University, New Delhi, India. Includes paper number 1, 2009 onwards, since  they are downloadable.
+Provider-Name: Centre for International Trade and Development, Jawaharlal Nehru University,  New Delhi, India
+Provider-Institution: RePEc:edi:itjnuin
+Provider-Homepage: http://www.jnu.ac.in/Academics/Schools/SchoolOfInternationalStudies/CITD/
+Maintainer-Name: Shamprasad M. Pujar
+Maintainer-Email: pujar@igidr.ac.in
+Handle: RePEc:ind:citdwp

@@ -1,0 +1,58 @@
+Template-type: ReDIF-Series 1.0
+Name: NCER Working Paper Series
+Description: Econometric Research
+Classification-JEL: C14, C52
+Notification: New!
+Type: ReDIF-Paper
+Provider-Name: National Centre for Econometric Research
+Provider-Homepage: http://www.ncer.edu.au
+Provider-Institution: RePEc:edi:ncerrau
+Maintainer-Name: School of Economics and Finance
+Maintainer-Email: ecfinenq@qut.edu.au
+Handle: RePEc:qut:auncer
+
+Template-type: ReDIF-Series 1.0
+Name: Paul Frijters Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: School of Economics and Finance, Queensland University of Technology
+Provider-Homepage: http://www.bus.qut.edu.au/faculty/economics/
+Provider-Institution: RePEc:edi:sequtau
+Maintainer-Name: School of Economics
+Maintainer-Email: ecfinenq@qut.edu.au
+Handle: RePEc:qut:pfrijt
+
+Template-type: ReDIF-Series 1.0
+Name: QuBE Working Papers
+Description: Working papers of the Queensland Behavioural Economics group (QuBE) based at Queensland University of Technology (QUT)
+Type: ReDIF-Paper
+Provider-Name: QUT Business School
+Provider-Homepage: http://www.qut.edu.au/research/research-projects/queensland-behavioural-economics-group-qube
+Provider-Institution: RePEc:edi:QuBEwp
+Maintainer-Name: Dipa Sarkar
+Maintainer-Email: dipanwita.sarkar@qut.edu.au
+Editor-Name: Dipa Sarkar
+Editor-Email: dipanwita.sarkar@qut.edu.au
+Editor-Workplace-Name: Queensland University of Technology (QUT)
+Editor-Workplace-Homepage: http://staff.qut.edu.au/staff/sarkard/
+Handle: RePEc:qut:QuBEwp
+
+Template-type: ReDIF-Series 1.0
+Name: School of Economics and Finance Discussion Papers and Working Papers Series
+Type: ReDIF-Paper
+Provider-Name: School of Economics and Finance, Queensland University of Technology
+Provider-Homepage: http://www.bus.qut.edu.au/faculty/economics/
+Provider-Institution: RePEc:edi:sequtau
+Maintainer-Name: Angela Fletcher
+Maintainer-Email: a.fletcher@qut.edu.au
+Handle: RePEc:qut:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Stan Hurn Discussion Papers
+Type: ReDIF-Paper
+Provider-Name: School of Economics and Finance, Queensland University of Technology
+Provider-Homepage: http://www.bus.qut.edu.au/faculty/economics/
+Provider-Institution: RePEc:edi:sequtau
+Maintainer-Name: School of Economics
+Maintainer-Email: ecfinenq@qut.edu.au
+Handle: RePEc:qut:sthurn
+

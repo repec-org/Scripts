@@ -1,0 +1,41 @@
+Template-type: ReDIF-Series 1.0
+Name: ESRB Working Paper Series
+Description: The ESRB Working Paper Series is run by the Advisory Scientific Committee. Its purpose is to collate high-quality research on systemic risk and macroprudential policy, thus informing the policymaking activities of the ESRB.
+Submissions to the Working Paper Series are welcomed when at least one co-author is affiliated to the ESRB or an ESRB member institution, or when the paper has been presented at an ESRB event. To submit a paper for consideration, email a pdf file to wpseries@esrb.europa.eu
+Any views expressed in working papers are those of the authors and do not necessarily reflect the official stance of the ESRB, its member institutions, or any institution to which the authors may be affiliated.
+Type: ReDIF-Paper
+Provider-Name: European Systemic Risk Board
+Provider-Homepage: https://www.esrb.europa.eu
+Provider-Phone: +49 69 1344 0
+Provider-Postal: 60640 Frankfurt am Main, Germany
+Provider-Institution: RePEc:edi:esrbede
+Maintainer-Name: Official Publications
+Maintainer-Email: officialpublications@ecb.int
+Handle: RePEc:srk:srkwps
+
+Template-type: ReDIF-Series 1.0
+Name: ESRB Occasional Paper Series
+Description: The ESRB Occasional Paper Series is an outlet for the publication of analytical and policy work that has been conducted within ESRB expert groups. The papers are typically written by ESRB Secretariat staff or the staff of ESRB member institutions, sometimes in collaboration with Advisory Scientific Committee members or external experts.
+Any views expressed in occasional papers are those of the authors and do not necessarily reflect the official stance of the ESRB, its member institutions, or any institution to which the authors may be affiliated.
+Type: ReDIF-Paper
+Provider-Name: European Systemic Risk Board
+Provider-Homepage: https://www.esrb.europa.eu
+Provider-Phone: +49 69 1344 0
+Provider-Postal: 60640 Frankfurt am Main, Germany
+Provider-Institution: RePEc:edi:esrbede
+Maintainer-Name: Official Publications
+Maintainer-Email: officialpublications@ecb.int
+Handle: RePEc:srk:srkops
+
+Template-type: ReDIF-Series 1.0
+Name: Report of the Advisory Scientific Committee
+Description: The Advisory Scientific Committee (ASC) contributes to the public debate on macroprudential policy by publishing reports. These reports are written by ASC members, sometimes in collaboration with ESRB staff and external experts.
+Type: ReDIF-Paper
+Provider-Name: European Systemic Risk Board
+Provider-Homepage: https://www.esrb.europa.eu
+Provider-Phone: +49 69 1344 0
+Provider-Postal: 60640 Frankfurt am Main, Germany
+Provider-Institution: RePEc:edi:esrbede
+Maintainer-Name: Official Publications
+Maintainer-Email: officialpublications@ecb.int
+Handle: RePEc:srk:srkasc

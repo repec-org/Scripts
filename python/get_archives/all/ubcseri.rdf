@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: Microeconomics.ca working papers
+Provider-Name: Vancouver School of Economics
+Provider-Homepage: http://www.economics.ubc.ca/
+Maintainer-Name: Maureen Chin
+Maintainer-Email: maureen.chin@ubc.ca
+Type: ReDIF-Paper
+Handle: RePEc:ubc:pmicro
+Template-type: ReDIF-Series 1.0
+Name: Economics working papers
+Provider-Name: Vancouver School of Economics
+Provider-Homepage: http://www.economics.ubc.ca/
+Maintainer-Name: Maureen Chin
+Maintainer-Email: maureen.chin@ubc.ca
+Type: ReDIF-Paper
+Handle: RePEc:ubc:bricol
+Template-type: ReDIF-Series 1.0
+Name: CLSSRN working papers
+Provider-Name: Vancouver School of Economics
+Provider-Homepage: http://www.clsrn.econ.ubc.ca/
+Maintainer-Name: Vivian Tran
+Maintainer-Email: Vivian.Tran@ubc.ca
+Type: ReDIF-Paper
+Handle: RePEc:ubc:clssrn

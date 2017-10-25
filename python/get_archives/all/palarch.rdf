@@ -1,0 +1,11 @@
+Template-type: ReDIF-Archive 1.0
+Handle: RePEc:pal
+Name: Palgrave Macmillan
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Description: Articles from Palgrave Macmillan
+#URL: ftp://ftp.springer.com/Outgoing/RePEc/pal
+URL: ftp://ideas.repec.org/pub/RePEc/pal/
+Homepage: http://www.palgrave-journals.com/

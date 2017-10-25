@@ -1,0 +1,33 @@
+Template-type: ReDIF-Series 1.0
+
+Name: Working Papers
+
+Provider-Name: Holistic Marketing Management Journal
+
+Provider-Homepage: http://holisticmarketingmanagement.ro
+
+Maintainer-Name: Theodor Valentin Purcarea
+
+Maintainer-Email: theodor.purcarea@rau.ro
+
+Type: ReDIF-Paper
+
+Handle: RePEc:hmm:wpaper
+
+
+
+Template-type: ReDIF-Series 1.0
+
+Name: Holistic Marketing Management Journal
+
+Provider-Name: Holistic Marketing Management
+
+Provider-Homepage: http://holisticmarketingmanagement.ro
+
+Maintainer-Name: Theodor Valentin Purcarea
+
+Maintainer-Email: theodor.purcarea@rau.ro
+
+Type: ReDIF-Article
+Handle: RePEc:hmm:journl
+ISSN: 2247-1189

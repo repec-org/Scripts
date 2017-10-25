@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: Bristol Economics Discussion Papers
+Description: Current and recent working papers.
+Provider-Name: Department of Economics, University of Bristol, UK
+Provider-Institution: RePEc:edi:debriuk
+Maintainer-Name: Jonathan Temple
+Maintainer-Email: jon.temple@bristol.ac.uk
+Handle: RePEc:bri:uobdis
+
+Template-type: ReDIF-Series 1.0
+Name: The Centre for Market and Public Organisation
+Description: CMPO working papers.
+Provider-Name: Department of Economics, University of Bristol, UK
+Provider-Institution: RePEc:edi:cmbriuk
+Maintainer-Name: 
+Maintainer-Email: cmpo-admin@bristol.ac.uk
+Handle: RePEc:bri:cmpowp
+
+Template-type: ReDIF-Series 1.0
+Name: Bristol Accounting and Finance Discussion Papers
+Description: Accounting and Finance discussion papers.
+Provider-Name: School of Economics, Finance, and Management, University of Bristol, UK
+Provider-Institution: RePEc:edi:debriuk
+Maintainer-Name: Jonathan Temple
+Maintainer-Email: jon.temple@bristol.ac.uk
+Handle: RePEc:bri:accfin

@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Discussion papers
+Provider-Name: Policy Research Institute, Ministry of Finance Japan
+Provider-Homepage: http://www.mof.go.jp/pri/
+Provider-Institution: RePEc:edi:prigvjp
+Maintainer-Name: Policy Research Institute
+Maintainer-Email: res05fmp@mof.go.jp
+Type: ReDIF-Paper
+Handle: RePEc:mof:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Public Policy Review
+Provider-Name: Policy Research Institute, Ministry of Finance Japan
+Provider-Homepage: http://www.mof.go.jp/pri/
+Provider-Institution: RePEc:edi:prigvjp
+Maintainer-Name: Policy Research Institute
+Maintainer-Email: res05fmp@mof.go.jp
+Type: ReDIF-Article
+Handle: RePEc:mof:journl 

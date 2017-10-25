@@ -1,0 +1,24 @@
+Template-type: ReDIF-Series 1.0
+Name: FMG Discussion Papers
+Description: Discussion papers on Finance and Banking
+Classification-JEL: G0; G1; G2; G3
+Keywords: Finance; Banking
+Editor-Name: Christopher Polk
+Publisher-Name: Financial Markets Group
+Publisher-Homepage: http://www.lse.ac.uk/fmg/
+Maintainer-Name: The FMG Administration
+Maintainer-Email: fmg@lse.ac.uk
+Handle: RePEc:fmg:fmgdps
+
+
+Template-type: ReDIF-Series 1.0
+Name: FMG Special Papers
+Description: Non-technical papers on Finance and Banking
+Classification-JEL: G0; G1; G2; G3
+Keywords: Finance; Banking
+Editor-Name: Charles Goodhart
+Publisher-Name: Financial Markets Group
+Publisher-Homepage: http://www.lse.ac.uk/fmg/
+Maintainer-Name: The FMG Administration
+Maintainer-Email: fmg@lse.ac.uk
+Handle: RePEc:fmg:fmgsps

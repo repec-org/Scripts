@@ -1,0 +1,10 @@
+Template-Type: ReDIF-Series 1.0
+Name: Remef - The Mexican Journal of Economics and Finance
+Description: A biannual journal that promotes finance, economics and business research and investigation. It encourages scientific communication and exchange of new ideas between scholars, as well as decision makers, from the economic and financial public and private sectors.
+Provider-Name: Instituto Mexicano de Ejecutivos de Finanzas. Remef
+Provider-Homepage: http://www.remef.org.mx/
+Provider-Institution: RePEc:imx:imefiea
+Maintainer-Name: Beatriz Romero
+Maintainer-Email: fundacion.imef@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:imx:journl

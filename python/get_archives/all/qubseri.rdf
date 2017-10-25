@@ -1,0 +1,20 @@
+Template-Type: ReDIF-Series 1.0
+Name: CHaRMS Working Papers
+Provider-Name: Centre for HeAlth Research at the Management School (CHaRMS)
+Provider-Homepage: http://www.qub.ac.uk/mgt/
+Provider-Institution: RePEc:edi:dequbuk
+Maintainer-Name: Mark McGovern		
+Maintainer-Email: M.McGovern@qub.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:qub:charms
+
+Template-Type: ReDIF-Series 1.0
+Name: Economics Working Papers
+Provider-Name: Queen's Management School, Queen's University Belfast
+Provider-Homepage: http://www.qub.ac.uk/mgt/
+Provider-Institution: RePEc:edi:dequbuk
+Maintainer-Name: Mark McGovern		
+Maintainer-Email: M.McGovern@qub.ac.uk
+Type: ReDIF-Paper
+Handle: RePEc:qub:wpaper
+

@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: Working Papers
+Provider-Name: Max Planck Institute for Tax Law and Public Finance
+Provider-Homepage: http://www.tax.mpg.de/
+Provider-Institution: RePEc:edi:mptaxde
+Maintainer-Name: Hans Mueller
+Maintainer-Email: hans.mueller@tax.mpg.de
+Type: ReDIF-Paper
+Handle: RePEc:mpi:wpaper

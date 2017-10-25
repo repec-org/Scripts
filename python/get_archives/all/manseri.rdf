@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: The School of Economics Discussion Paper Series
+Description: The School of Economics Discussion Papers at The University of Manchester
+Provider-Name: Economics, The University of Manchester
+Provider-Homepage: http://www.socialsciences.manchester.ac.uk/subjects/economics/
+Provider-Institution: RePEc:edi:semanuk
+Maintainer-Name: Marianne Sensier
+Maintainer-Email: marianne.sensier@manchester.ac.uk
+Handle: RePEc:man:sespap
+
+ 
+Template-type: ReDIF-Series 1.0
+Name: Centre for Growth and Business Cycle Research Discussion Paper Series
+Description:Centre for Growth and Business Cycle Research Discussion Paper Series
+Provider-Name: Economics, The Univeristy of Manchester
+Provider-Homepage: http://www.socialsciences.manchester.ac.uk/subjects/economics/our-research/centre-for-growth-and-business-cycle-research/
+Provider-Institution: RePEc:edi:semanuk
+Maintainer-Name: Marianne Sensier
+Maintainer-Email: marianne.sensier@manchester.ac.uk
+Handle: RePEc:man:cgbcrp

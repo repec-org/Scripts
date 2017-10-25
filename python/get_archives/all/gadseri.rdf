@@ -1,0 +1,71 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Investigación
+Provider-Name: Grupo de Análisis para el Desarrollo (GRADE)
+Provider-Homepage: http://www.grade.org.pe/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: cendoc@grade.org.pe
+Handle: RePEc:gad:doctra
+
+Template-type: ReDIF-Series 1.0
+Name: Avances de Investigación
+Provider-Name: Grupo de Análisis para el Desarrollo (GRADE)
+Provider-Homepage: http://www.grade.org.pe/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: cendoc@grade.org.pe
+Handle: RePEc:gad:avance
+
+Template-type: ReDIF-Series 1.0
+Name: Boletín
+Provider-Name: Grupo de Análisis para el Desarrollo (GRADE)
+Provider-Homepage: http://www.grade.org.pe/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: cendoc@grade.org.pe
+Handle: RePEc:gad:boleti
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Libros
+Provider-Name: Grupo de Análisis para el Desarrollo (GRADE)
+Provider-Homepage: http://www.grade.org.pe/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: cendoc@grade.org.pe
+Handle: RePEc:gad:libros
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Chapter
+Name: Capitulos de Libros
+Provider-Name: Grupo de Análisis para el Desarrollo (GRADE)
+Provider-Homepage: http://www.grade.org.pe/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: cendoc@grade.org.pe
+Handle: RePEc:gad:capitu
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de Trabajo (Niños del Milenio-GRADE)
+Provider-Name: Niños del Milenio (Young Lives)
+Provider-Homepage: http://www.ninosdelmilenio.org/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: ninosdelmilenio@grade.org.pe
+Handle: RePEc:gad:ninosm
+
+Template-type: ReDIF-Series 1.0
+Name: Investigaciones Breves (CIES-GRADE)
+Description: Esta es una serie de publicaciones de investigaciones financiadas por el Consorcio de Investigación Económica y Social (CIES), realizadas por investigadores de GRADE y publicadas manera conjunta
+Provider-Name: Grupo de Análisis para el Desarrollo (GRADE)
+Provider-Homepage: http://www.grade.org.pe/
+Provider-Name: Consorcio de Investigación Económica y Social (CIES)
+Provider-Homepage: http://www.cies.org.pe/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: cendoc@grade.org.pe
+Handle: RePEc:gad:ciesib
+
+Template-type: ReDIF-Series 1.0
+Name: Diagnóstico y Propuesta (CIES-GRADE)
+Description: Esta es una serie de publicaciones de investigaciones financiadas por el Consorcio de Investigación Económica y Social (CIES), realizadas por investigadores de GRADE y otras instituciones.
+Provider-Name: Grupo de Análisis para el Desarrollo (GRADE)
+Provider-Homepage: http://www.grade.org.pe/
+Provider-Name: Consorcio de Investigación Económica y Social (CIES)
+Provider-Homepage: http://www.cies.org.pe/
+Provider-Institution: RePEc:edi:gradepe
+Maintainer-Email: cendoc@grade.org.pe
+Handle: RePEc:gad:ciesdp

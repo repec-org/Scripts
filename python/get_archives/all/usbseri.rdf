@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Departmental Working Papers
+Type: ReDIF-Paper
+Provider-Name: University of Brescia, Department of Social Studies
+Provider-Homepage: http://www.eco.unibs.it/segdss
+Description: This is a series of working papers published at the
+             Department of Social Studies, University of Brescia
+Maintainer-Name: Segreteria di Dipartimento
+Maintainer-Email: segdss@eco.unibs.it
+Handle: RePEc:usb:dipdss
+
+Template-type: ReDIF-Series 1.0
+Name: Il Pensiero Economico Italiano
+Type: ReDIF-Article
+Provider-Name: University of Brescia, Department of Social Studies
+Provider-Homepage: http://www.eco.unibs.it/segdss
+Description: This is a rewiew published at the Department of Social
+             Studies, University of Brescia
+Maintainer-Name: Segreteria di Dipartimento
+Maintainer-Email: segdss@eco.unibs.it
+Handle: RePEc:usb:rivpei

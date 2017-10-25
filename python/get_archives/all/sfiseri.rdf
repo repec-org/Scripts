@@ -1,0 +1,15 @@
+Template-type: ReDIF-Series 1.0
+Name: Science & Finance (CFM) working paper archive
+Description: Working papers by S&F/CFM researchers
+Classification-JEL: G1
+Type: ReDIF-Paper
+Provider-Name: Science & Finance, Capital Fund Management
+Provider-Homepage: http://www.science-finance.fr/
+Provider-Phone:  +33.1.4949.5949
+Provider-Postal:6 boulevard Haussmann, 75009 Paris, FRANCE
+Provider-Fax:  +33.1.4770.1740 
+Provider-Institution: RePEc:edi:scfinfr
+#Maintainer-Name: Marc Potters	
+#Maintainer-Email: marc.potters@science-finance.fr
+Maintainer-Email: EconPapers@oru.se
+Handle: RePEc:sfi:sfiwpa

@@ -1,0 +1,47 @@
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics Working Papers
+Description: This series includes working papers by members of the economics department at Williams College.
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, Williams College
+Provider-Homepage:http://econ.williams.edu
+Provider-Phone: 413 597 2476
+Provider-Postal: Williamstown, MA 01267
+Provider-Fax: 413 597 4045
+Provider-Institution: RePEc:edi:edwilus
+Maintainer-Name: Stephen Sheppard
+Maintainer-Email: stephen.c.sheppard@williams.edu
+Order-Email:Helen.A.Mcshane@williams.edu
+Price:free
+Handle: RePEc:wil:wileco
+
+Template-type: ReDIF-Series 1.0
+Name: Center for Development Economics 
+Description: This series includes working papers in development economics by members of the economics department at Williams College.
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, Williams College
+Provider-Homepage:http://econ.williams.edu
+Provider-Phone: 413 597 2476
+Provider-Postal: Williamstown, MA 01267
+Provider-Fax: 413 597 4045
+Provider-Institution: RePEc:edi:cdwilus
+Maintainer-Name: Stephen Sheppard
+Maintainer-Email: stephen.c.sheppard@williams.edu
+Order-Email:Helen.A.Mcshane@williams.edu
+Price:free
+Handle: RePEc:wil:wilcde
+
+Template-type: ReDIF-Series 1.0
+Name: Williams Project on the Economics of Higher Education 
+Description: This series includes working papers from the Williams Project on the Economics of Higher Education (WPEHE) at Williams College.
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, Williams College
+Provider-Homepage:http://econ.williams.edu
+Provider-Phone: 413 597 2476
+Provider-Postal: Williamstown, MA 01267
+Provider-Fax: 413 597 4045
+Provider-Institution: RePEc:edi:cdwilus
+Maintainer-Name: Stephen Sheppard
+Maintainer-Email: stephen.c.sheppard@williams.edu
+Order-Email:Helen.A.Mcshane@williams.edu
+Price:free
+Handle: RePEc:wil:wilehe

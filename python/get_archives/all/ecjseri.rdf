@@ -1,0 +1,57 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Economic Journal
+Description: Papers published in The Economic Journal
+Maintainer-Name: Wiley-Blackwell Digital Licensing
+Maintainer-Email: JDL@wiley.com
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Editor-Name: Martin Cripps
+Editor-Name: Steve Machin
+Editor-Email: s.machin@ucl.ac.uk 
+Editor-Name: Woulter den Haan
+Editor-Name: Andrea Galeotti
+Editor-Name: Rachel Griffith
+Editor-Name: Frederic Vermeulen
+Editor-Workplace-Name: University of Leuven
+Editor-Email: frederic.vermeulen@kuleuven.be
+Provider-Name: Royal Economic Society
+Provider-Homepage: http://www.res.org.uk/
+Provider-Institution: RePEc:edi:resssea
+Order-Homepage: http://www.blackwellpublishers.co.uk/asp/journal.asp?ref=0013-0133
+Price: individual rates available on request
+Followup: RePEc:wly:econjl
+Handle: RePEc:ecj:econjl
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Royal Economic Society Annual Conference 2002
+Description: Papers presented at the Annual Conference 2002
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Royal Economic Society
+Provider-Homepage:  http://www.res.org.uk/society/annualconf.asp
+Provider-Institution: RePEc:edi:resssea
+Handle: RePEc:ecj:ac2002
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Royal Economic Society Annual Conference 2003
+Description: Papers presented at the Annual Conference 2003
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Royal Economic Society
+Provider-Homepage:  http://www.res.org.uk/society/annualconf.asp
+Provider-Institution: RePEc:edi:resssea
+Handle: RePEc:ecj:ac2003
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Paper
+Name: Royal Economic Society Annual Conference 2004
+Description: Papers presented at the Annual Conference 2004
+Maintainer-Name: Christopher F. Baum
+Maintainer-Email: baum@bc.edu
+Provider-Name: Royal Economic Society
+Provider-Homepage:  http://www.res.org.uk/society/annualconf.asp
+Provider-Institution: RePEc:edi:resssea
+Handle: RePEc:ecj:ac2004

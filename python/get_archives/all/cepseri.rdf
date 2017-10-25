@@ -1,0 +1,211 @@
+Template-type: ReDIF-Series 1.0
+Name: CEP Occasional Papers
+Provider-Name: Centre for Economic Performance, LSE
+Provider-Homepage: http://cep.lse.ac.uk/_new/publications/series.asp?prog=CEPOP
+Provider-Institution: 
+Maintainer-Email: cep.info@lse.ac.uk
+Handle: RePEc:cep:cepops
+
+Template-type: ReDIF-Series 1.0
+Name: CEP Special Papers
+Provider-Name: Centre for Economic Performance, LSE
+Provider-Homepage: http://cep.lse.ac.uk/_new/publications/series.asp?prog=CEPSP
+Provider-Institution: 
+Maintainer-Email: cep.info@lse.ac.uk
+Handle: RePEc:cep:cepsps
+
+Template-type: ReDIF-Series 1.0
+Name: SERC Discussion Papers
+Provider-Name: Spatial Economics Research Centre, LSE
+Provider-Homepage: http://www.spatialeconomics.ac.uk/SERC/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: SERC@lse.ac.uk 
+Handle: RePEc:cep:sercdp
+
+Template-type: ReDIF-Series 1.0
+Name: SERC Policy Papers
+Provider-Name: Spatial Economics Research Centre, LSE
+Provider-Homepage: http://www.spatialeconomics.ac.uk/SERC/publications/policy_papers.asp
+Provider-Institution: 
+Maintainer-Email: SERC@lse.ac.uk 
+Handle: RePEc:cep:sercpp
+
+
+Template-type: ReDIF-Series 1.0
+Name: CentrePiece - The Magazine for Economic Performance
+Provider-Name: Centre for Economic Performance, LSE
+Provider-Homepage: http://cep.lse.ac.uk/centrepiece/
+Provider-Institution: 
+Maintainer-Email: CEP.Centrepiece@lse.ac.uk 
+Handle: RePEc:cep:cepcnp
+
+
+Template-type: ReDIF-Series 1.0
+Name: EDS Discussion Papers Series
+Provider-Name: EDS Innovation Research Programme, LSE
+Provider-Homepage: http://www.lse.ac.uk/collections/EDSInnovationResearchProgramme/discussionPapersAndReports.htm
+Provider-Institution: 
+Maintainer-Email: j.m.cantlay@lse.ac.uk 
+Handle: RePEc:cep:cepeds
+
+Template-type: ReDIF-Series 1.0
+Name: CEP Election Analysis Papers
+Provider-Name: Centre for Economic Performance, LSE
+Provider-Homepage: http://cep.lse.ac.uk/_new/publications/series.asp?prog=CEPEA
+Provider-Institution: 
+Maintainer-Email: cep.info@lse.ac.uk
+Handle: RePEc:cep:cepeap
+
+Template-type: ReDIF-Series 1.0
+Name: CEP US Election Analysis Papers
+Provider-Name: Centre for Economic Performance, LSE
+Provider-Homepage: http://cep.lse.ac.uk/_new/publications/series.asp?prog=CEPUSA
+Provider-Institution: 
+Maintainer-Email: cep.info@lse.ac.uk
+Handle: RePEc:cep:cepusa
+
+
+Template-type: ReDIF-Series 1.0
+Name: CEP Policy Analysis Papers
+Provider-Name: Centre for Economic Performance, LSE
+Provider-Homepage: http://cep.lse.ac.uk/_new/publications/series.asp?prog=CEPPA
+Provider-Institution: 
+Maintainer-Email: cep.info@lse.ac.uk
+Handle: RePEc:cep:ceppap
+
+
+Template-type: ReDIF-Series 1.0
+Name: CEP Discussion Papers
+Provider-Name: Centre for Economic Performance, LSE
+Provider-Homepage: http://cep.lse.ac.uk/_new/publications/series.asp?prog=CEP
+Provider-Institution: 
+Maintainer-Email: cep.info@lse.ac.uk
+Handle: RePEc:cep:cepdps
+
+Template-type: ReDIF-Series 1.0
+Name: CASE Papers
+Provider-Name: Centre for Analysis of Social Exclusion, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/case/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:sticas
+
+Template-type: ReDIF-Series 1.0
+Name: CASE Briefs
+Provider-Name: Centre for Analysis of Social Exclusion, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/case/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:sticab
+
+Template-type: ReDIF-Series 1.0
+Name: CASE Reports
+Provider-Name: Centre for Analysis of Social Exclusion, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/case/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:sticar
+
+Template-type: ReDIF-Series 1.0
+Name: CEE Discussion Papers
+Provider-Name: Centre for the Economics of Education, LSE
+Provider-Homepage: http://cee.lse.ac.uk/publications.htm
+Provider-Institution: 
+Maintainer-Email: cee@lse.ac.uk
+Handle: RePEc:cep:ceedps
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Development Economics Papers - From 2008 this series has been superseded by Economic Organisation and Public Policy Discussion Papers
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stidep
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Distributional Analysis Research Programme Papers
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stidar
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Econometrics Paper Series
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stiecm
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Economics of Industry Papers
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stieip
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - International Studies Paper Series
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stiisp
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Japanese Studies Programme Paper Series
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stijsp
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Theoretical Economics Paper Series
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stitep
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Political Economy and Public Policy Paper Series
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stipep
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Public Economics Programme Discussion Papers
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stippp
+
+Template-type: ReDIF-Series 1.0
+Name: STICERD - Economic Organisation and Public Policy Discussion Papers Series 
+Provider-Name:  Suntory and Toyota International Centres for Economics and Related Disciplines, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:stieop
+
+Template-type: ReDIF-Series 1.0
+Name: CASE - Social Policy in a Cold Climate Research Note
+Provider-Name: Centre for Analysis of Social Exclusion, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/case/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:spccrn
+
+Template-type: ReDIF-Series 1.0
+Name: CASE - Social Policy in a Cold Climate Working Paper
+Provider-Name: Centre for Analysis of Social Exclusion, LSE
+Provider-Homepage: http://sticerd.lse.ac.uk/case/_new/publications/default.asp
+Provider-Institution: 
+Maintainer-Email: j.dickson@lse.ac.uk
+Handle: RePEc:cep:spccwp

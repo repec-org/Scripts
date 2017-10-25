@@ -1,0 +1,184 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of the Association for Consumer Research
+Description: Papers published in the Journal of the Association for Consumer Research
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JACR
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jacres
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Political Economy
+Description: Papers published in Journal of Political Economy
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JPE/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jpolec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Labor Economics
+Description: Papers published in Journal of Labor Economics
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JOLE/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jlabec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: The Journal of Business
+Description: Papers published in The Journal of Business
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JB/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jnlbus
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Economic Development and Cultural Change
+Description: Papers published in Economic Development and Cultural Change
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/EDCC/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:ecdecc
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Law and Economics
+Description: Papers published in Journal of Law and Economics
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JLE/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jlawec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: The Journal of Legal Studies
+Description: Papers published in The Journal of Legal Studies
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JLS/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jlstud
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of Human Capital
+Description: Papers published in Journal of Human Capital
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JHC/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jhucap
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: National Bureau of Economic Research Books
+Description: Books published under several NBER series
+Maintainer-Name: Books Division
+Maintainer-Email: booksdev@lists.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://press.uchicago.edu
+Handle: RePEc:ucp:bknber
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: University of Chicago Press Economics Books
+Description: Economics books published by University of Chicago Press
+Maintainer-Name: Books Division
+Maintainer-Email: booksdev@lists.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://press.uchicago.edu
+Handle: RePEc:ucp:bkecon
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Innovation Policy and the Economy
+Description: Papers published in Innovation Policy and the Economy
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/IPE/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:ipolec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: NBER International Seminar on Macroeconomics
+Description: Papers published in NBER International Seminar on Macroeconomics
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/ISM/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:intsma
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: NBER Macroeconomics Annual
+Description: Papers published in NBER Macroeconomics Annual
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/MA/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:macann
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Tax Policy and the Economy
+Description: Papers published in Tax Policy and the Economy
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/TPE/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:tpolec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Supreme Court Economic Review
+Description: Papers published in Supreme Court Economic Review
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/SCER/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:scerev
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal of the Association of Environmental and Resource Economists
+Description: Papers published in Journal of the Association of Environmental and Resource Economists
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/JAERE/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:jaerec
+
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Marine Resource Economics
+Description: Papers published in Marine Resource Economics
+Maintainer-Name: Journals Division
+Maintainer-Email: pubtech@press.uchicago.edu
+Provider-Name: University of Chicago Press
+Provider-Homepage: http://www.journals.uchicago.edu/MRE/
+Restriction: Access to the online full text or PDF requires a subscription.
+Handle: RePEc:ucp:mresec

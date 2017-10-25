@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Quaderni di Dipartimento
+Provider-Name:  University of Pavia, Department of Economics and Quantitative Methods
+Provider-Homepage: http://dipartimenti.unipv.eu/on-dip/epmq/Home.html
+Provider-Institution: RePEc:edi:dppavit
+Maintainer-Name: Paolo Bonomolo
+Maintainer-Email: quaderniecopol@eco.unipv.it
+Type: ReDIF-Paper
+Handle: RePEc:pav:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: DEM Working Papers Series
+Provider-Name:  University of Pavia, Department of Economics and Management
+Provider-Homepage: http://epmq.unipv.eu/site/home.html
+Provider-Institution: RePEc:edi:dppavit
+Maintainer-Name: Alice Albonico
+Maintainer-Email: quaderniecopol@eco.unipv.it
+Type: ReDIF-Paper
+Handle: RePEc:pav:demwpp

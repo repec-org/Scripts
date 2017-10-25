@@ -1,0 +1,50 @@
+Template-type: ReDIF-Series 1.0
+Name: ACED Working Papers
+Provider-Name: University of Antwerp, Faculty of Applied Economics
+Provider-Homepage: https://www.uantwerp.be/en/faculties/applied-economic-sciences/
+Provider-Institution: RePEc:edi:ftufsbe
+Maintainer-Name: Joeri Nys
+Maintainer-Email: joeri.nys@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:ant:acedwp
+
+Template-type: ReDIF-Series 1.0
+Name: Business Economics Working Papers
+Provider-Name: University of Antwerp, Faculty of Applied Economics
+Provider-Homepage: https://www.uantwerp.be/en/faculties/applied-economic-sciences/
+Provider-Institution: RePEc:edi:ftufsbe
+Maintainer-Name: Joeri Nys
+Maintainer-Email: joeri.nys@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:ant:buecwp
+
+Template-type: ReDIF-Series 1.0
+Name: SESO Working Papers
+Provider-Name: University of Antwerp, Faculty of Applied Economics
+Provider-Homepage: https://www.uantwerp.be/en/faculties/applied-economic-sciences/
+Provider-Institution: RePEc:edi:ftufsbe
+Maintainer-Name: Joeri Nys
+Maintainer-Email: joeri.nys@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:ant:sesowp
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Antwerp, Faculty of Applied Economics
+Provider-Homepage: https://www.uantwerp.be/en/faculties/applied-economic-sciences/
+Provider-Institution: RePEc:edi:ftufsbe
+Maintainer-Name: Joeri Nys
+Maintainer-Email: joeri.nys@uantwerpen.be
+Type: ReDIF-Paper
+Handle: RePEc:ant:wpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Economic and Social Journal (Economisch en Sociaal Tijdschrift)
+Provider-Name: University of Antwerp, Faculty of Applied Economics
+Provider-Homepage: https://www.uantwerp.be/en/faculties/applied-economic-sciences/
+Provider-Institution: RePEc:edi:ftufsbe
+Maintainer-Name: Joeri Nys
+Maintainer-Email: joeri.nys@uantwerpen.be
+Type: ReDIF-Article
+Handle: RePEc:ant:ecsots

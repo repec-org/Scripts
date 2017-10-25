@@ -1,0 +1,148 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: CESifo Working Paper Series
+Description: CESifo Working Papers are distributed worldwide to universities, libraries and individuals, while electronic versions reach over 5 thousand recipients every week through this website, the SSRN network and the CESifo website. Find here the Working Paper you need, view the abstract and, if you are interested, download the entire paper.
+Type: ReDIF-Paper
+Provider-Name: CESifo Group Munich
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:cesifde
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de  
+Handle: RePEc:ces:ceswps
+
+Template-type: ReDIF-Series 1.0
+Name: ifo Working Paper Series
+Description: The Ifo Working Papers are distributed worldwide to universities, libraries and individuals, while electronic versions reach over 4 thousand recipients every week through this website, the SSRN network and the CESifo Group website. Find here the Working Paper you need, view the abstract and, if you are interested, download the entire paper.
+Type: ReDIF-Paper
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Editor-Name: Volker Meier
+Editor-Email: meier@ifo.de
+Handle: RePEc:ces:ifowps
+
+Template-type: ReDIF-Series 1.0
+Name: ifo Schnelldienst
+Description: The bimonthly ifo Schnelldienst is published in German and contains contributions from several experts on a current topic, major research results of the Ifo Institute, macroeconomic and sectoral forecasts, and the latest results of the Ifo Business Survey.
+Type: ReDIF-Article
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Editor-Name: Marga Jennewein
+Editor-Email: jennewein@ifo.de
+Handle: RePEc:ces:ifosdt
+
+Template-type: ReDIF-Series 1.0
+Name: CESifo Forum
+Description: CESifo Forum is a quarterly economics journal published by Munich's Ifo Institute for the academic and business communities. A non-partisan journal with a truly European perspective, it reflects the scope of activities undertaken by CES and Ifo, from scholarly academic research to up-to-date business data. The journal contains short and incisive articles on economic problems written by academics and politicians from various countries.
+Type: ReDIF-Article
+Provider-Name: Ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Editor-Name: Chang Woon Nam
+Editor-Email: nam@ifo.de
+Handle: RePEc:ces:ifofor
+
+Template-type: ReDIF-Series 1.0
+Name: ifo DICE Report
+Description: The CESifo DICE Report is a quarterly journal for institutional comparisons published by the Ifo Institute. The word DICE refers to CESifo's free access Database for Institutional Comparisons in Europe. The CESifo DICE Report comments on new entries to the database and offers a forum for the discussion of institutional topics among researchers from the Ifo Institute, the CESifo Research Network and other economics research institutions. 
+Type: ReDIF-Article
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Editor-Name: Marcus Drometer
+Editor-Email: drometer@ifo.de
+Editor-Name: Christa Hainz
+Editor-Email: hainz@ifo.de
+Handle: RePEc:ces:ifodic
+Template-type: ReDIF-Series 1.0
+Name: ifo Dresden berichtet
+Description: Covering business activity, structure and economic policy, the publication of the Dresden branch of the Ifo Institute is mainly concerned with the development of the economy and the labour market in Saxony and the other new German states. 
+Type: ReDIF-Article
+
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Editor-Name: Joachim Ragnitz
+Editor-Email: ragnitz@ifo.de
+Handle: RePEc:ces:ifodre
+
+Template-type: ReDIF-Series 1.0
+Name: EEAG Report on the European Economy
+Description: The European Economic Advisory Group (EEAG) was founded in 2001. Supported by research staff of Germany's Ifo Institute for Economic Research, it provides an annual report on the European Economy which includes an economic forecast as well as in-depth analyses of topical European economic issues. 
+Type: ReDIF-Article
+Provider-Name: CESifo Group Munich
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:cesifde
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Handle: RePEc:ces:eeagre
+
+Template-type: ReDIF-Series 1.0
+Name: ifo Beiträge zur Wirtschaftsforschung
+Type: ReDIF-Book
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Handle: RePEc:ces:ifobei
+
+Template-type: ReDIF-Series 1.0
+Name: ifo Dresden Studien
+Type: ReDIF-Book
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Handle: RePEc:ces:ifodrs
+
+Template-type: ReDIF-Series 1.0
+Name: ifo Forschungsberichte
+Type: ReDIF-Book
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Handle: RePEc:ces:ifofob
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Type: ReDIF-Book
+Provider-Name: by Staff of the ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Handle: RePEc:ces:ifobok
+
+Template-type: ReDIF-Series 1.0
+Name: EconPol Policy Reports
+Type: ReDIF-Paper
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Handle: RePEc:ces:econpr
+
+Template-type: ReDIF-Series 1.0
+Name: EconPol Working Paper
+Type: ReDIF-Paper
+Provider-Name: ifo Institute - Leibniz Institute for Economic Research at the University of Munich 
+Provider-Homepage: http://www.cesifo-group.de
+Provider-Institution: RePEc:edi:ifooode
+Maintainer-Name: Klaus Wohlrabe
+Maintainer-Email: wohlrabe@ifo.de
+Handle: RePEc:ces:econwp

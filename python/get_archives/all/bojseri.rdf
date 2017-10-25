@@ -1,0 +1,40 @@
+Template-type: ReDIF-Series 1.0
+Name: Bank of Japan Working Paper Series
+Provider-Name: Bank of Japan
+Provider-Homepage: http://www.boj.or.jp/
+Provider-Institution: RePEc:edi:bojgvjp
+Maintainer-Name: Bank of Japan
+Maintainer-Email: prd.hp-mds@boj.or.jp
+Type: ReDIF-Paper
+Handle: RePEc:boj:bojwps
+
+Template-type: ReDIF-Series 1.0
+Name: Bank of Japan Review Series
+Provider-Name: Bank of Japan
+Provider-Homepage: http://www.boj.or.jp/
+Provider-Institution: RePEc:edi:bojgvjp
+Maintainer-Name: Bank of Japan
+Maintainer-Email: prd.hp-mds@boj.or.jp
+Type: ReDIF-Paper
+Handle: RePEc:boj:bojrev
+
+Template-type: ReDIF-Series 1.0
+Name: Bank of Japan Research Papers
+Provider-Name: Bank of Japan
+Provider-Homepage: http://www.boj.or.jp/
+Provider-Institution: RePEc:edi:bojgvjp
+Maintainer-Name: Bank of Japan
+Maintainer-Email: prd.hp-mds@boj.or.jp
+Type: ReDIF-Paper
+Handle: RePEc:boj:bojron
+
+Template-type: ReDIF-Series 1.0
+Name: Bank of Japan Research Laboratory Series
+Provider-Name: Bank of Japan
+Provider-Homepage: http://www.boj.or.jp/
+Provider-Institution: RePEc:edi:bojgvjp
+Maintainer-Name: Bank of Japan
+Maintainer-Email: prd.hp-mds@boj.or.jp
+Type: ReDIF-Paper
+Handle: RePEc:boj:bojlab
+

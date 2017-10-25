@@ -1,0 +1,63 @@
+Template-type: ReDIF-Series 1.0
+Name: Izvestiya
+Description: Izvestiya journal is an academic periodical of the Varna University of Economics. The journal is open to external experts   (Bulgarian and foreign), whose expertise is in line with the topics under consideration and who comply with the accepted requirements for publication.
+Provider-Name: Varna University of Economics
+Provider-Institution: RePEc:edi:uevarbg
+Maintainer-Name: Rositsa Zarkova
+Maintainer-Email: sp.Izvestiya@ue-varna.bg
+Editor-Name: Zhivko Parushev
+Editor-Email: izdatel@ue-varna.bg
+Type: ReDIF-Article
+Handle: RePEc:vrn:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Conferences of the department Commodity sceince
+Description: This series contains the papers from conferences held at University of Economics Varna, organized by the department Commodity sceince.
+Provider-Name: Publishing house Science and Economics Varna
+Provider-Homepage: http://ue-varna.bg
+Provider-Institution: RePEc:edi:uevarbg
+Maintainer-Name: Georgi Dimitrov
+Maintainer-Email: g.dimitrov@ue-varna.bg
+Editor-Name: Sabka Pashova
+Editor-Email: spashova@ue-varna.bg
+Type: ReDIF-Book
+Handle: RePEc:vrn:stozna
+
+Template-type: ReDIF-Series 1.0
+Name: Second conference on innovative teaching methods (ITM 2017)
+Description: The content of this book contains the papers from the ITM 2017 conference held at University of Economics Varna.
+Provider-Name: Publishing house "Science and Economics" Varna 
+Provider-Homepage: http://conf.000webhostapp.com/  
+Provider-Institution: RePEc:edi:uevarbg
+Maintainer-Name: Miglena Stoyanova
+Maintainer-Email: m_stoyanova@ue-varna.bg 
+Editor-Name: Julian Vasilev
+Editor-Email: vasilev@ue-varna.bg
+Type: ReDIF-Book
+Handle: RePEc:vrn:dimbip
+
+Template-type: ReDIF-Series 1.0
+Name: University conferences organized by University of Economics Varna
+Description: This series contains the conference proceedings from university conferences organized by University of Economics Varna.
+Provider-Name: Publishing house Science and Economics Varna 
+Provider-Homepage: http://ue-varna.bg
+Provider-Institution: RePEc:edi:uevarbg
+Editor-Name: Veselin Hadzhiev
+Editor-Email: v_hadjiev@ue-varna.bg 
+Maintainer-Name: Julian Vasilev
+Maintainer-Email: vasilev@ue-varna.bg
+Type: ReDIF-Book
+Handle: RePEc:vrn:confer
+
+Template-type: ReDIF-Series 1.0
+Name:Conferences of the department Marketing
+Description: This series contains the papers from conferences held at University of Economics Varna, organized by the department Marketing.
+Provider-Name: Publishing house Science and Economics Varna 
+Provider-Homepage: http://ue-varna.bg
+Provider-Institution: RePEc:edi:uevarbg
+Maintainer-Name: Maria Kehayova-Stoycheva
+Maintainer-Email: kehajova_m@ue-varna.bg
+Editor-Name: Evgeni Stanimirov
+Editor-Email: stanimirov@ue-varna.bg
+Type: ReDIF-Book
+Handle: RePEc:vrn:market

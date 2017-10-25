@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Arbeitspapiere
+Provider-Name: Liechtenstein-Institut
+Provider-Homepage: http://www.liechtenstein-institut.li
+Provider-Institution: RePEc:edi:lieinli
+Maintainer-Name: Cornelia Schuster
+Maintainer-Email: cornelia.schuster@liechtenstein-institut.li
+Type: ReDIF-Paper
+Handle: RePEc:lii:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Beitraege
+Provider-Name: Liechtenstein-Institut
+Provider-Homepage: http://www.liechtenstein-institut.li
+Provider-Institution: RePEc:edi:lieinli
+Maintainer-Name: Cornelia Schuster
+Maintainer-Email: cornelia.schuster@liechtenstein-institut.li
+Type: ReDIF-Paper
+Handle: RePEc:lii:beitra

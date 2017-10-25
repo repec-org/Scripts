@@ -1,0 +1,29 @@
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers
+Maintainer-Name: Paul Hodgson
+Maintainer-Email: Paul.Hodgson@york.ac.uk
+Provider-Name: Department of Economics, University of York
+Provider-Postal: Department of Economics and Related Studies, University of York, York, YO10 5DD, United Kingdom
+Provider-Homepage: https://www.york.ac.uk/economics/
+Provider-Institution: RePEc:edi:deyoruk
+Handle: RePEc:yor:yorken
+
+Template-Type: ReDIF-Series 1.0
+Name: Centre for Historical Economics and Related Research at York (CHERRY) Discussion Papers
+Maintainer-Name: Doriana Delfino
+Maintainer-Email: dd109@york.ac.uk
+Provider-Name: CHERRY, c/o Department of Economics, University of York
+Provider-Postal: c/o Sue Bowden, Department of Economics and Related Studies, University of York, York, YO10 5DD, United Kingdom
+Provider-Homepage: https://www.york.ac.uk/economics/research/research-clusters/cherry/
+Provider-Institution: RePEc:edi:deyoruk
+Handle: RePEc:yor:cherry
+
+Template-Type: ReDIF-Series 1.0
+Name: Health, Econometrics and Data Group (HEDG) Working Papers
+Maintainer-Name: Jane Rawlings
+Maintainer-Email: jane.rawlings@york.ac.uk
+Provider-Name: HEDG, c/o Department of Economics, University of York
+Provider-Postal: HEDG/HERC, Department of Economics and Related Studies, University of York, York, YO10 5DD, United Kingdom
+Provider-Homepage: https://www.york.ac.uk/economics/postgrad/herc/hedg/
+Provider-Institution: RePEc:edi:deyoruk
+Handle: RePEc:yor:hectdg

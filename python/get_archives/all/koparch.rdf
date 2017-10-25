@@ -1,0 +1,13 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:kop
+Name: KOPINT-DATORG Studies
+Maintainer-Name: KOPINT-DATORG
+Maintainer-Email: info@kopdat.hu
+#Maintainer-Name: Katalin Gaspar
+#Maintainer-Email: gaspark@kopdat.hu
+Maintainer-Phone: +36-1-4594200 
+Maintainer-Fax: +36-1-303-9588
+Description: KOPINT-DATORG studies are regular reports, analyses and proposals for Hungarian and regional economic development and reform.
+#URL: http://www.kopdat.hu/kutatas/RePEc/kop/
+URL: ftp://ideas.repec.org/pub/RePEc/kop
+Homepage: http://www.kopdat.hu/angol

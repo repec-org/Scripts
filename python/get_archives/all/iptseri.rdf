@@ -1,0 +1,46 @@
+Template-type: ReDIF-Series 1.0
+Name: JRC Working Papers
+Description: JRC Working Papers
+Provider-Name: Joint Research Centre (Seville site)
+Provider-Homepage: https://ec.europa.eu/jrc/en
+Provider-Institution: RePEc:edi:ipjrces
+Maintainer-Name: Publication Officer
+Maintainer-Email: JRC-DIR-B-PUBLICATIONS@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:ipt:iptwpa
+
+Template-type: ReDIF-Series 1.0
+Name: JRC Working Papers on Corporate R&D and Innovation
+Description: JRC Working papers of Economics on Corporate Research and Development and Innovation
+Provider-Name: Joint Research Centre (Seville site)
+Provider-Homepage: https://ec.europa.eu/jrc/en
+Provider-Institution: RePEc:edi:ipjrces
+Maintainer-Name: Publication Officer
+Maintainer-Email: JRC-DIR-B-PUBLICATIONS@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:ipt:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: JRC Working Papers on Digital Economy
+Description: JRC Working Papers on Digital Economy 
+Provider-Name: Joint Research Centre (Seville site)
+Provider-Homepage: https://ec.europa.eu/jrc/en
+Provider-Institution: RePEc:edi:ipjrces
+Maintainer-Name: Publication Officer
+Maintainer-Email: JRC-DIR-B-PUBLICATIONS@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:ipt:decwpa
+
+Template-type: ReDIF-Series 1.0
+Name: JRC Working Papers on Taxation & Structural Reforms
+Description: JRC Working Papers on Taxation & Structural Reforms
+Provider-Name: Joint Research Centre (Seville site)
+Provider-Homepage: https://ec.europa.eu/jrc/en
+Provider-Institution: RePEc:edi:ipjrces
+Maintainer-Name: Publication Officer
+Maintainer-Email: JRC-DIR-B-PUBLICATIONS@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:ipt:taxref
+
+
+

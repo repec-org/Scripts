@@ -1,0 +1,35 @@
+#
+# leave next line alone
+package REMICONF;
+
+#
+# remi use these defaults for permissions. It is best not to change
+# them 
+$dir_mode='0755' ;
+$file_mode='0644';
+# 
+# put here the name of the user that owns the files in the RePEc archive
+#
+$user='adnetec' ;
+# put here the group of the user that owns the files in the RePEc archive
+#
+$group='nwk' ;
+#
+# fix what to get. By default, remi gets everything know to RePEc
+#
+# 
+# this is an example whoto select archives
+# 
+#@to_get= qw(cre) ; 
+#
+# this is an example hwo to select series
+# 
+#@to_get= qw(surrec valeec) ; 
+#
+# this is an example hwo to select nothing, only the core site.
+# 
+#@to_get= qw(nothing) ; 
+#
+# note taht you can not mix series and archives. Maybe 
+#
+

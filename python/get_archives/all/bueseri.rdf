@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>123 Down for maintenance</title>
+		<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+		<meta content="" name="description" />
+		<meta content="" name="author" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+		<link href="/style.css" rel="stylesheet" />
+	</head>
+	<body class="blue top_100">
+		<div id="wrapper">
+			<header class="border">			
+			</header>
+			<div class="container">
+				<div class="title">
+					<h1>Sorry!</h1>
+				</div>
+				<div class="txt">
+					<p>The website you've accessed is offline due to essential maintenance.</p>
+					<p>It will be back online shortly...</p>
+					<p>We apologise for any<br />incovenience this may cause.</p>
+				</div>
+			</div>
+			<footer class="border">
+			</footer>
+		</div>
+	</body>
+</html>

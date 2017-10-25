@@ -1,0 +1,90 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Post-Print
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:journl
+
+Template-type: ReDIF-Series 1.0
+Name: Université Paris1 Panthéon-Sorbonne (Post-Print and Working Papers)
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:cesptp
+
+Template-type: ReDIF-Series 1.0
+Name: Working paper serie RMT - Grenoble Ecole de Management
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:gemwpa
+
+Template-type: ReDIF-Series 1.0
+Name: Grenoble Ecole de Management (Post-Print)
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:gemptp
+
+Template-type: ReDIF-Series 1.0
+Name: PSE Working Papers
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:psewpa
+
+Template-type: ReDIF-Series 1.0
+Name: PSE - Labex "OSE-Ouvrir la Science Economique"
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:pseose
+
+Template-type: ReDIF-Series 1.0
+Name: PSE - G-MOND WORKING PAPERS
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:gmonwp
+
+Template-type: ReDIF-Series 1.0
+Name: CEPN Working Papers
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:cepnwp
+
+Template-type: ReDIF-Series 1.0
+Name: CIRED Working Papers
+Provider-Name: HAL
+Provider-Homepage: https://hal.archives-ouvertes.fr/
+Maintainer-Name: CCSD
+Maintainer-Email: hal@ccsd.cnrs.fr
+Type: ReDIF-Paper
+Handle: RePEc:hal:ciredw
+

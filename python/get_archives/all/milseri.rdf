@@ -1,0 +1,14 @@
+Template-type: ReDIF-Series 1.0
+Name: Departmental Working Papers
+Description: Contains papers in Economics, Statistics and Mathematics.
+Type: ReDIF-Paper
+Provider-Name: Department of Economics, Management and Quantitative Methods at Università degli Studi di Milano
+Provider-Homepage: http://www.demm.unimi.it
+Provider-Phone: +39 02 50321522
+Provider-Postal: Via Conservatorio 7, I-20122 Milan - Italy
+Provider-Fax: +39 02 50321505
+Provider-Institution: RePEc:edi:damilit
+Maintainer-Name: DEMM Working Papers
+Maintainer-Email: dipeco@unimi.it
+Handle: RePEc:mil:wpdepa
+

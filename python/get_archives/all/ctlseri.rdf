@@ -1,0 +1,83 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: JODE - Journal of Demographic Economics - Data and Codes
+Provider-Name: Cambridge University Press
+Provider-Institution: RePEc:edi:iruclbe
+Provider-Email: sebastien.schillings@uclouvain.be
+Provider-Fax: +32 10473945
+Provider-Postal: Place Montesquieu 3, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: https://www.cambridge.org/core/journals/journal-of-demographic-economics
+Maintainer-Name: Sebastien SCHILLINGS
+Maintainer-Email: sebastien.schillings@uclouvain.be
+Maintainer-Fax: +32 10473945
+Type: ReDIF-Software
+Handle: RePEc:ctl:louvdc
+
+Template-Type: ReDIF-Series 1.0
+Name: JODE - Journal of Demographic Economics
+Provider-Name: Cambridge University Press
+Provider-Institution: RePEc:edi:iruclbe
+Provider-Email: sebastien.schillings@uclouvain.be
+Provider-Fax: +32 10473945
+Provider-Postal: Place Montesquieu 3, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: https://www.cambridge.org/core/journals/journal-of-demographic-economics
+Maintainer-Name: Sebastien SCHILLINGS
+Maintainer-Email: sebastien.schillings@uclouvain.be
+Maintainer-Fax: +32 10473945
+Type: ReDIF-Article
+Handle: RePEc:ctl:louvde
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers (ECON - Département des Sciences Economiques)
+Provider-Name: Université catholique de Louvain, Département des Sciences Economiques
+Provider-Institution: RePEc:edi:iruclbe
+Provider-Email: anne.logist@uclouvain.be
+Provider-Fax: +32 10473945
+Provider-Postal: Place Montesquieu 3, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: http://www.uclouvain.be/econ
+Maintainer-Name: Anne DAVISTER-LOGIST
+Maintainer-Email: anne.logist@uclouvain.be
+Maintainer-Fax: +32 10473945
+Type: ReDIF-Paper
+Handle: RePEc:ctl:louvec
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers (IRES - Institut de Recherches Economiques et Sociales)
+Provider-Name: Université catholique de Louvain, Institut de Recherches Economiques et Sociales (IRES)
+Provider-Institution: RePEc:edi:iruclbe
+Provider-Email: anne.logist@uclouvain.be
+Provider-Fax: +32 10473945
+Provider-Postal: Place Montesquieu 3, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: https://uclouvain.be/en/research-institutes/immaq/ires
+Maintainer-Name: Anne DAVISTER-LOGIST
+Maintainer-Email: anne.logist@uclouvain.be
+Maintainer-Fax: +32 10473945
+Type: ReDIF-Paper
+Handle: RePEc:ctl:louvir
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers (IRES - Institut de Recherches Economiques et Sociales)
+Provider-Name: Université catholique de Louvain, Institut de Recherches Economiques et Sociales (IRES)
+Provider-Institution: RePEc:edi:iruclbe
+Provider-Email: anne.logist@uclouvain.be
+Provider-Fax: +32 10473945
+Provider-Postal: Place Montesquieu 3, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: https://uclouvain.be/en/research-institutes/immaq/ires
+Maintainer-Name: Anne DAVISTER-LOGIST
+Maintainer-Email: anne.logist@uclouvain.be
+Maintainer-Fax: +32 10473945
+Type: ReDIF-Paper
+Handle: RePEc:ctl:louvrg
+
+Template-Type: ReDIF-Series 1.0
+Name: Discussion Papers (REL - Recherches Economiques de Louvain)
+Provider-Name: Université catholique de Louvain, Institut de Recherches Economiques et Sociales (IRES)
+Provider-Institution: RePEc:edi:iruclbe
+Provider-Email: sebastien.schillings@uclouvain.be
+Provider-Fax: +32 10473945
+Provider-Postal: Place Montesquieu 3, 1348 Louvain-la-Neuve (Belgium)
+Provider-Homepage: https://uclouvain.be/en/research-institutes/immaq/ires
+Maintainer-Name: Sebastien SCHILLINGS
+Maintainer-Email: sebastien.schillings@uclouvain.be
+Maintainer-Fax: +32 10473945
+Type: ReDIF-Paper
+Handle: RePEc:ctl:louvre

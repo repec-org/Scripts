@@ -1,0 +1,20 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Graduate School of Management, St. Petersburg State University
+Provider-Homepage: https://dspace.spbu.ru/
+Provider-Institution: RePEc:edi:sompuru
+Maintainer-Name: Lena Manaeva
+Maintainer-Email: l.manaeva@gsom.pu.ru
+Type: ReDIF-Paper
+Handle: RePEc:sps:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Conference Papers
+Provider-Name: Graduate School of Management, St. Petersburg State University
+Provider-Homepage: https://dspace.spbu.ru/
+Provider-Institution: RePEc:edi:sompuru
+Maintainer-Name: Lena Manaeva
+Maintainer-Email: l.manaeva@gsom.pu.ru
+Type: ReDIF-Paper
+Handle: RePEc:sps:cpaper
+

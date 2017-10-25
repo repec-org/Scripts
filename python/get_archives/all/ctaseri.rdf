@@ -1,0 +1,22 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Community Positive Practices
+Provider-Name: Catalactica NGO
+Provider-Homepage: http://www.jppc.ro/?lang=en
+Maintainer-Name: Marian Matei
+Maintainer-Email: office@jppc.ro
+Type: ReDIF-Article
+Handle: RePEc:cta:jcppxx
+Description: JCPP offers a high level scientific environment for the debate of contemporary social issues and publishing of original scientific papers on social concepts and research.
+Classification-JEL:Z13
+ISSN: 2247-6571
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Europeana de Economie Sociala
+Provider-Name: Catalactica NGO
+Provider-Homepage: http://www.repec.ro
+Maintainer-Name: Marian Matei
+Maintainer-Email: office@jppc.ro
+Type: ReDIF-Article
+Handle: RePEc:cta:reesxx
+Description: Revista europeana de economie sociala ofera un mediu stiintific de inalt nivel, pentru dezbaterea problemelor sociale contemporane si publicarea articolelor care despre economia sociala privind gandirea si cercetarea sociala. Avand patru aparitii pe an, atat in limba romana cat si in limba engleza, revista se adreseaza cercetatorilor, profesorilor si studentilor in economia sociala , practicienilor, decidentilor si publicului larg din intreaga lume. 
+Classification-JEL:Z13

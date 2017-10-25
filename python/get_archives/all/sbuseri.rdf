@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: CIBS Research Papers in International Business
+Provider-Name: London South Bank University CIBS
+Provider-Homepage: http://www.lsbu.ac.uk/cibs
+Provider-Phone: +44 171 815 7731
+Provider-Postal: London South Bank University Business School 
+ 103 Borough Road London SE1 0AA United Kingdom
+Provider-Fax: +44 171 815 7076
+Provider-Institution: RePEc:edi:cisbuuk
+Maintainer-Name: Michael Rigby
+Maintainer-Email:rigbymp@lsbu.ac.uk
+Order-Email:rigbymp@lsbu.ac.uk
+Order-Homepage: http://www.lsbu.ac.uk/cibs/
+Handle: RePEc:sbu:cibswp
+
+Template-type: ReDIF-Series 1.0
+Name: Euro Institute Working Papers
+Provider-Name: South Bank University Euro Institute
+Provider-Homepage: http://www.lsbu.ac.uk/euroinst
+Provider-Phone:0171 815 7074
+Provider-Postal:London South Bank University Business School
+ Borough Road London SE1 0AA United Kingdom
+Provider-Fax:0171 815 7075
+Provider-Institution: RePEc:edi:eisbuuk
+Maintainer-Name: Michael Rigby
+Maintainer-Email:rigbymp@lsbu.ac.uk
+Order-Email:rigbymp@lsbu.ac.uk
+Order-Homepage:http://www.lsbu.ac.uk/euroinst/
+Handle: RePEc:sbu:eurowp

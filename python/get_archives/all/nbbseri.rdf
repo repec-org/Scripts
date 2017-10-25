@@ -1,0 +1,37 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Research
+Description: This is a series about central banking finance and economics which stems on theoretical and/or empirical economic research.
+Provider-Name: National Bank of Belgium
+Provider-Homepage: https://www.nbb.be/
+Provider-Institution: RePEc:edi:bnbgvbe
+Maintainer-Email: documentation@nbb.be
+Handle: RePEc:nbb:reswpp
+ 
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Document
+Description: This is a series about central banking finance and economics which stems on information or analysis of more general and descriptive nature.
+Provider-Name: National Bank of Belgium
+Provider-Homepage: https://www.nbb.be/
+Provider-Institution: RePEc:edi:bnbgvbe
+Maintainer-Email: documentation@nbb.be
+Handle: RePEc:nbb:docwpp
+
+Template-type: ReDIF-Series 1.0
+Name: Financial Stability Review
+Description: The aim of the Financial Stability Review is to foster debate and cooperation between macroprudential and microprudential authorities and market operators.
+Provider-Name: National Bank of Belgium
+Provider-Homepage: https://www.nbb.be/
+Provider-Institution: RePEc:edi:bnbgvbe
+Type: ReDIF-article
+Maintainer-Email: documentation@nbb.be
+Handle: RePEc:nbb:fsrart
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Review
+Description: The Economic Review provides information about important economic, financial and monetary developments.
+Provider-Name: National Bank of Belgium
+Provider-Homepage: https://www.nbb.be/
+Provider-Institution: RePEc:edi:bnbgvbe
+Type: ReDIF-article
+Maintainer-Email: documentation@nbb.be
+Handle: RePEc:nbb:ecrart

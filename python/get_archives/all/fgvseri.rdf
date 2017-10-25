@@ -1,0 +1,71 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: FGV/EPGE Economics Working Papers (Ensaios Economicos da EPGE)
+Description: Working Papers from Graduate School of Economics, Getulio Vargas Foundation
+Provider-Name: FGV/EPGE - Escola Brasileira de Economia e Finanças, Getulio Vargas Foundation (Brazil)
+Provider-Homepage: http://epge.fgv.br
+Provider-Institution: RePEc:edi:epgvfbr
+Maintainer-Name: Núcleo de Computação da FGV/EPGE
+Maintainer-Email: ncepge@fgv.br
+Type: ReDIF-Paper
+Handle: RePEc:fgv:epgewp
+ISSN: 0104-8910
+
+Template-type: ReDIF-Series 1.0
+Name: EAESP Finance Seminar Working Papers
+Description: Working Papers presented at the EAESP Finance seminars, Getulio Vargas Foundation
+Provider-Name: FGV/EAESP - Escola de Administração de Empresas de São Paulo, Getulio Vargas Foundation (Brazil)
+Provider-Homepage: http://eaesp.fgv.br
+Handle: RePEc:fgv:eaespw
+Provider-Institution: RePEc:edi:epgvfbr
+Maintainer-Name: Núcleo de Computação da FGV/EPGE
+Maintainer-Email: ncepge@fgv.br
+Type: ReDIF-Paper
+Handle: RePEc:fgv:eaespw
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Brasileira de Economia - RBE
+Provider-Name: FGV/EPGE - Escola Brasileira de Economia e Finanças, Getulio Vargas Foundation (Brazil)
+Provider-Homepage: http://epge.fgv.br
+Provider-Institution: RePEc:edi:epgvfbr
+Maintainer-Name: Núcleo de Computação da FGV/EPGE
+Maintainer-Email: ncepge@fgv.br
+Type: ReDIF-Article
+Handle: RePEc:fgv:epgrbe
+ISSN: 0034-7140
+Editor-Name: Ricardo Cavalcanti
+Editor-Email: ricardoc@fgv.br
+
+Template-type: ReDIF-Series 1.0
+Name: Textos para discussão
+Description: Working Papers from Escola de Economia da São Paulo, Getulio Vargas Foundation
+Provider-Name: FGV/EESP - Escola de Economia de São Paulo, Getulio Vargas Foundation (Brazil)
+Provider-Homepage: http://eesp.fgv.br
+Provider-Institution: RePEc:edi:eegvfbr
+Maintainer-Name: Núcleo de Computação da FGV/EPGE
+Maintainer-Email: ncepge@fgv.br
+Type: ReDIF-Paper
+Handle: RePEc:fgv:eesptd
+
+Template-type: ReDIF-Series 1.0
+Name: EBAPE Working Papers
+Description: Working Papers from Brazilian School of Public and Business Administration, Getulio Vargas Foundation
+Provider-Name: FGV/EBAPE - Escola Brasileira de Administração Pública e de Empresas (Brazil)
+Provider-Homepage: http://ebape.fgv.br
+Provider-Institution: RePEc:edi:ebfgvbr
+Maintainer-Name: Núcleo de Computação da FGV/EBAPE
+Maintainer-Email: nccebape@fgv.br
+Type: ReDIF-Paper
+Handle: RePEc:fgv:ebapwp
+
+Template-type: ReDIF-Series 1.0
+Name: RAE - Revista de Administração de Empresas
+Provider-Name: FGV-EAESP Escola de Administração de Empresas de São Paulo (Brazil)
+Provider-Homepage: http://eaesp.fgvsp.br/
+Provider-Institution: RePEc:edi:eagvfbr
+Maintainer-Name: Núcleo de Computação da FGV/EPGE
+Maintainer-Email: ncepge@fgv.br
+Type: ReDIF-Article
+Handle: RePEc:fgv:eaerae
+ISSN: 2178-938X
+Editor-Name: Eduardo Diniz
+Editor-Email: rae@fgv.br

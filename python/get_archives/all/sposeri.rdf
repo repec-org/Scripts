@@ -1,0 +1,19 @@
+﻿Template-Type: ReDIF-Series 1.0
+Name: Sciences Po Economics Discussion Papers
+Provider-Name: Sciences Po Departement of Economics
+Provider-Homepage: http://econ.sciences-po.fr/
+Provider-Institution: RePEc:edi:cfmspfr
+Maintainer-Name: Sciences Po Departement of Economics Series Handler
+Maintainer-Email: sidartha.gordon@sciencespo.fr
+Type: ReDIF-Paper
+Handle: RePEc:spo:wpecon
+
+Template-Type: ReDIF-Series 1.0
+Name: Sciences Po publications
+Provider-Name: Sciences Po
+Provider-Homepage: http://www.sciencespo.fr/
+Provider-Institution: RePEc:edi:ecspofr
+Maintainer-Name: Spire @ Sciences Po Library
+Maintainer-Email: spire-web@sciences-po.fr
+Type: ReDIF-Paper
+Handle: RePEc:spo:wpmain

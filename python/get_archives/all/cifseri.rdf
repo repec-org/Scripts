@@ -1,0 +1,10 @@
+Template-Type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is a working paper
+Provider-Name: Center for Fiscal Policy, Swiss Federal Institute of Technology Lausanne
+Provider-Homepage: http://cfi.epfl.ch/
+Provider-Institution: RePEc:edi:cfepfch
+Maintainer-Name: Corinne Dubois
+Maintainer-Email: corinne.dubois@epfl.ch
+Type: ReDIF-Paper
+Handle: RePEc:cif:wpaper

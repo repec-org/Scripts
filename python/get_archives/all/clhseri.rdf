@@ -1,0 +1,65 @@
+Template-type: ReDIF-Series 1.0
+Name: SPP Research Papers
+Provider-Name: The School of Public Policy, University of Calgary
+Provider-Homepage: http://www.policyschool.ca
+Provider-Institution: RePEc:edi:spcalca
+Maintainer-Name: Bev Dahlby
+Maintainer-Email: bgdahlby@ucalgary.ca
+ISSN: 2560-8320
+Type: ReDIF-Article
+Handle: RePEc:clh:resear
+
+Template-type: ReDIF-Series 1.0
+Name: SPP Communique
+Provider-Name: The School of Public Policy, University of Calgary
+Provider-Homepage: http://www.policyschool.ca
+Provider-Institution: RePEc:edi:spcalca
+Maintainer-Name: Bev Dahlby
+Maintainer-Email: bgdahlby@ucalgary.ca
+ISSN: 2560-8320
+Type: ReDIF-Article
+Handle: RePEc:clh:commun
+
+Template-type: ReDIF-Series 1.0
+Name: SPP Technical Papers
+Provider-Name: The School of Public Policy, University of Calgary
+Provider-Homepage: http://www.policyschool.ca
+Provider-Institution: RePEc:edi:spcalca
+Maintainer-Name: Bev Dahlby
+Maintainer-Email: bgdahlby@ucalgary.ca
+ISSN: 2560-8320
+Type: ReDIF-Article
+Handle: RePEc:clh:techni
+
+Template-type: ReDIF-Series 1.0
+Name: SPP Briefing Papers
+Provider-Name: The School of Public Policy, University of Calgary
+Provider-Homepage: http://www.policyschool.ca
+Provider-Institution: RePEc:edi:spcalca
+Maintainer-Name: Bev Dahlby
+Maintainer-Email: bgdahlby@ucalgary.ca
+ISSN: 2560-8320
+Type: ReDIF-Article
+Handle: RePEc:clh:briefi
+
+Template-type: ReDIF-Series 1.0
+Name: SPP Workshop Papers
+Provider-Name: The School of Public Policy, University of Calgary
+Provider-Homepage: http://www.policyschool.ca
+Provider-Institution: RePEc:edi:spcalca
+Maintainer-Name: Bev Dahlby
+Maintainer-Email: bgdahlby@ucalgary.ca
+ISSN: 2560-8320
+Type: ReDIF-Article
+Handle: RePEc:clh:worksh
+
+Template-type: ReDIF-Series 1.0
+Name: SPP Defence Papers
+Provider-Name: The School of Public Policy, University of Calgary
+Provider-Homepage: http://www.policyschool.ca
+Provider-Institution: RePEc:edi:spcalca
+Maintainer-Name: Bev Dahlby
+Maintainer-Email: bgdahlby@ucalgary.ca
+ISSN: 2560-8320
+Type: ReDIF-Article
+Handle: RePEc:clh:defenc

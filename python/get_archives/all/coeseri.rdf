@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: Bruges European Economic Research Papers
+Provider-Name: European Economic Studies Department, College of Europe
+Provider-Homepage: http://www.coleurope.eu
+Provider-Institution: RePEc:edi:eescebe
+Maintainer-Name: Jessie Moerman
+Maintainer-Email: jessie.moerman@coleurope.eu
+Type: ReDIF-Paper
+Handle: RePEc:coe:wpbeer
+Template-type: ReDIF-Series 1.0
+Name: Bruges European Economic Policy Briefings
+Provider-Name: European Economic Studies Department, College of Europe
+Provider-Homepage: http://www.coleurope.eu
+Provider-Institution: RePEc:edi:eescebe
+Maintainer-Name: Jessie Moerman
+Maintainer-Email: jessie.moerman@coleurope.eu
+Type: ReDIF-Paper
+Handle: RePEc:coe:wpbeep

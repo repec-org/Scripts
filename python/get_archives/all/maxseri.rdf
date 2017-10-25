@@ -1,0 +1,32 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Center for Policy Research Working Papers
+Description: Working papers published by the Center for Policy Research, a social science research program within the Maxwell School at Syracuse University.
+Type: ReDIF-Paper
+Provider-Name: Center for Policy Research, Maxwell School, Syracuse University
+Provider-Homepage: http://www.maxwell.syr.edu/cpr.aspx
+Provider-Phone: (315) 443-3114
+Provider-Postal: 426 Eggers Hall, Syracuse, New York USA 13244-1020
+Provider-Fax: (315) 443-1081
+Provider-Institution: RePEc:edi:cpsyrus
+Maintainer-Name: Kelly Bogart
+Maintainer-Email: kbogart@maxwell.syr.edu
+Maintainer-Name: Katrina Wingle
+Maintainer-Email: krwingle@maxwell.syr.edu
+Handle: RePEc:max:cprwps
+
+Template-type: ReDIF-Series 1.0
+Name: Center for Policy Research Policy Briefs
+Description: Policy briefs published by the Center for Policy Research, a social science research program within the Maxwell School at Syracuse University.
+Type: ReDIF-Paper
+Provider-Name: Center for Policy Research, Maxwell School, Syracuse University
+Provider-Homepage: http://www.maxwell.syr.edu/cpr.aspx
+Provider-Phone: (315) 443-3114
+Provider-Postal: 426 Eggers Hall, Syracuse, New York USA 13244-1020
+Provider-Fax: (315) 443-1081
+Provider-Institution: RePEc:edi:cpsyrus
+Maintainer-Name: Kelly Bogart
+Maintainer-Email: kbogart@maxwell.syr.edu
+Maintainer-Name: Katrina Wingle
+Maintainer-Email: krwingle@maxwell.syr.edu
+Handle: RePEc:max:cprpbr
+

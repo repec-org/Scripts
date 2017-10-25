@@ -1,0 +1,11 @@
+Template-Type: ReDIF-Mirror 1.0
+Machine: www.econ.surrey.ac.uk
+Archives-Included: all
+User: web
+Group: web
+Directory: /home/web/RePEc/sur
+Maintainer-Name: Thomas Krichel
+Maintainer-Email: krichel@openlib.org
+Archive-Handle: RePEc:sur
+
+

@@ -1,0 +1,333 @@
+Template-type: ReDIF-Series 1.0
+Name: Comparative Economic Studies
+Description: Papers published in Comparative Economic Studies
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: Association for Comparative Economic Studies
+Provider-Homepage: http://www.acesecon.org/
+Provider-Institution: RePEc:edi:acessea
+Editor-Name: Josef C.  Brada  
+Editor-Email: josef.brada@au.edu
+Editor-Name: Paul Wachtel
+Order-Homepage: http://www.springer.com/economics/journal/41294/PS2
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41294
+ISSN: 0888-7233
+Type: ReDIF-Article
+Handle: RePEc:pal:compes
+
+Template-type: ReDIF-Series 1.0
+Name: Development
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: Society for International Deveopment
+Provider-Homepage: http://www.sidint.net/
+Provider-Institution: RePEc:edi:sidddea
+Editor-Name: Stefano Prato
+Order-Homepage: http://www.springer.com/social+sciences/journal/41301/PS2
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41301
+ISSN: 1011-6370
+Type: ReDIF-Article
+Handle: RePEc:pal:develp
+
+Template-type: ReDIF-Series 1.0
+Name: The Geneva Papers on Risk and Insurance - Issues and Practice
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: The Geneva Association
+Provider-Homepage: https://www.genevaassociation.org/
+Provider-Institution: RePEc:edi:genevea
+Order-Homepage: http://www.springer.com/finance/journal/41288/PS2
+Editor-Name: Christophe Courbage 
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41288
+ISSN: 1018-5895
+Type: ReDIF-Article
+Handle: RePEc:pal:gpprii
+
+Template-type: ReDIF-Series 1.0
+Name: IMF Staff Papers
+Description: Papers published in IMF Staff Papers
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Order-Homepage: http://www.springer.com/economics/journal/41308/PS2
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+ISSN: 1020-7635
+Type: ReDIF-Article
+Handle: RePEc:pal:imfstp
+Followup: RePEc:pal:imfecr
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of International Business Studies
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: Academy of International Business
+Provider-Homepage: https://aib.msu.edu/
+Order-Homepage: http://www.springer.com/business+%26+management/journal/41267/PS2
+Editor-Name: John Cantwell
+Editor-Email: cantwell@business.rutgers.edu 
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41267
+ISSN: 0047-2506
+Type: ReDIF-Article
+Handle: RePEc:pal:jintbs
+
+Template-type: ReDIF-Series 1.0
+Name: Maritime Economics & Logistics
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: International Association of Maritime Economists (IAME) 
+Provider-Homepage: http://www.mar-economists.org/
+Provider-Institution: RePEc:edi:iameeea
+Order-Homepage: http://www.springer.com/business+%26+management/journal/41278/PS2
+Editor-Name: Hercules E. Haralambides
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41278
+ISSN: 1479-2931
+Type: ReDIF-Article
+Handle: RePEc:pal:marecl
+
+Template-type: ReDIF-Series 1.0
+Name: Eastern Economic Journal
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: Eastern Economic Association 
+Provider-Homepage: https://www.qu.edu/eea/
+Provider-Institution: RePEc:edi:eeaa1ea
+Order-Homepage: http://www.springer.com/economics/journal/41302
+Editor-Name: Allan  Zebedee  
+Editor-Name:  Cynthia  Bansak  
+Editor-Email: cbansak@stlawu.edu 
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41302
+ISSN: 0094-5056
+Type: ReDIF-Article
+Handle: RePEc:pal:easeco
+Predecessor: RePEc:eej:eeconj
+
+Template-type: ReDIF-Series 1.0
+Name: Economic & Labour Market Review
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: Office for National Statistics
+Provider-Homepage: https://www.ons.gov.uk/
+Order-Homepage: http://www.springer.com/economics/journal/41318
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41318
+ISSN: 0094-5056
+Type: ReDIF-Article
+Handle: RePEc:pal:ecolmr
+
+Template-type: ReDIF-Series 1.0
+Name: The Geneva Risk and Insurance Review
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name:  International Association for the Study of Insurance Economics (The Geneva Association)
+Provider-Homepage: https://www.genevaassociation.org/
+Provider-Institution: RePEc:edi:genevea
+Order-Homepage: http://www.springer.com/journal/10713
+Editor-Name: Michael Hoy
+Editor-Name: Nicolas Treich
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 10713
+ISSN: 1554-964X
+Type: ReDIF-Article
+Handle: RePEc:pal:genrir
+Predecessor: RePEc:kap:geneva
+
+Template-type: ReDIF-Series 1.0
+Name: Business Economics
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: National Association for Business Economics
+Provider-Homepage: https://www.nabe.com/
+Provider-Institution: RePEc:edi:nabeeea
+Order-Homepage: http://www.springer.com/economics/journal/11369
+Editor-Name: Charles  Steindel  
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 11369
+ISSN: 0007-666X
+Type: ReDIF-Article
+Handle: RePEc:pal:buseco
+
+Template-type: ReDIF-Series 1.0
+Name: The European Journal of Development Research
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: European Association of Development Research and Training Institutes (EADI)
+Provider-Homepage: http://www.eadi.org/
+Provider-Institution: RePEc:edi:eadiiea
+Order-Homepage: http://www.springer.com/journal/41287/PS2
+Editor-Name: Spencer  Henson 
+Editor-Name: Natalia  Lorenzoni  
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41287
+ISSN: 0957-8811
+Type: ReDIF-Article
+Handle: RePEc:pal:eurjdr
+
+Template-type: ReDIF-Series 1.0
+Name: IMF Economic Review
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: International Monetary Fund
+Provider-Homepage: http://www.imf.org/external/index.htm
+Order-Homepage: http://www.springer.com/economics/journal/41308/PS2
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41308
+ISSN: 2041-4161
+Type: ReDIF-Article
+Handle: RePEc:pal:imfecr
+Predecessor: RePEc:pal:imfstp
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of the Operational Research Society
+Description: Papers published in Journal of the Operational Research Society
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Provider-Name: The OR Society 
+Provider-Homepage: http://www.theorsociety.com/
+Order-Homepage: http://www.springer.com/business+%26+management/operations+research/journal/41274
+Editor-Name:  Tom  Archibald  
+Editor-Email: T.Archibald@ed.ac.uk 
+Editor-Name: Jonathan  Crook  
+Editor-Email: j.crook@ed.ac.uk 
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41274
+ISSN: 0160-5682
+Type: ReDIF-Article
+Handle: RePEc:pal:jorsoc
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Banking Regulation
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Order-Homepage: http://www.springer.com/finance/journal/41261/PS2
+Editor-Name: Dalvinder  Singh  
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+X-JournalID: 41261
+ISSN: 1741-3591
+Type: ReDIF-Article
+Handle: RePEc:pal:jbkreg
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Asset Management
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Editor-Name: Stephen Satchell
+ISSN: 1470-8272 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/finance/journal/41260
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41260
+Handle: RePEc:pal:assmgt
+
+Template-type: ReDIF-Series 1.0
+Name: Palgrave Communications
+Description: Papers published in Palgrave Communications
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Order-Email: subscriptions@palgrave.com
+Order-Homepage: http://www.palgrave-journals.com/pal/subscribe/index.html
+Order-Postal: Palgrave Macmillan Journals, Subscription Department, Houndmills, Basingstoke, Hampshire RG21 6XS, UK
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Iulia Badea
+Maintainer-Email: I.Badea@nature.com
+Maintainer-Fax: +44 (0) 20 7843 4640
+ISSN: 2055-1045
+Type: ReDIF-Article
+Handle: RePEc:pal:palcom
+
+Template-type: ReDIF-Series 1.0
+Name: The New Palgrave Dictionary of Economics
+Description: Articles published in The New Palgrave Dictionary of Economics 
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Order-Email: onlinesales@palgrave.com 
+Order-Homepage: http://www.dictionaryofeconomics.com/help/faq#_Toc198623697 
+Restriction: Access to full text is restricted to subscribers.
+Maintainer-Name: Sheeja Sanoj
+Maintainer-Email: referencedata@palgrave.com
+ISSN: 9780230226203 
+Type: ReDIF-Chapter
+Handle: RePEc:pal:dofeco
+
+Template-Type: ReDIF-Series 1.0
+Name: Journal of Marketing Analytics
+Provider-Name: Palgrave Macmillan
+Provider-Homepage: http://www.palgrave-journals.com/
+Editor-Name: Maria Petrescu 
+Editor-Email: mpetresc@nova.edu 
+Editor-Name: Anjala Krishnen
+Editor-Email: anjala.krishen@unlv.edu 
+ISSN: 2050-3318 
+Restriction: Access to the full text of the articles in this series is restricted.
+Order-Homepage: http://www.springer.com/business+%26+management/journal/41270
+Maintainer-Name: Sonal Shukla
+Maintainer-Email: sonal.shukla@springer.com
+Maintainer-Name: Rebekah McClure
+Maintainer-Email: rebekah.mcclure@springer.com
+Type: ReDIF-Article
+X-JournalID: 41270
+Handle: RePEc:pal:jmarka

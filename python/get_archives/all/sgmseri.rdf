@@ -1,0 +1,54 @@
+Template-type: ReDIF-Series 1.0
+Name: Research Reports
+Provider-Name: University of Warsaw, Faculty of Management
+Provider-Homepage: http://www.wz.uw.edu.pl/
+Provider-Institution: RePEc:edi:somuwpl
+Maintainer-Email: sim@wz.uw.edu.pl
+Type: ReDIF-Article
+Handle: RePEc:sgm:resrep
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Banking and Financial Economics
+Provider-Name: University of Warsaw, Faculty of Management
+Provider-Homepage: http://www.wz.uw.edu.pl/
+Provider-Institution: RePEc:edi:somuwpl
+Maintainer-Email: jbfe@wz.uw.edu.pl
+Type: ReDIF-Article
+Handle: RePEc:sgm:jbfeuw
+
+Template-type: ReDIF-Series 1.0
+Name: Faculty of Management Working Paper Series
+Provider-Name: University of Warsaw, Faculty of Management
+Provider-Homepage: http://www.wz.uw.edu.pl/
+Provider-Institution: RePEc:edi:somuwpl
+Maintainer-Email: workingpaper@wz.uw.edu.pl
+Type: ReDIF-Paper
+Handle: RePEc:sgm:fmuwwp
+
+Template-type: ReDIF-Series 1.0
+Name: Book
+Provider-Name: University of Warsaw, Faculty of Management
+Provider-Homepage: http://www.wz.uw.edu.pl/
+Provider-Institution: RePEc:edi:somuwpl
+Maintainer-Name: Tomasz Rosa
+Maintainer-Email: trosa@wz.uw.edu.pl
+Type: ReDIF-Book
+Handle: RePEc:sgm:wnwzuw
+
+Template-type: ReDIF-Series 1.0
+Name: Problemy Zarzadzania
+Provider-Name: University of Warsaw, Faculty of Management
+Provider-Homepage: http://www.wz.uw.edu.pl/
+Provider-Institution: RePEc:edi:somuwpl
+Maintainer-Email: pz@wz.uw.edu.pl
+Type: ReDIF-Article
+Handle: RePEc:sgm:pzwzuw
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Marketing and Consumer Behaviour in Emerging Markets
+Provider-Name: University of Warsaw, Faculty of Management
+Provider-Homepage: http://www.wz.uw.edu.pl/
+Provider-Institution: RePEc:edi:somuwpl
+Maintainer-Email: jmcbem@wz.uw.edu.pl
+Type: ReDIF-Article
+Handle: RePEc:sgm:jmcbem

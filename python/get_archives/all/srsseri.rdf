@@ -1,0 +1,142 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Advanced Research in Law and Economics
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/journals/jarle.html
+Maintainer-Name: Madalina Constantinescu
+Maintainer-Email: jarle@asers.eu
+Type: ReDIF-Article
+Handle: RePEc:srs:jarle1
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Advanced Research in Management
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/journals/jarm.html
+Maintainer-Name: Andy Stefanescu
+Maintainer-Email: jarm@asers.eu
+Type: ReDIF-Article
+Handle: RePEc:srs:jarm12
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Advanced Studies in Finance
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/journals/jasf.html
+Maintainer-Name: Laura Stefanescu
+Maintainer-Email: jasf@asers.eu
+Type: ReDIF-Article
+Handle: RePEc:srs:jasf12
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Environmental Management and Tourism
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/journals/jemt.html
+Maintainer-Name: Cristina Barbu
+Maintainer-Email: jemt@asers.eu
+Type: ReDIF-Article
+Handle: RePEc:srs:jemt12
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Research in Educational Sciences
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/journals/jres.html
+Maintainer-Name: Laura Ungureanu
+Maintainer-Email: jres@asers.eu
+Type: ReDIF-Article
+Handle: RePEc:srs:jres12
+
+Template-type: ReDIF-Series 1.0
+Name: Theoretical and Practical Research in Economic Fields
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/journals/tpref.html
+Maintainer-Name: Laura Ungureanu
+Maintainer-Email: tpref@asers.eu
+Type: ReDIF-Article
+Handle: RePEc:srs:tpref1
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Advanced Research in Organizational Psychology
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://asers.eu/journals/jarop.html
+Maintainer-Name: Pompiliu Constantinescu
+Maintainer-Email: jarop.asers@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:srs:jarop1
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Advanced Research in Economics and International Business
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://asers.eu/journals/jareib.html
+Maintainer-Name: Mădălina Constantinescu
+Maintainer-Email: jareib.asers@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:srs:jareib
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Applied Research in Finance Bi-Annually
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.cesmaa.eu/journals/jarf/index.php
+Maintainer-Name: Mădălina Constantinescu
+Maintainer-Email: jarf_secretary@yahoo.com
+Type: ReDIF-Article
+Handle: RePEc:srs:jarf12
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Applied Economic Sciences Quarterly
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.cesmaa.eu/journals/jaes/index.php
+Maintainer-Name: Mădălina Constantinescu
+Maintainer-Email: jaes_secretary@yahoo.com
+Type: ReDIF-Article
+Handle: RePEc:srs:jaes12
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Handle: RePEc:srs:finart
+Name: Financial Aspects of Recent Trends in the Global Economy
+Description: In the global era soundness financial sector and financial discipline of agents (governments, investors, households) represents of the key aspect of generally expected positive outcomes of economic and financial globalization. Sustainable economic growth of global economy is necessarily conditional to positive contribution of the financial sector development as well as the financial discipline 
+of agents to the real performance of economies.
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/asers-publishing/collections.html
+Maintainer-Name: Rajmund Mirdala
+Maintainer-Email: rajmund.mirdala@tuke.sk
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Chapter
+Handle: RePEc:srs:fichap
+Name: Chapters of Financial Aspects of Recent Trends in the Global Economy book
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/asers-publishing/collections.html
+Maintainer-Name: Rajmund Mirdala
+Maintainer-Email: rajmund.mirdala@tuke.sk
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Advanced Research in Entrepreneurship and New Venture Creation
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/journals/jare_nvc.html
+Maintainer-Name: PhD Domenico Nicolò
+Maintainer-Email: jare.nvc.asers@gmail.com
+Type: ReDIF-Article
+Handle: RePEc:srs:jarenv
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Handle: RePEc:srs:cfs123
+Name: Challenges to Financial Stability – Perspective, Models and Policies
+Description: During the global financial crisis exchange stock markets fell by more than 40% in
+Europe, USA or Japan. Real economy stopped, which was seen in international trade, direct
+investments and industry. These declines illustrate the scale and impact of systemic risk and
+its local and global consequences. In response, international supervisory and regulators have
+identified causes of the global financial crisis and took necessary steps to create stability of
+financial system, discipline in risk-taking, leverage and management of systemic risk.
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/asers-publishing/collections.html#fc
+Maintainer-Name: Renata Karkowska
+Maintainer-Email: rkarkowska@wz.uw.edu.pl
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Chapter
+Handle: RePEc:srs:cfchap
+Name: Chapters of Challenges to Financial Stability – Perspective, Models and Policies book
+Provider-Name: ASERS Publishing
+Provider-Homepage: http://www.asers.eu/asers-publishing/collections.html#fc
+Maintainer-Name: Renata Karkowska
+Maintainer-Email: rkarkowska@wz.uw.edu.pl

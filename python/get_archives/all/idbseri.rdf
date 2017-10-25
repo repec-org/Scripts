@@ -1,0 +1,79 @@
+Template-type: ReDIF-Series 1.0
+Name: Research Department Publications
+Provider-Name: Inter-American Development Bank, Research Department
+Provider-Homepage: http://www.iadb.org/res
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Paper
+Handle: RePEc:idb:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: DCBSLA Series
+Provider-Name: Inter-American Development Bank, Research Department
+Provider-Homepage: http://www.iadb.org/res
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Paper
+Handle: RePEc:idb:dcbsla
+
+Template-type: ReDIF-Series 1.0
+Name: INTAL Working Papers
+Provider-Name: Inter-American Development Bank, INTAL
+Provider-Homepage: http://www.iadb.org/intal
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Paper
+Handle: RePEc:idb:intalp
+
+Template-type: ReDIF-Series 1.0
+Name: OVE Working Papers
+Provider-Name: Inter-American Development Bank, Office of Evaluation and Oversight (OVE)
+Provider-Homepage: http://www.iadb.org/ove
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Paper
+Handle: RePEc:idb:ovewps
+
+Template-type: ReDIF-Series 1.0
+Name: SPD Working Papers
+Provider-Name: Inter-American Development Bank, Office of Strategic Planning and Development Effectiveness (SPD)
+Provider-Homepage: http://www.iadb.org/spd
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Paper
+Handle: RePEc:idb:spdwps
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Integración y Comercio (Integration and Trade Journal)
+Provider-Name: Inter-American Development Bank, INTAL
+Provider-Homepage: http://www.iadb.org/intal
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Article
+Handle: RePEc:idb:intala
+
+Template-type: ReDIF-Series 1.0
+Name: IDB Publications (Books)
+Provider-Name: Inter-American Development Bank
+Provider-Homepage: http://www.iadb.org/publications/
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Book
+Handle: RePEc:idb:idbbks
+
+Template-type: ReDIF-Series 1.0
+Name: IDB Publications (Working Papers)
+Provider-Name: Inter-American Development Bank
+Provider-Homepage: http://www.iadb.org/publications/
+Provider-Institution: RePEc:edi:iadbbus
+Maintainer-Name: Felipe Herrera Library
+Maintainer-Email: BID-library@iadb.org
+Type: ReDIF-Paper
+Handle: RePEc:idb:brikps

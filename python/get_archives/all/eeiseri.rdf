@@ -1,0 +1,30 @@
+
+Template-type: ReDIF-Series 1.0
+Name: EERI Research Paper Series
+Provider-Name: Economics and Econometrics Research Institute (EERI), Brussels
+Provider-Homepage: http://www.eeri.eu/index.htm
+Provider-Institution: RePEc:edi:eeriibe
+Maintainer-Name: Julia van Hove
+Maintainer-Email: vanhove@eeri.eu
+Type: ReDIF-Paper
+Handle: RePEc:eei:rpaper
+
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Economics and Econometrics
+Provider-Name: Economics and Econometrics Society
+Provider-Homepage: http://www.eeri.eu/index.htm
+Provider-Institution: RePEc:edi:eeriibe
+Maintainer-Name: Julia van Hove
+Maintainer-Email: vanhove@eeri.eu
+Type: ReDIF-Article
+Handle: RePEc:eei:journl
+
+
+
+
+
+
+
+
+

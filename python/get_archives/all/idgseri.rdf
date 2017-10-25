@@ -1,0 +1,31 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Institut National d'Études Démographiques (INED)
+Provider-Homepage: http://www.ined.fr/fr/ressources_documentation/publications/documents_travail/
+Provider-Institution: RePEc:edi:ineddfr
+Maintainer-Name: Ined
+Maintainer-Email: webmaster@ined.fr
+Type: ReDIF-Paper
+Handle: RePEc:idg:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Population et Sociétés
+Description: Population et Sociétés est un bulletin d'information scientifique de quatre pages, publié en français et en anglais. Il traite chaque mois d'une thématique particulière, accessible au grand public. La version française est disponible sous forme imprimée et électronique, la version anglaise n'est dispible qu'en version électronique.
+Provider-Name: Institut National d'Études Démographiques (INED)
+Provider-Homepage: http://www.ined.fr/fr/ressources_documentation/publications/pop_soc/
+Provider-Institution: RePEc:edi:ineddfr
+Maintainer-Name: Ined
+Maintainer-Email: webmaster@ined.fr
+Type: ReDIF-Paper
+Handle: RePEc:idg:posocf
+
+Template-type: ReDIF-Series 1.0
+Name: Population and Societies
+Description: Population & Societies is a four-page popular science journal published in French and English. Every month, it covers a different population question relating to France or other parts of the world. Its articles are written in clear and simple language intended for a wide audience. The French version is available in both printed and electronic formats, and the English version is available on-line.
+Provider-Name: Institut National d'Études Démographiques (INED)
+Provider-Homepage: http://www.ined.fr/en/resources_documentation/publications/pop_soc/
+Provider-Institution: RePEc:edi:ineddfr
+Maintainer-Name: Ined
+Maintainer-Email: webmaster@ined.fr
+Type: ReDIF-Paper
+Handle: RePEc:idg:posoce

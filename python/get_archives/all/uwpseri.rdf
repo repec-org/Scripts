@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Land Economics
+Provider-Name: University of Wisconsin Press
+Provider-Homepage: http://le.uwpress.org/
+Maintainer-Email: gunnison@wisc.edu
+Restriction: A subscripton is required to access pdf files. Pay per
+article is available.
+Type: ReDIF-Article
+Handle: RePEc:uwp:landec
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Human Resources
+Provider-Name: University of Wisconsin Press
+Provider-Homepage: http://jhr.uwpress.org/
+Maintainer-Email: gunnison@wisc.edu
+Restriction: A subscripton is required to access pdf files. Pay per
+article is available.
+Type: ReDIF-Article
+Handle: RePEc:uwp:jhriss

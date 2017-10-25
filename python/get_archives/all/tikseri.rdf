@@ -1,0 +1,30 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Centre for Technology, Innovation and Culture, University of Oslo
+Provider-Homepage: http://www.tik.uio.no
+Provider-Institution: RePEc:edi:tkuiono
+Maintainer-Name: H&amp;kon Normann
+Maintainer-Email: hakon.normann@tik.uio.no
+Type: ReDIF-Paper
+Handle: RePEc:tik:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers on Innovation Studies
+Provider-Name: Centre for Technology, Innovation and Culture, University of Oslo
+Provider-Homepage: http://www.tik.uio.no/Innovation
+Provider-Institution: RePEc:edi:tkuiono
+Maintainer-Name: H&amp;kon Normann
+Maintainer-Email: hakon.normann@tik.uio.no
+Type: ReDIF-Paper
+Handle: RePEc:tik:inowpp
+
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers Archives
+Provider-Name: Centre for Technology, Innovation and Culture, University of Oslo
+Provider-Homepage: http://www.tik.uio.no/Innovation
+Provider-Institution: RePEc:edi:tkuiono
+Maintainer-Name: H&amp;kon Normann
+Maintainer-Email: hakon.normann@tik.uio.no
+Type: ReDIF-Paper
+Handle: RePEc:tik:wparch

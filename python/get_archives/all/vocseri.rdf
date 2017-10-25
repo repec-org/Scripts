@@ -1,0 +1,18 @@
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Economic Consultancy, Vocat International
+Provider-Homepage: http://www.vocat.co.uk
+Maintainer-Name: John Bryant
+Maintainer-Email: john.bryant@vocat.co.uk
+Type: ReDIF-Paper
+Handle: RePEc:voc:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Economic Consultancy, Vocat International
+Provider-Homepage: http://www.vocat.co.uk
+Maintainer-Name: John Bryant
+Maintainer-Email: john.bryant@vocat.co.uk
+Type: ReDIF-Book
+Handle: RePEc:voc:vibook

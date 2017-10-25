@@ -1,0 +1,12 @@
+﻿
+
+template-type: ReDIF-Series 1.0
+name: Discussion Papers
+maintainer-email: webmaster@bankofengland.co.uk
+maintainer-name: Bank of England Website
+issn: 1748-6203
+provider-name: Monetary Policy Committee Unit, Bank of England
+provider-homepage: http://www.bankofengland.co.uk/publications/externalmpcpapers/index.htm
+provider-institution: RePEc:edi:mpcgvuk
+type: ReDIF-Paper
+handle: RePEc:mpc:wpaper

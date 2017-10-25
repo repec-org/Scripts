@@ -1,0 +1,19 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Discussion Paper Series RECAP15
+Provider-Name: RECAP15, European University Viadrina, Frankfurt (Oder)
+Provider-Homepage: http://www.europa-uni.de/recap15/
+Provider-Institution: RePEc:edi:fwffode
+Maintainer-Name: Daniel Becker
+Maintainer-Email: dbecker@europa-uni.de
+Type: ReDIF-Paper
+Handle: RePEc:euv:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: ZfU - Zeitschrift für Umweltpolitik und Umweltrecht
+Provider-Name: RECAP15, European University Viadrina, Frankfurt (Oder)
+Provider-Homepage: http://www.europa-uni.de/recap15/
+Provider-Institution: RePEc:edi:fwffode
+Maintainer-Name: Daniel Becker
+Maintainer-Email: dbecker@europa-uni.de
+Type: ReDIF-Article 
+Handle: RePEc:euv:zfupur

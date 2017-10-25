@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Institute for Social and Economic Change, Bangalore
+Provider-Homepage: http://www.isec.ac.in/
+Provider-Institution: RePEc:edi:iseccin
+Maintainer-Name: B B Chand
+Maintainer-Email: bbchand@isec.ac.in
+Type: ReDIF-Paper
+Handle: RePEc:sch:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Social and Economic Development
+Provider-Name: Institute for Social and Economic Change, Bangalore
+Provider-Homepage: http://www.isec.ac.in/
+Provider-Institution: RePEc:edi:iseccin
+Maintainer-Name: B B Chand
+Maintainer-Email: bbchand@isec.ac.in
+Type: ReDIF-Article
+Handle: RePEc:sch:journl

@@ -1,0 +1,29 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Departamento de Economía, Universidad del Pacífico
+Provider-Homepage: http://www.up.edu.pe/
+Provider-Institution: RePEc:edi:deiuppe
+Maintainer-Name: Rocío Pacheco Sotil
+Maintainer-Email: fef@up.edu.pe
+Type: ReDIF-Paper
+Handle: RePEc:pai:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Books
+Provider-Name: Departamento de Economía, Universidad del Pacífico
+Provider-Homepage: http://www.up.edu.pe/
+Provider-Institution: RePEc:edi:deiuppe
+Maintainer-Name: Rocío Pacheco Sotil
+Maintainer-Email: fef@up.edu.pe
+Type: ReDIF-Book
+Handle: RePEc:pai:bookup
+
+Template-type: ReDIF-Series 1.0
+Name: Chapters of Books
+Provider-Name: Departamento de Economía, Universidad del Pacífico
+Provider-Homepage: http://www.up.edu.pe/
+Provider-Institution: RePEc:edi:deiuppe
+Maintainer-Name: Rocío Pacheco Sotil
+Maintainer-Email: fef@up.edu.pe
+Type: ReDIF-Chapter
+Handle: RePEc:pai:chptup

@@ -1,0 +1,22 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Discussion papers 
+Description: ...
+Provider-Name: Graduate School of Economics Project Center, Kyoto University
+Provider-Homepage: http://www.econ.kyoto-u.ac.jp/projectcenter/
+Provider-Institution: RePEc:edi:fekyojp
+Maintainer-Name: Graduate School of Economics Project Center
+Maintainer-Email: projectcenter@econ.kyoto-u.ac.jp
+Type: ReDIF-Paper
+Handle: RePEc:kue:dpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion papers
+Description: ...
+Provider-Name: Graduate School of Economics , Kyoto University
+Provider-Homepage: http://www.econ.kyoto-u.ac.jp
+Provider-Institution: RePEc:edi:fekyojp
+Maintainer-Name: Graduate School of Economics Project Center
+Maintainer-Email: projectcenter@econ.kyoto-u.ac.jp
+Type: ReDIF-Paper
+Handle: RePEc:kue:epaper
+

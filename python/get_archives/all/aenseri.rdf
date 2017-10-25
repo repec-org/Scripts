@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Series 1.0
+Name:  The Energy Journal
+Provider-Name: International Association for Energy Economics
+Provider-Homepage: http://www.iaee.org
+Provider-Institution: RePEc:edi:iaeeeea
+Maintainer-Name: David Williams
+Maintainer-Email: iaee@iaee.org
+Type: ReDIF-Article
+Handle: RePEc:aen:journl
+ISSN: 0195-6574
+Order-Homepage: http://www.iaee.org/en/publications/ejsearch.aspx
+
+Template-Type: ReDIF-Series 1.0
+Name:  Economics of Energy & Environmental Policy
+Provider-Name: International Association for Energy Economics
+Provider-Homepage: http://www.iaee.org
+Provider-Institution: RePEc:edi:iaeeeea
+Maintainer-Name: David Williams
+Maintainer-Email: iaee@iaee.org
+Type: ReDIF-Article
+Handle: RePEc:aen:eeepjl
+ISSN: 0195-6574
+Order-Homepage: http://www.iaee.org/en/publications/eeepjournal.aspx

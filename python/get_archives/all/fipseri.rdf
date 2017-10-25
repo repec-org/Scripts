@@ -1,0 +1,2340 @@
+﻿
+
+template-type: ReDIF-Series 1.0
+name: Federal Reserve Bank of Atlanta Brief
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedabr
+
+template-type: ReDIF-Series 1.0
+name: FRB Atlanta Community and Economic Development Discussion Paper
+maintainer-email: elaine.clokey@atl.frb.org
+maintainer-name: Elaine Clokey
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Paper
+handle: RePEc:fip:fedacd
+
+template-type: ReDIF-Series 1.0
+name: FRB Atlanta CenFIS Working Paper
+maintainer-email: elaine.clokey@atl.frb.org
+maintainer-name: Elaine Clokey
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Paper
+handle: RePEc:fip:fedacf
+
+template-type: ReDIF-Series 1.0
+name: FRB Atlanta CQER Working Paper
+maintainer-email: elaine.clokey@atl.frb.org
+maintainer-name: Elaine Clokey
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Paper
+handle: RePEc:fip:fedacq
+
+template-type: ReDIF-Series 1.0
+name: Economic Review
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedaer
+
+template-type: ReDIF-Series 1.0
+name: EconSouth
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedaes
+
+template-type: ReDIF-Series 1.0
+name: Economics Update
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedaeu
+
+template-type: ReDIF-Series 1.0
+name: Financial Update
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedafu
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Book
+handle: RePEc:fip:fedamo
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedapr
+
+template-type: ReDIF-Series 1.0
+name: Regional Update
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedaru
+
+template-type: ReDIF-Series 1.0
+name: Southeastern Economic Insight
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Article
+handle: RePEc:fip:fedase
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Meredith.Rector@atl.frb.org
+maintainer-name: Meredith Rector
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Paper
+handle: RePEc:fip:fedasp
+
+template-type: ReDIF-Series 1.0
+name: FRB Atlanta Working Paper
+maintainer-email: elaine.clokey@atl.frb.org
+maintainer-name: Elaine Clokey
+order-email: pubs@frbatlanta.org
+provider-name: Federal Reserve Bank of Atlanta
+provider-institution: RePEc:edi:frbatus
+type: ReDIF-Paper
+handle: RePEc:fip:fedawp
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbar
+
+template-type: ReDIF-Series 1.0
+name: New England Public Policy Center Policy Brief
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbbr
+
+template-type: ReDIF-Series 1.0
+name: New England Banking Trends
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbbt
+
+template-type: ReDIF-Series 1.0
+name: Communities and Banking
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbcb
+
+template-type: ReDIF-Series 1.0
+name: New England Public Policy Center Conference Report
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbcc
+
+template-type: ReDIF-Series 1.0
+name: New England Community Developments
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbcd
+
+template-type: ReDIF-Series 1.0
+name: New England Public Policy Center Discussion Paper
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbce
+
+template-type: ReDIF-Series 1.0
+name: Conference Series ; [Proceedings]
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbcp
+
+template-type: ReDIF-Series 1.0
+name: Current Policy Perspectives
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbcq
+
+template-type: ReDIF-Series 1.0
+name: New England Public Policy Center Research Report
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbcr
+
+template-type: ReDIF-Series 1.0
+name: New England Public Policy Center Working Paper
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbcw
+
+template-type: ReDIF-Series 1.0
+name: Research Data Report
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbdr
+
+template-type: ReDIF-Series 1.0
+name: Fiscal Facts
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbff
+
+template-type: ReDIF-Series 1.0
+name: Labor Market Trends
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedblm
+
+template-type: ReDIF-Series 1.0
+name: Interactive Maps and Charts
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbmc
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Book
+handle: RePEc:fip:fedbmo
+
+template-type: ReDIF-Series 1.0
+name: New England Economic Review
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbne
+
+template-type: ReDIF-Series 1.0
+name: New England Economic Indicators
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbni
+
+template-type: ReDIF-Series 1.0
+name: Public Policy Brief
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbpb
+
+template-type: ReDIF-Series 1.0
+name: Public and Community Affairs Discussion Papers
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbpc
+
+template-type: ReDIF-Series 1.0
+name: Public Policy Discussion Paper
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbpp
+
+template-type: ReDIF-Series 1.0
+name: New England Public Policy Center Policy Reports
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbpr
+
+template-type: ReDIF-Series 1.0
+name: Risk and Policy Analysis Unit Working Paper
+maintainer-email: Andrei.Zlate@bos.frb.org
+maintainer-name: Andrei Zlate
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbqu
+
+template-type: ReDIF-Series 1.0
+name: Research Report
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbrp
+
+template-type: ReDIF-Series 1.0
+name: Regional Review
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Article
+handle: RePEc:fip:fedbrr
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbsp
+
+template-type: ReDIF-Series 1.0
+name: Special Report
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbsr
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+maintainer-email: Catherine.Spozio@bos.frb.org
+maintainer-name: Catherine Spozio
+order-email: boston.library@bos.frb.org
+provider-name: Federal Reserve Bank of Boston
+provider-institution: RePEc:edi:frbbous
+type: ReDIF-Paper
+handle: RePEc:fip:fedbwp
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedcar
+
+template-type: ReDIF-Series 1.0
+name: Digital Books
+maintainer-email: Joanne.ODell@clev.frb.org
+maintainer-name: Joanne O'Dell
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Book
+handle: RePEc:fip:fedcbk
+
+template-type: ReDIF-Series 1.0
+name: Community Reinvestment Forum
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedccf
+
+template-type: ReDIF-Series 1.0
+name: Community Reinvestment Report
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedccr
+
+template-type: ReDIF-Series 1.0
+name: Economic Commentary
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedcec
+
+template-type: ReDIF-Series 1.0
+name: Economic Review
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedcer
+
+template-type: ReDIF-Series 1.0
+name: Forefront
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedcff
+
+template-type: ReDIF-Series 1.0
+name: Financial Services working paper
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Paper
+handle: RePEc:fip:fedcfs
+
+template-type: ReDIF-Series 1.0
+name: Policy Discussion Papers
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: 4d.library@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedcpd
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: publications@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Article
+handle: RePEc:fip:fedcpr
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: 4d.library@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Paper
+handle: RePEc:fip:fedcsp
+
+template-type: ReDIF-Series 1.0
+name: Working Paper
+maintainer-email: 4d.library@clev.frb.org
+maintainer-name: 4D Library
+order-email: 4d.library@clev.frb.org
+provider-name: Federal Reserve Bank of Cleveland
+provider-institution: RePEc:edi:frbclus
+type: ReDIF-Paper
+handle: RePEc:fip:fedcwp
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddar
+
+template-type: ReDIF-Series 1.0
+name: Business Frontier
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddbf
+
+template-type: ReDIF-Series 1.0
+name: Center for Latin America Working Papers
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddcl
+
+template-type: ReDIF-Series 1.0
+name: Crossroads
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddcr
+
+template-type: ReDIF-Series 1.0
+name: Community Outlook Survey
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddcs
+
+template-type: ReDIF-Series 1.0
+name: Economic Insights
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddei
+
+template-type: ReDIF-Series 1.0
+name: Economic Letter
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddel
+
+template-type: ReDIF-Series 1.0
+name: e-Perspectives
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddep
+
+template-type: ReDIF-Series 1.0
+name: Economic and Financial Policy Review
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:fedder
+
+template-type: ReDIF-Series 1.0
+name: Financial Industry Studies Working Paper
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddfi
+
+template-type: ReDIF-Series 1.0
+name: Financial Insights
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddfn
+
+template-type: ReDIF-Series 1.0
+name: Annual Report, Globalization and Monetary Policy Institute
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas, Globalization and Monetary Policy Institute
+provider-institution: RePEc:edi:cfrbdus
+type: ReDIF-Article
+handle: RePEc:fip:feddgm
+
+template-type: ReDIF-Series 1.0
+name: Globalization and Monetary Policy Institute Working Paper
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddgw
+
+template-type: ReDIF-Series 1.0
+name: Houston Business
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddhb
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Book
+handle: RePEc:fip:feddmo
+
+template-type: ReDIF-Series 1.0
+name: Occasional Papers
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddop
+
+template-type: ReDIF-Series 1.0
+name: Banking and Community Perspectives
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddpe
+
+template-type: ReDIF-Series 1.0
+name: Perspectives
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddpp
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddpr
+
+template-type: ReDIF-Series 1.0
+name: Southwest Economy
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddse
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddsp
+
+template-type: ReDIF-Series 1.0
+name: Staff Papers
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Article
+handle: RePEc:fip:feddst
+
+template-type: ReDIF-Series 1.0
+name: Vista
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddvi
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+maintainer-email: Amy.Chapman@dal.frb.org
+maintainer-name: Amy Chapman
+order-email: pubsorder@dal.frb.org
+provider-name: Federal Reserve Bank of Dallas
+provider-institution: RePEc:edi:frbdaus
+type: ReDIF-Paper
+handle: RePEc:fip:feddwp
+
+template-type: ReDIF-Series 1.0
+name: Asia Focus
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfaf
+
+template-type: ReDIF-Series 1.0
+name: Working Papers in Applied Economic Theory
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Paper
+handle: RePEc:fip:fedfap
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: research.library.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfar
+
+template-type: ReDIF-Series 1.0
+name: Community Development Research Brief
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfcb
+
+template-type: ReDIF-Series 1.0
+name: Community Investments
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfci
+
+template-type: ReDIF-Series 1.0
+name: Community Development Investment Review
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: research.library.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfcr
+
+template-type: ReDIF-Series 1.0
+name: Community Development Investment Center Working Paper
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Paper
+handle: RePEc:fip:fedfcw
+
+template-type: ReDIF-Series 1.0
+name: FRBSF Economic Letter
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfel
+
+template-type: ReDIF-Series 1.0
+name: Economic Review
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Poallaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfer
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Book
+handle: RePEc:fip:fedfmo
+
+template-type: ReDIF-Series 1.0
+name: Pacific Basin Working Paper Series
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:cpfsfus
+type: ReDIF-Paper
+handle: RePEc:fip:fedfpb
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfpr
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Paper
+handle: RePEc:fip:fedfsp
+
+template-type: ReDIF-Series 1.0
+name: Western economic developments
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Article
+handle: RePEc:fip:fedfwe
+
+template-type: ReDIF-Series 1.0
+name: Working Paper Series
+maintainer-email: Noah.Pollaczek@sf.frb.org
+maintainer-name: Noah Pollaczek
+order-email: Pubs.SF@sf.frb.org
+provider-name: Federal Reserve Bank of San Francisco
+provider-institution: RePEc:edi:frbsfus
+type: ReDIF-Paper
+handle: RePEc:fip:fedfwp
+
+template-type: ReDIF-Series 1.0
+name: Research Papers in Banking and Financial Economics
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgbf
+
+template-type: ReDIF-Series 1.0
+name: Finance and Economics Discussion Series
+maintainer-email: franz.osorio@frb.gov
+maintainer-name: Franz Osorio
+order-homepage: http://www.federalreserve.gov/pubs/feds/fedsorder.html
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgfe
+
+template-type: ReDIF-Series 1.0
+name: FEDS Notes
+maintainer-email: franz.osorio@frb.gov
+maintainer-name: Franz Osorio
+order-homepage: http://www.federalreserve.gov/pubs/feds/fedsorder.html
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgfn
+
+template-type: ReDIF-Series 1.0
+name: International Finance Discussion Papers
+maintainer-email: Franz.Osorio@frb.gov
+maintainer-name: Franz Osorio
+order-homepage: http://www.federalreserve.gov/pubs/ifdp/order.htm
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgif
+
+template-type: ReDIF-Series 1.0
+name: IFDP Notes
+maintainer-email: Franz.Osorio@frb.gov
+maintainer-name: Franz Osorio
+order-homepage: http://www.federalreserve.gov/pubs/feds/fedsorder.html
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgin
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Book
+handle: RePEc:fip:fedgmo
+
+template-type: ReDIF-Series 1.0
+name: News
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Book
+handle: RePEc:fip:fedgns
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Article
+handle: RePEc:fip:fedgpr
+
+template-type: ReDIF-Series 1.0
+name: Federal Reserve Bulletin
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Article
+handle: RePEc:fip:fedgrb
+
+template-type: ReDIF-Series 1.0
+name: Special Studies Papers
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgsp
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgsq
+
+template-type: ReDIF-Series 1.0
+name: Staff Studies
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgss
+
+template-type: ReDIF-Series 1.0
+name: Working Paper Series / Economic Activity Section
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgwe
+
+template-type: ReDIF-Series 1.0
+name: Working Papers in Banking, Finance and Microeconomics
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgwf
+
+template-type: ReDIF-Series 1.0
+name: Basel II White Paper
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+order-email: publications-bog@frb.gov
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgwp
+
+template-type: ReDIF-Series 1.0
+name: Web Site
+maintainer-email: Kris.M.Vajs@frb.gov
+maintainer-name: Kris Vajs
+provider-name: Board of Governors of the Federal Reserve System (U.S.)
+provider-institution: RePEc:edi:frbgvus
+type: ReDIF-Paper
+handle: RePEc:fip:fedgws
+
+template-type: ReDIF-Series 1.0
+name: Agricultural Letter
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhal
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhar
+
+template-type: ReDIF-Series 1.0
+name: Assessing the Midwest Economy
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhas
+
+template-type: ReDIF-Series 1.0
+name: Consumer and Community Affairs Policy Studies
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhcc
+
+template-type: ReDIF-Series 1.0
+name: Emerging Issues
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhei
+
+template-type: ReDIF-Series 1.0
+name: Economic Perspectives
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhep
+
+template-type: ReDIF-Series 1.0
+name: Working Paper Series, Issues in Financial Regulation
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhfi
+
+template-type: ReDIF-Series 1.0
+name: Chicago Fed Letter
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhle
+
+template-type: ReDIF-Series 1.0
+name: Working Paper Series, Macroeconomic Issues
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhma
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Book
+handle: RePEc:fip:fedhmo
+
+template-type: ReDIF-Series 1.0
+name: Occasional Paper; Emerging Payments
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhop
+
+template-type: ReDIF-Series 1.0
+name: Policy Discussion Paper Series
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhpd
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhpr
+
+template-type: ReDIF-Series 1.0
+name: Payment systems bibliography
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhps
+
+template-type: ReDIF-Series 1.0
+name: Profitwise
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhpw
+
+template-type: ReDIF-Series 1.0
+name: Working Paper Series, Regional Economic Issues
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhre
+
+template-type: ReDIF-Series 1.0
+name: Risk Perspectives
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Article
+handle: RePEc:fip:fedhrp
+
+template-type: ReDIF-Series 1.0
+name: Staff Memoranda
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhsm
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhsp
+
+template-type: ReDIF-Series 1.0
+name: Working Paper Series
+maintainer-email: Bernie.Flores@chi.frb.org
+maintainer-name: Bernie Flores
+order-email: publications.chi@chi.frb.org
+order-homepage: http://www.chicagofed.org/webpages/publications/print_publication_order_form.cfm
+provider-name: Federal Reserve Bank of Chicago
+provider-institution: RePEc:edi:frbchus
+type: ReDIF-Paper
+handle: RePEc:fip:fedhwp
+
+template-type: ReDIF-Series 1.0
+name: Proceedings: Community Affairs Dept. Conferences
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: trudie.m.hall@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkcc
+
+template-type: ReDIF-Series 1.0
+name: Community Reinvestment
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: trudie.m.hall@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkcr
+
+template-type: ReDIF-Series 1.0
+name: Community Affairs Research Working Paper
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: trudie.m.hall@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Paper
+handle: RePEc:fip:fedkcw
+
+template-type: ReDIF-Series 1.0
+name: Economic Review
+maintainer-email: lu.o.dayrit@kc.frb.org
+maintainer-name: LDayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-homepage: http://www.kansascityfed.org
+provider-institution: RePEc:edi:frbkcus
+provider-postal: One Memorial Drive, Kansas City, MO 64198
+type: ReDIF-Article
+handle: RePEc:fip:fedker
+
+template-type: ReDIF-Series 1.0
+name: Financial Industry Perspectives
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: trudie.m.hall@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkfi
+
+template-type: ReDIF-Series 1.0
+name: Financial Letters
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: trudie.m.hall@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkfl
+
+template-type: ReDIF-Series 1.0
+name: Macro Bulletin
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-homepage: http://kansascityfed.org
+provider-institution: RePEc:edi:frbkcus
+provider-postal: One Memorial Drive, Kansas City, MO 64198
+type: ReDIF-Article
+handle: RePEc:fip:fedkmb
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Book
+handle: RePEc:fip:fedkmo
+
+template-type: ReDIF-Series 1.0
+name: Main Street Economist
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-homepage: http://www.kansascityfed.org
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkms
+
+template-type: ReDIF-Series 1.0
+name: Midwest Economist
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkmw
+
+template-type: ReDIF-Series 1.0
+name: Nebraska Economist
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkne
+
+template-type: ReDIF-Series 1.0
+name: Oklahoma Economist
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkoe
+
+template-type: ReDIF-Series 1.0
+name: Payments System Research Briefing
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkpb
+
+template-type: ReDIF-Series 1.0
+name: Proceedings – Payments System Research Conferences
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkpc
+
+template-type: ReDIF-Series 1.0
+name: Proceedings - Economic Policy Symposium - Jackson Hole
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-homepage: http://www.kansascityfed.org/
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkpr
+
+template-type: ReDIF-Series 1.0
+name: Payments System Research Working Paper
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Paper
+handle: RePEc:fip:fedkpw
+
+template-type: ReDIF-Series 1.0
+name: Proceedings – Rural and Agricultural Conferences
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkrc
+
+template-type: ReDIF-Series 1.0
+name: Regional Economic Digest
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: trudie.m.hall@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkre
+
+template-type: ReDIF-Series 1.0
+name: Rocky Mountain Economist
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkrm
+
+template-type: ReDIF-Series 1.0
+name: Regional Research Working Paper
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Paper
+handle: RePEc:fip:fedkrr
+
+template-type: ReDIF-Series 1.0
+name: Research Working Paper
+maintainer-email: lu.o.dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Paper
+handle: RePEc:fip:fedkrw
+
+template-type: ReDIF-Series 1.0
+name: TEN
+maintainer-email: Lu.O.Dayrit@kc.frb.org
+maintainer-name: Lu Dayrit
+order-email: research.library@kc.frb.org
+provider-name: Federal Reserve Bank of Kansas City
+provider-institution: RePEc:edi:frbkcus
+type: ReDIF-Article
+handle: RePEc:fip:fedkte
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlar
+
+template-type: ReDIF-Series 1.0
+name: Burgundy Books
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlbb
+
+template-type: ReDIF-Series 1.0
+name: Bridges
+editor-name: Yvonne Sparks
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://www.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlbr
+
+template-type: ReDIF-Series 1.0
+name: Central Banker
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlcb
+
+template-type: ReDIF-Series 1.0
+name: Quarterly Debt Monitor
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedldm
+
+template-type: ReDIF-Series 1.0
+name: Demographics of Wealth
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedldw
+
+template-type: ReDIF-Series 1.0
+name: Economic Synopses
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-homepage: http://research.stlouisfed.org/publications/es/
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedles
+
+template-type: ReDIF-Series 1.0
+name: In the Balance
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlib
+
+template-type: ReDIF-Series 1.0
+name: International Economic Trends
+maintainer-email: Xiaohong.a.xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlie
+
+template-type: ReDIF-Series 1.0
+name: Inside the Vault
+maintainer-email: Xiaohong.a.xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedliv
+
+template-type: ReDIF-Series 1.0
+name: Liber8 Economic Information Newsletter (2007-2012)
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlli
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Book
+handle: RePEc:fip:fedlmo
+
+template-type: ReDIF-Series 1.0
+name: Monetary Trends
+maintainer-email: Xiaohong.a.xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlmt
+
+template-type: ReDIF-Series 1.0
+name: National Economic Trends
+maintainer-email: Xiaohong.a.xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlne
+
+template-type: ReDIF-Series 1.0
+name: Page One Economics Newsletter
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlpo
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Xiaohong.a.xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlpr
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Xiaohong Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Paper
+handle: RePEc:fip:fedlps
+
+template-type: ReDIF-Series 1.0
+name: Regional Economic Development
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlrd
+
+template-type: ReDIF-Series 1.0
+name: The Regional Economist
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://research.stlouisfed.org/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlre
+
+template-type: ReDIF-Series 1.0
+name: Review
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+order-homepage: https://files.stlouisfed.org/files/htdocs/publications/
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Article
+handle: RePEc:fip:fedlrv
+
+template-type: ReDIF-Series 1.0
+name: Supervisory Policy Analysis Working Papers
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Paper
+handle: RePEc:fip:fedlsp
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+maintainer-email: Xiaohong.A.Xiao@stls.frb.org
+maintainer-name: Anna Xiao
+order-email: subscribe@stls.frb.org
+provider-name: Federal Reserve Bank of St. Louis
+provider-institution: RePEc:edi:frbslus
+type: ReDIF-Paper
+handle: RePEc:fip:fedlwp
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Janelle Ruswick
+order-email: elaine.reed@mpls.frb.org
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Article
+handle: RePEc:fip:fedmar
+
+template-type: ReDIF-Series 1.0
+name: Banking and Policy Studies
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Janelle Ruswick
+order-email: elaine.reed@mpls.frb.org
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmbp
+
+template-type: ReDIF-Series 1.0
+name: Community Affairs Report
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Janelle Ruswick
+order-email: elaine.reed@mpls.frb.org
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmcr
+
+template-type: ReDIF-Series 1.0
+name: Discussion Paper / Institute for Empirical Macroeconomics
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Janelle Ruswick
+order-email: elaine.reed@mpls.frb.org
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmem
+
+template-type: ReDIF-Series 1.0
+name: Economic Policy Paper
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Jannelle Ruswick
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmep
+
+template-type: ReDIF-Series 1.0
+name: Fedgazette
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Janelle Ruswick
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Article
+handle: RePEc:fip:fedmga
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Janelle Ruswick
+order-email: elaine.reed@mpls.frb.org
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Book
+handle: RePEc:fip:fedmmo
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Jannelle Ruswick
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis, Opportunity and Inclusive Growth Institute
+provider-homepage: https://www.minneapolisfed.org/institute
+provider-institution: RePEc:edi:ofrbmus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmoi
+
+template-type: ReDIF-Series 1.0
+name: Quarterly Review
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Jannelle Ruswick
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Article
+handle: RePEc:fip:fedmqr
+
+template-type: ReDIF-Series 1.0
+name: The Region
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Janelle Ruswick
+order-email: elaine.reed@mpls.frb.org
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Article
+handle: RePEc:fip:fedmrr
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Brooke.Tosi@mpls.frb.org
+maintainer-name: Brooke Tosi
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmsp
+
+template-type: ReDIF-Series 1.0
+name: Staff Report
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Jannelle Ruswick
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmsr
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+maintainer-email: Jannelle.Ruswick@mpls.frb.org
+maintainer-name: Jannelle Ruswick
+order-homepage: http://www.minneapolisfed.org/pubs/
+provider-name: Federal Reserve Bank of Minneapolis
+provider-institution: RePEc:edi:frbmnus
+type: ReDIF-Paper
+handle: RePEc:fip:fedmwp
+
+template-type: ReDIF-Series 1.0
+name: Annual Report Domestic Open Market Operations
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Article
+handle: RePEc:fip:fednao
+
+template-type: ReDIF-Series 1.0
+name: Current Issues in Economics and Finance
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Article
+handle: RePEc:fip:fednci
+
+template-type: ReDIF-Series 1.0
+name: Economic Policy Review
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+order-homepage: http://www.ny.frb.org/rmaghome/staff_rp/
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Article
+handle: RePEc:fip:fednep
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Book
+handle: RePEc:fip:fednmo
+
+template-type: ReDIF-Series 1.0
+name: Quarterly Review
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Article
+handle: RePEc:fip:fednqr
+
+template-type: ReDIF-Series 1.0
+name: The Regional Economy of Upstate New York
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Article
+handle: RePEc:fip:fednre
+
+template-type: ReDIF-Series 1.0
+name: Research Paper
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Paper
+handle: RePEc:fip:fednrp
+
+template-type: ReDIF-Series 1.0
+name: Speech
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Paper
+handle: RePEc:fip:fednsp
+
+template-type: ReDIF-Series 1.0
+name: Staff Reports
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+order-homepage: http://www.ny.frb.org/rmaghome/staff_rp/
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Paper
+handle: RePEc:fip:fednsr
+
+template-type: ReDIF-Series 1.0
+name: Upstate New York Regional Review
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Article
+handle: RePEc:fip:fednun
+
+template-type: ReDIF-Series 1.0
+name: Upstate New York At-a-Glance
+maintainer-email: Amy.Farber@ny.frb.org
+maintainer-name: Amy Farber
+order-email: pipubs@ny.frb.org
+provider-name: Federal Reserve Bank of New York
+provider-institution: RePEc:edi:frbnyus
+type: ReDIF-Article
+handle: RePEc:fip:fednup
+
+template-type: ReDIF-Series 1.0
+name: Beyond the Numbers
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpbn
+
+template-type: ReDIF-Series 1.0
+name: Banking Policy Review
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpbp
+
+template-type: ReDIF-Series 1.0
+name: Business Review
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpbr
+
+template-type: ReDIF-Series 1.0
+name: Banking Trends
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpbt
+
+template-type: ReDIF-Series 1.0
+name: Cascade
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: becca.sells@phil.frb.org
+maintainer-name: Becca Sells
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpca
+
+template-type: ReDIF-Series 1.0
+name: Community Affairs Discussion Paper
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Paper
+handle: RePEc:fip:fedpcd
+
+template-type: ReDIF-Series 1.0
+name: Cascade Focus
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: becca.sells@phil.frb.org
+maintainer-name: Becca Sells
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpcf
+
+template-type: ReDIF-Series 1.0
+name: Payment Cards Center Conference Summary
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpcs
+
+template-type: ReDIF-Series 1.0
+name: Payment Cards Center Discussion Paper
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Paper
+handle: RePEc:fip:fedpdp
+
+template-type: ReDIF-Series 1.0
+name: Economic Insights
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedpei
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Book
+handle: RePEc:fip:fedpmo
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedppr
+
+template-type: ReDIF-Series 1.0
+name: Research Brief
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedprb
+
+template-type: ReDIF-Series 1.0
+name: Research Rap Special Report
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedprr
+
+template-type: ReDIF-Series 1.0
+name: Regional Spotlight
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Article
+handle: RePEc:fip:fedprs
+
+template-type: ReDIF-Series 1.0
+name: Speech
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/publicaffairs/pubs/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Paper
+handle: RePEc:fip:fedpsp
+
+template-type: ReDIF-Series 1.0
+name: Working Papers
+editor-name: Becca Sells
+editor-email: Becca.Sells@phil.frb.org
+maintainer-email: Beth.Paul@phil.frb.org
+maintainer-name: Beth Paul
+order-email: phil.library.mailbox@phil.frb.org
+order-homepage: http://www.phil.frb.org/econ/wps/index.html
+provider-name: Federal Reserve Bank of Philadelphia
+provider-institution: RePEc:edi:frbphus
+type: ReDIF-Paper
+handle: RePEc:fip:fedpwp
+
+template-type: ReDIF-Series 1.0
+name: Annual Report
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedrar
+
+template-type: ReDIF-Series 1.0
+name: Cross Sections
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedrcs
+
+template-type: ReDIF-Series 1.0
+name: Richmond Fed Economic Brief
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedreb
+
+template-type: ReDIF-Series 1.0
+name: Economic Quarterly
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedreq
+
+template-type: ReDIF-Series 1.0
+name: Economic Review
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedrer
+
+template-type: ReDIF-Series 1.0
+name: Monograph
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Book
+handle: RePEc:fip:fedrmo
+
+template-type: ReDIF-Series 1.0
+name: Proceedings
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedrpr
+
+template-type: ReDIF-Series 1.0
+name: Research Digest
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedrrd
+
+template-type: ReDIF-Series 1.0
+name: Econ Focus
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Article
+handle: RePEc:fip:fedrrf
+
+template-type: ReDIF-Series 1.0
+name: Working Paper
+maintainer-email: Christian.Pascasio@rich.frb.org
+maintainer-name: Christian Pascasio
+order-email: research.publications@rich.frb.org
+order-homepage: http://www.richmondfed.org/publications/
+provider-name: Federal Reserve Bank of Richmond
+provider-institution: RePEc:edi:frbrius
+type: ReDIF-Paper
+handle: RePEc:fip:fedrwp

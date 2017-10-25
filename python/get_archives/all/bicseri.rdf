@@ -1,0 +1,60 @@
+Template-type: ReDIF-Series 1.0
+Name: Baltic Journal of Economics
+Provider-Name: Baltic International Centre for Economic Policy Studies
+Provider-Homepage: http://www.biceps.org
+Provider-Institution: RePEc:edi:biceplv
+Maintainer-Name: Lelde Jakobsone
+Maintainer-Email: lelde@biceps.org
+Type: ReDIF-Article
+Handle: RePEc:bic:journl
+ISSN: 1406-099X
+
+Template-type: ReDIF-Series 1.0
+Name: Global Entrepreneurship Monitor (GEM), Latvia report
+Provider-Name: Baltic International Centre for Economic Policy Studies (BICEPS)
+Provider-Homepage: http://www.biceps.org
+Provider-Name: Stockholm School of Economics in Riga (SSE Riga)
+Provider-Homepage: http://www.sseriga.edu
+Provider-Institution: RePEc:edi:biceplv
+Maintainer-Name: Lelde Jakobsone
+Maintainer-Email: lelde@biceps.org
+Type: ReDIF-Paper
+Handle: RePEc:bic:report
+
+Template-type: ReDIF-Series 1.0
+Name: TeliaSonera Institute Discussion papers
+Provider-Name: Baltic International Centre for Economic Policy Studies (BICEPS)
+Provider-Homepage: http://www.biceps.org
+Provider-Name: Stockholm School of Economics in Riga (SSE Riga)
+Provider-Homepage: http://www.sseriga.edu
+Provider-Institution: RePEc:edi:biceplv
+Maintainer-Name: Lelde Jakobsone
+Maintainer-Email: lelde@biceps.org
+Type: ReDIF-Paper
+Handle: RePEc:bic:tpaper
+
+Template-type: ReDIF-Series 1.0
+Name: SSE Riga/BICEPS Occasional Papers
+Provider-Name: Baltic International Centre for Economic Policy Studies (BICEPS)
+Provider-Homepage: http://www.biceps.org
+Provider-Name: Stockholm School of Economics in Riga (SSE Riga)
+Provider-Homepage: http://www.sseriga.edu
+Provider-Institution: RePEc:edi:biceplv
+Maintainer-Name: Lelde Jakobsone
+Maintainer-Email: lelde@biceps.org
+Type: ReDIF-Paper
+Handle: RePEc:bic:opaper
+ISSN: 1691-3620
+
+Template-type: ReDIF-Series 1.0
+Name: SSE Riga/BICEPS Research Papers
+Provider-Name: Baltic International Centre for Economic Policy Studies (BICEPS)
+Provider-Homepage: http://www.biceps.org
+Provider-Name: Stockholm School of Economics in Riga (SSE Riga)
+Provider-Homepage: http://www.sseriga.edu
+Provider-Institution: RePEc:edi:biceplv
+Maintainer-Name: Lelde Jakobsone
+Maintainer-Email: lelde@biceps.org
+Type: ReDIF-Paper
+Handle: RePEc:bic:rpaper
+ISSN: 1691-3620

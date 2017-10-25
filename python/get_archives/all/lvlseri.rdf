@@ -1,0 +1,89 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Cahiers de recherche
+Provider-Name: CIRPEE
+Provider-Homepage: http://www.cirpee.org/
+Provider-Institution: RePEc:edi:cirpeca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:lacicr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Cahiers de recherche
+Provider-Name: GREEN
+Provider-Homepage: http://www.green.ecn.ulaval.ca
+Provider-Institution: RePEc:edi:grlvlca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:lagrcr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Cahiers de recherche
+Provider-Name: Université Laval - Département d'économique
+Provider-Homepage: http://www.ecn.ulaval.ca
+Provider-Institution: RePEc:edi:delvlca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:laeccr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers CBMS
+Provider-Name: PEP-CBMS
+Provider-Homepage: http://www.pep-net.org
+Provider-Institution: RePEc:edi:cdvlvca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:cbmscr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers MPIA
+Provider-Name: PEP-MPIA
+Provider-Homepage: http://www.pep-net.org
+Provider-Institution: RePEc:edi:cdvlvca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:mpiacr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers PMMA
+Provider-Name: PEP-PMMA
+Provider-Homepage: http://www.pep-net.org
+Provider-Institution: RePEc:edi:cdvlvca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:pmmacr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Working Papers PIERI
+Provider-Name: PEP-PIERI
+Provider-Homepage: http://www.pep-net.org
+Provider-Institution: RePEc:edi:cdvlvca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:piercr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Cahiers de recherche CREATE
+Provider-Name: CREATE
+Provider-Homepage: http://www.create.ulaval.ca
+Provider-Institution: RePEc:edi:calvlca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:creacr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Cahiers de recherche 
+Provider-Name: Chaire de recherche Industrielle Alliance sur les enjeux économiques des changements démographiques
+Provider-Homepage: http://www.cedia.ca
+Provider-Institution: RePEc:edi:cediaca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:criacr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Cahiers de recherche 
+Provider-Name: Centre de recherche sur les risques, les enjeux économiques, et les politiques publiques
+Provider-Homepage: http://www.crrep.ca
+Provider-Institution: RePEc:edi:crrepca
+Maintainer-Name: Manuel Paradis
+Maintainer-Email: manuel.paradis.1@ulaval.ca
+Handle: RePEc:lvl:crrecr

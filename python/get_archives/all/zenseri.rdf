@@ -1,0 +1,49 @@
+         <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Welcome - ZenTra - Center for Transnational Studies</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="ZenTra is an interdisciplinary and collaborative initiative joining researchers from the Universities of Bremen and Oldenburg from the fields of economic, organizational, sociological and legal scholarship. It is a particular strength of the ZenTra initiative to carry out multidisciplinary research in the four areas of Transnational Value Chains, Governance in Transnational Markets, Transnational Societies and Theory Development in Transnational Studies." />
+	<meta http-equiv="content-language" content="de" />
+	<meta name="language" content="de" />
+	<meta http-equiv="imagetoolbar" content="no" />
+	<link href="http://www.zen-tra.de/css/all.css" rel="stylesheet" type="text/css" media="all"/>
+	<link href="http://www.zen-tra.de/css/jquery.jscrollpane.css" rel="stylesheet" type="text/css" media="all"/>
+	<!--[if IE 8]><link rel="stylesheet" href="http://www.zen-tra.de/css/ie.css" type="text/css"/><![endif]-->
+	<script type="text/javascript" src="http://www.zen-tra.de/js/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="http://www.zen-tra.de/js/jquery.mousewheel.js"></script>
+	<script type="text/javascript" src="http://www.zen-tra.de/js/jquery.jscrollpane.js"></script>
+	<script type="text/javascript" src="http://www.zen-tra.de/js/js.js"></script>
+	<script>include("http://www.zen-tra.de/js/language.de.js");</script>
+	<script>var SITE_ROOT = "http://www.zen-tra.de/";</script>
+	<script type="text/javascript" src="http://www.zen-tra.de/js/main.js"></script>
+	<link rel="shortcut icon" type="image/x-icon" href="http://www.zen-tra.de/images/favicon.png">
+</head>
+<body pageId1 data-obj="home">
+<div id="border">                                                                                                
+<div id="page">
+<div class="page-bottom">
+<div class="page-bottom-right"><div id="header"><div class="header-top"><ul class="language"><li><a href="http://www.zen-tra.de/start/en/?">en</a></li><li class="active"><a href="#">de</a></li></ul><div class="search">
+		<form action="http://www.zen-tra.de/suche/" method="post"><fieldset>
+			<div class="text">
+				<input type="text" name="search" id="search">
+			</div>
+			<div class="submit">
+				<input type="submit" value="">
+			</div>
+		</fieldset></form>
+	</div><ul class="top-menu"><li ><a href="http://www.zen-tra.de/sitemap/" >Sitemap</a></li><li ><a href="http://www.zen-tra.de/zentra/kontakt/impressum/" >Impressum</a></li><li ><a href="http://www.zen-tra.de/zentra/kontakt/" >Kontakt</a></li><li ><a href="http://www.zen-tra.de/suche/" >Suche</a></li></ul></div><div class="header-top-block">
+	<h1><a href="http://www.zen-tra.de/" target="_blank">LOGO</a></h1></div><img src="http://www.zen-tra.de//images/circle.gif" border="0" width="676" height="562" class="circle"/><div class="banner-wrapper">
+			<div class="main-menu"><ul><li class="blue" ><a class="home" href="http://www.zen-tra.de/">home</a></li><li ><a href="http://www.zen-tra.de/arbeitsgruppen/" >Arbeitsgruppen</a></li>
+<li class="orange"><a href="http://www.zen-tra.de/projekte/" >Projekte</a></li>
+<li class="light-orange"><a href="http://www.zen-tra.de/publikationen/publikationen/" >Publikationen</a></li>
+<li ><a href="http://www.zen-tra.de/veranstaltungen/" >Veranstaltungen</a></li>
+<li ><a href="http://www.zen-tra.de/forscher/" >Forscher</a></li>
+<li ><a href="http://www.zen-tra.de/zentra/" >ZenTra</a></li>
+</ul></div><div class="banner-holder" style="display: block; "><img src="http://www.zen-tra.de/images/header-img1.jpg" alt="image description" width="1180" height="358" title="© ZenTra"></div><img src="http://www.zen-tra.de//images/blue-line.png" border="0" width="1187" height="39" class="blue-line"/></div></div><div id="main">
+	<div class="main-holder"><div id="sidebar-left">
+	<h5><a href="http://www.zen-tra.de/veranstaltungen/">Aktuelle Veranstaltungen</a></h5>
+	<div class="box-holder"><div class="box"><div class="date"><span class="day">18</span><span class="month">Sep</span></div><div class="info"><h6>Internationale Konferenz</h6><a href="http://www.zen-tra.de/veranstaltungen/?event=2#event2">Conference: SKM Symposium & cbsm Conference, Magdeburg</a><span class="autor">Vert.-Prof. Dr. Sven M. Laudien</span></div></div><div class="box"><div class="date"><span class="day">12</span><span class="month">Dez</span></div><div class="info"><h6>Internationale Konferenz</h6><a href="http://www.zen-tra.de/veranstaltungen/?event=6#event6">Conference: EIBA 2013, Bremen</a><span class="autor">Prof. Dr. Sarianna M. Lundan</span></div></div><div class="box"><div class="date"><span class="day">30</span><span class="month">Jan</span></div><div class="info"><h6>Externe Experten Workshop</h6><a href="http://www.zen-tra.de/veranstaltungen/?event=36#event36">Workshop: ZenTraClim - Klimawandel und transnationale Politik</a></div></div></div></div><div id="content"><div class="news-holder"><div class="post-holder"><div class="post"><span class="date">03.05.2015</span><div class="img-left"><img src="http://www.zen-tra.de/f/e35236c1a8.png" border="0"  width="185" alt="Transnationale Forschung am ZenTra" title="Transnationale Forschung am ZenTra"/></div><div class="text-holder"><h3><a href="http://www.zen-tra.de/zentra/aktuelles/?news=1#news1">Transnationale Forschung am ZenTra</a></h3><strong class="title">&nbsp;</strong><p>ZenTra ist ein interdisziplinärer Forschungsverbund von Wissenschaftlern der Universitäten Bremen und Oldenburg aus den Bereichen Volks- und Betriebswirtschaft, Soziologie, Rechts- und Politikwissenschaften.
+
+ZenTra wurde im Oktober 2011 gestartet und in seiner heutigen Form mit sechs Forschungsgruppen im Oktober 2012 offiziell eröffnet.  <a class="more" href="http://www.zen-tra.de/zentra/aktuelles/?news=1#news1">Mehr lesen ...</a></p></div></div><div class="post"><span class="date">22.10.2012</span><div class="img-left"><img src="http://www.zen-tra.de/f/51126ab75d.jpg" border="0"  width="185" alt="ZenTra-Eröffnungsfeier" title="ZenTra-Eröffnungsfeier"/></div><div class="text-holder"><h3><a href="http://www.zen-tra.de/zentra/aktuelles/archiv/?news=6#news6">ZenTra-Eröffnungsfeier</a></h3><strong class="title">ZenTra wurde am 22.10.2012 offiziell eröffnet</strong><p>ZenTra wurde am 22. Oktober 2012 von der damaligen Bremer Bildungs-Senatorin Renate Jürgens-Pieper und der damaligen niedersächsischen Wissenschaftsministerin Prof. Dr. Johanna Wanka eröffnet. Die Feierlichkeiten fanden im Hanse-Wissenschaftskolleg in Delmenhorst statt. <a class="more" href="http://www.zen-tra.de/zentra/aktuelles/archiv/?news=6#news6">Mehr lesen ...</a></p></div></div><div class="post"><span class="date">01.10.2011</span><div class="img-left"><img src="http://www.zen-tra.de/f/e424b30306.png" border="0"  width="185" alt="Forschungsprojekte" title="Forschungsprojekte"/></div><div class="text-holder"><h3><a href="http://www.zen-tra.de/zentra/aktuelles/archiv/?news=2#news2">Forschungsprojekte</a></h3><strong class="title">Unser Forschungsansatz am ZenTra</strong><p>Wir am ZenTra sehen es als eine besondere Stärke unserer Initiative an, dass wir einen multidisziplinäre Perspektive annehmen können, um Forschung in den vier Feldern Transnationale Akteure, Transnationale Governance, Transnationale Gesellschaft und Konzepte und Methoden transnationaler Studien betreiben zu können. <a class="more" href="http://www.zen-tra.de/zentra/aktuelles/archiv/?news=2#news2">Mehr lesen ...</a></p></div></div></div></div></div><div id="sidebar-right"><div class="box-holder"><h5><a href="http://www.zen-tra.de/zentra/aktuelles/archiv/">Aktuelles</a></h5><div class="news-holder"><div class="box"><span class="date">01.06.2013</span><a href="http://www.zen-tra.de/zentra/aktuelles/archiv/?news=3#news3">Call for Papers: EIBA 2013</a><p>Deadline 15 June 2013</p></div><div class="box"><span class="date">31.03.2013</span><a href="http://www.zen-tra.de/zentra/aktuelles/archiv/?news=5#news5">SKM/CBSM-Konferenz 2013 in Magdeburg</a><p>Sven Laudien richtet Doppelkonferenz aus (18.-20. Sept.)</p></div><div class="box"><span class="date">01.02.2013</span><a href="http://www.zen-tra.de/zentra/aktuelles/archiv/?news=4#news4">EIBA-Konferenz 2013 in Bremen</a><p>Sarianna Lundan richtet EIBA aus (12.-14. Dez.)</p></div></div></div></div></div><div id="footer"><div class="arrow"></div><div class="footer-top"><span>aktualisiert am 03. Mai 2013</span><a class="top" href="#">zum Seitenanfang</a></div><div class="footer-bottom"><a href="http://www.uni-bremen.de" class="footer-logo"><img src="http://www.zen-tra.de//images/footer-logo.png" border="0" width="248" height="47"/></a><a href="http://www.uni-oldenburg.de" class="oldenburg"><img src="http://www.zen-tra.de//images/oldenburg.png" border="0" width="183" height="55"/></a></div></div>
+</div></div></div></div></div></body></html>

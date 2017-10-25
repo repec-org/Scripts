@@ -1,0 +1,26 @@
+Template-type: ReDIF-Series 1.0
+Name: Journal of Management Sciences
+Description: JMS has a very broad horizon and covers almost every single dimension relating to Management Sciences.
+Provider-Name: Geist Science, Iqra University, Faculty of Business Administration
+Provider-Homepage: http://geistscience.com/JMS/index.php
+Maintainer-Name: Imtiaz ARIF
+Maintainer-Email: editjms@geistscience.com
+Editor-Name: Imtiaz ARIF
+Editor-Email: editjms@geistscience.com
+Type: ReDIF-Article
+Handle: RePEc:gei:journl
+
+
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Finance and Economics Research
+Description: JFER has a very broad horizon and covers almost every single dimension relating to Finance and Economics.
+Provider-Name: Geist Science, Iqra University, Faculty of Business Administration
+Provider-Homepage: http://geistscience.com/JFER/index.php
+Maintainer-Name: Imtiaz ARIF
+Maintainer-Email: editjms@geistscience.com
+Editor-Name: Imtiaz ARIF
+Editor-Name: Syed Ali Raza 
+Editor-Email: editjfer@geistscience.com
+Type: ReDIF-Article
+Handle: RePEc:gei:jnlfer

@@ -1,0 +1,10 @@
+Template-type: ReDIF-Series 1.0
+Name: Rivista Bancaria - Minerva Bancaria
+Provider-Name: Istituto di Cultura Bancaria Francesco Parrillo
+Provider-Homepage: http://www.rivistabancaria.it
+Maintainer-Name: Stefano Marzioni
+Maintainer-Email:  stefano.marzioni@rivistabancaria.it
+Type: ReDIF-Article
+Handle: RePEc:rvs:bancar
+Restriction: Full text for Rivista Bancaria subscribers only
+ISSN: 1594-7556

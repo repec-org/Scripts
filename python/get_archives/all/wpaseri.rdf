@@ -1,0 +1,200 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Computational Economics
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpco
+
+Template-Type: ReDIF-Series 1.0
+Name:  Data
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpda
+
+Template-Type: ReDIF-Series 1.0
+Name:  Development and Comp Systems
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpdc
+
+Template-Type: ReDIF-Series 1.0
+Name:  Economic History 
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpeh
+
+Template-Type: ReDIF-Series 1.0
+Name:  Econometrics
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpem
+
+Template-Type: ReDIF-Series 1.0
+Name:  Experimental
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpex
+
+Template-Type: ReDIF-Series 1.0
+Name:  Finance
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpfi
+
+Template-Type: ReDIF-Series 1.0
+Name:  Game Theory and Information
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpga
+
+Template-Type: ReDIF-Series 1.0
+Name:  GE, Growth, Math methods
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpge
+
+Template-Type: ReDIF-Series 1.0
+Name:  General Economics and Teaching 
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpgt
+
+Template-Type: ReDIF-Series 1.0
+Name:  HEW
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwphe
+
+Template-Type: ReDIF-Series 1.0
+Name:  International Finance
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpif
+
+Template-Type: ReDIF-Series 1.0
+Name:  Industrial Organization
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpio
+
+Template-Type: ReDIF-Series 1.0
+Name:  International Trade
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpit
+
+Template-Type: ReDIF-Series 1.0
+Name:  Labor and Demography
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpla
+
+Template-Type: ReDIF-Series 1.0
+Name:  Law and Economics
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwple
+
+Template-Type: ReDIF-Series 1.0
+Name:  Macroeconomics
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpma
+
+Template-Type: ReDIF-Series 1.0
+Name:  Meeting papers
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpme
+
+Template-Type: ReDIF-Series 1.0
+Name:  Method and Hist of Econ Thought
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpmh
+
+Template-Type: ReDIF-Series 1.0
+Name:  Microeconomics
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpmi
+
+Template-Type: ReDIF-Series 1.0
+Name:  Others
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpot
+
+Template-Type: ReDIF-Series 1.0
+Name:  Public Economics
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwppe
+
+Template-Type: ReDIF-Series 1.0
+Name:  Computer Programs
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Type: ReDIF-Software
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwppr
+
+Template-Type: ReDIF-Series 1.0
+Name:  Risk and Insurance
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpri
+
+Template-Type: ReDIF-Series 1.0
+Name:  Urban/Regional
+Publisher-Name: EconWPA 
+Publisher-Homepage: http://econwpa.repec.org
+Maintainer-Name: EconWPA
+Maintainer-Email: bparks@wustl.edu
+Handle: RePEc:wpa:wuwpur

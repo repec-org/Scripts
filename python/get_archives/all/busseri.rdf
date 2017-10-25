@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: The Journal of Philosophical Economics
+Provider-Name: Bucharest Academy of Economic Studies, The Journal of Philosophical Economics
+Provider-Homepage: http://jpe.ro/
+Provider-Institution: RePEc:edi:aseeero
+Maintainer-Name: Valentin Cojanu
+Maintainer-Email: cojanu@ase.ro
+Editor-Name: Valentin Cojanu
+Editor-Email: cojanu@ase.ro
+Type: ReDIF-Article
+Handle: RePEc:bus:jphile
+
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Bucharest Academy of Economic Studies, Research Center in International Business and Economics (RCIBE)
+Provider-Homepage: http://www.cercetare.rei.ase.ro/ccrei-working-paper-series
+Provider-Institution: RePEc:edi:aseeero
+Maintainer-Name: Valentin Cojanu
+Maintainer-Email: cojanu@ase.ro
+Editor-Name: Valentin Cojanu
+Editor-Email: cojanu@ase.ro
+Type: ReDIF-Paper
+Handle: RePEc:bus:wpaper

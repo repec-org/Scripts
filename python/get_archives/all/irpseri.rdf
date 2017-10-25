@@ -1,0 +1,43 @@
+Template-type: ReDIF-Series 1.0
+Name: Rapporti e ricerche
+Description: This series collects reports by researchers and collaborators of the Regional Institute for Economic Planning of Tuscany. The series comprises both reports strictly devoted to short-term analyses and sectorial aspects, and more general cross-sectorial reports.
+Provider-Name: Istituto Regionale per la Programmazione Economica della Toscana
+Provider-Homepage: http://www.irpet.it
+Provider-Institution: RePEc:edi:irpetit
+Maintainer-Name: Stefania Salvucci
+Maintainer-Email: stefania.salvucci@irpet.it
+Type: ReDIF-Paper
+Handle: RePEc:irp:report
+
+Template-type: ReDIF-Series 1.0
+Name: Studi e approfondimenti
+Description: This series includes investigations on various issues made by researchers and collaborators of the Regional Institute for Economic Planning of Tuscany.
+Provider-Name: Istituto Regionale per la Programmazione Economica della Toscana
+Provider-Homepage: http://www.irpet.it
+Provider-Institution: RePEc:edi:irpetit
+Maintainer-Name: Stefania Salvucci
+Maintainer-Email: stefania.salvucci@irpet.it
+Type: ReDIF-Paper
+Handle: RePEc:irp:essays
+
+Template-type: ReDIF-Series 1.0
+Name: Miscellanea
+Description: This series collects short articles on miscellaneous subjects, written by researchers and collaborators of the Regional Institute for Economic Planning of Tuscany.
+Provider-Name: Istituto Regionale per la Programmazione Economica della Toscana
+Provider-Homepage: http://www.irpet.it
+Provider-Institution: RePEc:edi:irpetit
+Maintainer-Name: Stefania Salvucci
+Maintainer-Email: stefania.salvucci@irpet.it
+Type: ReDIF-Paper
+Handle: RePEc:irp:msclln
+
+Template-type: ReDIF-Series 1.0
+Name: chapters
+Description: This series collects articles/chapters in reports edited by IRPET.
+Provider-Name: Istituto Regionale per la Programmazione Economica della Toscana
+Provider-Homepage: http://www.irpet.it
+Provider-Institution: RePEc:edi:irpetit
+Maintainer-Name: Stefania Salvucci
+Maintainer-Email: stefania.salvucci@irpet.it
+Type: ReDIF-Chapter
+Handle: RePEc:irp:chapte

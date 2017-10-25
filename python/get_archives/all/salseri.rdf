@@ -1,0 +1,27 @@
+﻿
+
+template-type: ReDIF-Series 1.0
+name: CELPE Discussion Papers
+editor-name: Maria Antonia Gregorio
+editor-email: celpe@unisa.it
+maintainer-email: celpe@unisa.it
+maintainer-name: Paolo Coccorese
+description: Centre of Labour Economics and Economic Policy
+provider-name: CELPE - Centre of Labour Economics and Economic Policy, University of Salerno, Italy
+provider-homepage: http://www.celpe.unisa.it
+provider-institution: RePEc:edi:cesalit
+provider-postal: via Giovanni Paolo II, 132, 84084 - Fisciano (SA), ITALY
+handle: RePEc:sal:celpdp
+
+template-type: ReDIF-Series 1.0
+name: CELPE Working Papers
+editor-name: Maria Antonia Gregorio
+editor-email: celpe@unisa.it
+maintainer-email: celpe@unisa.it
+maintainer-name: Paolo Coccorese
+description: Centre of Labour Economics and Economic Policy
+provider-name: CELPE - Centre of Labour Economics and Economic Policy, University of Salerno, Italy
+provider-homepage: http://www.celpe.unisa.it
+provider-institution: RePEc:edi:cesalit
+provider-postal: via Giovanni Paolo II 132, 84084 - Fisciano (SA), ITALY
+handle: RePEc:sal:celpwp

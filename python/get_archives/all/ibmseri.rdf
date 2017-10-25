@@ -1,0 +1,18 @@
+Template-type: ReDIF-Series 1.0
+Name: Finance Lab Working Papers
+Description: Artigos ou trabalhos em andamento produzidos pelos pesquisadores do Finance Lab Insper Instituto de Ensino e Pesquisa.
+Provider-Name: Finance Lab, Insper Instituto de Ensino e Pesquisa
+Provider-Institution: RePEc:edi:ibmecbr
+Maintainer-Name: Naercio Menezes
+Maintainer-Email: NaercioAMF@insper.edu.br
+Handle: RePEc:ibm:finlab
+
+
+Template-type: ReDIF-Series 1.0
+Name: Insper Working Papers
+Description: Artigos ou trabalhos em andamento produzidos pelos professores do Insper Instituto de Ensino e Pesquisa.
+Provider-Name: Insper Working Paper, Insper Instituto de Ensino e Pesquisa
+Provider-Institution: RePEc:edi:ibmecbr
+Maintainer-Name: Naercio Menezes
+Maintainer-Email: NaercioAMF@insper.edu.br
+Handle: RePEc:ibm:ibmecp

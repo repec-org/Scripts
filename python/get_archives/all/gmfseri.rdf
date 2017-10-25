@@ -1,0 +1,41 @@
+Template-type: ReDIF-Series 1.0
+Name: CeBER Working Papers
+Provider-Name: Centre for Business and Economics Research (CeBER), University of Coimbra
+Provider-Homepage: http://www.uc.pt/go/ceber
+Provider-Institution: RePEc:edi:cebucpt
+Maintainer-Name: Ana Seiça
+Maintainer-Email: ceber@uc.pt
+Editor-Name: Luis Dias
+Editor-Email: lmcdias@fe.uc.pt
+Description: The CeBER Working Papers series presents mainly the current research of our members that covers a wide range of topics associated with the research lines of our centre, healthcare development, public institutions and policies for sustainable development, and organizational innovation and development, with focus on small and medium-size enterprises.
+Type: ReDIF-Paper
+Handle: RePEc:gmf:papers
+Predecessor: RePEc:gmf:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: GEMF Working Papers
+Provider-Name: GEMF, Faculty of Economics, University of Coimbra
+Provider-Homepage: http://www.uc.pt/en/feuc/gemf/
+Provider-Institution: RePEc:edi:cebucpt
+Maintainer-Name: Ana Seiça
+Maintainer-Email: ceber@uc.pt
+Editor-Name: Paulino Teixeira
+Editor-Email: pteixeira@fe.uc.pt
+Description: Discontinued series. This series has been replaced by CeBER Working Papers series.
+Type: ReDIF-Paper
+Handle: RePEc:gmf:wpaper
+Followup: RePEc:gmf:papers
+ 
+Template-type: ReDIF-Series 1.0
+Name: Notas Económicas
+Description: Economic journal of the University of Coimbra (indexed in e-JEL, EconLit, JEL on CD and Journal of Economic Literature)
+Provider-Name: Faculty of Economics, University of Coimbra
+Provider-Homepage: http://impactum-journals.uc.pt/index.php/notaseconomicas
+Provider-Institution: RePEc:edi:fecucpt
+Maintainer-Name: Ana Seiça
+Maintainer-Email: ceber@uc.pt
+Editor-Name: Paulino Teixeira
+Editor-Email: pteixeira@fe.uc.pt
+ISSN: 0872-4733
+Type: ReDIF-Article
+Handle: RePEc:gmf:journl

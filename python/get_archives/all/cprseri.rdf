@@ -1,0 +1,31 @@
+Template-Type: ReDIF-Series 1.0
+Name: CEPR Discussion Papers
+Maintainer-Email: repec@cepr.org
+Publisher-Name: C.E.P.R. Discussion Papers
+Publisher-Postal: Centre for Economic Policy Research, 77 Bastwick Street, London EC1V 3PZ.
+Publisher-Phone: 44 - 20 - 7183 8801
+Publisher-Fax: 44 - 20 - 7183 8820
+Order-Email: orders@cepr.org
+Restriction: CEPR Discussion Papers are free to download for our researchers, subscribers and members. If you fall into one of these categories but have trouble downloading our papers, please contact us at subscribers@cepr.org
+Handle: RePEc:cpr:ceprdp
+Template-Type: ReDIF-Series 1.0
+Name: CEPR Financial Markets Paper
+Maintainer-Email: repec@cepr.org
+Order-Email: orders@cepr.org
+Publisher-Name: European Science Foundation Network in Financial Markets, c/o C.E.P.R, 77 Bastwick Street, London EC1V 3PZ.
+Publisher-Phone: 44 - 20 - 7183 8801
+Publisher-Fax: 44 - 20 - 7183 8820
+Order-Email: orders@cepr.org
+Restriction: CEPR Discussion Papers are free to download for our researchers, subscribers and members. If you fall into one of these categories but have trouble downloading our papers, please contact us at subscribers@cepr.org
+Handle: RePEc:cpr:ceprfm
+Template-Type: ReDIF-Series 1.0
+Name: Vox eBooks
+Maintainer-Email: repec@cepr.org
+Publisher-Name: Centre for Economic Policy Research
+Publisher-Postal: Centre for Economic Policy Research, 77 Bastwick Street, London EC1V 3PZ.
+Publisher-Phone: 44 - 20 - 7183 8801
+Publisher-Fax: 44 - 20 - 7183 8820
+Order-Email: orders@cepr.org
+Restriction: Vox eBooks are available to download free of charge from www.VoxEU.org
+Type: ReDIF-Book
+Handle: RePEc:cpr:ebooks

@@ -1,0 +1,23 @@
+Template-Type: ReDIF-Series 1.0
+Name:  Carleton Economic Papers
+Provider-Name: Carleton University, Department of Economics 
+Provider-Postal: C870 Loeb Building, 1125 Colonel By Drive, Ottawa Ontario, K1S 5B6 Canada
+Provider-Phone: 613-520-3744 
+Provider-Fax: 613-520-3906
+Maintainer-Name: Sabrina Robineau
+Maintainer-Email: sabrina.robineau@carleton.ca
+Order-Email: economics@carleton.ca
+Handle: RePEc:car:carecp
+
+Template-Type: ReDIF-Series 1.0
+Name: Carleton Industrial Organization Research Unit (CIORU)
+Provider-Name: Carleton University, Department of Economics 
+Provider-Postal: C870 Loeb Building, 1125 Colonel By Drive, Ottawa Ontario, K1S 5B6 Canada
+Provider-Phone: 613-520-3744 
+Provider-Fax: 613-520-3906
+Maintainer-Name: Sabrina Robineau
+Maintainer-Email: sabrina.robineau@carleton.ca
+Order-Email: economics@carleton.ca
+Handle: RePEc:car:ciorup
+
+

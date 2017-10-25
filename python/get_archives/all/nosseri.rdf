@@ -1,0 +1,224 @@
+﻿
+Template-Type: ReDIF-Series 1.0
+Name: Russian Working Paper Archive for Economists and Sociologists
+Description: Working Papers in Economics and Sociology
+Provider-Name: The Institute of Economics and Industrial Engineering of SD of RAS
+Provider-Homepage: http://www.ieie.nsc.ru/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:nos:econom
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Journal "Region: Economics and Sociology"
+Maintainer-Name: Galina Cheverda
+Maintainer-Email: region@ieie.nsc.ru
+Provider-Name: Institute of Economics and Industrial Engineering of Siberian Branch of RAS
+Provider-Homepage: http://region.socionet.ru/
+Provider-Email: kin@ieie.nsc.ru
+Handle: RePEc:nos:regioe
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: VOPROSY ECONOMIKI
+Description: VOPROSY ECONOMIKI - The leading theoretical and practical journal
+ in Russia.
+ Founded: 1929. Audience: economists-researchers, lecturers and students,
+ high-rank public
+ officials,
+ corporate and banking analysts. Topic Areas: Economic Theory; Analysis of
+ Economic Reforms;
+ Monetary, Investment and Structural Policies; Social Sphere; Regional Economy;
+ Enterprise in Transition Economy, Problems of Ownership, Corporate Governance;
+ Small Business; World Economy; Economic History, History of Economic Thought;
+ Analytical and Statistical Information
+Provider-Name: N.P. Redaktsiya zhurnala "Voprosy Economiki"
+Provider-Homepage: http://www.vopreco.ru/eng/year.html
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: rupec@ieie.nsc.ru
+Handle: RePEc:nos:voprec
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-Book
+Name: Books of Alexander Varshavsky
+Maintainer-Name: Alexander Varshavsky
+Maintainer-Email: varshav@cemi.rssi.ru
+Provider-Name: Socionet
+Provider-Homepage: http://socionet.ru/
+Provider-Email: socionet@ieie.nsc.ru
+Handle: RePEc:nos:qjvewn
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: The articles from Russian magazines and  from Collections of Institute of Economics; The Centre of innovation's Economics; Institute of Economics of RAS
+Description: 
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Maintainer-Name: Evelyna Romanyuk
+Maintainer-Email: romvel57@yandex.ru
+Handle: repec:nos:taxcti
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Mechonomics
+Description: Economics presented as mechanics - accurate description of macroeconomic measured variables using simple relationships from classic mechanics and geomechanics. Prediction of such variables as real GDP, inflation, and unemployment in developed counties at various time horizons - from one to ten years.
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Maintainer-Name: Ivan Kitov
+Maintainer-Email: ikitov@mail.ru
+Handle: repec:nos:tttehw
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Publications of researchers of the Institute for Economic Studies KSC RAS
+Description: 
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Maintainer-Name: Elena Emelyanova
+Maintainer-Email: emelya@iep.kolasc.net.ru
+Maintainer-Fax: +7(81555) 7-48-44
+Maintainer-Phone: +7(81555) 79-461
+Handle: repec:nos:unrpng
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Finance
+Description: Open Archives series for publishing in the field of Finance
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://spz.socionet.ru/archives/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: repec:nos:wuwpfi
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Game Theory and Information
+Description: Open Archives series for publishing in the field of Game Theory and Information
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://spz.socionet.ru/archives/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: repec:nos:wuwpga
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: International Finance
+Description: Open Archives series for publishing in the field of International Finance
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://spz.socionet.ru/archives/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: repec:nos:wuwpif
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Law and Economics
+Description: Open Archives series for publishing in the field of Law and Economics
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://spz.socionet.ru/archives/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: repec:nos:wuwple
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Macroeconomics
+Description: Open Archives series for publishing in the field of Macroeconomics
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://spz.socionet.ru/archives/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: repec:nos:wuwpma
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Microeconomics
+Description: Open Archives series for publishing in the field of Microeconomics
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://spz.socionet.ru/archives/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: repec:nos:wuwpmi
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-paper
+Name: Others
+Description: Open Archives series for publishing in the field of Others
+Provider-Name: Socionet
+Provider-Email: admin@socionet.ru
+Provider-Homepage: http://spz.socionet.ru/archives/
+Maintainer-Name: Sergei Parinov
+Maintainer-Email: parinov@ieie.nsc.ru
+Handle: repec:nos:wuwpot
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Economics of Development
+Description: Economics of development is peer reviewed, open access scientific journal dedicated for publication original, innovative, newest and high quality research articles with a broad spectrum of discipline and related fields of economics grows.
+Provider-Name: Kharkiv National University of  Economics 
+Provider-Homepage: http://www.hneu.edu.ua/
+Maintainer-Name: Андрей Пилипенко
+Maintainer-Email: aapylypenko@gmail.com
+Maintainer-Fax: +380577021210
+Maintainer-Phone: +380509470740
+Handle: repec:nos:zodgwl
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: ECONOMY AND SOCIOLOGY: Theoretical and Scientifical Journal 
+Description: The National Institute for Economic Research (NIER) is an organization from the field of science and innovation, with the legal form of organization as a public institution. The NIER’s area of activity contains scientific researches in economy, finance, statistics, reforming of social sphere and integration of the Republic of Moldova in world economic circuit. The main goal of the NIER’s activity consists in the organization and realization of scientific, fundamental and applied researches on the evolution of economic and social processes from the country, insurance of a stable economic growth, getting decent living standards and high quality of life for the citizens.
+Provider-Name: Socionet
+Provider-Email: socionet@ieie.nsc.ru
+Provider-Homepage: http://socionet.ru/
+Provider-Name: Complexul Editorial "INCE"
+Provider-Email: bircaiulita@mail.ru
+Provider-Homepage: http://ince.md/ro/complexul-editorial/publicacii-periodice/reviste-tiinifice/economie-si-sociologie/
+Maintainer-Name: Сильвия Горчяг
+Maintainer-Email: brts.ince@gmail.com
+Handle: RePEc:nos:ycriat
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Public administration issues
+Description: The journal Public Administration Issues has been published
+ at the National Research University "Higher School of Economics" (HSE)
+ since 2007 in Moscow, Russia.
+ The mission of the journal is to create a modern platform of full value
+ for discussion, exchange of international and national experience
+ and specific knowledge among professionals in the field of
+ Public Administration; for working out and further correcting
+ the development strategy of public and municipal administration.
+ The journal is included into the list of peer reviewed scientific editions
+ established by the Supreme Certification Commission
+ of the Ministry of Education and Science of the Russian Federation.
+Provider-Name: Higher School of Economics
+Provider-Homepage: http://vgmu.hse.ru/
+Maintainer-Name: Irina A. Zvereva
+Maintainer-Email: vgmu@hse.ru
+Handle: repec:nos:vgmu00
+
+Template-Type: ReDIF-Series 1.0
+Type: ReDIF-article
+Name: Educational Studies
+Description: Established in 2004, Educational Studies is an academic journal published quarterly
+ by the National Research University Higher School of Economics (HSE).
+ Target audience: Leading Russian universities, government bodies
+ responsible for education, councils from federal and regional legislatures,
+ institutions engaged in education research, public organizations
+ and foundations with an interest in education.
+ All papers submitted for publication in the Educational Studies undergo peer review.
+Provider-Name: Higher School of Economics
+Provider-Homepage: http://vo.hse.ru/en/
+Maintainer-Name: Ekaterina Bagdasarova
+Maintainer-Email: ebagdasarova@hse.ru
+Handle: repec:nos:voprob
+

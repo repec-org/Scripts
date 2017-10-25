@@ -1,0 +1,127 @@
+Template-type: ReDIF-Series 1.0
+Name: Borradores de Economia
+Description: Working Papers of Researchers at the Banco de
+la Republica (Colombia)
+Type: ReDIF-Paper
+Provider-Name: Banco de la Republica de Colombia
+Provider-Homepage: http://www.banrep.gov.co/es/publicaciones-buscador/23
+Provider-Phone: (57-1) 3431111
+Provider-Postal: Cra 7 # 14-78 Semi-sótano
+Provider-Fax: (57-1) 2841686
+Provider-Institution: RePEc:edi:brcgvco
+Maintainer-Name: Clorith Angélica Bahos Olivera 
+Maintainer-Email: cbahosol@banrep.gov.co
+Editor-Name: Clorith Angélica Bahos Olivera  
+Editor-Email: cbahosol@banrep.gov.co
+Editor-Workplace-Name: Banco de la República
+Handle: RePEc:bdr:borrec
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo sobre Economía Regional y Urbana
+Description: Working Papers of Researchers at the Banco de
+la Republica (Colombia)
+Type: ReDIF-Paper
+Provider-Name: Banco de la Republica de Colombia
+Provider-Homepage: http://www.banrep.gov.co/es/dtser
+Provider-Phone: (57-1) 3431111
+Provider-Postal: Calle 33 # 3 - 123 (Cartagena) 
+Provider-Fax: (57-1) 2841686
+Provider-Institution: RePEc:edi:brcgvco
+Maintainer-Name: Clorith Angélica Bahos Olivera 
+Maintainer-Email: cbahosol@banrep.gov.co
+Editor-Name: Clorith Angélica Bahos Olivera  
+Editor-Email: cbahosol@banrep.gov.co
+Editor-Workplace-Name: Banco de la República
+Handle: RePEc:bdr:region
+
+Template-type: ReDIF-Series 1.0
+Name: Lecturas en Finanzas
+Description: Working of Researchers at the Banco de
+la Republica (Colombia)
+Type: ReDIF-Paper
+Provider-Name: Banco de la Republica de Colombia
+Provider-Homepage: http://www.banrep.gov.co/publicaciones/pub_lec_fin.htm
+Provider-Phone: (57-1) 3431111
+Provider-Postal: Cra 7 # 14-78 Piso 7 
+Provider-Fax: (57-1) 2841686
+Provider-Institution: RePEc:edi:brcgvco
+Maintainer-Name: Clorith Angélica Bahos Olivera
+Maintainer-Email: cbahosol@banrep.gov.co
+Editor-Name: Juan Manuel Julio
+Editor-Email: jjulioro@banrep.gov.co
+Editor-Workplace-Name: Banco de la República
+Handle: RePEc:bdr:lectur
+
+Template-type: ReDIF-Series 1.0
+Name: Temas de Estabilidad Financiera
+Description: Reports of Researchers at the Banco de
+la Republica (Colombia)
+Type: ReDIF-Paper
+Provider-Name: Banco de la Republica de Colombia
+Provider-Homepage: http://www.banrep.gov.co/publicaciones-buscador/5734
+Provider-Phone: (57-1) 3431111
+Provider-Postal: Cra 7 # 14-78 Piso 4 
+Provider-Fax: (57-1) 2841686
+Provider-Institution: RePEc:edi:brcgvco
+Maintainer-Name: Clorith Angélica Bahos-Olivera 
+Maintainer-Email: cbahosol@banrep.gov.co
+Editor-Name: Clorith Angélica Bahos-Olivera
+Editor-Email: cbahosol@banrep.gov.co
+Editor-Workplace-Name: Banco de la República
+Handle: RePEc:bdr:temest
+
+Template-type: ReDIF-Series 1.0
+Name: Ensayos sobre Política Económica
+Description: Journal of the Banco de
+la Republica (Colombia)
+Type: ReDIF-Article
+Provider-Name: Banco de la Republica de Colombia
+Provider-Homepage: http://www.banrep.gov.co/es/publicaciones-buscador/24
+Provider-Phone: (57-1) 3431111
+Provider-Postal: Cra 7 # 14-78 Piso 11 
+Provider-Fax: (57-1) 2841686
+Provider-Institution: RePEc:edi:brcgvco
+Maintainer-Name: Clorith Angélica Bahos Olivera 
+Maintainer-Email: cbahosol@banrep.gov.co
+Editor-Name: Julián Parra Polania  
+Editor-Email: jparrapo@banrep.gov.co
+Editor-Workplace-Name: Banco de la República
+Handle: RePEc:bdr:ensayo
+
+Template-type: ReDIF-Series 1.0
+Name: Ensayos sobre Economía Regional (ESER)
+Description: Working Papers of Researchers at the Banco de 
+la Republica (Colombia)
+Type: ReDIF-Paper
+Provider-Name: Banco de la Republica de Colombia
+Provider-Homepage: http://www.banrep.gov.co/eser
+Provider-Phone: (57-1) 3431111
+Provider-Postal: Cra 7 # 14-78 Piso 12 
+Provider-Fax: (57-1) 2841686
+Provider-Institution: RePEc:edi:brcgvco
+Maintainer-Name: Clorith Angélica Bahos Olivera 
+Maintainer-Email: cbahosol@banrep.gov.co
+Editor-Name: Clorith Angélica Bahos Olivera  
+Editor-Email: cbahosol@banrep.gov.co
+Editor-Workplace-Name: Banco de la República
+Handle: RePEc:bdr:eserdt
+
+Template-type: ReDIF-Series 1.0
+Name: Cuadernos de Historia Económica y Empresarial
+Description: Working Papers of Researchers at the Banco de
+la Republica (Colombia)
+Type: ReDIF-Paper
+Provider-Name: Banco de la Republica de Colombia
+Provider-Homepage: http://www.banrep.gov.co/es/publicaciones-buscador/2435
+Provider-Phone: (57-1) 3431111
+Provider-Postal: Cra 7 # 14-78 
+Provider-Fax: (57-1) 2841686
+Provider-Institution: RePEc:edi:brcgvco
+Maintainer-Name: Clorith Angélica Bahos Olivera 
+Maintainer-Email: cbahosol@banrep.gov.co
+Editor-Name: Clorith Angélica Bahos Olivera  
+Editor-Email: cbahosol@banrep.gov.co
+Editor-Workplace-Name: Banco de la República
+Handle: RePEc:bdr:cheedt
+
+

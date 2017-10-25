@@ -1,0 +1,49 @@
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo - Analise Economica
+Description: Documentos de trabajo de la rama de Analisis Economico
+Provider-Name: IDEGA - Instituto Universitario de Estudios e Desenvolvemento de Galicia
+Provider-Institution: RePEc:edi:egusces
+Maintainer-Name: Manuel Fernandez Grela
+Maintainer-Email: mf.grela@usc.es
+Type: ReDIF-Paper
+Handle: RePEc:edg:anecon
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo - Economia Aplicada
+Description: Documentos de trabajo de la rama de Economia Aplicada
+Provider-Name: IDEGA - Instituto Universitario de Estudios e Desenvolvemento de Galicia
+Provider-Institution: RePEc:edi:egusces
+Maintainer-Name: Manuel Fernandez Grela
+Maintainer-Email: mf.grela@usc.es
+Type: ReDIF-Paper
+Handle: RePEc:edg:ecapli
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo - Xeografia
+Description: Documentos de trabajo de la rama de Geografia
+Provider-Name: IDEGA - Instituto Universitario de Estudios e Desenvolvemento de Galicia
+Provider-Institution: RePEc:edi:egusces
+Maintainer-Name: Manuel Fernandez Grela
+Maintainer-Email: mf.grela@usc.es
+Type: ReDIF-Paper
+Handle: RePEc:edg:xeogra
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo - Historia
+Description: Documentos de trabajo de la rama de Historia
+Provider-Name: IDEGA - Instituto Universitario de Estudios e Desenvolvemento de Galicia
+Provider-Institution: RePEc:edi:egusces
+Maintainer-Name: Manuel Fernandez Grela
+Maintainer-Email: mf.grela@usc.es
+Type: ReDIF-Paper
+Handle: RePEc:edg:histor
+
+Template-type: ReDIF-Series 1.0
+Name: Documentos de trabajo - IRENe
+Description: Working Papers of the Iberian Regional Economics Network
+Provider-Name: IDEGA - Instituto Universitario de Estudios e Desenvolvemento de Galicia
+Provider-Institution: RePEc:edi:egusces
+Maintainer-Name: Manuel Fernandez Grela
+Maintainer-Email: mf.grela@usc.es
+Type: ReDIF-Paper
+Handle: RePEc:edg:irenen

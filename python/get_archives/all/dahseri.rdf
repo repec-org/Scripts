@@ -1,0 +1,78 @@
+Template-type: ReDIF-Series 1.0
+Name: Volkswirtschaftliche Schriften
+ISSN: 0505-9372
+Provider-Name: Duncker & Humblot GmbH, Berlin
+Provider-Homepage: http://www.duncker-humblot.de
+Maintainer-Name: E-Publishing-Team
+Maintainer-Email: elibrary@duncker-humblot.de
+Type: ReDIF-Book
+Restriction: www.duncker-humblot.de/index.php/epub/ebooks/bibliotheken.html?___store=gb
+Handle: RePEc:dah:vwsvws
+Order-Email: elibrary@duncker-humblot.de
+
+Template-type: ReDIF-Series 1.0
+Name: Entrepreneurship, Marketing, Innovation
+ISSN: 1861-3144
+Provider-Name: Duncker & Humblot GmbH, Berlin
+Provider-Homepage: http://www.duncker-humblot.de
+Maintainer-Name: E-Publishing-Team
+Maintainer-Email: elibrary@duncker-humblot.de
+Type: ReDIF-Book
+Restriction: www.duncker-humblot.de/index.php/epub/ebooks/bibliotheken.html?___store=gb
+Handle: RePEc:dah:emiemi
+Order-Email: elibrary@duncker-humblot.de
+
+Template-type: ReDIF-Series 1.0
+Name: Applied Economics Quarterly (formerly: Konjunkturpolitik)
+Provider-Name: Duncker & Humblot GmbH, Berlin
+Provider-Homepage: http://www.duncker-humblot.de
+Editor-Name: Ansgar Belke
+Editor-Name: Christian Dreger
+Editor-Name: Daniel Gros
+Maintainer-Name: E-Publishing-Team
+Maintainer-Email: elibrary@duncker-humblot.de
+Order-Email: verkauf_zeitschriften@duncker-humblot.de
+Order-Homepage: http://www.duncker-humblot.de/index.php/zeitschriften/wirtschafts-undsozialwissenschaften/appliedeconomicsquarterly.html
+Price: Individual rates available from the publisher
+Restriction: Access to full text is restricted to subscribers (2008 onwards); Pay-per-view access from http://ejournals.duncker-humblot.de/loi/aeq (2008 onwards)
+Type: ReDIF-Article
+Handle: RePEc:dah:aeqaeq
+ISSN: 1611-6607
+Predecessor: RePEc:aeq:aeqaeq
+
+Template-type: ReDIF-Series 1.0
+Name: Schmollers Jahrbuch : Journal of Applied Social Science Studies / Zeitschrift für Wirtschafts- und Sozialwissenschaften
+Provider-Name: Duncker & Humblot, Berlin
+Provider-Homepage: http://www.duncker-humblot.de
+Editor-Name: Nils Goldschmidt
+Editor-Email: goldschmidt@wiwi.uni-siegen.de
+Editor-Name: Erik Grimmer-Solem
+Editor-Email: egrimmer@wesleyan.edu
+Editor-Name: Joachim Zweynert
+Editor-Email: joachim.zweynert@uni-wh.de
+Maintainer-Name: E-Publishing-Team
+Maintainer-Email: elibrary@duncker-humblot.de
+Order-Email: verkauf_zeitschriften@duncker-humblot.de
+Order-Homepage: http://www.duncker-humblot.de/index.php/zeitschriften/wirtschafts-undsozialwissenschaften/schmollersjahrbuch-1.html
+Price: Individual rates available from the publisher
+Restriction: Access to full text is restricted to subscribers (2008 onwards); Pay-per-view access from http://www.genios.de (2005 onwards) and http://ejournals.duncker-humblot.de/loi/schm (2008 onwards)
+Type: ReDIF-Article
+Handle: RePEc:dah:aeqsjb
+ISSN: 1439-121X
+Predecessor: RePEc:aeq:aeqsjb
+
+Template-type: ReDIF-Series 1.0
+Name: ZfKE – Zeitschrift für KMU und Entrepreneurship
+Provider-Name: Duncker & Humblot, Berlin
+Provider-Homepage: http://www.duncker-humblot.de
+Editor-Name: New Design University – Privatuniversität St. Pölten
+Editor-Email: katharina.fellnhofer@ndu.ac.at
+Maintainer-Name: E-Publishing-Team
+Maintainer-Email: elibrary@duncker-humblot.de
+Order-Email: verkauf_zeitschriften@duncker-humblot.de
+Order-Homepage: http://www.duncker-humblot.de/index.php/zeitschriften-1/wirtschafts-undsozialwissenschaften/zfke-zeitschriftfuerkmuundentrepreneurship.html
+Price: Individual rates available from the publisher
+Restriction: Access to full text is restricted to subscribers (2008 onwards); Pay-per-view access from http://www.genios.de (2006 onwards) and http://ejournals.duncker-humblot.de/loi/zfke (2008 onwards)
+Type: ReDIF-Article
+Handle: RePEc:dah:aeqzfk
+ISSN: 1860-4633

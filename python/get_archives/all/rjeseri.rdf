@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: RAND Journal of Economics
+Description: Articles published in RAND Journal of Economics
+Followup: RePEc:bla:randje
+Maintainer-Email: rje@rand.org
+Provider-Name: The RAND Corporation
+Provider-Homepage: http://www.rje.org
+Order-Homepage: https://editorialexpress.com/cgi-bin/rje_online.cgi
+ISSN: 0741-6261
+Handle: RePEc:rje:randje
+ 
+Template-type: ReDIF-Series 1.0
+Type: ReDIF-Article
+Name: Bell Journal of Economics
+Description: Articles published in Bell Journal of Economics, 1970-1983
+Followup: RePEc:rje:randje
+Maintainer-Email: rje@rand.org
+Provider-Name: The RAND Corporation
+Provider-Homepage: http://www.rje.org
+Order-Homepage: https://editorialexpress.com/cgi-bin/rje_online.cgi
+ISSN:  0361-915X 
+Handle: RePEc:rje:bellje

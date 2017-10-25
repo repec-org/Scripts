@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Center for Economic Studies, U.S. Census Bureau
+Provider-Homepage: http://www.census.gov/ces
+Provider-Institution: RePEc:edi:cesgvus
+Maintainer-Name: Erica Coates
+Maintainer-Email: Erica.N.Coates@census.gov
+Editor-Name: J. David Brown
+Editor-Email: J.David.Brown@census.gov
+Type: ReDIF-Paper
+Handle: RePEc:cen:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Longitudinal Employer-Household Dynamics Technical Papers
+Provider-Name: Center for Economic Studies, U.S. Census Bureau
+Provider-Homepage: https://lehd.ces.census.gov/
+Provider-Institution: RePEc:edi:cesgvus
+Maintainer-Name: Erica Coates
+Maintainer-Email: Erica.N.Coates@census.gov
+Editor-Name: Erika McEntarfer
+Editor-Email: Erika.McEntarfer@census.gov
+Type: ReDIF-Paper
+Handle: RePEc:cen:tpaper

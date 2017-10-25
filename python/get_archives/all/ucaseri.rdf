@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: POLIS Working Papers
+Description: this is a series from the POLIS Institute (Institute
+ of public policy and public choice)
+Maintainer-name: Lucia Padovani
+Maintainer-Email: lucia.padovani@sp.unipmn.it
+Provider-name: Institute of Public Policy and Public Choice - POLIS 
+Provider-Homepage:http://polis.unipmn.it
+ISSN: 2038-7296
+Handle: RePEc:uca:ucapdv
+
+Template-type: ReDIF-Series 1.0
+Name: IEL Working Papers
+Description: IEL papers in Comparative Analysis of Institutions, Economics and Law are published by the Departement POLIS, Università del Piemonte Orientale, partner of IEL programme
+Maintainer-name: Lucia Padovani
+Maintainer-Email: lucia.padovani@sp.unipmn.it
+Provider-name: Institute of Public Policy and Public Choice - POLIS 
+Provider-Homepage:http://polis.unipmn.it
+Handle: RePEc:uca:ucaiel

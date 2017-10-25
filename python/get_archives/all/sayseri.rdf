@@ -1,0 +1,21 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Description: This is the official working papers of  Faculty of Economics and Administrative Sciences, Sakarya University
+Provider-Name: Sakarya University, Faculty of Economics and Administrative Sciences
+Provider-Homepage: http://www.iibf.sakarya.edu.tr/tr
+Provider-Institution: RePEc:edi:iisautr
+Maintainer-Name: Veli Yilanci
+Maintainer-Email: yilanci@sakarya.edu.tr
+Type: ReDIF-Paper
+Handle: RePEc:say:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Research Journal of Politics, Economics and Management
+Description: This is the official journal of Faculty of Economics and Administrative Sciences, Sakarya University
+Provider-Name: Sakarya University, Faculty of Economics and Administrative Sciences
+Provider-Institution: RePEc:edi:iisautr
+Provider-Homepage: http://www.siyasetekonomiyonetim.org/index.php/seyad
+Maintainer-Name: Veli Yilanci
+Maintainer-Email: yilanci@sakarya.edu.tr
+Type: ReDIF-Article
+Handle: RePEc:say:journl

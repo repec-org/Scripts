@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: University of Minnesota, Department of Economics
+Provider-Homepage: http://www.econ.umn.edu/
+provider-Institution: RePEc:edi:deumnus
+Maintainer-Name: Caty Bach
+Maintainer-Email: c-bach@umn.edu
+Type: ReDIF-Paper
+Handle: RePEc:min:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Heller Hurwicz Institute Working Papers
+Provider-Name: University of Minnesota, Heller Hurwicz Institute
+Provider-Homepage: http://www.hhei.umn.edu/
+Provider-Institution: RePEc:edi:deumnus
+Maintainer-Name: Caty Bach
+Maintainer-Email: c-bach@umn.edu
+Type: ReDIF-Paper
+Handle: RePEc:min:hheiwp

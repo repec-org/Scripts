@@ -1,0 +1,72 @@
+Template-type: ReDIF-Series 1.0
+Name: Taxation Papers
+Provider-Name: Directorate General Taxation and Customs Union, European Commission
+Provider-Homepage: https://ec.europa.eu/taxation_customs/index_en.htm
+Provider-Institution: RePEc:edi:dtcecbe 
+Maintainer-Name: Gaetan Nicodeme
+Maintainer-Email: gaetan.nicodeme@ec.europa.eu
+Maintainer-Name: Agnieszka Skonieczna
+Maintainer-Email: Agnieszka-Maria.SKONIECZNA@ec.europa.eu
+Maintainer-Name: Gaelle Garnier
+Maintainer-Email: gaelle.garnier@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:tax:taxpap
+
+Template-type: ReDIF-Series 1.0
+Name: Taxation trends
+Provider-Name: Directorate General Taxation and Customs Union, European Commission
+Provider-Homepage: https://ec.europa.eu/taxation_customs/index_en.htm
+Provider-Institution: RePEc:edi:dtcecbe 
+Maintainer-Name: Gunther Ebling
+Maintainer-Email: taxud-structures@ec.europa.eu
+Maintainer-Name: Gaetan Nicodeme
+Maintainer-Email: gaetan.nicodeme@ec.europa.eu
+Maintainer-Name: Gaelle Garnier
+Maintainer-Email: gaelle.garnier@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:tax:taxtre
+
+Template-type: ReDIF-Series 1.0
+Name: Taxes in Europe Database
+Provider-Name: Directorate General Taxation and Customs Union, European Commission
+Provider-Homepage: https://ec.europa.eu/taxation_customs/index_en.htm
+Provider-Institution: RePEc:edi:dtcecbe 
+Maintainer-Name: Gaetan Nicodeme
+Maintainer-Email: gaetan.nicodeme@ec.europa.eu
+Maintainer-Name: Freddy De Buysscher
+Maintainer-Email: tedb@ec.europa.eu
+Maintainer-Name: Gunther Ebling
+Maintainer-Email: guenther.ebling@ec.europa.eu
+Maintainer-Name: Gaelle Garnier
+Maintainer-Email: gaelle.garnier@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:tax:taxtie
+
+Template-type: ReDIF-Series 1.0
+Name: Taxation Studies
+Provider-Name: Directorate General Taxation and Customs Union, European Commission
+Provider-Homepage: https://ec.europa.eu/taxation_customs/index_en.htm
+Provider-Institution: RePEc:edi:dtcecbe 
+Maintainer-Name: Gaetan Nicodeme
+Maintainer-Email: gaetan.nicodeme@ec.europa.eu
+Maintainer-Name: Gaelle Garnier
+Maintainer-Email: gaelle.garnier@ec.europa.eu
+Maintainer-Name: Agnieszka Skonieczna
+Maintainer-Email: Agnieszka-Maria.SKONIECZNA@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:tax:taxstu
+
+Template-type: ReDIF-Series 1.0
+Name: Taxation Survey
+Provider-Name: Directorate General Taxation and Customs Union, European Commission
+Provider-Homepage: https://ec.europa.eu/taxation_customs/index_en.htm
+Provider-Institution: RePEc:edi:dtcecbe 
+Maintainer-Name: Gaetan Nicodeme
+Maintainer-Email: gaetan.nicodeme@ec.europa.eu
+Maintainer-Name: Agnieszka Skonieczna
+Maintainer-Email: Agnieszka-Maria.SKONIECZNA@ec.europa.eu
+Maintainer-Name: Gaelle Garnier
+Maintainer-Email: gaelle.garnier@ec.europa.eu
+Type: ReDIF-Paper
+Handle: RePEc:tax:taxsur
+

@@ -1,0 +1,23 @@
+Template-type: ReDIF-Series 1.0
+Name: Série de recherche
+Description: Recherches approfondies en Economie du Développement
+Provider-Name: Groupe d'Economie du Développement de l'Université
+ Montesquieu Bordeaux IV
+Maintainer-Email: lachaud@u-bordeaux4.fr
+Handle: RePEc:mon:cedrec
+Template-type: ReDIF-Series 1.0
+Name: Documents de travail
+Description: Documents de travail constituant des versions préalables
+ d'articles soumis à publication
+Provider-Name: Groupe d'Economie du Développement de l'Université
+ Montesquieu Bordeaux IV
+Maintainer-Email: lachaud@u-bordeaux4.fr
+Handle: RePEc:mon:ceddtr
+Template-type: ReDIF-Series 1.0
+Name: Documents pédagogiques
+Description: Diffusion de concepts et de méthodes de recherche dans le
+ domaine de l'économie appliquée
+Provider-Name: Groupe d'Economie du Développement de l'Université
+ Montesquieu Bordeaux IV
+Maintainer-Email: lachaud@u-bordeaux4.fr
+Handle: RePEc:mon:ceddpe

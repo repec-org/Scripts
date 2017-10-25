@@ -1,0 +1,35 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Government Institute for Economic Research Finland (VATT)
+Provider-Homepage: http://www.vatt.fi/
+Provider-Institution: RePEc:edi:vatttfi
+Maintainer-Name: Anita Niskanen
+Maintainer-Email: webmaster@vatt.fi
+Type: ReDIF-Paper
+Handle: RePEc:fer:wpaper
+Order-Email: tietopalvelu@vatt.fi
+ISSN: 1798-0291
+
+Template-type: ReDIF-Series 1.0
+Name: Discussion Papers
+Provider-Name: Government Institute for Economic Research Finland (VATT)
+Provider-Homepage: http://www.vatt.fi/
+Provider-Institution: RePEc:edi:vatttfi
+Maintainer-Name: Anita Niskanen
+Maintainer-Email: webmaster@vatt.fi
+Type: ReDIF-Paper
+Handle: RePEc:fer:dpaper
+Order-Email: tietopalvelu@vatt.fi
+ISSN: 1795-3359
+
+Template-type: ReDIF-Series 1.0
+Name: Research Reports
+Provider-Name: Government Institute for Economic Research Finland (VATT)
+Provider-Homepage: http://www.vatt.fi/
+Provider-Institution: RePEc:edi:vatttfi
+Maintainer-Name: Anita Niskanen
+Maintainer-Email: webmaster@vatt.fi
+Type: ReDIF-Paper
+Handle: RePEc:fer:resrep
+Order-Email: tietopalvelu@vatt.fi
+ISSN: 1795-3340

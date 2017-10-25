@@ -1,0 +1,81 @@
+Template-type: ReDIF-Series 1.0
+Name: Department of Economics Working Papers
+Description: These are the working papers of the Department of Economics
+Provider-Name: Department of Economics, University of Trento, Italia
+Provider-Homepage: http://www.unitn.it/deco
+Provider-Institution: RePEc:edi:detreit
+Maintainer-Name: Luciano Andreozzi
+Maintainer-Email: luciano.andreozzi@economia.unitn.it
+Type: ReDIF-Paper
+Handle: RePEc:trn:utwpde
+
+Template-type: ReDIF-Series 1.0
+Name: CEEL Working Papers
+Provider-Name: Cognitive and Experimental Economics Laboratory, Department of Economics, University of Trento, Italia
+Provider-Homepage: http://www-ceel.economia.unitn.it
+Provider-Institution: RePEc:edi:detreit
+Maintainer-Name: Marco Tecilla
+Maintainer-Email: marco.tecilla@economia.unitn.it
+Type: ReDIF-Paper
+Handle: RePEc:trn:utwpce
+
+Template-type: ReDIF-Series 1.0
+Name: Euricse Working Papers
+Provider-Name: Euricse (European Research Institute on Cooperative and Social Enterprises) 
+Provider-Homepage: http://www.euricse.eu/
+Provider-Institution: RePEc:edi:euricit
+Maintainer-Name: Sara Depedri
+Maintainer-Email: sara.depedri@euricse.eu
+Type: ReDIF-Paper
+Handle: RePEc:trn:utwpeu
+
+Template-type: ReDIF-Series 1.0
+Name: Openloc Working Papers
+Provider-Name: Public policies and local development 
+Provider-Homepage: http://www.openloc.eu/
+Provider-Institution: RePEc:edi:detreit
+Maintainer-Name: Francesco Rentocchini
+Maintainer-Email: f.rentocchini_1@unitn.it
+Type: ReDIF-Paper
+Handle: RePEc:trn:utwpol
+
+Template-type: ReDIF-Series 1.0
+Name: ASSRU Discussion Papers
+Provider-Name: ASSRU - Algorithmic Social Science Research Unit
+Provider-Homepage: http://www.assru.economia.unitn.it/index.html
+Provider-Institution: RePEc:edi:detreit
+Maintainer-Name: assru.tm@gmail.com
+Maintainer-Email: assru.tm@gmail.com
+Type: ReDIF-Paper
+Handle: RePEc:trn:utwpas
+
+Template-type: ReDIF-Series 1.0
+Name: DEM Discussion Papers
+Provider-Name: Department of Economics and Management
+Provider-Homepage: http://www.unitn.it/economia
+Provider-Institution: RePEc:edi:detreit
+Maintainer-Name: roberto.gabriele@unitn.it
+Maintainer-Email: roberto.gabriele@unitn.it
+Type: ReDIF-Paper
+Handle: RePEc:trn:utwpem
+
+Template-type: ReDIF-Series 1.0
+Name: Journal of Entrepreneurial and Organizational Diversity
+Provider-Name: European Research Institute on Cooperative and Social Enterprises
+Provider-Homepage: http://www.euricse.eu
+Provider-Institution: RePEc:edi:euricit
+Maintainer-Name: Fabio Sabatini
+Maintainer-Email: fabio.sabatini@uniroma1.it
+Type: ReDIF-Article
+Handle: RePEc:trn:csnjrn
+
+
+Template-type: ReDIF-Series 1.0
+Name: DEM Working Papers
+Provider-Name: Department of Economics and Management
+Provider-Homepage: http://www.unitn.it/economia
+Provider-Institution: RePEc:edi:detreit
+Maintainer-Name: roberto.gabriele@unitn.it
+Maintainer-Email: roberto.gabriele@unitn.it
+Type: ReDIF-Paper
+Handle: RePEc:trn:utwprg

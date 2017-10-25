@@ -1,0 +1,11 @@
+Template-Type: ReDIF-Archive 1.0
+Handle: RePEc:cfs
+Name: Center for Financial Studies
+Maintainer-Name: Birgit Paessler
+Maintainer-Email: paessler@ifk-cfs.de
+Maintainer-Phone: ++49 69 79830052
+Maintainer-Fax: ++49 69 79830077
+Description: CFS Working Paper Series
+#URL: http://www.ifk-cfs.de/fileadmin/downloads/publications/wp/repec/cfs/
+URL: ftp://ideas.repec.org/pub/RePEc/cfs/
+Homepage: http://www.ifk-cfs.de/homepage.htm   

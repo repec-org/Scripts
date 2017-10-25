@@ -1,0 +1,19 @@
+﻿Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Swiss National Bank
+Provider-Homepage: https://www.snb.ch/en/ifor/research/
+Provider-Institution: RePEc:edi:snbgvch
+Maintainer-Name: Enzo Rossi
+Maintainer-Email: enzo.rossi@snb.ch
+Type: ReDIF-Paper
+Handle: RePEc:snb:snbwpa
+
+Template-type: ReDIF-Series 1.0
+Name: Economic Studies
+Provider-Name: Swiss National Bank
+Provider-Homepage: https://www.snb.ch/en/ifor/research/
+Provider-Institution: RePEc:edi:snbgvch
+Maintainer-Name: Enzo Rossi
+Maintainer-Email: enzo.rossi@snb.ch
+Type: ReDIF-Paper
+Handle: RePEc:snb:snbecs

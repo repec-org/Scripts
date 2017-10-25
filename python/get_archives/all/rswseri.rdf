@@ -1,0 +1,25 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Paper Series of the German Council for Social and Economic Data
+Description: Working Paper Series of the German Council for Social and Economic Data
+Provider-Name: German Council for Social and Economic Data (RatSWD)
+Provider-Homepage: http://www.ratswd.de/eng/index.html
+Provider-Institution: RePEc:edi:rtswdde
+Editor-Name: Regina T. Riphahn
+Maintainer-Name: RatSWD
+Maintainer-Email: office@ratswd.de
+Type: ReDIF-Paper
+Handle: RePEc:rsw:rswwps
+Notification: quarterly newsletter (German only): http://www.ratswd.de/allg/newsletter.php
+
+
+Template-type: ReDIF-Series 1.0
+Name: Research Notes of the German Council for Social and Economic Data
+Description: Research Notes of the German Council for Social and Economic Data (discontinued)
+Provider-Name: German Council for Social and Economic Data (RatSWD)
+Provider-Homepage: http://www.ratswd.de/eng/index.html
+Provider-Institution: RePEc:edi:rtswdde
+Maintainer-Name: RatSWD
+Maintainer-Email: office@ratswd.de
+Type: ReDIF-Paper
+Handle: RePEc:rsw:rswrns
+

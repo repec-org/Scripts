@@ -1,0 +1,19 @@
+Template-type: ReDIF-Series 1.0
+Name: Working Papers
+Provider-Name: Universidade Estadual de Campinas, Instituto de Economia
+Provider-Homepage: http://www.eco.unicamp.br
+Provider-Institution: RePEc:edi:ieuecbr
+Maintainer-Name: Marcio Percival Alves Pinto
+Maintainer-Email: direcao@eco.unicamp.br
+Type: ReDIF-Paper
+Handle: RePEc:euc:wpaper
+
+Template-type: ReDIF-Series 1.0
+Name: Revista Economia e Sociedade
+Description: Desenvolvimento da reflexão crítica nos campos da economia e da história econômica (Development of a critical analysis in the fields of economics and economic history)
+Provider-Name: Instituto de Economia, Universidade Estadual de Campinas (UNICAMP)
+Provider-Institution: RePEc:edi:ieuecbr
+Maintainer-Name: Antonio Carlos Macedo e Silva
+Maintainer-Email: macedo@eco.unicamp.br
+Type: ReDIF-Article
+Handle: RePEc:euc:ancoec

@@ -7,7 +7,9 @@ So what is exactly in these archives?
 ## 1- ReDIF templates
 Get a copy of ReDIF data using rsync 
 
-```bash rsync -va --delete rsync://rsync.repec.org/RePEc-ReDIF/ RePEc```
+```bash 
+rsync -va --delete rsync://rsync.repec.org/RePEc-ReDIF/ RePEc
+```
 
 List all files in the ReDIF data and their size
 

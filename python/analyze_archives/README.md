@@ -18,7 +18,7 @@ List all files in the ReDIF data and their size
 ls RePEc -lR --block-size=1kB | grep '^-'  > ls_ReDIF.txt
 ```
 
-### Analyze the data 
+### Analyze the data (in Python)
 read the data
 ```python
 import pandas as pd

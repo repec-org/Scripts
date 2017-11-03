@@ -41,7 +41,7 @@ dg.sort_values([('Total size of files (GB)')],ascending=False).head(10)
 
 ### Results
 |	| Numver of files 	| Total size of files (GB) |
-|-----------------	|--------------------------	|------	|
+|---|:---: 	| :---: |
 | ext 	|  	|  	|
 | pdf 	| 27559 	| 19.9 	|
 | mov 	| 1 	| 4.0 	|

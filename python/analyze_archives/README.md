@@ -54,4 +54,10 @@ dg.sort_values([('Total size of files (GB)')],ascending=False).head(10)
 | doc 	| 829 	| 0.3 	|
 | txt 	| 4946 	| 0.2 	|
 
+There are 730,000 ReDIF templates (5 GB) in addition to 27,000 PDF papers (20 GB). If you are only interested in the templates, use the following rsync command:
+
+```bash
 rsync -va --include="*/" --include="*.rdf" --include="*.redif" --exclude="*"  --delete rsync://rsync.repec.org/RePEc-ReDIF/ rdf
+```
+
+## 2- to be continued ... !

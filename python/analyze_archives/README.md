@@ -50,7 +50,7 @@ dg.sort_values([('Total size of files (GB)')],ascending=False).head(10)
 | mp3 	| 2 	| 1.0 	|
 | others | 25,062 | 2.6 | 
 
-There are 730,000 ReDIF template files with the extention of .rdf or .redif (~5 GB). In addition there are 27,000 PDF files (~20 GB), a few other media files (~5 GB), and other files (txt, doc, zip, etc - ~3 GB).
+There are roughly 730,000 ReDIF template files with the extention of .rdf or .redif (~5 GB). In addition there are 27,000 PDF files (~20 GB), a few other media files (~5 GB), and other files (txt, doc, zip, etc - ~3 GB).
 
 * If you are only interested in the templates, use the following rsync command:
 

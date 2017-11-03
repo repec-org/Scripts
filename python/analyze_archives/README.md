@@ -17,7 +17,7 @@ List all files in the ReDIF data and their size
 ls RePEc -lR --block-size=1kB | grep '^-'  > ls_ReDIF.txt
 ```
 
-### Analyze the list 
+### Analyze the data 
 read the data
 ```python
 import pandas as pd
@@ -38,5 +38,20 @@ dg['size']['sum']=(dg['size']['sum']/1024/1024).round(1)
 dg.columns=['Numver of files','Total size of files (GB)']
 dg.sort_values([('Total size of files (GB)')],ascending=False).head(10)
 ```
+
+### Results
+|	| Numver of files 	| Total size of files (GB) |
+|-----------------	|--------------------------	|------	|
+| ext 	|  	|  	|
+| pdf 	| 27559 	| 19.9 	|
+| mov 	| 1 	| 4.0 	|
+| rdf 	| 701973 	| 3.4 	|
+| redif 	| 30644 	| 1.7 	|
+| mp3 	| 2 	| 1.0 	|
+| zip 	| 268 	| 0.4 	|
+| mdb 	| 50 	| 0.4 	|
+| rdf~ 	| 426 	| 0.3 	|
+| doc 	| 829 	| 0.3 	|
+| txt 	| 4946 	| 0.2 	|
 
 rsync -va --include="*/" --include="*.rdf" --include="*.redif" --exclude="*"  --delete rsync://rsync.repec.org/RePEc-ReDIF/ rdf

@@ -13,7 +13,9 @@ rsync -va --delete rsync://rsync.repec.org/RePEc-ReDIF/ RePEc
 
 List all files in the ReDIF data and their size
 
+```bash
 ls RePEc -lR --block-size=1kB | grep '^-'  > ls_ReDIF.txt
+```
 
 Analyze the list 
 ```python

@@ -60,4 +60,4 @@ There are 730,000 ReDIF templates (5 GB) in addition to 27,000 PDF papers (20 GB
 rsync -va --include="*/" --include="*.rdf" --include="*.redif" --exclude="*"  --delete rsync://rsync.repec.org/RePEc-ReDIF/ rdf
 ```
 
-## 2- to be continued ... !
+to be continued ... !

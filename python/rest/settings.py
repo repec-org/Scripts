@@ -5,38 +5,53 @@ MONGO_PORT = 27017
 MONGO_DBNAME= 'repec'
 
 schema={
-'seriehandle':{'type':'string'},
-'seriename':{'type':'string'},
-'providername':{'type':'string'},
+'serie_handle':{'type':'string'},
+'serie_name':{'type':'string'},
+'provider_name':{'type':'string'},
 'items':{'type':'list'}
+}
+
+items_schema={
+'serie_handle':{'type':'string'},
+'title':{'type':'string'}
 }
 
 series={
     'datasource': {
         'source': 'series',
-'projection':{'seriehandle':1,'seriename':1,'providername':1},
+'projection':{'serie_handle':1,'serie_name':1,'provider_name':1},
 },
 'item_title':'serie',
     'additional_lookup': {
         'url': 'regex("[\w]+")',
-        'field': 'seriehandle'
+        'field': 'serie_handle'
     },
 'schema':schema
 }
 
-items = {
+serie_items = {
     'datasource': {
         'source': 'series',
-'projection':{'seriehandle':1,'items':1},
+'projection':{'serie_handle':1,'items':1},
 
 },
 'item_title':'items',
 'resource_title':'items',
-    'url': 'series/<regex("[\w]+"):seriehandle>/items',
+    'url': 'series/<regex("[\w]+"):serie_handle>/items',
 'schema':schema
 }
 
+items={
+'datasource':{
+'source':'items'
+},
+'schema':items_schema
+}
+
+
+
 DOMAIN={
 'series':series,
-'items':items
+'serie_items':serie_items,
+'items':items,
 }
